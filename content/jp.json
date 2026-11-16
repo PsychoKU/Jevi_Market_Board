@@ -1,0 +1,433 @@
+{
+ "asof": "11/6 (금) 장 마감",
+ "summary": [
+  "닛케이평균은 3,643엔(-5.96%) 떨어진 57,434엔으로 마감했습니다. 포인트 기준 역대 세 번째로 큰 낙폭이고, 5일에 이어 이틀 연속 급락하며 고점 대비 20% 넘게 빠진 '약세장'에 들어갔다는 평가가 나왔습니다.",
+  "출발점은 미국입니다. 11월 3일 중간선거에서 민주당이 상·하원을 모두 가져가자 AI 데이터센터에 대한 감독 강화와 세제 혜택 축소 우려가 커졌고, 5일 나스닥이 19개월 만에 최대 낙폭을 기록했습니다. 그 충격이 6일 아시아 AI 공급망을 덮쳐 키오시아(-8.7%, 1주 -41%)·소프트뱅크G(-10.8%)·도쿄일렉트론(-5.6%)이 무너졌습니다.",
+  "매도는 업종을 가리지 않았습니다. 상승 116 · 하락 3,523으로 거의 전 종목이 내렸고 식료품(-9.8%)·은행(-6.5%)·보험(-6.5%)도 크게 빠졌습니다. JT는 개장 전 '러시아 사업' 관련 공시 뒤 19.3% 급락했습니다. 기꼬만·가오처럼 장 초반 52주 신고가를 찍고도 크게 밀려 마감한 종목이 많아, 신고가 27 · 신저가 789였습니다.",
+  "실적 시즌이라 이날만 TDnet 공시가 767건이었습니다. 실적 전망을 올린 IIJ(+3.4%)와 시스멕스(+2.4%)는 오름세로 버텼습니다. 1주일 기준으로는 코나미(+19%)·코카콜라BJ(+17%)·ANA(+13%)·도요타(+8.5%) 같은 내수·자동차주가 시장 하락(TOPIX ETF -7.8%)을 거슬렀습니다.",
+  "같은 날 밤 미국은 나스닥 +1.1%, 필라델피아 반도체 +4.2%로 반등했고 CME 닛케이 선물은 58,235엔으로 현물보다 800엔 높습니다. 달러·엔은 158.4엔입니다. 다음 주에는 11/10 미국 10월 CPI와 국내 주력 기업 실적이 방향을 정할 변수로 꼽힙니다."
+ ],
+ "ideas": {
+  "asof": "2026-11-06 장 마감 기준 · 아이디어 5개",
+  "items": [
+   {
+    "kind": "hot",
+    "title": "AI·반도체 투매, 바닥은 아직",
+    "strength": 5,
+    "trend": "강화",
+    "thesis": "미국 중간선거 뒤 'AI 데이터센터 규제' 우려가 일본 AI 공급망을 직격했습니다. 키오시아·스크린·후지쿠라·롬은 4주 만에 -48~-53%로, 지난 몇 달의 상승분을 대부분 반납했습니다. 6일 밤 미국 반도체가 4% 반등해 월요일 되돌림 가능성은 있지만, 50일선 대비 -20~-47%로 추세는 무너진 상태입니다.",
+    "why": "근거: 닛케이 역대 3위 낙폭 + 거래대금 1~2위가 키오시아·어드반테스트 + 다음 주 예상 범위 5만4천~6만엔(다이아몬드). 반등 신호는 아직 미국 선물뿐입니다.",
+    "codes": [
+     "285A",
+     "6857",
+     "8035",
+     "9984",
+     "6146",
+     "6920",
+     "7735",
+     "5803",
+     "6963",
+     "6976"
+    ],
+    "evidence": [
+     {
+      "d": "11/06",
+      "t": "닛케이 종가 3,643엔 하락, 낙폭 역대 3위… 반년 만에 6만엔 붕괴",
+      "s": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "오전 닛케이 큰 폭 하락, AI·반도체주 일제히 무너져 5개월 반 만에 6만엔 붕괴 (로이터)",
+      "s": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckpYWkVzcjlWc1dGUldYSmJ0eW9jV1RKaElUdHZOWTlXd3FtQ1AyZlM2TENzM2Y4THEyWXRXNnc1ejE0Z3hYdElEN0RYTThWdmV1dWFPMGFOS1BmNGhXZXVGRG5sbk9UbW92M0ZJLWlVZU5RSElVaXY0M0o0Z081UVNXZFc5dw?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "AI 쇼크에 아시아 증시 급락… TSMC 한때 하한가",
+      "s": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LeDQ1RkZKZGhiVUxZWlN5dndGZmNaeElpOXpoTW00SklqUjh5QTFwZEJUSnpmWjFqZmZ4dm53Y1A4SWFxRHU1aDBKRHlKbVlRSUJlUlhSMW5USmPSAWBBVV95cUxNRDdLUkFFTnRvelJ5eGFENnMtbUhtT3RublZ0REVsanI1ZGMwWi14QmNkbVFUVzY1aU1hcGVENHJuc2lOMXptcmtiS19pMWNnS0gzSkd2bGxkdHhFeVdxSmc?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "다음 주 닛케이 예상 범위 5만4천~6만엔: 자율 반등 기대 속 미국 AI 데이터센터 규제 향방 경계",
+      "s": "ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5"
+     }
+    ],
+    "risks": [
+     "11/17 엔비디아 실적 전까지 AI 수요 의구심이 이어질 수 있음",
+     "미국 의회의 데이터센터 관련 청문·법안 일정"
+    ],
+    "checks": [
+     "월요일 CME 선물 수준(58,235엔)에서 출발 후 반등이 이어지는지",
+     "키오시아·어드반테스트 거래대금이 줄어드는지 (투매 진정 신호)"
+    ]
+   },
+   {
+    "kind": "hot",
+    "title": "실적 상향 종목의 상대 강세",
+    "strength": 3,
+    "trend": "유지",
+    "thesis": "폭락장에서도 실적 전망을 올린 종목은 덜 빠지거나 올랐습니다. IIJ(+3.4%)·시스멕스(+2.4%)는 상승 마감했고, 소니는 영화·게임 호조로 전망을 올리며 연초 이후 최고가를 경신했습니다. 6일에만 '실적 전망 수정'·'증배'·'자사주 매입 결정' 공시가 수십 건 나왔습니다.",
+    "why": "근거: 상향 공시 + 하락장 속 상대 수익률. 약점: 시장 전체가 급락하면 실적주도 결국 동반 하락(세븐은행 -2.9%).",
+    "codes": [
+     "3774",
+     "6869",
+     "6758",
+     "8410",
+     "8425",
+     "8012"
+    ],
+    "evidence": [
+     {
+      "d": "11/05",
+      "t": "시스멕스, 상반기 순이익 전망 13% 상향",
+      "s": "株探",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15UDF3SEJkSmlLQ3lZenNFN1NweUpBWGxaTnF5cDBvN05XNGgtbzJEeEo0ZVBqUFJ2RWNYTS0tUDh5X1FJUU9aQnFpaGs2U2ZVenc?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "소니그룹 연초 이후 최고가, 영화·게임 호조로 27년 3월기 전망 상향",
+      "s": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWdi1GZkJaWDlMTEhiYm9Sd0tQbE41aVJsWlNVQXQzM0c0VzhDMnBmdmRybXZxdEwxTmJiR1FvX29OeXRqY3A0Qmg0NUdGVHEwaE5zaW5IUkVVcm5aMUJBRWk0T0YxUHBSQjNkbg?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "[실적 속보] 세븐은행, 올해 경상이익 전망 13% 상향",
+      "s": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjZvdVZSblhvUDJMZmM0S01vWml5Sm5McVhkbDRPR2duVU5sS2hwOUY2WTJkTzNsLU12TkpFNkR4SmxWT1BzNFlNZEVROUYxOVktcGttaTlISTdNekQ4R2pRVXlWbGsxekpMRWpEWjFCMGFwSVlwQzZSYUVSZG5NUDZHend6RzA?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "6일 상한가·하한가 종목: HENNGE 상한가",
+      "s": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1RPQnNmRE1uNl83Ym81SlVVTk5PMXVLM2FRWWdVTHdYQnNEUFBKMGpadVJoQzRKMXhGRlRyNjFRUjZlRDF6T3hTSWhvdEEyTWYzcmF1bmZZeWc1RW1ldXZ1TFdUQUN5TVJpQUlqdU1HVGduMHJPdnNNclVnM29mOHUzRUFaa0E?oc=5"
+     }
+    ],
+    "risks": [
+     "2분기 실적은 좋아도 하반기 가이던스는 보수적인 경우가 많음"
+    ],
+    "checks": [
+     "공시 탭에서 '실적·전망' 분류와 ● 표시 종목",
+     "다음 주 남은 주력 종목 실적"
+    ]
+   },
+   {
+    "kind": "hot",
+    "title": "은행주, 금리 인상 기대에도 동반 투매",
+    "strength": 2,
+    "trend": "약화",
+    "thesis": "일본은행 9월 회의 요지에서 빠른 인상 의견이 다수였고 '27년 말 2.25%' 전망도 나왔지만, 6일 은행 업종은 -6.5%로 시장보다 더 빠졌습니다. 지방은행(이요긴 -9.2%, 하치주니나가노 -7.5%)은 실적·배당 전망을 올리고도 밀렸습니다. 금리 수혜보다 위험자산 회피가 앞선 장세입니다.",
+    "why": "근거: 금리 인상 기대 기사와 은행주 급락이 동시에 나타남. 장기금리는 5일 2.81%로 하락 중입니다.",
+    "codes": [
+     "8306",
+     "8316",
+     "8411",
+     "8308",
+     "5830",
+     "8359"
+    ],
+    "evidence": [
+     {
+      "d": "11/06",
+      "t": "일본은행 추가 인상 '27년 말 2.25%', '12월 이후 속도 둔화' 전망",
+      "s": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XN3p5WV8yUzVWTEFULVNkU2hDRWhFVW9hOHBkTmkwa2NKUDVRemh3V3VDelkxNF9EbVRVY1A5UmlKcE83SnhVenliOGZ0ZTBKRkJWSTNyQmpBRm1ncjJ2X0tiaFhtWHdMQWFDMA?oc=5"
+     },
+     {
+      "d": "11/05",
+      "t": "9월 일본은행 회의 요지: 빠른 인상 지속을 의식한 의견 다수",
+      "s": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHVKZ0hscFVQdHZ2Rjl6WWk2LW9ScTg0Z1pHNjZ5NmY1c0NXZk4tcXo0X0NUc3pTX28taUZGaW80NVpuVHFlcm9GNTZiekxXQ1dtaVFqU3haV3NtUERFQkJMRC10VExSbk5veU5EMnVSVi0ycGwtdkZ4bTJrNUJmNzd4YlhZR0M5Snl5OTlZbVU?oc=5"
+     },
+     {
+      "d": "11/07",
+      "t": "장기금리 상승 가속, 최종 금리도 올라가나 — 주택대출·채권 투자 판단 포인트 (노무라증권)",
+      "s": "野村證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CODR4SFN3VHlXeUVXOTk1ZDRCcTZJeHY1ODZOM0doa3FhRVZOazBrT1VEX2hic2tmcGx3RERpeW84bnZibzk1d3FYaG9OVFRreW5KaE1vUncxbFRPRHl3?oc=5"
+     }
+    ],
+    "risks": [
+     "리스크 회피가 길어지면 장기금리 하락이 은행 이익 기대를 낮춤"
+    ],
+    "checks": [
+     "메가뱅크 중간 실적(11월 중순)의 순이자마진",
+     "12/17~18 일본은행 회의 전 발언"
+    ]
+   },
+   {
+    "kind": "guess",
+    "title": "내수·엔터·방어주로 피난",
+    "strength": 3,
+    "trend": "강화",
+    "thesis": "TOPIX ETF가 1주 -7.8%인 동안 코나미(+19%)·코카콜라BJ(+17%)·ANA(+13%)·야마토(+13%)·오리엔탈랜드(+11%)는 올랐습니다. AI와 무관한 내수 서비스·콘텐츠·필수소비재로 자금이 피난하는 흐름으로 보입니다. 가오·기꼬만처럼 6일에도 장중 신고가를 쓴 종목이 많습니다.",
+    "why": "Claude 추정: 1주 수익률 상위 종목을 묶은 가설입니다. 6일은 이들도 -2~-9% 빠져, 투매가 길어지면 피난처도 안전하지 않습니다.",
+    "codes": [
+     "9766",
+     "2579",
+     "9202",
+     "9064",
+     "4661",
+     "9697",
+     "4452",
+     "2801"
+    ],
+    "evidence": [
+     {
+      "d": "11/6",
+      "t": "1주 수익률 상위 대형주가 내수 서비스·콘텐츠·식음료에 집중",
+      "s": "이 보드 집계",
+      "url": null
+     }
+    ],
+    "risks": [
+     "AI주 반등 시 자금이 다시 빠질 수 있음",
+     "방어주 밸류에이션이 이미 높아짐"
+    ],
+    "checks": [
+     "반등장에서 이들 종목이 덜 오르는지(로테이션 되돌림)"
+    ]
+   },
+   {
+    "kind": "guess",
+    "title": "엔 158엔대, 자동차주 버팀목",
+    "strength": 2,
+    "trend": "관찰",
+    "thesis": "수송용기기 업종은 1주 +5.1%로 33개 업종 중 가장 강했습니다. 도요타(+8.5%)·스즈키(+5.3%)·혼다(+3.9%)가 실적 발표 전후로 올랐고, 엔화가 158엔대에 머물러 수출 채산성도 받쳐 줍니다. 6일에는 함께 -3~-6% 밀렸습니다.",
+    "why": "Claude 추정: 1주 업종 수익률과 환율을 묶은 가설입니다. 다음 주 위험회피가 커지면 155엔대 엔고 전망도 있습니다.",
+    "codes": [
+     "7203",
+     "7267",
+     "7269",
+     "6902"
+    ],
+    "evidence": [
+     {
+      "d": "11/07",
+      "t": "다음 주 달러·엔 전망: AI주 급락에도 158엔 안팎, 미 CPI로 6주간의 균형 깨지나",
+      "s": "外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBncXRRSjk4TVowUTJxOTdwVFVKQ3pIRWVxSkVUdnlmTHkyTDBPQ202eF9lNlpXdV8zRU8wUS1pTkE3VUxKblBEUk90QVhoeE4zTGM4NWo2QV85ZGxGRTA1WVAwUQ?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "다음 주 엔화 전망: 위험회피 이어지면 155엔대도",
+      "s": "株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RdlhaMkxNSXdtU0pOdmkwNHJZbmc2MUtoYU1IRVZDVEptUXFLcXY3TmlJTFlOdGlEZzEybmxTaHg1T2tkNlhlY01kVkxvd0h5WTdiMkxoTjlGYndXaVo1Vg?oc=5"
+     },
+     {
+      "d": "11/07",
+      "t": "뉴욕 외환(6일): 달러·엔 사흘 만에 반등",
+      "s": "ザイFX！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KcjJSSG12QTljbkR4QXRHb3hIanFKWm9IeDNmM0xCV2NKdVZHV19OaUYxVkJ3b05YeDRKWk4zY3F3aTQ2TjNraHFKZVZBSHZlZlE?oc=5"
+     }
+    ],
+    "risks": [
+     "엔화 급등(155엔대) 시 수출주 이익 기대 하락",
+     "미국 관세·정책 변화"
+    ],
+    "checks": [
+     "달러·엔이 158엔을 지키는지",
+     "자동차주 실적의 환율 가정"
+    ]
+   }
+  ]
+ },
+ "events": [
+  {
+   "d": "11/9~13",
+   "t": "3월 결산 기업 2분기(중간) 실적 발표 막바지",
+   "s": "주력 종목 실적이 다음 주 3대 변수 중 하나로 꼽힘"
+  },
+  {
+   "d": "11/10 (화, 미국)",
+   "t": "미국 10월 소비자물가지수(CPI)",
+   "s": "12월 연준 금리 인상 여부를 가를 지표"
+  },
+  {
+   "d": "11/13 (금, 미국)",
+   "t": "미국 10월 생산자물가지수(PPI)",
+   "s": ""
+  },
+  {
+   "d": "11/17 (화, 미국 장 마감 후)",
+   "t": "엔비디아 3분기 실적 발표",
+   "s": "AI 투자 심리의 분수령"
+  },
+  {
+   "d": "12/8~9 (미국)",
+   "t": "FOMC",
+   "s": "12월 인상 확률 약 73% (11/6 CME FedWatch)"
+  },
+  {
+   "d": "12/17~18",
+   "t": "일본은행 금융정책결정회의",
+   "s": "추가 인상 경로(27년 말 2.25% 전망) 확인"
+  }
+ ],
+ "reasons": {
+  "9984": [
+   [
+    "뉴스",
+    "AI·반도체 투매 · ABB 로봇 사업 인수 경과 공시"
+   ]
+  ],
+  "285A": [
+   [
+    "뉴스",
+    "AI 투자 우려로 반도체주 일제히 급락 (거래대금 1위)"
+   ]
+  ],
+  "6857": [
+   [
+    "뉴스",
+    "AI·반도체주 총붕괴 (거래대금 2위)"
+   ]
+  ],
+  "6869": [
+   [
+    "뉴스",
+    "상반기 순이익 전망 13% 상향 · 52주 신고가"
+   ]
+  ],
+  "6758": [
+   [
+    "뉴스",
+    "영화·게임 호조로 실적 전망 상향"
+   ]
+  ],
+  "8410": [
+   [
+    "뉴스",
+    "올해 경상이익 전망 13% 상향"
+   ]
+  ],
+  "4475": [
+   [
+    "뉴스",
+    "연속 두 자릿수 증익 가이던스로 상한가"
+   ]
+  ]
+ },
+ "news_tr": {
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CODR4SFN3VHlXeUVXOTk1ZDRCcTZJeHY1ODZOM0doa3FhRVZOazBrT1VEX2hic2tmcGx3RERpeW84bnZibzk1d3FYaG9OVFRreW5KaE1vUncxbFRPRHl3?oc=5": [
+   "장기금리 상승 가속, 최종 금리도 올라가나 — 주택대출·채권 투자 판단 포인트 (노무라증권)",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54Z0hTcHc1MDhsTmhSaTUzWTBwV2VIdkJCT0cxemtXSVVrc0tDQU1OMXJ1NGgwQ09qLVVMY2lia3VmNmlscXNGYkl2VUVhZjAzMXdUdndpd3VuVkE?oc=5": [
+   "대만 증시도 급락, 종가 낙폭은 역대 4번째",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUgzMHotekxkNlZPX0tERWdndVFxRWJMc1VkcXFJZ1NCcENoMzBJVlNLNWFCZUtPLTNjd1VmcFgwSjI0R3A1RVpDaW9DSklNRTdwRzlidHVWWWd0X1FpWU9maHZGUDE5QzlEdWp1UlVzUG5MWHVJNXEwOVE4SDZFb29SY1MweFE?oc=5": [
+   "다음 주 주목할 3가지: 미 CPI, 미 PPI, 국내 주력 종목 실적",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KcjJSSG12QTljbkR4QXRHb3hIanFKWm9IeDNmM0xCV2NKdVZHV19OaUYxVkJ3b05YeDRKWk4zY3F3aTQ2TjNraHFKZVZBSHZlZlE?oc=5": [
+   "뉴욕 외환(6일): 달러·엔 사흘 만에 반등",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83R0tHU1FiMWVSa3BsczFiNFkxUGtDUVpHUDZKRUdBVEhFTDZjcWpsbXBUOFVkSHdCVVQzWFRiVDZVRm9mNWI2OThPampvbWFTdkVoQlc5WQ?oc=5": [
+   "급락한 닛케이, 빠른 회복은 기대 어려워… 꾸준히 볼 만한 3종목",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBncXRRSjk4TVowUTJxOTdwVFVKQ3pIRWVxSkVUdnlmTHkyTDBPQ202eF9lNlpXdV8zRU8wUS1pTkE3VUxKblBEUk90QVhoeE4zTGM4NWo2QV85ZGxGRTA1WVAwUQ?oc=5": [
+   "다음 주 달러·엔 전망: AI주 급락에도 158엔 안팎, 미 CPI로 6주간의 균형 깨지나",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5": [
+   "다음 주 닛케이 예상 범위 5만4천~6만엔: 자율 반등 기대 속 미국 AI 데이터센터 규제 향방 경계",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iU0pWNl9hU3ZHamk3MFhKLWJucUxFLTZQNllpRjJFTWNzRUZhSUVLaEJzMGtrRmtubzBBeDFNdU9EbmkwZkpRU0JaQTZoQkFwbkpLUmdldWs0NEtGNHlmTmxLMnZxX0s5dGFOejk1YlM?oc=5": [
+   "[도쿄증시-마감] AI주 급락 충격에 닛케이 6% 가까이 폭락",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RdlhaMkxNSXdtU0pOdmkwNHJZbmc2MUtoYU1IRVZDVEptUXFLcXY3TmlJTFlOdGlEZzEybmxTaHg1T2tkNlhlY01kVkxvd0h5WTdiMkxoTjlGYndXaVo1Vg?oc=5": [
+   "다음 주 엔화 전망: 위험회피 이어지면 155엔대도",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93SG93a29QSEtFNXBnYXFWaVNnV3pjQkY4Zm4xSk9PelN5OFM1RWxiQmhmZllBR1U2VGxLSGpDb0FLNXpPdlI2TjhQZ0dXNHhoOVpFNmZuZFlINWlZN3BMaG5DSQ?oc=5": [
+   "다음 주 닛케이 전망(11/9~13): 한때 4,000엔 넘게 폭락, AI주 하락은 멈출까… 미 CPI 주목",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTWhpRGJjT0lYcnJTRXYxbDkybTNnNGc2MFNpTE5qdjFQRmczVmJ0aFVDaVhnUmNKaE9lV2R2SXVtXzQ2XzZqZkdkWU5TajZfU0RwT3JUdnNzM3hZ?oc=5": [
+   "[일본 증시] 닛케이 5.96% 급락… 7개월 만에 5만8천엔 하회",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5": [
+   "도쿄 마감: 닛케이 이틀 연속 하락, 5만8천엔 붕괴·역대 3위 낙폭으로 '약세장' 진입",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnUU5OSWVUSTFxdGU5TTBWN1dibHpUOXk5QjVCSUFzaE5Ya3Y1alNmSnpIRTZ4eWJ0Zi1NWkxNcTFvTU5xZ2dDZW4yYnVkbDNENF9DaDN3Z3ZjLUx5dlJpNw?oc=5": [
+   "실적 악재 종목 (스탠다드·그로스, 11/5 발표분)",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1RPQnNmRE1uNl83Ym81SlVVTk5PMXVLM2FRWWdVTHdYQnNEUFBKMGpadVJoQzRKMXhGRlRyNjFRUjZlRDF6T3hTSWhvdEEyTWYzcmF1bmZZeWc1RW1ldXZ1TFdUQUN5TVJpQUlqdU1HVGduMHJPdnNNclVnM29mOHUzRUFaa0E?oc=5": [
+   "6일 상한가·하한가 종목: HENNGE 상한가",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFpCb0xUcWJ5anBnb3RKbXo5eEU0eWVxOGlWTXhPZzEtRUttd0NZT3BZZW96OXpoMTI4WEJ5ZVpOMGhEMFdha3ZDTE5saWlaU1d4SzBmQ1N1QUlLZ0R4N2stYnRiVEZpQ3ZPS1l1M25BR0JMV096SW56dWRoNndyR0FYX0N1b0E?oc=5": [
+   "스탠다드 시장 마감: 하락 우세, 픽셀라 한때 상한가",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjZvdVZSblhvUDJMZmM0S01vWml5Sm5McVhkbDRPR2duVU5sS2hwOUY2WTJkTzNsLU12TkpFNkR4SmxWT1BzNFlNZEVROUYxOVktcGttaTlISTdNekQ4R2pRVXlWbGsxekpMRWpEWjFCMGFwSVlwQzZSYUVSZG5NUDZHend6RzA?oc=5": [
+   "[실적 속보] 세븐은행, 올해 경상이익 전망 13% 상향",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lSEgwSnFrVzJoVkRUSFZYSVFTeW4yMnNhWFd6b1FhQWRyaVl5QlV6TTdxSG0xWkZrZzZhaHJ3YTZyenZYREdlc2dmYUI0UExEaGc?oc=5": [
+   "A&D홀론, 올해 경상이익 전망 19% 상향",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LeDQ1RkZKZGhiVUxZWlN5dndGZmNaeElpOXpoTW00SklqUjh5QTFwZEJUSnpmWjFqZmZ4dm53Y1A4SWFxRHU1aDBKRHlKbVlRSUJlUlhSMW5USmPSAWBBVV95cUxNRDdLUkFFTnRvelJ5eGFENnMtbUhtT3RublZ0REVsanI1ZGMwWi14QmNkbVFUVzY1aU1hcGVENHJuc2lOMXptcmtiS19pMWNnS0gzSkd2bGxkdHhFeVdxSmc?oc=5": [
+   "AI 쇼크에 아시아 증시 급락… TSMC 한때 하한가",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckpYWkVzcjlWc1dGUldYSmJ0eW9jV1RKaElUdHZOWTlXd3FtQ1AyZlM2TENzM2Y4THEyWXRXNnc1ejE0Z3hYdElEN0RYTThWdmV1dWFPMGFOS1BmNGhXZXVGRG5sbk9UbW92M0ZJLWlVZU5RSElVaXY0M0o0Z081UVNXZFc5dw?oc=5": [
+   "오전 닛케이 큰 폭 하락, AI·반도체주 일제히 무너져 5개월 반 만에 6만엔 붕괴 (로이터)",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5": [
+   "닛케이 종가 3,643엔 하락, 낙폭 역대 3위… 반년 만에 6만엔 붕괴",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjZ3RhbFhKNnNwZ3VvV2lpY3VLMy1handiR01mUzc4RTdVNHJSX1FtbmVsWGFxMk1tN3h2RWdXczIwMG1PQnh4MElmYWwyQk1rRTVBMEhuZGg5eFkxbFFKcEcwOVNoSTRfVjRja0hucks?oc=5": [
+   "일본 닛케이 약세장 진입… AI 투매에 반도체주 급락",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWdi1GZkJaWDlMTEhiYm9Sd0tQbE41aVJsWlNVQXQzM0c0VzhDMnBmdmRybXZxdEwxTmJiR1FvX29OeXRqY3A0Qmg0NUdGVHEwaE5zaW5IUkVVcm5aMUJBRWk0T0YxUHBSQjNkbg?oc=5": [
+   "소니그룹 연초 이후 최고가, 영화·게임 호조로 27년 3월기 전망 상향",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIQ3pra0w4Y3pHVFlOY2FhZy1EWmVkUGttQzlZMWVLb013aHBfVWZtZ0V3ZFhXdGpKZHl4UGQ4aHdoQ25UTjlUQ0Z0RHBnS1ZjajBjQS1sV19tcE9ha091NGdjVFRyR2s?oc=5": [
+   "닛케이 종가도 6만엔 붕괴, 장중 한때 4,000엔 하락 — AI 투자 우려",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XN3p5WV8yUzVWTEFULVNkU2hDRWhFVW9hOHBkTmkwa2NKUDVRemh3V3VDelkxNF9EbVRVY1A5UmlKcE83SnhVenliOGZ0ZTBKRkJWSTNyQmpBRm1ncjJ2X0tiaFhtWHdMQWFDMA?oc=5": [
+   "일본은행 추가 인상 '27년 말 2.25%', '12월 이후 속도 둔화' 전망",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GQnJSaE5wZ0Z3VFN3SW50QkhPaXF2c051SVNUYXlQLVI1LTF2Q1IwdmdHUVdpVDB0VEU2TzZ6dDNSUllFQTZjT0JCU0dXOEEybG04YXYxVkdWelBQNmQ1ZFZOVXR1VThJb0cwYw?oc=5": [
+   "도쿄 마감(5일): 닛케이 4일 연속 하락, 61,077엔으로 5개월 반 만의 저가",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNExmWjFMaDZIV3NPb21aaWwyRm83R3BKSHRoOXBXQXNrY1p1UUVZZGdDaVI3aXB2VHRxcjRNZ0o4ejN4ajR4SXBVVmN2QU9zRHNvQ0k3MDZCOHYtVVI0MEw3cHNTYVE?oc=5": [
+   "금리 인상은 어디까지? 일본은행 9월 회의 요지에서 최종 도달점 논의",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15UDF3SEJkSmlLQ3lZenNFN1NweUpBWGxaTnF5cDBvN05XNGgtbzJEeEo0ZVBqUFJ2RWNYTS0tUDh5X1FJUU9aQnFpaGs2U2ZVenc?oc=5": [
+   "시스멕스, 상반기 순이익 전망 13% 상향",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WdzY4bWMyZ3ppcUhvUG5xa2ZUMi04aXdrNm0xVmIwazRMMVJZRTdqSFVHSFlDWVpONks0cENDdU1WYVFXb2pEcy1yaXFtVFBXbk5rUEV3ZjdZSzRBZmlMZA?oc=5": [
+   "ARE홀딩스 상한가, 전자 분야 성장 등으로 실적 전망 대폭 상향",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHVKZ0hscFVQdHZ2Rjl6WWk2LW9ScTg0Z1pHNjZ5NmY1c0NXZk4tcXo0X0NUc3pTX28taUZGaW80NVpuVHFlcm9GNTZiekxXQ1dtaVFqU3haV3NtUERFQkJMRC10VExSbk5veU5EMnVSVi0ycGwtdkZ4bTJrNUJmNzd4YlhZR0M5Snl5OTlZbVU?oc=5": [
+   "9월 일본은행 회의 요지: 빠른 인상 지속을 의식한 의견 다수",
+   "금리·환율"
+  ]
+ },
+ "news_codes": {},
+ "est_note": "",
+ "deriv_note": ""
+}

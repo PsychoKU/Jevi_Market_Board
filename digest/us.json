@@ -1,0 +1,4050 @@
+{
+ "built": 1794844289,
+ "asof": "11/06 16:03 ET",
+ "strip": [
+  {
+   "n": "S&P 500",
+   "px": 7376.86,
+   "ch": 23.129883,
+   "chg": 0.31453267,
+   "fmt": null,
+   "home": true
+  },
+  {
+   "n": "나스닥 종합",
+   "px": 24579.424,
+   "ch": 264.42578,
+   "chg": 1.0875007,
+   "fmt": null,
+   "home": true
+  },
+  {
+   "n": "다우",
+   "px": 51285.73,
+   "ch": -237.32812,
+   "chg": -0.46062508,
+   "fmt": null,
+   "home": false
+  },
+  {
+   "n": "러셀 2000",
+   "px": 2754.1055,
+   "ch": 24.21875,
+   "chg": 0.8871705,
+   "fmt": null,
+   "home": false
+  },
+  {
+   "n": "필라델피아 반도체",
+   "px": 9390.25,
+   "ch": 379.1123,
+   "chg": 4.2071524,
+   "fmt": null,
+   "home": false
+  },
+  {
+   "n": "VIX",
+   "px": 21.47,
+   "ch": 2.17,
+   "chg": 11.231884,
+   "fmt": null,
+   "home": false
+  },
+  {
+   "n": "S&P500 선물",
+   "px": 7402,
+   "ch": 19,
+   "chg": 0.25734797,
+   "fmt": null,
+   "home": false
+  },
+  {
+   "n": "나스닥100 선물",
+   "px": 27085.25,
+   "ch": 333.25,
+   "chg": 1.2457012,
+   "fmt": null,
+   "home": false
+  },
+  {
+   "n": "미 국채 10년",
+   "px": 4.859,
+   "ch": 0.022000313,
+   "chg": 0.45483384,
+   "fmt": "y",
+   "home": false
+  }
+ ],
+ "macro": [
+  {
+   "g": "일본",
+   "n": "닛케이225",
+   "px": 57434.77,
+   "chg": -5.964725,
+   "t": "11/06 15:45",
+   "y": false
+  },
+  {
+   "g": "일본",
+   "n": "TOPIX (1306 ETF)",
+   "px": 388.6,
+   "chg": -6.496631,
+   "t": "11/06 15:30",
+   "y": false
+  },
+  {
+   "g": "일본",
+   "n": "닛케이 선물 (엔, CME)",
+   "px": 58235,
+   "chg": 1.543156,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "한국",
+   "n": "KOSPI",
+   "px": 5059.69,
+   "chg": -6.020095,
+   "t": "11/06 20:05",
+   "y": false
+  },
+  {
+   "g": "한국",
+   "n": "KOSDAQ",
+   "px": 644.27,
+   "chg": -5.0323486,
+   "t": "11/06 20:05",
+   "y": false
+  },
+  {
+   "g": "미국",
+   "n": "S&P 500",
+   "px": 7376.86,
+   "chg": 0.31453267,
+   "t": "11/07 06:37",
+   "y": false
+  },
+  {
+   "g": "미국",
+   "n": "나스닥 종합",
+   "px": 24579.424,
+   "chg": 1.0875007,
+   "t": "11/07 07:15",
+   "y": false
+  },
+  {
+   "g": "미국",
+   "n": "다우",
+   "px": 51285.73,
+   "chg": -0.46062508,
+   "t": "11/07 06:37",
+   "y": false
+  },
+  {
+   "g": "미국",
+   "n": "필라델피아 반도체",
+   "px": 9390.25,
+   "chg": 4.2071524,
+   "t": "11/07 07:15",
+   "y": false
+  },
+  {
+   "g": "미국",
+   "n": "VIX",
+   "px": 21.47,
+   "chg": 11.231884,
+   "t": "11/17 00:19",
+   "y": false
+  },
+  {
+   "g": "미국",
+   "n": "S&P500 선물",
+   "px": 7402,
+   "chg": 0.25734797,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "아시아",
+   "n": "항셍",
+   "px": 24481.86,
+   "chg": -1.2708043,
+   "t": "11/06 17:09",
+   "y": false
+  },
+  {
+   "g": "아시아",
+   "n": "상하이종합",
+   "px": 3649.1775,
+   "chg": -1.1039128,
+   "t": "11/06 16:00",
+   "y": false
+  },
+  {
+   "g": "아시아",
+   "n": "대만 가권",
+   "px": 39701.64,
+   "chg": -4.5053296,
+   "t": "11/06 14:33",
+   "y": false
+  },
+  {
+   "g": "유럽",
+   "n": "유로스톡스50",
+   "px": 6170.49,
+   "chg": -0.9796905,
+   "t": "11/07 02:00",
+   "y": false
+  },
+  {
+   "g": "유럽",
+   "n": "DAX",
+   "px": 25820.36,
+   "chg": -1.9169998,
+   "t": "11/07 02:00",
+   "y": false
+  },
+  {
+   "g": "유럽",
+   "n": "FTSE100",
+   "px": 10673.94,
+   "chg": -1.008283,
+   "t": "11/07 01:35",
+   "y": false
+  },
+  {
+   "g": "환율",
+   "n": "USD/JPY",
+   "px": 158.425,
+   "chg": 0.48968503,
+   "t": "11/07 14:21",
+   "y": false
+  },
+  {
+   "g": "환율",
+   "n": "USD/KRW",
+   "px": 1363.65,
+   "chg": 0.513752,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "환율",
+   "n": "EUR/USD",
+   "px": 1.1143303,
+   "chg": -0.6686028,
+   "t": "11/07 07:29",
+   "y": false
+  },
+  {
+   "g": "환율",
+   "n": "달러 인덱스",
+   "px": 102.279,
+   "chg": -0.018570444,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "금리",
+   "n": "미 국채 10년",
+   "px": 4.859,
+   "chg": 0.45483384,
+   "t": "11/07 04:59",
+   "y": true
+  },
+  {
+   "g": "금리",
+   "n": "미 국채 30년",
+   "px": 5.2599998,
+   "chg": 0.17139259,
+   "t": "11/07 04:59",
+   "y": true
+  },
+  {
+   "g": "원자재",
+   "n": "WTI",
+   "px": 90.83,
+   "chg": 0.3424715,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "원자재",
+   "n": "브렌트",
+   "px": 98.32,
+   "chg": 0.030520683,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "원자재",
+   "n": "금",
+   "px": 4074.9,
+   "chg": -0.93837607,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "원자재",
+   "n": "구리",
+   "px": 6.2375,
+   "chg": -0.51833797,
+   "t": "11/07 06:59",
+   "y": false
+  },
+  {
+   "g": "가상자산",
+   "n": "비트코인",
+   "px": 75883.66,
+   "chg": -0.17828558,
+   "t": "11/07 20:11",
+   "y": false
+  }
+ ],
+ "breadth": {
+  "up": 3268,
+  "dn": 2434,
+  "nh": 91,
+  "nl": 404
+ },
+ "sectors": [
+  [
+   "산업재",
+   5912,
+   100810095,
+   0.76,
+   0.0
+  ]
+ ],
+ "gainers": [
+  [
+   "COHR",
+   "Coherent Corp.",
+   "산업재",
+   13.58,
+   null,
+   37976.0
+  ],
+  [
+   "ABNB",
+   "Airbnb, Inc.",
+   "산업재",
+   11.67,
+   null,
+   113763.0
+  ],
+  [
+   "AMD",
+   "Advanced Micro Devices, Inc.",
+   "산업재",
+   11.04,
+   null,
+   736465.0
+  ],
+  [
+   "VST",
+   "Vistra Corp.",
+   "산업재",
+   10.55,
+   null,
+   41887.0
+  ],
+  [
+   "NET",
+   "Cloudflare, Inc.",
+   "산업재",
+   9.91,
+   null,
+   95696.0
+  ],
+  [
+   "APP",
+   "AppLovin Corporation",
+   "산업재",
+   9.86,
+   null,
+   129620.0
+  ],
+  [
+   "SPCX",
+   "Space Exploration Technologies Corp.",
+   "산업재",
+   8.62,
+   null,
+   1823530.0
+  ],
+  [
+   "RVMD",
+   "Revolution Medicines, Inc.",
+   "산업재",
+   8.24,
+   null,
+   41589.0
+  ],
+  [
+   "LRCX",
+   "Lam Research Corporation",
+   "산업재",
+   8.23,
+   null,
+   250836.0
+  ],
+  [
+   "INTC",
+   "Intel Corporation",
+   "산업재",
+   7.71,
+   null,
+   299128.0
+  ],
+  [
+   "ANET",
+   "Arista Networks, Inc.",
+   "산업재",
+   7.31,
+   null,
+   215789.0
+  ],
+  [
+   "KLAC",
+   "KLA Corporation",
+   "산업재",
+   6.69,
+   null,
+   180447.0
+  ],
+  [
+   "ASX",
+   "ASE Technology Holding Co., Ltd.",
+   "산업재",
+   6.43,
+   null,
+   69826.0
+  ],
+  [
+   "TSM",
+   "Taiwan Semiconductor Manufacturing Company Limited",
+   "산업재",
+   6.33,
+   null,
+   1947210.0
+  ],
+  [
+   "PWR",
+   "Quanta Services, Inc.",
+   "산업재",
+   6.25,
+   null,
+   81501.0
+  ],
+  [
+   "MRVL",
+   "Marvell Technology, Inc.",
+   "산업재",
+   5.73,
+   null,
+   127047.0
+  ],
+  [
+   "LITE",
+   "Lumentum Holdings Inc.",
+   "산업재",
+   5.67,
+   null,
+   48842.0
+  ],
+  [
+   "QCOM",
+   "QUALCOMM Incorporated",
+   "산업재",
+   5.52,
+   null,
+   176989.0
+  ],
+  [
+   "HUM",
+   "Humana Inc.",
+   "산업재",
+   5.33,
+   null,
+   52084.0
+  ],
+  [
+   "MRNA",
+   "Moderna, Inc.",
+   "산업재",
+   5.27,
+   null,
+   101482.0
+  ]
+ ],
+ "losers": [
+  [
+   "TEAM",
+   "Atlassian Corporation",
+   "산업재",
+   -16.15,
+   null,
+   38902.0
+  ],
+  [
+   "NTRA",
+   "Natera, Inc.",
+   "산업재",
+   -14.59,
+   null,
+   44781.0
+  ],
+  [
+   "BKNG",
+   "Booking Holdings Inc.",
+   "산업재",
+   -4.77,
+   null,
+   119487.0
+  ],
+  [
+   "TRI",
+   "Thomson Reuters Corporation",
+   "산업재",
+   -4.69,
+   null,
+   48794.0
+  ],
+  [
+   "ALL",
+   "The Allstate Corporation",
+   "산업재",
+   -4.47,
+   null,
+   63053.0
+  ],
+  [
+   "MNST",
+   "Monster Beverage Corporation",
+   "산업재",
+   -4.41,
+   null,
+   89568.0
+  ],
+  [
+   "DB",
+   "Deutsche Bank Aktiengesellschaft",
+   "산업재",
+   -4.34,
+   null,
+   64597.0
+  ],
+  [
+   "BSX",
+   "Boston Scientific Corporation",
+   "산업재",
+   -4.23,
+   null,
+   61965.0
+  ],
+  [
+   "SAP",
+   "SAP SE",
+   "산업재",
+   -4.14,
+   null,
+   269449.0
+  ],
+  [
+   "CRM",
+   "Salesforce, Inc.",
+   "산업재",
+   -3.94,
+   null,
+   175834.0
+  ],
+  [
+   "AIG",
+   "American International Group, Inc.",
+   "산업재",
+   -3.93,
+   null,
+   40309.0
+  ],
+  [
+   "INTU",
+   "Intuit Inc.",
+   "산업재",
+   -3.76,
+   null,
+   91261.0
+  ],
+  [
+   "WDAY",
+   "Workday, Inc.",
+   "산업재",
+   -3.63,
+   null,
+   46489.0
+  ],
+  [
+   "GM",
+   "General Motors Company",
+   "산업재",
+   -3.55,
+   null,
+   73150.0
+  ],
+  [
+   "BTI",
+   "British American Tobacco p.l.c.",
+   "산업재",
+   -3.47,
+   null,
+   130828.0
+  ],
+  [
+   "DHI",
+   "D.R. Horton, Inc.",
+   "산업재",
+   -3.39,
+   null,
+   41334.0
+  ],
+  [
+   "ISRG",
+   "Intuitive Surgical, Inc.",
+   "산업재",
+   -3.36,
+   null,
+   159964.0
+  ],
+  [
+   "CSX",
+   "CSX Corporation",
+   "산업재",
+   -3.36,
+   null,
+   90994.0
+  ],
+  [
+   "LYV",
+   "Live Nation Entertainment, Inc.",
+   "산업재",
+   -3.31,
+   null,
+   40826.0
+  ],
+  [
+   "NFLX",
+   "Netflix, Inc.",
+   "산업재",
+   -3.28,
+   null,
+   260382.0
+  ]
+ ],
+ "turnover": [
+  [
+   "NVDA",
+   "NVIDIA Corporation",
+   "산업재",
+   2.78,
+   null,
+   4506796.0
+  ],
+  [
+   "MU",
+   "Micron Technology, Inc.",
+   "산업재",
+   5.12,
+   null,
+   780682.0
+  ],
+  [
+   "AMD",
+   "Advanced Micro Devices, Inc.",
+   "산업재",
+   11.04,
+   null,
+   736465.0
+  ],
+  [
+   "SPCX",
+   "Space Exploration Technologies Corp.",
+   "산업재",
+   8.62,
+   null,
+   1823530.0
+  ],
+  [
+   "AAPL",
+   "Apple Inc.",
+   "산업재",
+   -0.52,
+   null,
+   4975383.0
+  ],
+  [
+   "SNDK",
+   "Sandisk Corporation",
+   "산업재",
+   3.55,
+   null,
+   118820.0
+  ],
+  [
+   "MSFT",
+   "Microsoft Corporation",
+   "산업재",
+   -0.99,
+   null,
+   3940413.0
+  ],
+  [
+   "TSLA",
+   "Tesla, Inc.",
+   "산업재",
+   4.23,
+   null,
+   1415957.0
+  ],
+  [
+   "AMZN",
+   "Amazon.com, Inc.",
+   "산업재",
+   -0.35,
+   null,
+   2803847.0
+  ],
+  [
+   "GOOGL",
+   "Alphabet Inc.",
+   "산업재",
+   0.78,
+   null,
+   3501085.0
+  ],
+  [
+   "INTC",
+   "Intel Corporation",
+   "산업재",
+   7.71,
+   null,
+   299128.0
+  ],
+  [
+   "META",
+   "Meta Platforms, Inc.",
+   "산업재",
+   0.84,
+   null,
+   1560052.0
+  ],
+  [
+   "AVGO",
+   "Broadcom Inc.",
+   "산업재",
+   0.74,
+   null,
+   1401967.0
+  ],
+  [
+   "TSM",
+   "Taiwan Semiconductor Manufacturing Company Limited",
+   "산업재",
+   6.33,
+   null,
+   1947210.0
+  ],
+  [
+   "GOOG",
+   "Alphabet Inc.",
+   "산업재",
+   0.78,
+   null,
+   3490635.0
+  ],
+  [
+   "GEV",
+   "GE Vernova Inc.",
+   "산업재",
+   0.47,
+   null,
+   204889.0
+  ],
+  [
+   "ORCL",
+   "Oracle Corporation",
+   "산업재",
+   0.82,
+   null,
+   361966.0
+  ],
+  [
+   "LLY",
+   "Eli Lilly and Company",
+   "산업재",
+   -0.79,
+   null,
+   1206069.0
+  ],
+  [
+   "MRVL",
+   "Marvell Technology, Inc.",
+   "산업재",
+   5.73,
+   null,
+   127047.0
+  ],
+  [
+   "APP",
+   "AppLovin Corporation",
+   "산업재",
+   9.86,
+   null,
+   129620.0
+  ]
+ ],
+ "new_highs": [
+  [
+   "MRNA",
+   "Moderna, Inc.",
+   "산업재",
+   5.27,
+   null,
+   101482.0
+  ],
+  [
+   "BDX",
+   "Becton, Dickinson and Company",
+   "산업재",
+   -0.78,
+   null,
+   57713.0
+  ],
+  [
+   "ONC",
+   "BeOne Medicines AG",
+   "산업재",
+   5.09,
+   null,
+   46299.0
+  ],
+  [
+   "CHT",
+   "Chunghwa Telecom Co., Ltd.",
+   "산업재",
+   2.03,
+   null,
+   38671.0
+  ]
+ ],
+ "flagged_disc": [
+  [
+   "11/06 17:30",
+   "PONO",
+   "Pono Capital Four, Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/2108164/000149315226050548/0001493152-26-050548-index.htm"
+  ],
+  [
+   "11/06 17:25",
+   "DFNS",
+   "T3 Defense Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 비등록 증권 발행",
+   "1.01, 2.01, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1787518/000118518526005246/0001185185-26-005246-index.htm"
+  ],
+  [
+   "11/06 17:17",
+   "CETY",
+   "Clean Energy Technologies, Inc.",
+   "주요 계약 체결 · 채무 발생 · 비등록 증권 발행",
+   "1.01, 2.03, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1329606/000149315226050525/0001493152-26-050525-index.htm"
+  ],
+  [
+   "11/06 17:16",
+   "AUUD",
+   "AUDDIA INC.",
+   "주요 계약 체결 · 비등록 증권 발행",
+   "1.01, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1554818/000168316826008388/0001683168-26-008388-index.htm"
+  ],
+  [
+   "11/06 17:15",
+   "RENX",
+   "RenX Enterprises Corp.",
+   "주요 계약 체결 · 비등록 증권 발행",
+   "1.01, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1959023/000121390026116998/0001213900-26-116998-index.htm"
+  ],
+  [
+   "11/06 17:13",
+   "FFAI",
+   "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+   "주요 계약 체결 · 비등록 증권 발행 · 주주 권리 변경",
+   "1.01, 3.02, 3.03",
+   "https://www.sec.gov/Archives/edgar/data/1805521/000121390026116993/0001213900-26-116993-index.htm"
+  ],
+  [
+   "11/06 17:10",
+   "BIVI",
+   "BIOVIE INC.",
+   "주요 계약 체결 · 비등록 증권 발행 · 공정공시(Reg FD)",
+   "1.01, 3.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1580149/000152013826000460/0001520138-26-000460-index.htm"
+  ],
+  [
+   "11/06 17:09",
+   "KTB",
+   "Kontoor Brands, Inc.",
+   "자산 인수·처분 완료 · 공정공시(Reg FD)",
+   "2.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000082/0001760965-26-000082-index.htm"
+  ],
+  [
+   "11/06 17:08",
+   "SILO",
+   "Silo Pharma, Inc.",
+   "주요 계약 체결 · 비등록 증권 발행",
+   "1.01, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1514183/000121390026116982/0001213900-26-116982-index.htm"
+  ],
+  [
+   "11/06 17:03",
+   "REED",
+   "REED'S, INC.",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1140215/000149315226050517/0001493152-26-050517-index.htm"
+  ],
+  [
+   "11/06 16:40",
+   "GOGO",
+   "Gogo Inc.",
+   "주요 계약 체결 · 채무 발생 · 공정공시(Reg FD)",
+   "1.01, 2.03, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1537054/000119312526451967/0001193125-26-451967-index.htm"
+  ],
+  [
+   "11/06 16:34",
+   "HIT",
+   "Health In Tech, Inc.",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/2019505/000121390026116926/0001213900-26-116926-index.htm"
+  ],
+  [
+   "11/06 16:32",
+   "DAL",
+   "DELTA AIR LINES, INC.",
+   "주요 계약 체결 · 기타 중요 사항",
+   "1.01, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/27904/000119312526451940/0001193125-26-451940-index.htm"
+  ],
+  [
+   "11/06 16:32",
+   "AHR",
+   "American Healthcare REIT, Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1632970/000119312526451939/0001193125-26-451939-index.htm"
+  ],
+  [
+   "11/06 16:30",
+   "SLGN",
+   "SILGAN HOLDINGS INC",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/849869/000162828026071735/0001628280-26-071735-index.htm"
+  ],
+  [
+   "11/06 16:21",
+   "FOXA",
+   "Fox Corp",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 채무 발생 · 임원·이사 변동 · 공정공시(Reg FD)",
+   "1.01, 2.01, 2.03, 5.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1754301/000119312526451888/0001193125-26-451888-index.htm"
+  ],
+  [
+   "11/06 16:18",
+   "CCXI",
+   "Agility Robotics, Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 비등록 증권 발행 · 주주 권리 변경 · 감사인 교체 · 지배권 변경 · 임원·이사 변동 · Item 5.05 · Item 5.06 · 기타 중요 사항",
+   "1.01, 2.01, 3.02, 3.03, 4.01, 5.01, 5.02, 5.05, 5.06, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/2074973/000121390026116898/0001213900-26-116898-index.htm"
+  ],
+  [
+   "11/06 16:18",
+   "ROKU",
+   "ROKU, INC",
+   "주요 계약 해지 · 자산 인수·처분 완료 · 상장 유지 기준 미달·이전 · 주주 권리 변경 · 지배권 변경 · 임원·이사 변동",
+   "1.02, 2.01, 3.01, 3.03, 5.01, 5.02",
+   "https://www.sec.gov/Archives/edgar/data/1428439/000119312526451874/0001193125-26-451874-index.htm"
+  ],
+  [
+   "11/06 16:18",
+   "DTE",
+   "DTE ENERGY CO",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/936340/000093634026000172/0000936340-26-000172-index.htm"
+  ],
+  [
+   "11/06 16:18",
+   "ACR",
+   "ACRES Commercial Realty Corp.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1332551/000119312526451872/0001193125-26-451872-index.htm"
+  ],
+  [
+   "11/06 16:17",
+   "MDIA",
+   "Mediaco Holding Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1784254/000178425426000047/0001784254-26-000047-index.htm"
+  ],
+  [
+   "11/06 16:15",
+   "NBBK",
+   "NB Bancorp, Inc.",
+   "주요 계약 체결 · 채무 발생 · 공정공시(Reg FD)",
+   "1.01, 2.03, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1979330/000110465926123880/0001104659-26-123880-index.htm"
+  ],
+  [
+   "11/06 16:15",
+   "GATX",
+   "GATX CORP",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/40211/000119312526451862/0001193125-26-451862-index.htm"
+  ],
+  [
+   "11/06 16:05",
+   "BWMN",
+   "Bowman Consulting Group Ltd.",
+   "주요 계약 해지 · 자산 인수·처분 완료 · 상장 유지 기준 미달·이전 · 주주 권리 변경 · 지배권 변경 · 임원·이사 변동 · 공정공시(Reg FD)",
+   "1.02, 2.01, 3.01, 3.03, 5.01, 5.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1847590/000114036126042465/0001140361-26-042465-index.htm"
+  ],
+  [
+   "11/06 16:05",
+   "NXXT",
+   "NEXTNRG, INC.",
+   "주요 계약 체결 · 비등록 증권 발행 · 주주 권리 변경 · 기타 중요 사항",
+   "1.01, 3.02, 3.03, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1817004/000149315226050459/0001493152-26-050459-index.htm"
+  ],
+  [
+   "11/06 16:05",
+   "JAN",
+   "Janus Living, Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/2100805/000110465926123853/0001104659-26-123853-index.htm"
+  ],
+  [
+   "11/06 16:05",
+   "PSA",
+   "Public Storage",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1393311/000119312526451826/0001193125-26-451826-index.htm"
+  ],
+  [
+   "11/06 16:02",
+   "RGEN",
+   "REPLIGEN CORP",
+   "주요 계약 체결 · 채무 발생 · 비등록 증권 발행",
+   "1.01, 2.03, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/730272/000162828026071650/0001628280-26-071650-index.htm"
+  ],
+  [
+   "11/06 14:34",
+   "ANDE",
+   "Andersons, Inc.",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/821026/000082102626000155/0000821026-26-000155-index.htm"
+  ],
+  [
+   "11/06 09:17",
+   "PWCM",
+   "POWERCOMPUTE, INC.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1640384/000164038426000005/0001640384-26-000005-index.htm"
+  ],
+  [
+   "11/06 08:38",
+   "PAA",
+   "PLAINS ALL AMERICAN PIPELINE LP",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1070423/000107042326000055/0001070423-26-000055-index.htm"
+  ],
+  [
+   "11/06 08:36",
+   "BEN",
+   "FRANKLIN TEMPLETON INC",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/38777/000003877726000287/0000038777-26-000287-index.htm"
+  ],
+  [
+   "11/06 08:22",
+   "SXTP",
+   "60 DEGREES PHARMACEUTICALS, INC.",
+   "주요 계약 체결 · 비등록 증권 발행",
+   "1.01, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1946563/000121390026116620/0001213900-26-116620-index.htm"
+  ],
+  [
+   "11/06 07:51",
+   "PPL",
+   "PPL Corp",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/922224/000092222426000050/0000922224-26-000050-index.htm"
+  ],
+  [
+   "11/06 07:10",
+   "UI",
+   "Ubiquiti Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1511737/000151173726000076/0001511737-26-000076-index.htm"
+  ],
+  [
+   "11/06 07:01",
+   "ENB",
+   "ENBRIDGE INC",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/895728/000119312526450711/0001193125-26-450711-index.htm"
+  ],
+  [
+   "11/06 07:01",
+   "VST",
+   "Vistra Corp.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/0001692819-26-000023-index.htm"
+  ],
+  [
+   "11/06 07:00",
+   "CHTR",
+   "CHARTER COMMUNICATIONS, INC. /MO/",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000072/0001091667-26-000072-index.htm"
+  ],
+  [
+   "11/06 06:57",
+   "AIRS",
+   "Airsculpt Technologies, Inc.",
+   "주요 계약 체결 · 주요 계약 해지 · 실적 발표 · 채무 발생",
+   "1.01, 1.02, 2.02, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1870940/000187094026000054/0001870940-26-000054-index.htm"
+  ],
+  [
+   "11/06 06:47",
+   "MRNA",
+   "Moderna, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/0001682852-26-000194-index.htm"
+  ],
+  [
+   "11/06 06:27",
+   "ELAN",
+   "Elanco Animal Health Inc",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000054/0001739104-26-000054-index.htm"
+  ],
+  [
+   "11/06 06:09",
+   "HUM",
+   "HUMANA INC",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/49071/000004907126000064/0000049071-26-000064-index.htm"
+  ],
+  [
+   "11/06 06:06",
+   "KFII",
+   "K&F GROWTH ACQUISITION CORP. II",
+   "주요 계약 체결 · 주주총회 결과",
+   "1.01, 5.07",
+   "https://www.sec.gov/Archives/edgar/data/2029976/000121390026116547/0001213900-26-116547-index.htm"
+  ],
+  [
+   "11/06 06:06",
+   "EVTC",
+   "EVERTEC, Inc.",
+   "주요 계약 체결 · 채무 발생 · 공정공시(Reg FD)",
+   "1.01, 2.03, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1559865/000162828026071284/0001628280-26-071284-index.htm"
+  ],
+  [
+   "11/05 21:13",
+   "ALGN",
+   "ALIGN TECHNOLOGY INC",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000085/0001097149-26-000085-index.htm"
+  ],
+  [
+   "11/05 19:16",
+   "VEEV",
+   "VEEVA SYSTEMS INC",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000039/0001393052-26-000039-index.htm"
+  ],
+  [
+   "11/05 18:49",
+   "ONCO",
+   "Onconetix, Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1782107/000121390026116512/0001213900-26-116512-index.htm"
+  ],
+  [
+   "11/05 18:00",
+   "GOAI",
+   "Eva Live Inc",
+   "주요 계약 체결 · 기타 중요 사항",
+   "1.01, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1983736/000149315226050298/0001493152-26-050298-index.htm"
+  ],
+  [
+   "11/05 17:25",
+   "ANVS",
+   "Annovis Bio, Inc.",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1477845/000110465926123467/0001104659-26-123467-index.htm"
+  ],
+  [
+   "11/05 17:21",
+   "PPHC",
+   "Public Policy Holding Company, Inc.",
+   "주요 계약 체결 · 주요 계약 해지 · 채무 발생",
+   "1.01, 1.02, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1903508/000162828026071180/0001628280-26-071180-index.htm"
+  ],
+  [
+   "11/05 17:15",
+   "XRN",
+   "Chiron Real Estate Inc.",
+   "자산 인수·처분 완료 · 기타 중요 사항 (정정)",
+   "2.01, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1533615/000162828026071172/0001628280-26-071172-index.htm"
+  ],
+  [
+   "11/05 17:15",
+   "COPL",
+   "Copley Acquisition Corp",
+   "주요 계약 체결 · 채무 발생 · 주주총회 결과 · 기타 중요 사항",
+   "1.01, 2.03, 5.07, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/2045473/000182912626012037/0001829126-26-012037-index.htm"
+  ],
+  [
+   "11/05 17:15",
+   "REG",
+   "REGENCY CENTERS CORP",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/910606/000119312526450159/0001193125-26-450159-index.htm"
+  ],
+  [
+   "11/05 17:13",
+   "ANIP",
+   "ANI PHARMACEUTICALS INC",
+   "주요 계약 체결 · 채무 발생 · 기타 중요 사항",
+   "1.01, 2.03, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1023024/000110465926123446/0001104659-26-123446-index.htm"
+  ],
+  [
+   "11/05 17:10",
+   "CHGA",
+   "Change Agents Corporation.",
+   "주요 계약 체결 · 채무 발생 · 비등록 증권 발행 · 임원·이사 변동",
+   "1.01, 2.03, 3.02, 5.02",
+   "https://www.sec.gov/Archives/edgar/data/1630212/000121390026116448/0001213900-26-116448-index.htm"
+  ],
+  [
+   "11/05 17:00",
+   "ISPC",
+   "iSpecimen Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 비등록 증권 발행 · 지배권 변경 · 공정공시(Reg FD)",
+   "1.01, 2.01, 3.02, 5.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1558569/000121390026116431/0001213900-26-116431-index.htm"
+  ],
+  [
+   "11/05 17:00",
+   "CBRE",
+   "CBRE GROUP, INC.",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1138118/000119312526450081/0001193125-26-450081-index.htm"
+  ],
+  [
+   "11/05 16:54",
+   "AXON",
+   "AXON ENTERPRISE, INC.",
+   "주요 계약 체결 · 비등록 증권 발행 · 공정공시(Reg FD)",
+   "1.01, 3.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1069183/000162828026071150/0001628280-26-071150-index.htm"
+  ],
+  [
+   "11/05 16:47",
+   "SUNS",
+   "Sunrise Realty Trust, Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 비등록 증권 발행 · 공정공시(Reg FD)",
+   "1.01, 2.01, 3.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/2012706/000162828026071144/0001628280-26-071144-index.htm"
+  ],
+  [
+   "11/05 16:45",
+   "CVI",
+   "CVR ENERGY INC",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1376139/000119312526450036/0001193125-26-450036-index.htm"
+  ],
+  [
+   "11/05 16:44",
+   "ED",
+   "CONSOLIDATED EDISON INC",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1047862/000104786226000157/0001047862-26-000157-index.htm"
+  ],
+  [
+   "11/05 16:36",
+   "SPRU",
+   "SPRUCE POWER HOLDING CORP",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1772720/000162828026071135/0001628280-26-071135-index.htm"
+  ],
+  [
+   "11/05 16:34",
+   "AEE",
+   "AMEREN CORP",
+   "실적 발표 · 기타 중요 사항",
+   "2.02, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1002910/000100291026000030/0001002910-26-000030-index.htm"
+  ],
+  [
+   "11/05 16:33",
+   "MTD",
+   "METTLER TOLEDO INTERNATIONAL INC/",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1037646/000103764626000072/0001037646-26-000072-index.htm"
+  ],
+  [
+   "11/05 16:32",
+   "MNST",
+   "Monster Beverage Corp",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/865752/000110465926123387/0001104659-26-123387-index.htm"
+  ],
+  [
+   "11/05 16:28",
+   "TECX",
+   "Tectonic Therapeutic, Inc.",
+   "자산 인수·처분 완료",
+   "2.01",
+   "https://www.sec.gov/Archives/edgar/data/1681087/000119312526449965/0001193125-26-449965-index.htm"
+  ],
+  [
+   "11/05 16:27",
+   "CPT",
+   "CAMDEN PROPERTY TRUST",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/906345/000162828026071117/0001628280-26-071117-index.htm"
+  ],
+  [
+   "11/05 16:26",
+   "FWONA",
+   "Liberty Media Corp",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1560385/000156038526000028/0001560385-26-000028-index.htm"
+  ],
+  [
+   "11/05 16:25",
+   "LOB",
+   "Live Oak Bancshares, Inc.",
+   "주요 계약 체결 · 기타 중요 사항",
+   "1.01, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1462120/000146212026000075/0001462120-26-000075-index.htm"
+  ],
+  [
+   "11/05 16:21",
+   "RGA",
+   "REINSURANCE GROUP OF AMERICA INC",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/898174/000089817426000038/0000898174-26-000038-index.htm"
+  ],
+  [
+   "11/05 16:19",
+   "HCA",
+   "HCA Healthcare, Inc.",
+   "주요 계약 체결 · 채무 발생 · 기타 중요 사항",
+   "1.01, 2.03, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/860730/000119312526449922/0001193125-26-449922-index.htm"
+  ],
+  [
+   "11/05 16:19",
+   "FNF",
+   "Fidelity National Financial, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1331875/000133187526000093/0001331875-26-000093-index.htm"
+  ],
+  [
+   "11/05 16:18",
+   "AXON",
+   "AXON ENTERPRISE, INC.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1069183/000162828026071086/0001628280-26-071086-index.htm"
+  ],
+  [
+   "11/05 16:18",
+   "EOG",
+   "EOG RESOURCES INC",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/821189/000082118926000226/0000821189-26-000226-index.htm"
+  ],
+  [
+   "11/05 16:18",
+   "NET",
+   "Cloudflare, Inc.",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/0001477333-26-000060-index.htm"
+  ],
+  [
+   "11/05 16:18",
+   "MCHP",
+   "MICROCHIP TECHNOLOGY INC",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/827054/000082705426000061/0000827054-26-000061-index.htm"
+  ],
+  [
+   "11/05 16:17",
+   "PSQH",
+   "PSQ Holdings, Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 공정공시(Reg FD)",
+   "1.01, 2.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1847064/000110465926123347/0001104659-26-123347-index.htm"
+  ],
+  [
+   "11/05 16:17",
+   "SNX",
+   "TD SYNNEX CORP",
+   "주요 계약 체결 · 채무 발생",
+   "1.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1177394/000162828026071079/0001628280-26-071079-index.htm"
+  ],
+  [
+   "11/05 16:17",
+   "LYV",
+   "Live Nation Entertainment, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1335258/000133525826000052/0001335258-26-000052-index.htm"
+  ],
+  [
+   "11/05 16:17",
+   "AHR",
+   "American Healthcare REIT, Inc.",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1632970/000119312526449893/0001193125-26-449893-index.htm"
+  ],
+  [
+   "11/05 16:16",
+   "DVN",
+   "DEVON ENERGY CORP/DE",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1090012/000119312526449884/0001193125-26-449884-index.htm"
+  ],
+  [
+   "11/05 16:15",
+   "AERT",
+   "Aeries Technology, Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1853044/000182912626012022/0001829126-26-012022-index.htm"
+  ],
+  [
+   "11/05 16:15",
+   "PBLS",
+   "Parabilis Medicines, Inc.",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1657677/000119312526449869/0001193125-26-449869-index.htm"
+  ],
+  [
+   "11/05 16:15",
+   "LNN",
+   "LINDSAY CORP",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/836157/000119312526449864/0001193125-26-449864-index.htm"
+  ],
+  [
+   "11/05 16:14",
+   "JHX",
+   "James Hardie Industries plc",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1159152/000162828026071067/0001628280-26-071067-index.htm"
+  ],
+  [
+   "11/05 16:11",
+   "FATE",
+   "FATE THERAPEUTICS INC",
+   "주요 계약 체결 · 주요 계약 해지",
+   "1.01, 1.02",
+   "https://www.sec.gov/Archives/edgar/data/1434316/000119312526449840/0001193125-26-449840-index.htm"
+  ],
+  [
+   "11/05 16:09",
+   "TEAM",
+   "Atlassian Corp",
+   "실적 발표 · 임원·이사 변동",
+   "2.02, 5.02",
+   "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/0001650372-26-000049-index.htm"
+  ],
+  [
+   "11/05 16:09",
+   "FIVN",
+   "Five9, Inc.",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1288847/000128884726000141/0001288847-26-000141-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "HALO",
+   "HALOZYME THERAPEUTICS, INC.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1159036/000115903626000143/0001159036-26-000143-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "GH",
+   "Guardant Health, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000043/0001576280-26-000043-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "INGN",
+   "Inogen Inc",
+   "자산 인수·처분 완료 · 실적 발표 · 임원·이사 변동 · 공정공시(Reg FD) · 기타 중요 사항",
+   "2.01, 2.02, 5.02, 7.01, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1294133/000129413326000040/0001294133-26-000040-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "AKAM",
+   "AKAMAI TECHNOLOGIES INC",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/0001086222-26-000097-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "FROG",
+   "JFrog Ltd",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1800667/000119312526449797/0001193125-26-449797-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "WLDN",
+   "Willdan Group, Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 채무 발생 · 공정공시(Reg FD)",
+   "1.01, 2.01, 2.03, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1370450/000110465926123327/0001104659-26-123327-index.htm"
+  ],
+  [
+   "11/05 16:08",
+   "SPG",
+   "SIMON PROPERTY GROUP INC.",
+   "실적 발표 · 공정공시(Reg FD)",
+   "2.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1063761/000110465926123325/0001104659-26-123325-index.htm"
+  ],
+  [
+   "11/05 16:07",
+   "SOLV",
+   "Solventum Corp",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000055/0001964738-26-000055-index.htm"
+  ],
+  [
+   "11/05 16:07",
+   "NTRA",
+   "Natera, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000032/0001604821-26-000032-index.htm"
+  ],
+  [
+   "11/05 16:07",
+   "IONQ",
+   "IonQ, Inc.",
+   "자산 인수·처분 완료 · 실적 발표 · 비등록 증권 발행 · 공정공시(Reg FD)",
+   "2.01, 2.02, 3.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1824920/000119312526449779/0001193125-26-449779-index.htm"
+  ],
+  [
+   "11/05 16:06",
+   "TXRH",
+   "Texas Roadhouse, Inc.",
+   "실적 발표 · 기타 중요 사항",
+   "2.02, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1289460/000162828026071018/0001628280-26-071018-index.htm"
+  ],
+  [
+   "11/05 16:05",
+   "AACI",
+   "Armada Acquisition Corp. III",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/2092897/000119312526449772/0001193125-26-449772-index.htm"
+  ],
+  [
+   "11/05 16:05",
+   "CYCU",
+   "Cycurion, Inc.",
+   "주요 계약 체결 · 비등록 증권 발행",
+   "1.01, 3.02",
+   "https://www.sec.gov/Archives/edgar/data/1868419/000149315226050228/0001493152-26-050228-index.htm"
+  ],
+  [
+   "11/05 16:05",
+   "EVC",
+   "ENTRAVISION COMMUNICATIONS CORP",
+   "주요 계약 체결 · 실적 발표",
+   "1.01, 2.02",
+   "https://www.sec.gov/Archives/edgar/data/1109116/000119312526449765/0001193125-26-449765-index.htm"
+  ],
+  [
+   "11/05 16:04",
+   "SOUN",
+   "SOUNDHOUND AI, INC.",
+   "실적 발표 · 구조조정 비용",
+   "2.02, 2.05",
+   "https://www.sec.gov/Archives/edgar/data/1840856/000184085626000025/0001840856-26-000025-index.htm"
+  ],
+  [
+   "11/05 16:04",
+   "AFRM",
+   "Affirm Holdings, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1820953/000162828026071005/0001628280-26-071005-index.htm"
+  ],
+  [
+   "11/05 16:02",
+   "VYGR",
+   "Voyager Therapeutics, Inc.",
+   "자산 인수·처분 완료",
+   "2.01",
+   "https://www.sec.gov/Archives/edgar/data/1640266/000119312526449728/0001193125-26-449728-index.htm"
+  ],
+  [
+   "11/05 16:02",
+   "ABNB",
+   "Airbnb, Inc.",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1559720/000119312526449727/0001193125-26-449727-index.htm"
+  ],
+  [
+   "11/05 16:01",
+   "PSEC",
+   "PROSPECT CAPITAL CORP",
+   "주요 계약 체결",
+   "1.01",
+   "https://www.sec.gov/Archives/edgar/data/1287032/000128703226000315/0001287032-26-000315-index.htm"
+  ],
+  [
+   "11/05 16:01",
+   "RILY",
+   "BRC Group Holdings, Inc.",
+   "주요 계약 체결 · 자산 인수·처분 완료 · 채무 발생",
+   "1.01, 2.01, 2.03",
+   "https://www.sec.gov/Archives/edgar/data/1464790/000121390026116361/0001213900-26-116361-index.htm"
+  ],
+  [
+   "11/05 16:01",
+   "ABOS",
+   "Acumen Pharmaceuticals, Inc.",
+   "주요 계약 해지 · 구조조정 비용",
+   "1.02, 2.05",
+   "https://www.sec.gov/Archives/edgar/data/1576885/000162828026070987/0001628280-26-070987-index.htm"
+  ],
+  [
+   "11/05 16:00",
+   "ELAB",
+   "PMGC Holdings Inc.",
+   "주요 계약 체결 · 공정공시(Reg FD)",
+   "1.01, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1840563/000121390026116357/0001213900-26-116357-index.htm"
+  ],
+  [
+   "11/05 10:53",
+   "SRE",
+   "SEMPRA",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000051/0001032208-26-000051-index.htm"
+  ],
+  [
+   "11/05 09:20",
+   "ENHA",
+   "Enhanced Group Inc.",
+   "주요 계약 체결 · 비등록 증권 발행 · 주주총회 결과 · 공정공시(Reg FD)",
+   "1.01, 3.02, 5.07, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1956439/000162828026070679/0001628280-26-070679-index.htm"
+  ],
+  [
+   "11/05 09:00",
+   "HCWB",
+   "HCW Biologics Inc.",
+   "주요 계약 체결 · 공정공시(Reg FD) · 기타 중요 사항",
+   "1.01, 7.01, 8.01",
+   "https://www.sec.gov/Archives/edgar/data/1828673/000149315226050082/0001493152-26-050082-index.htm"
+  ],
+  [
+   "11/05 08:37",
+   "FWONA",
+   "Liberty Media Corp",
+   "주요 계약 체결 · 주요 계약 해지 · 비등록 증권 발행 · 주주 권리 변경 · 임원·이사 변동 · 공정공시(Reg FD)",
+   "1.01, 1.02, 3.02, 3.03, 5.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1560385/000110465926123092/0001104659-26-123092-index.htm"
+  ],
+  [
+   "11/05 08:30",
+   "FCAP",
+   "FIRST CAPITAL INC",
+   "주요 계약 체결 · 임원·이사 변동 · 공정공시(Reg FD)",
+   "1.01, 5.02, 7.01",
+   "https://www.sec.gov/Archives/edgar/data/1070296/000110465926123087/0001104659-26-123087-index.htm"
+  ],
+  [
+   "11/05 08:26",
+   "VMRK",
+   "VIVMARK RESIDENTIAL",
+   "자산 인수·처분 완료",
+   "2.01",
+   "https://www.sec.gov/Archives/edgar/data/906107/000119312526448699/0001193125-26-448699-index.htm"
+  ],
+  [
+   "11/05 08:09",
+   "SO",
+   "SOUTHERN CO",
+   "실적 발표",
+   "2.02",
+   "https://www.sec.gov/Archives/edgar/data/92122/000009212226000071/0000092122-26-000071-index.htm"
+  ]
+ ],
+ "news": [
+  [
+   "11/05 05:54",
+   "시황",
+   "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations - Reuters",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5"
+  ],
+  [
+   "11/06 10:37",
+   "시황",
+   "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada",
+   "Yahoo! Finance Canada",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81dlEyYzk0cXJLODkyM3FNMlQwOWlLWmc3VHhUSUl5ZWNBdFg0Vm9LVnpMb0s0VjJtMTlFZXN2dXZ0eVRWLURta3VKZE55YjVMZmVQRmp3?oc=5"
+  ],
+  [
+   "11/06 12:22",
+   "시황",
+   "Stocks had their worst day in 18 months — here's what that means for your portfolio - Yahoo Finance",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVRMUmlMbU0zb3FJOFJHNHB4SU45Y2EyVFFEb2JzRVVrLUdseDVrWFhBY0NvQTJEbWxaQ0tvRzNSQjdtT3RqUU1ZcDR3cEEtZjJIWU8tcENpUkRCSUV5UFBzVnAyVTNZeGV6R2xPSVBaOG1Ja1c0ck82NzE5SE91d3A4QUR0UFRUSkxTaGFVWTN0MkVlTHNiVkxObC00UWMyY0VDWGNrYy12cUtWQkFwa1hhWVVGc3BqT0U3bHM2MmQ2U1hvWkpHX0hrZDVNNExwbUF0dA?oc=5"
+  ],
+  [
+   "11/06 09:28",
+   "시황",
+   "Stock Market Today: Election Results Continue to Ease Market Fears - Yahoo Finance",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5"
+  ],
+  [
+   "11/06 16:06",
+   "시황",
+   "AI stocks bounce back after trillions wiped from market values - BBC",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5"
+  ],
+  [
+   "11/06 15:44",
+   "시황",
+   "Did the stock market crash today? No. Stocks mostly rose Friday after Thursday's plunge - Nacionale",
+   "Nacionale",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVctb2JXUEFBNXZfV25vQ1ZWTHpDZUk5OHpBeng5SW0zSFJ3TmdCUERTYnpCSE5SWTBSM3ROWHR3RlFuZm1VV2V1NG9hZ0RRRUduREkzMDJXUjVwclhRWTlGUzNkbUFqMmFBQTZBQzhTeXVYc3o2QlBUMVRacUhTQ2FjaFh0RnJIeUtmQ0l6cWxBZ09wR3FoNktod3FCbEUtOGF4UEJUOVNoNE9RSlRYZWJtRDJPYXpfeEE?oc=5"
+  ],
+  [
+   "11/06 16:26",
+   "시황",
+   "Wall Street Close: Nasdaq Rises 1.09% and S&P 500 Gains 0.32% as Dow Slips 0.46% - JournalArta",
+   "JournalArta",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzB0T0gxWmhJTUhwZWprNTVMM2pqQlhYY1N4U29mNXFxbENnUGdVYk0xMGhoZDBpV1RTMXFuV1FxeXU5UWtGMDVpYVFOcTNpY0dFcTJpMzAwVUMxSWdxUlZDMnpraWhKb3VlNU1md010X3hkNEI3QWl4bE1uQk9Vb0dtWUFCN2w3b0RTS1BTV01GY090RmZrblZubmFvcno1MzBuTm1zZ08zRUdLNXFEcUlOcWk?oc=5"
+  ],
+  [
+   "11/06 12:29",
+   "시황",
+   "Why is the stock market up today? Nasdaq, Nvidia and Broadcom bounce after Thursday's rout - Nacionale",
+   "Nacionale",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3daSm9kaEtCd0liU2phZDJaUXJOYzJGMHgzc3NyVmdjMlViZFBITnZkYVdLQzQ2SE5hV2dna0pyVzJrRGRwSFBGYXBRUmtDMHdHREQ2OXRWUFdkNVVlNVFvS09LLUJQdlFrWjhjVTRnSWRTUE5kbU9LWDlJbW12VllxSHhkbXN2Smw5anZIRVhwaWFEd0pWaHNDWjZkWWtqOXg5cml5aGZVNzdPOGh1bzh1OE5hY1U?oc=5"
+  ],
+  [
+   "11/06 17:39",
+   "시황",
+   "Wall Street stocks rally after heavy AI-related selloff - Yahoo Finance",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkNWMElVN0RDc0RadU5MSnhFNGZrcWgtZ3JYWU91TDd3OFdUWXJKR2xKUlIzWmQxN1RvVHBTYVNHNDFTX3h1b1dqLVVraVRvdER3UG9fZmZtN3l2cjlHSGJZMlBMTTNJSWlMTEtGVURRd3N4QXFndEFRel9yMkVzcnY3SDFEVlhZNlJ5YWlKLUVEUWdyakRCeWRhUXc?oc=5"
+  ],
+  [
+   "11/06 16:53",
+   "시황",
+   "Investors try to regain their footing after tech stocks tank - NBC News",
+   "NBC News",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWlzcGJ5b2FoTDRoekZ5blNRdTExdkc3NURPalBjNElDM1NzamNoS1IzS1B4cXlzX3dGMlJXcG9RdWMweW5CM1NCQ0MwdGYwc2h4dGZQaFZSZVBBZUpIZGw0ci01bE1aamxNRktLdGw3MkFKQ05peWZQVjdkdEk4d1U2M2NQNDVqUy1aZFJWUEdvN1RWSFNaNXFzSnJ2aEZmbmxTVW11aUFQS0lhbFlaWDd3?oc=5"
+  ],
+  [
+   "11/06 04:51",
+   "시황",
+   "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall - Fox Business",
+   "Fox Business",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXVpWEM1UkxaN1VydGZoc1kzUFU5ZV9NR2N4YnpqMnJqTGs4UGJaRXRSMklwTVRER2FhLUtZN0I3cy1wVVFCdm1QQXFDTWx2QWlSRGdReFEtRzlMLURfVlpVR0dzNVlHREx6NnJZSFFGZTB4QUVQcFVIRW9lLW8zNXZFaVpfRWdrV2w5aTVJdjV1ZmVocWRadjg1SnV3MEw4RlhObGM1YkkwcW1QUm5QaEN30gG3AUFVX3lxTE1JN1RPSW1JLTExTjhyeVZjT0M1bnpXXzRVMlhIRGFoVGFWaUkxMFl3TDlZNkNQLVZDemtoQUhlRXAxRnRZb0tkektIQUFuS2p0YVRCRGNfd2VCLUc3a2puMUpOcy1CZmcwYkhFR2NDbF9INVNfT0FtMUFndlVkbUdIb0d3d1FHWTRXYWVvMFpsTDZCTFdVaHpHN1FHM3dBUkFRT3RiNXRKYlkxN3JJZ1pKZEJ3TU1QSQ?oc=5"
+  ],
+  [
+   "11/06 10:24",
+   "시황",
+   "European shares join global sell-off after AI fears hammer Asian markets - DW.com",
+   "DW.com",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjFLNDFvcVVFVTM0LU9ZTUMtYVZhcGhiTTRJVElXUHFZMHRLMGxyZ2xsX1djamVfOUNGdGxnbkZZc1lTVHNPSHotU1JMNEpuSnRBNHlBeDB0WFZVSWpoRUpSZmJCU0ttbmVZOGhBZmlPazNDckswNGRPS2hMRXFvN2V0OU04MmFVMmU2cFJSY0FxdUhVTWs2VHptU1ctNW8ybEUyYm44bzlCamplNDRIWVRWZkdaaXdLa3poVlBuNFN3MmNSWjE3ONIByAFBVV95cUxNbUx2MmJUZFFFeF84ZHBkcXI0UnBBd0hpWWFsWXhYdE8ySTN5YUk4NTFSVWpheXlVWGkxUVV6UG5uc0pzMDdlYjA4UGdKWWk4Y3BvWFVuODlLcXo0QnpQZGlHeXZWeExjeEk3cG0zZXRRdUtuSUJza3ZsVmRXejVTTHNIWXh3VzNoSEVMWlFFSTNWaHhZLVNNVlRuRXM4NGpMWVNjcFJUb2pTZW15WDB2aVpnTjlPT2dnb2xaZ09mMm1kNHFnMjhMZw?oc=5"
+  ],
+  [
+   "11/06 12:45",
+   "금리·환율",
+   "Treasury Yields Rise on Strong Jobs Data - WSJ",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5"
+  ],
+  [
+   "11/06 09:45",
+   "금리·환율",
+   "VIEW Strong October jobs report sends yields higher - Reuters",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnpMd1ZuR2N2T2ZIelhxU25lLVpES1EteXlqbW4zVXM1V2M3SkppUlRRZkctZ181TzNsYnhPdFV4OXhzejdscG5TRHJWbGx6M0hrMXZmLS03MDFaQ2VGU0xjaHA1UDhZQ3lsUTNyVVFGODdjR253T2ZGVlNieDZ5dWRwQ3dqa0pqR21pYi1FNUlWOFpMTjZ0VEU4VGc?oc=5"
+  ],
+  [
+   "11/06 04:34",
+   "금리·환율",
+   "10-year Treasury yield is little changed after stronger-than-expected October jobs report - CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5"
+  ],
+  [
+   "11/06 15:36",
+   "금리·환율",
+   "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets - Bloomberg.com",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5"
+  ],
+  [
+   "11/06 14:57",
+   "전망",
+   "Stock Market Outlook: Nvidia Earnings, Anthropic’s IPO, and the Fed Rate Decision - Barron's",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5"
+  ],
+  [
+   "11/07 01:35",
+   "금리·환율",
+   "US October CPI Expected Up 0.3% Month-on-Month; A Week That Will Shape the Fed's Rate Decision - BigGo Finance",
+   "BigGo Finance",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QQ2VTV0RZVHAtY3lCOXgwRDVfSm9taXpWNER5bGkxT0owSG1CZTlCdWUyajRIWmFoU21EM0dyZ2M4TnZ1cGF3V0tyVkFEZmhNVFZ1RGRxTktPc09uNjltUUNqeXdTRUhzaFBfdm56N3JTODZkMFE?oc=5"
+  ],
+  [
+   "11/06 13:28",
+   "시황",
+   "Conflicting signals complicate Fed rate decisions - Mezha.net",
+   "Mezha.net",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXdlaVc4eWxuMmt6VXlMSDhfcERicmdjMm1DVnUzUFNVaC1IQnFBWVZvejhHV0dLMjUyNFVUREFNamVYekN0OW9GaEpzVzlsWHk4QzM2VkhJMFJMb21rNnNMRVR4engtb1dzZ1dmM0F5aEZoTlliWVVWMEpILVV0SHdSRjYtWGh2NVkzbkN5b1BHYU0?oc=5"
+  ],
+  [
+   "11/06 19:54",
+   "시황",
+   "Fed Rate Expectations Can Shift Market Rates Before Decisions - www.tokenpost.com",
+   "www.tokenpost.com",
+   "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBYlZvTTlmWWI5OFprUmlJVWZUelZzZC1XTE5HS2thbG5RdUxhdHBOcEozdmV0RWI2MlJGeTZmanRFN2hIUU9uY1VHRjV0a1NodUJGZEp1N2pPUQ?oc=5"
+  ],
+  [
+   "11/07 01:10",
+   "시황",
+   "United Parks & Resorts Stock In Focus After Mixed Earnings Report - Yahoo Finance",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTB1Y2xWTWFhYXh2c1hFVHR6dHFfNHFCalA3bldGdmd4WTN4eGdhRUItWjJZc2loV2ZPeWVaempPTW0tNXppZnhlaFBwNUxQRkpIS0tidktjV1NnTmVjYk5fLU85MUFxNDNQaTJCckhNck5FeGd5Zkx2ZWE2SzRGR0x4Tm1fUTBSS1JHVTZjSGhwQVVoVWJuLXhXT3BoQQ?oc=5"
+  ],
+  [
+   "11/06 20:19",
+   "시황",
+   "NRG Energy Reports Soon: How Has The Stock Reacted To Past Earnings? - Trefis",
+   "Trefis",
+   "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUldzTEQ0NEFHR2ZaSTJPNlFWWFktQ25WTi1Jclc2ZHM1YzBKSUhSN2U3dFdBbm5sSEhUbUM2bElvcGhjNTZNSkJTODZBRmRBT0lUQk82SFluaUFHT0FvZ2QyMzFnUW5RUU1SWWwzdEV4YjVXY3haeWxVLU9iRmU1TjdCcHZXem5MUDQtUjNDcmRDZ2lia1V6UTRzUVM5R2lFS25YcjRaRFhBN2RVSHotUFhvNlVXOHgtaUM0YlFuMmt2ellB?oc=5"
+  ],
+  [
+   "11/04 16:29",
+   "실적",
+   "Snap shares fall over 10% on third-quarter revenue miss - CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMic0FVX3lxTE5URFBRMUkxOTlmaTVFV0YzdXJQajI3dVFFUVU4cFdBcXNIZ1VMRmhyQU9FbWVGT3loR2hmUE11Vmp1YTB3SzJGTFN5eWk2QUEwSTM2X2dJZ2VWRVd3b19lTE1Qejh0amlaS3VjWWpnQzVmbUnSAXhBVV95cUxQUHpWczVQOXdMRkt6RmdLRVRhbnh0Y09CR0QyMS1ZQ1pHd21fUkNxWVNNcmMwR1ZvcnhNSVFzMHdva3BYdGplcmxrQTRLRDJkTXYzSUZYODR2dTBwX0dIcnRTUGIzdE5aeDh3cXJMcTBPcDFLc3dwSUc?oc=5"
+  ],
+  [
+   "11/06 11:45",
+   "시황",
+   "Unusual Options Volume Report: 3 Stocks Moving After Earnings - Schaeffer's Investment Research",
+   "Schaeffer's Investment Research",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGJMSWZXOHFuUE5CaWZOckpubzlWQnliTnRvU1laZFJ2NnlBYjhGRXFITjcwNlVkREpwQmtvT19ZaS01NGJTRzZjdkk5S09NMU1HU1hIN0RtcVVEcklBQlFPMERfOFpPbG1EVDk3WUsweXZoc1A2dkNlYmV5aWY0NUlBRkNoQ1NKMGlVVEUwZnNsQlNFdFo2WTlEVDdJWjd0SXpfdjZjNzB4eGFuRjVGb1FfS0hJUWpzLWFuNmRDbw?oc=5"
+  ],
+  [
+   "11/06 16:24",
+   "산업",
+   "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary? - MarketWatch",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
+  ],
+  [
+   "11/07 00:06",
+   "산업",
+   "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Chips Have Their Worst Day Since 2020 - Yahoo Finance",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG5DVXUxWHBEcjNJUGxTVi16Z0d6QWcxaFJHdjBDQzZrbjRRZjlyc09TWkt4cWRtNUF1V2h2bUd0SFVUTWZUT3FCTm9TY0R2MVdxWkotNE90N0Zhajkwd2FWb2UwLWtFVDVWWE9Ec0J3TUg4dVU5MC1KcVJCb1h2ZkRQeGVWb2NnZW54eTZOMXBIYjNRZEsw?oc=5"
+  ],
+  [
+   "11/06 10:18",
+   "산업",
+   "Chip Stocks Have Been Hit Hard. Nvidia and 4 More at Fire-Sale Prices. - Barron's",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2JpNmpFX3NFWURNaTBlZDB5WDI2THhydmtNeDJUTk1YenZfU290TWh5VlR1RnZCVWdkZWxFWkswVnhXUm1tVGtRaThmM0trRTRmMFY0VW4tbk1DTkVfeWpEWWpPT3NuRERrZ255RXpwQ1RGRFRTV1k2WUt3Ymx5M19mSGw0Q1pC?oc=5"
+  ],
+  [
+   "11/05 10:18",
+   "산업",
+   "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGR6VGxMQVNKdUF0R21NRjNRYzB1MlJMRzZFVVViM0tLZXpMM3BOc210T2FGZ0RMcEVWOTRXeGx3dHJNd2JlOHh4Z05BREdvSmVGdjdHWlptek45UEc1UGU1eDFYdVdRczVheTJCcE93S2E4d0dULWI0NUtVXzNiQtIBhgFBVV95cUxPU1pQS0l2NFdxYnpCWkV0d1lrSzFVQU45NVJWOEhlQTZfdTFoaVVwbUNsMXBNZVJ5aFAtMFRhbUhIZ0VNbG16YklqODNsekdieHY4M2ZGNzlXemtZTHYxOHYyM096QWVyVkllTFhjTHZUYmpWeEpMUEJBaHdTbXBTTkp2VG5TUQ?oc=5"
+  ],
+  [
+   "11/06 11:40",
+   "시황",
+   "Current price of oil as of November 5, 2026 - Fortune",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUblBRaXV3bHVma0s3Uk9nT2d5cXBrRWFiUEU2NnZ2VVFyV3RRVGZfOHdVTThDcXpxUzZwSkMtYlhobl9EWUFKcEhERTl0WE9SS3g5V2loeUN4UGFaRHJmV1VB?oc=5"
+  ],
+  [
+   "11/06 00:06",
+   "원자재",
+   "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWQ?oc=5"
+  ],
+  [
+   "11/06 18:29",
+   "원자재",
+   "Oil prices fall as mid-terms signal possible end to Iran war - Oil & Gas Journal",
+   "Oil & Gas Journal",
+   "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXlkWkZDQWhUblg3c0VWaHN4Mmp4MjgwMGFmRWRieWp3VnNHR2t1MzlSa0xsRExCVDc0WFdXOGduekR5RmlsbEFuOGFJWW5VX3hOOW1ELVY4SjhlMTZjSkRsRTFFeURyUVhaNkcxajNMalpQbEtKSHk1Y3BEYmU4em5wV05GVFZ4RlFWQUhiTjdzQmh3Mkg4UWZ6SGNYNjlMcTBxOUh1Q21VemVZQWRRcUZmdVY5aG90eGhBSkJiZmNQQTdRSXJ1UDBSU2c?oc=5"
+  ],
+  [
+   "11/06 11:11",
+   "원자재",
+   "Global Oil Prices Drop Sharply Amid Reports of Potential Iran–U.S. Peace Talks - IranWire",
+   "IranWire",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDR1blQzX2o2ejlGUk1mc3htT3BrODY1VU5DdzhEczVlNDItYWl1Z0FvakRGQTdnam8wNkVuMFl0QmE0dWI4NE16emY4VUZnVjJrTmdLX1BNODJwN3VfY2Q5NGp0YjdNWV9CMDVLQ3A5ai1QRGExYXMtQ2VobkxKRUVKYVhKQkptT2E4dlc4NWRJcWdlSnMwSTR4Y3U4NnJWVjZ1M2pmQnVMcHBQV3F0WDFB?oc=5"
+  ],
+  [
+   "11/06 16:55",
+   "시황",
+   "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수…혼조 마감 - 연합인포맥스",
+   "연합인포맥스",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSEtCVnByRFlXSW42YTRncV92cndKa29tckpLbWYxM0lQU1E5UE4xTWFfelMyQk5MbThDZ2xiM1ZwNjRTLU1aTHFJMk5hZ1ZsUExIeWwyVzBidGNDUFMzZHVSaGthZV9vSWxHY05mNDE?oc=5"
+  ],
+  [
+   "11/07 02:23",
+   "시황",
+   "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승 - JTBC",
+   "JTBC",
+   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5"
+  ],
+  [
+   "11/06 18:26",
+   "시황",
+   "뉴욕 증시 반등...반도체주 중심 저가 매수세 - YTN",
+   "YTN",
+   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTjcwLXphcnRxNG9rOFYtb2hVQTh0RHVERzBfX0sycUNSSHRRYVUxY2gySEhoNmNMdFdOVUlGbW5rcmhCTHh5MXdWYUVWYlVqT2JTWlNvdU5vTzBNT1E?oc=5"
+  ],
+  [
+   "11/06 19:46",
+   "시황",
+   "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ - KBS 뉴스",
+   "KBS 뉴스",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5"
+  ],
+  [
+   "11/06 14:43",
+   "전망",
+   "Further turmoil could be in store for tech stocks. What to watch in the week ahead - CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYU84SzFvTjVhTDY5WWV6Ykh5X2pVd1BUMndfS2k5cU9fMjNUazZGVWQ2TGU0M0drd0ZYZlViT3A3a2p1dHFhdUxXTmFfck1QT0FlRGd2cjBIX2RnYjEydUtGSjlHQjdRekFOS0xZemxRM2pfbFNkSjZQWFFnVVA3QkFjUlByZ1UzSkZzWXRB?oc=5"
+  ],
+  [
+   "11/06 06:06",
+   "전망",
+   "Wall St Week Ahead: As tech swoon roils market, US inflation data on tap - Reuters",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWlPMS1sdHZxcTUxa3RDeUkwRFNDMFhEeGVNRktDVW9xeTNnMTFXbWMxQjlOTkttTkx5b19EVlVZOThRRGNCX0FrR2dIVTZpUHQzblctejRubG4yTWNyajJVaU8yV3JoYjZ1T19HY1U2dHBlMVE2a2oyUHpBZFZtb2g0T3FtSWRaT0hscHhkdGMwNktlb092R2g4cUFWWE9QS2RCOHh6d1QteW5pcWc?oc=5"
+  ],
+  [
+   "11/06 14:40",
+   "시황",
+   "Calendar: What investors need to know for the week ahead - The Globe and Mail",
+   "The Globe and Mail",
+   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU11bU5JOU1DM19GN01ycjduTkVLT2djSXFGYzBOTVh3bDNRdlVxbVJmMlhRSFBmYlBWYXJuVWY5U0ZIb0laSE5tZFlWTFdZTUp3ZERnUmxMUlBTOUM1bldkT0hqMkVkOXRldFphM2htX2gtWFFVQnMxLVgwaXVtSVNFTmJfbWRIeFRaZW82QWJaT05ITDZWQUNJejFRSGhLNUZMTXNLVVIxMVRtd0FsbjhxX09HbXhHTG54cVM2WTc4VkhoSll4MXpwQ2Rhdmx1X3c?oc=5"
+  ],
+  [
+   "11/06 18:13",
+   "전망",
+   "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed - CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DRzNwcDZBTUtBbnFFZUZyZEJFQjRROGR1SjBkcEdPTGdpeUxMbWltUGN3VWJQV3JJelRCQ3o1emNWZHZZT2k0dUgwTFRyTkRhMGJ5ZXA0LW4zVkxSWTZGMURjR29OQ0V5TWlEUjUwbWRoZ3VHdVFweg?oc=5"
+  ]
+ ],
+ "flows": {
+  "title": "섹터별 자금 쏠림 (추정)",
+  "unit": "$M",
+  "blocks": [
+   {
+    "tab": "당일",
+    "sub": "상승 종목 대금 − 하락 종목 대금",
+    "items": [
+     {
+      "n": "산업재",
+      "v": 170479
+     }
+    ]
+   }
+  ],
+  "note": "미국은 투자자 유형별 매매 동향이 매일 공표되지 않아, 업종별로 오른 종목 거래대금에서 내린 종목 거래대금을 뺀 값을 대용치로 씁니다."
+ },
+ "rates": {
+  "title": "미 국채 금리",
+  "asof": "실시간 (Yahoo)",
+  "items": [
+   {
+    "n": "13주",
+    "v": 4,
+    "chg": 1.3000011
+   },
+   {
+    "n": "5년",
+    "v": 4.648,
+    "chg": 3.9999485000000004
+   },
+   {
+    "n": "10년",
+    "v": 4.859,
+    "chg": 2.2000313
+   },
+   {
+    "n": "30년",
+    "v": 5.2599998,
+    "chg": 0.89998245
+   }
+  ],
+  "note": "CBOE 국채 금리 지수 기준이며 변화는 전일 대비 bp입니다."
+ },
+ "est_sectors": {
+  "y0": [
+   {
+    "sec": "산업재",
+    "n": 1932,
+    "mcap": 98004367.0,
+    "up": 919,
+    "dn": 550,
+    "breadth": 19.1,
+    "agg1w": -0.04,
+    "med1w": 0.02,
+    "med4w": 0.59
+   }
+  ],
+  "y1": [
+   {
+    "sec": "산업재",
+    "n": 1930,
+    "mcap": 98184462.0,
+    "up": 844,
+    "dn": 715,
+    "breadth": 6.7,
+    "agg1w": 0.42,
+    "med1w": 0.0,
+    "med4w": 0.11
+   }
+  ]
+ },
+ "deriv": {
+  "vix": [
+   {
+    "s": "^VIX9D",
+    "n": "VIX 9일",
+    "px": 21.64,
+    "chg": 21.436586
+   },
+   {
+    "s": "^VIX",
+    "n": "VIX 1개월",
+    "px": 21.47,
+    "chg": 11.231884
+   },
+   {
+    "s": "^VIX3M",
+    "n": "VIX 3개월",
+    "px": 21.99,
+    "chg": 6.6440296
+   },
+   {
+    "s": "^VIX6M",
+    "n": "VIX 6개월",
+    "px": 22.99,
+    "chg": 4.35769
+   },
+   {
+    "s": "^VVIX",
+    "n": "VVIX (VIX의 변동성)",
+    "px": 106.08,
+    "chg": 4.4792314
+   },
+   {
+    "s": "^SKEW",
+    "n": "SKEW (꼬리 위험)",
+    "px": 147.14,
+    "chg": 0
+   },
+   {
+    "s": "^VXN",
+    "n": "VXN (나스닥100)",
+    "px": 32.2,
+    "chg": 9.641031
+   },
+   {
+    "s": "^OVX",
+    "n": "OVX (원유)",
+    "px": 49.25,
+    "chg": -2.0489333
+   },
+   {
+    "s": "^MOVE",
+    "n": "MOVE (미 국채)",
+    "px": 99.2651,
+    "chg": 0.48091674
+   }
+  ],
+  "opts": [
+   {
+    "sym": "SPY",
+    "px": 744.62,
+    "ts": 1794843262,
+    "pcr_oi": 2.09,
+    "pcr_vol": 1.65,
+    "cv": 1026168,
+    "pv": 1697561,
+    "coi": 3261001,
+    "poi": 6829738,
+    "gex": -10.85,
+    "near": {
+     "d": "2026-11-16",
+     "mp": 753,
+     "pcr": 1.0,
+     "iv": 0.145
+    },
+    "mon": {
+     "d": "2026-11-20",
+     "mp": 757,
+     "cw": 800,
+     "pw": 700,
+     "iv": 0.2147,
+     "skew": 11.7,
+     "oi": [
+      [
+       659.24,
+       233,
+       15640
+      ],
+      [
+       663.21,
+       70,
+       4877
+      ],
+      [
+       667.18,
+       468,
+       14345
+      ],
+      [
+       671.15,
+       105,
+       7116
+      ],
+      [
+       679.09,
+       426,
+       23276
+      ],
+      [
+       683.06,
+       196,
+       9071
+      ],
+      [
+       687.04,
+       1392,
+       28700
+      ],
+      [
+       694.98,
+       181,
+       13623
+      ],
+      [
+       698.95,
+       6745,
+       76597
+      ],
+      [
+       702.92,
+       643,
+       35107
+      ],
+      [
+       706.89,
+       491,
+       55673
+      ],
+      [
+       710.86,
+       147,
+       22842
+      ],
+      [
+       714.84,
+       299,
+       91056
+      ],
+      [
+       718.81,
+       2190,
+       91092
+      ],
+      [
+       722.78,
+       2522,
+       126361
+      ],
+      [
+       726.75,
+       7294,
+       124190
+      ],
+      [
+       730.72,
+       4312,
+       57823
+      ],
+      [
+       734.69,
+       7941,
+       65447
+      ],
+      [
+       738.66,
+       7001,
+       67865
+      ],
+      [
+       742.63,
+       9364,
+       46632
+      ],
+      [
+       746.61,
+       21592,
+       71124
+      ],
+      [
+       750.58,
+       9675,
+       18853
+      ],
+      [
+       754.55,
+       23885,
+       48721
+      ],
+      [
+       758.52,
+       23877,
+       29425
+      ],
+      [
+       762.49,
+       34348,
+       25174
+      ],
+      [
+       766.46,
+       42916,
+       37433
+      ],
+      [
+       770.43,
+       27373,
+       13109
+      ],
+      [
+       774.4,
+       37284,
+       2674
+      ],
+      [
+       778.38,
+       39061,
+       635
+      ],
+      [
+       782.35,
+       29465,
+       50
+      ],
+      [
+       786.32,
+       38682,
+       10
+      ],
+      [
+       790.29,
+       16961,
+       0
+      ],
+      [
+       794.26,
+       30424,
+       1
+      ],
+      [
+       798.23,
+       170093,
+       8
+      ],
+      [
+       802.2,
+       16160,
+       14
+      ],
+      [
+       806.18,
+       52915,
+       6
+      ],
+      [
+       810.15,
+       13582,
+       0
+      ],
+      [
+       814.12,
+       22229,
+       2
+      ],
+      [
+       818.09,
+       39616,
+       0
+      ],
+      [
+       822.06,
+       10118,
+       0
+      ],
+      [
+       826.03,
+       5331,
+       1
+      ]
+     ]
+    },
+    "exps": [
+     {
+      "d": "2026-11-16",
+      "dte": 0,
+      "coi": 251061,
+      "poi": 252054,
+      "cv": 594600,
+      "pv": 1136332,
+      "pcr_oi": 1.0,
+      "mp": 753,
+      "atm_iv": 0.145,
+      "gex": -957.0
+     },
+     {
+      "d": "2026-11-17",
+      "dte": 1,
+      "coi": 73826,
+      "poi": 73343,
+      "cv": 86583,
+      "pv": 141125,
+      "pcr_oi": 0.99,
+      "mp": 753,
+      "atm_iv": 0.1962,
+      "gex": -406.4
+     },
+     {
+      "d": "2026-11-18",
+      "dte": 2,
+      "coi": 78718,
+      "poi": 95387,
+      "cv": 40509,
+      "pv": 50030,
+      "pcr_oi": 1.21,
+      "mp": 755,
+      "atm_iv": 0.2125,
+      "gex": -413.5
+     },
+     {
+      "d": "2026-11-19",
+      "dte": 3,
+      "coi": 38828,
+      "poi": 68133,
+      "cv": 25551,
+      "pv": 14123,
+      "pcr_oi": 1.75,
+      "mp": 754,
+      "atm_iv": 0.2133,
+      "gex": -185.9
+     },
+     {
+      "d": "2026-11-20",
+      "dte": 4,
+      "coi": 854891,
+      "poi": 2937274,
+      "cv": 88889,
+      "pv": 161501,
+      "pcr_oi": 3.44,
+      "mp": 757,
+      "atm_iv": 0.2147,
+      "gex": -6436.1
+     },
+     {
+      "d": "2026-11-23",
+      "dte": 7,
+      "coi": 20774,
+      "poi": 27170,
+      "cv": 27633,
+      "pv": 13698,
+      "pcr_oi": 1.31,
+      "mp": 755,
+      "atm_iv": 0.1856,
+      "gex": -125.0
+     },
+     {
+      "d": "2026-11-24",
+      "dte": 8,
+      "coi": 17981,
+      "poi": 15910,
+      "cv": 16225,
+      "pv": 3088,
+      "pcr_oi": 0.88,
+      "mp": 754,
+      "atm_iv": 0.1904,
+      "gex": -49.9
+     },
+     {
+      "d": "2026-11-25",
+      "dte": 9,
+      "coi": 13155,
+      "poi": 13900,
+      "cv": 36100,
+      "pv": 2651,
+      "pcr_oi": 1.06,
+      "mp": 755,
+      "atm_iv": 0.1923,
+      "gex": -53.8
+     },
+     {
+      "d": "2026-11-27",
+      "dte": 11,
+      "coi": 231478,
+      "poi": 184973,
+      "cv": 25653,
+      "pv": 20469,
+      "pcr_oi": 0.8,
+      "mp": 759,
+      "atm_iv": 0.184,
+      "gex": -289.7
+     },
+     {
+      "d": "2026-11-30",
+      "dte": 14,
+      "coi": 256700,
+      "poi": 605330,
+      "cv": 33443,
+      "pv": 39948,
+      "pcr_oi": 2.36,
+      "mp": 751,
+      "atm_iv": 0.1759,
+      "gex": -1171.6
+     },
+     {
+      "d": "2026-12-04",
+      "dte": 18,
+      "coi": 139474,
+      "poi": 144138,
+      "cv": 7089,
+      "pv": 9073,
+      "pcr_oi": 1.03,
+      "mp": 758,
+      "atm_iv": 0.1828,
+      "gex": -94.4
+     },
+     {
+      "d": "2026-12-11",
+      "dte": 25,
+      "coi": 78226,
+      "poi": 103246,
+      "cv": 5877,
+      "pv": 12412,
+      "pcr_oi": 1.32,
+      "mp": 763,
+      "atm_iv": 0.1867,
+      "gex": -152.3
+     },
+     {
+      "d": "2026-12-18",
+      "dte": 32,
+      "coi": 1182440,
+      "poi": 2292373,
+      "cv": 34974,
+      "pv": 80824,
+      "pcr_oi": 1.94,
+      "mp": 747,
+      "atm_iv": 0.182,
+      "gex": -528.1
+     },
+     {
+      "d": "2026-12-24",
+      "dte": 38,
+      "coi": 23449,
+      "poi": 16507,
+      "cv": 3042,
+      "pv": 12287,
+      "pcr_oi": 0.7,
+      "mp": 700,
+      "atm_iv": 0.1768,
+      "gex": 17.5
+     }
+    ]
+   },
+   {
+    "sym": "QQQ",
+    "px": 664.98,
+    "ts": 1794843265,
+    "pcr_oi": 1.07,
+    "pcr_vol": 1.24,
+    "cv": 845439,
+    "pv": 1045177,
+    "coi": 3365651,
+    "poi": 3609934,
+    "gex": -5.36,
+    "near": {
+     "d": "2026-11-16",
+     "mp": 680,
+     "pcr": 1.38,
+     "iv": 0.234
+    },
+    "mon": {
+     "d": "2026-11-20",
+     "mp": 696,
+     "cw": 720,
+     "pw": 600,
+     "iv": 0.3714,
+     "skew": 9.0,
+     "oi": [
+      [
+       585.18,
+       1,
+       1742
+      ],
+      [
+       588.73,
+       46,
+       8639
+      ],
+      [
+       592.28,
+       51,
+       6438
+      ],
+      [
+       595.82,
+       0,
+       1488
+      ],
+      [
+       599.37,
+       352,
+       56491
+      ],
+      [
+       602.92,
+       136,
+       6658
+      ],
+      [
+       606.46,
+       264,
+       15470
+      ],
+      [
+       610.01,
+       1,
+       986
+      ],
+      [
+       613.55,
+       218,
+       9965
+      ],
+      [
+       617.1,
+       350,
+       20047
+      ],
+      [
+       620.65,
+       34,
+       3088
+      ],
+      [
+       624.19,
+       257,
+       27764
+      ],
+      [
+       627.74,
+       294,
+       20144
+      ],
+      [
+       631.29,
+       4,
+       5163
+      ],
+      [
+       634.83,
+       435,
+       10861
+      ],
+      [
+       638.38,
+       6019,
+       41211
+      ],
+      [
+       641.93,
+       346,
+       18842
+      ],
+      [
+       645.47,
+       160,
+       3759
+      ],
+      [
+       649.02,
+       6233,
+       51951
+      ],
+      [
+       652.57,
+       5935,
+       28403
+      ],
+      [
+       656.11,
+       662,
+       3636
+      ],
+      [
+       659.66,
+       6347,
+       24435
+      ],
+      [
+       663.21,
+       3537,
+       13961
+      ],
+      [
+       666.75,
+       18024,
+       38894
+      ],
+      [
+       670.3,
+       1045,
+       6017
+      ],
+      [
+       673.85,
+       10857,
+       36165
+      ],
+      [
+       677.39,
+       37747,
+       90420
+      ],
+      [
+       680.94,
+       9853,
+       8538
+      ],
+      [
+       684.49,
+       15947,
+       33207
+      ],
+      [
+       688.03,
+       21219,
+       40512
+      ],
+      [
+       691.58,
+       29835,
+       19567
+      ],
+      [
+       695.13,
+       23555,
+       13050
+      ],
+      [
+       698.67,
+       44802,
+       41297
+      ],
+      [
+       702.22,
+       34739,
+       26961
+      ],
+      [
+       705.77,
+       9752,
+       8133
+      ],
+      [
+       709.31,
+       32511,
+       28069
+      ],
+      [
+       712.86,
+       31241,
+       18707
+      ],
+      [
+       716.41,
+       5273,
+       4331
+      ],
+      [
+       719.95,
+       59983,
+       20580
+      ],
+      [
+       723.5,
+       30375,
+       9908
+      ],
+      [
+       727.04,
+       25185,
+       2749
+      ],
+      [
+       730.59,
+       7604,
+       11
+      ],
+      [
+       734.14,
+       16121,
+       501
+      ],
+      [
+       737.68,
+       38957,
+       2053
+      ],
+      [
+       741.23,
+       6462,
+       2045
+      ]
+     ]
+    },
+    "exps": [
+     {
+      "d": "2026-11-16",
+      "dte": 0,
+      "coi": 149585,
+      "poi": 207145,
+      "cv": 588565,
+      "pv": 721812,
+      "pcr_oi": 1.38,
+      "mp": 680,
+      "atm_iv": 0.234,
+      "gex": -1224.3
+     },
+     {
+      "d": "2026-11-17",
+      "dte": 1,
+      "coi": 55557,
+      "poi": 80354,
+      "cv": 58793,
+      "pv": 75336,
+      "pcr_oi": 1.45,
+      "mp": 680,
+      "atm_iv": 0.3174,
+      "gex": -266.7
+     },
+     {
+      "d": "2026-11-18",
+      "dte": 2,
+      "coi": 37387,
+      "poi": 78703,
+      "cv": 21619,
+      "pv": 19500,
+      "pcr_oi": 2.11,
+      "mp": 678,
+      "atm_iv": 0.358,
+      "gex": -191.6
+     },
+     {
+      "d": "2026-11-19",
+      "dte": 3,
+      "coi": 31210,
+      "poi": 55032,
+      "cv": 8376,
+      "pv": 6603,
+      "pcr_oi": 1.76,
+      "mp": 680,
+      "atm_iv": 0.3659,
+      "gex": -104.7
+     },
+     {
+      "d": "2026-11-20",
+      "dte": 4,
+      "coi": 1054953,
+      "poi": 1032350,
+      "cv": 78913,
+      "pv": 120308,
+      "pcr_oi": 0.98,
+      "mp": 696,
+      "atm_iv": 0.3714,
+      "gex": -2022.2
+     },
+     {
+      "d": "2026-11-23",
+      "dte": 7,
+      "coi": 28653,
+      "poi": 19368,
+      "cv": 5128,
+      "pv": 5821,
+      "pcr_oi": 0.68,
+      "mp": 685,
+      "atm_iv": 0.3223,
+      "gex": -20.8
+     },
+     {
+      "d": "2026-11-24",
+      "dte": 8,
+      "coi": 12074,
+      "poi": 23022,
+      "cv": 3741,
+      "pv": 2561,
+      "pcr_oi": 1.91,
+      "mp": 685,
+      "atm_iv": 0.3212,
+      "gex": -61.0
+     },
+     {
+      "d": "2026-11-25",
+      "dte": 9,
+      "coi": 13582,
+      "poi": 9312,
+      "cv": 3603,
+      "pv": 2853,
+      "pcr_oi": 0.69,
+      "mp": 685,
+      "atm_iv": 0.3283,
+      "gex": -6.5
+     },
+     {
+      "d": "2026-11-27",
+      "dte": 11,
+      "coi": 118713,
+      "poi": 114194,
+      "cv": 23191,
+      "pv": 8470,
+      "pcr_oi": 0.96,
+      "mp": 690,
+      "atm_iv": 0.3101,
+      "gex": -158.6
+     },
+     {
+      "d": "2026-11-30",
+      "dte": 14,
+      "coi": 174940,
+      "poi": 234083,
+      "cv": 14405,
+      "pv": 14359,
+      "pcr_oi": 1.34,
+      "mp": 690,
+      "atm_iv": 0.2957,
+      "gex": -461.7
+     },
+     {
+      "d": "2026-12-04",
+      "dte": 18,
+      "coi": 59481,
+      "poi": 67797,
+      "cv": 11181,
+      "pv": 3870,
+      "pcr_oi": 1.14,
+      "mp": 685,
+      "atm_iv": 0.3046,
+      "gex": -53.6
+     },
+     {
+      "d": "2026-12-11",
+      "dte": 25,
+      "coi": 53342,
+      "poi": 60065,
+      "cv": 5872,
+      "pv": 4979,
+      "pcr_oi": 1.13,
+      "mp": 685,
+      "atm_iv": 0.2997,
+      "gex": -17.7
+     },
+     {
+      "d": "2026-12-18",
+      "dte": 32,
+      "coi": 1560364,
+      "poi": 1611898,
+      "cv": 18584,
+      "pv": 54098,
+      "pcr_oi": 1.03,
+      "mp": 690,
+      "atm_iv": 0.2961,
+      "gex": -761.2
+     },
+     {
+      "d": "2026-12-24",
+      "dte": 38,
+      "coi": 15810,
+      "poi": 16611,
+      "cv": 3468,
+      "pv": 4607,
+      "pcr_oi": 1.05,
+      "mp": 681,
+      "atm_iv": 0.2843,
+      "gex": -6.7
+     }
+    ]
+   },
+   {
+    "sym": "IWM",
+    "px": 274.5,
+    "ts": 1794843268,
+    "pcr_oi": 2.32,
+    "pcr_vol": 2.75,
+    "cv": 108709,
+    "pv": 298731,
+    "coi": 1779567,
+    "poi": 4131877,
+    "gex": -3.92,
+    "near": {
+     "d": "2026-11-16",
+     "mp": 278,
+     "pcr": 1.34,
+     "iv": 0.1587
+    },
+    "mon": {
+     "d": "2026-11-20",
+     "mp": 280,
+     "cw": 285,
+     "pw": 265,
+     "iv": 0.2349,
+     "skew": 7.5,
+     "oi": [
+      [
+       241.56,
+       23,
+       1769
+      ],
+      [
+       243.02,
+       13,
+       421
+      ],
+      [
+       244.49,
+       214,
+       10756
+      ],
+      [
+       245.95,
+       20,
+       5063
+      ],
+      [
+       247.42,
+       30,
+       1494
+      ],
+      [
+       248.88,
+       3902,
+       60089
+      ],
+      [
+       250.34,
+       52,
+       2002
+      ],
+      [
+       251.81,
+       75,
+       9603
+      ],
+      [
+       253.27,
+       37,
+       2322
+      ],
+      [
+       254.74,
+       324,
+       39212
+      ],
+      [
+       256.2,
+       146,
+       28943
+      ],
+      [
+       257.66,
+       507,
+       101908
+      ],
+      [
+       259.13,
+       843,
+       102363
+      ],
+      [
+       260.59,
+       233,
+       134951
+      ],
+      [
+       262.06,
+       113,
+       87251
+      ],
+      [
+       263.52,
+       239,
+       51089
+      ],
+      [
+       264.98,
+       1445,
+       225560
+      ],
+      [
+       266.45,
+       170,
+       47013
+      ],
+      [
+       267.91,
+       1596,
+       125413
+      ],
+      [
+       269.38,
+       4158,
+       126660
+      ],
+      [
+       270.84,
+       17097,
+       74113
+      ],
+      [
+       272.3,
+       2499,
+       16499
+      ],
+      [
+       273.77,
+       11019,
+       52264
+      ],
+      [
+       275.23,
+       4860,
+       6422
+      ],
+      [
+       276.7,
+       8596,
+       20130
+      ],
+      [
+       278.16,
+       6643,
+       10467
+      ],
+      [
+       279.62,
+       30769,
+       38588
+      ],
+      [
+       281.09,
+       6338,
+       3060
+      ],
+      [
+       282.55,
+       23667,
+       5631
+      ],
+      [
+       284.02,
+       53547,
+       22417
+      ],
+      [
+       285.48,
+       4732,
+       574
+      ],
+      [
+       286.94,
+       29907,
+       470
+      ],
+      [
+       288.41,
+       6336,
+       31
+      ],
+      [
+       289.87,
+       44757,
+       13481
+      ],
+      [
+       291.34,
+       12947,
+       0
+      ],
+      [
+       292.8,
+       38979,
+       3
+      ],
+      [
+       294.26,
+       32203,
+       111
+      ],
+      [
+       295.73,
+       14003,
+       0
+      ],
+      [
+       297.19,
+       12266,
+       0
+      ],
+      [
+       298.66,
+       36943,
+       5
+      ],
+      [
+       300.12,
+       941,
+       0
+      ],
+      [
+       301.58,
+       4574,
+       0
+      ],
+      [
+       303.05,
+       938,
+       1
+      ],
+      [
+       304.51,
+       21743,
+       6
+      ],
+      [
+       305.98,
+       1907,
+       0
+      ]
+     ]
+    },
+    "exps": [
+     {
+      "d": "2026-11-16",
+      "dte": 0,
+      "coi": 33080,
+      "poi": 44330,
+      "cv": 52360,
+      "pv": 123395,
+      "pcr_oi": 1.34,
+      "mp": 278,
+      "atm_iv": 0.1587,
+      "gex": -168.9
+     },
+     {
+      "d": "2026-11-17",
+      "dte": 1,
+      "coi": 13119,
+      "poi": 16412,
+      "cv": 5315,
+      "pv": 10032,
+      "pcr_oi": 1.25,
+      "mp": 280,
+      "atm_iv": 0.2022,
+      "gex": -46.4
+     },
+     {
+      "d": "2026-11-18",
+      "dte": 2,
+      "coi": 16132,
+      "poi": 17999,
+      "cv": 3118,
+      "pv": 4503,
+      "pcr_oi": 1.12,
+      "mp": 278,
+      "atm_iv": 0.2199,
+      "gex": -54.8
+     },
+     {
+      "d": "2026-11-19",
+      "dte": 3,
+      "coi": 13849,
+      "poi": 24492,
+      "cv": 1539,
+      "pv": 4365,
+      "pcr_oi": 1.77,
+      "mp": 279,
+      "atm_iv": 0.2263,
+      "gex": -47.7
+     },
+     {
+      "d": "2026-11-20",
+      "dte": 4,
+      "coi": 546500,
+      "poi": 1538045,
+      "cv": 23594,
+      "pv": 39139,
+      "pcr_oi": 2.81,
+      "mp": 280,
+      "atm_iv": 0.2349,
+      "gex": -2257.9
+     },
+     {
+      "d": "2026-11-23",
+      "dte": 7,
+      "coi": 5720,
+      "poi": 6261,
+      "cv": 3570,
+      "pv": 1502,
+      "pcr_oi": 1.09,
+      "mp": 279,
+      "atm_iv": 0.2086,
+      "gex": -7.0
+     },
+     {
+      "d": "2026-11-24",
+      "dte": 8,
+      "coi": 2931,
+      "poi": 5378,
+      "cv": 226,
+      "pv": 926,
+      "pcr_oi": 1.83,
+      "mp": 279,
+      "atm_iv": 0.2118,
+      "gex": -12.1
+     },
+     {
+      "d": "2026-11-25",
+      "dte": 9,
+      "coi": 1123,
+      "poi": 2748,
+      "cv": 378,
+      "pv": 324,
+      "pcr_oi": 2.45,
+      "mp": 278,
+      "atm_iv": 0.214,
+      "gex": -4.6
+     },
+     {
+      "d": "2026-11-27",
+      "dte": 11,
+      "coi": 55700,
+      "poi": 152760,
+      "cv": 3184,
+      "pv": 4024,
+      "pcr_oi": 2.74,
+      "mp": 277.5,
+      "atm_iv": 0.2051,
+      "gex": -305.2
+     },
+     {
+      "d": "2026-12-04",
+      "dte": 18,
+      "coi": 37416,
+      "poi": 69936,
+      "cv": 7917,
+      "pv": 3249,
+      "pcr_oi": 1.87,
+      "mp": 277,
+      "atm_iv": 0.2116,
+      "gex": -117.7
+     },
+     {
+      "d": "2026-12-11",
+      "dte": 25,
+      "coi": 34920,
+      "poi": 26392,
+      "cv": 934,
+      "pv": 4102,
+      "pcr_oi": 0.76,
+      "mp": 280,
+      "atm_iv": 0.2213,
+      "gex": -14.0
+     },
+     {
+      "d": "2026-12-18",
+      "dte": 32,
+      "coi": 957612,
+      "poi": 2138980,
+      "cv": 4580,
+      "pv": 101789,
+      "pcr_oi": 2.23,
+      "mp": 275,
+      "atm_iv": 0.2116,
+      "gex": -862.0
+     },
+     {
+      "d": "2026-12-24",
+      "dte": 38,
+      "coi": 2688,
+      "poi": 4449,
+      "cv": 340,
+      "pv": 558,
+      "pcr_oi": 1.66,
+      "mp": 276,
+      "atm_iv": 0.2092,
+      "gex": -2.0
+     },
+     {
+      "d": "2026-12-31",
+      "dte": 45,
+      "coi": 58777,
+      "poi": 83695,
+      "cv": 1654,
+      "pv": 823,
+      "pcr_oi": 1.42,
+      "mp": 290,
+      "atm_iv": 0.2055,
+      "gex": -19.8
+     }
+    ]
+   },
+   {
+    "sym": "NVDA",
+    "px": 159.46,
+    "ts": 1794843271,
+    "pcr_oi": 0.77,
+    "pcr_vol": 0.58,
+    "cv": 782271,
+    "pv": 453443,
+    "coi": 4127721,
+    "poi": 3196513,
+    "gex": -0.12,
+    "near": {
+     "d": "2026-11-16",
+     "mp": 162.5,
+     "pcr": 0.57,
+     "iv": 0.5103
+    },
+    "mon": {
+     "d": "2026-11-20",
+     "mp": 185,
+     "cw": 175,
+     "pw": 150,
+     "iv": 1.0857,
+     "skew": -2.7,
+     "oi": [
+      [
+       141,
+       30,
+       718
+      ],
+      [
+       142,
+       27,
+       2170
+      ],
+      [
+       143,
+       64,
+       1150
+      ],
+      [
+       144,
+       78,
+       1066
+      ],
+      [
+       145,
+       1779,
+       20628
+      ],
+      [
+       146,
+       271,
+       1163
+      ],
+      [
+       147,
+       86,
+       1963
+      ],
+      [
+       148,
+       223,
+       3507
+      ],
+      [
+       149,
+       1794,
+       1885
+      ],
+      [
+       150,
+       6268,
+       45124
+      ],
+      [
+       152.5,
+       833,
+       4669
+      ],
+      [
+       155,
+       4967,
+       18789
+      ],
+      [
+       157.5,
+       1037,
+       3342
+      ],
+      [
+       160,
+       14404,
+       44230
+      ],
+      [
+       162.5,
+       4642,
+       4530
+      ],
+      [
+       165,
+       14291,
+       23373
+      ],
+      [
+       167.5,
+       18396,
+       6124
+      ],
+      [
+       170,
+       47389,
+       39604
+      ],
+      [
+       172.5,
+       32177,
+       8479
+      ],
+      [
+       175,
+       51939,
+       30320
+      ],
+      [
+       177.5,
+       41227,
+       2347
+      ]
+     ]
+    },
+    "exps": [
+     {
+      "d": "2026-11-16",
+      "dte": 0,
+      "coi": 313987,
+      "poi": 179447,
+      "cv": 479679,
+      "pv": 300507,
+      "pcr_oi": 0.57,
+      "mp": 162.5,
+      "atm_iv": 0.5103,
+      "gex": -107.1
+     },
+     {
+      "d": "2026-11-18",
+      "dte": 2,
+      "coi": 171626,
+      "poi": 143622,
+      "cv": 77345,
+      "pv": 47144,
+      "pcr_oi": 0.84,
+      "mp": 165,
+      "atm_iv": 1.2456,
+      "gex": -11.0
+     },
+     {
+      "d": "2026-11-20",
+      "dte": 4,
+      "coi": 1377030,
+      "poi": 932790,
+      "cv": 114463,
+      "pv": 52115,
+      "pcr_oi": 0.68,
+      "mp": 185,
+      "atm_iv": 1.0857,
+      "gex": 3.0
+     },
+     {
+      "d": "2026-11-23",
+      "dte": 7,
+      "coi": 33904,
+      "poi": 18613,
+      "cv": 11417,
+      "pv": 5725,
+      "pcr_oi": 0.55,
+      "mp": 165,
+      "atm_iv": 0.9009,
+      "gex": 3.4
+     },
+     {
+      "d": "2026-11-25",
+      "dte": 9,
+      "coi": 19689,
+      "poi": 5734,
+      "cv": 2924,
+      "pv": 1150,
+      "pcr_oi": 0.29,
+      "mp": 162.5,
+      "atm_iv": 0.8723,
+      "gex": 3.4
+     },
+     {
+      "d": "2026-11-27",
+      "dte": 11,
+      "coi": 183566,
+      "poi": 153325,
+      "cv": 17018,
+      "pv": 8847,
+      "pcr_oi": 0.84,
+      "mp": 182.5,
+      "atm_iv": 0.8049,
+      "gex": -9.5
+     },
+     {
+      "d": "2026-12-04",
+      "dte": 18,
+      "coi": 122774,
+      "poi": 67667,
+      "cv": 12781,
+      "pv": 3875,
+      "pcr_oi": 0.55,
+      "mp": 175,
+      "atm_iv": 0.7208,
+      "gex": 4.2
+     },
+     {
+      "d": "2026-12-11",
+      "dte": 25,
+      "coi": 64805,
+      "poi": 46727,
+      "cv": 15362,
+      "pv": 2929,
+      "pcr_oi": 0.72,
+      "mp": 175,
+      "atm_iv": 0.6693,
+      "gex": 2.3
+     },
+     {
+      "d": "2026-12-18",
+      "dte": 32,
+      "coi": 1760657,
+      "poi": 1596932,
+      "cv": 42285,
+      "pv": 28392,
+      "pcr_oi": 0.91,
+      "mp": 175,
+      "atm_iv": 0.6399,
+      "gex": -8.5
+     },
+     {
+      "d": "2026-12-24",
+      "dte": 38,
+      "coi": 64220,
+      "poi": 39528,
+      "cv": 3702,
+      "pv": 1399,
+      "pcr_oi": 0.62,
+      "mp": 170,
+      "atm_iv": 0.6173,
+      "gex": 3.4
+     },
+     {
+      "d": "2026-12-31",
+      "dte": 45,
+      "coi": 15463,
+      "poi": 12128,
+      "cv": 5295,
+      "pv": 1360,
+      "pcr_oi": 0.78,
+      "mp": 160,
+      "atm_iv": 0.5972,
+      "gex": 0.5
+     }
+    ]
+   },
+   {
+    "sym": "TSLA",
+    "px": 378.67,
+    "ts": 1794843274,
+    "pcr_oi": 1.03,
+    "pcr_vol": 1.09,
+    "cv": 294256,
+    "pv": 321983,
+    "coi": 1025620,
+    "poi": 1060615,
+    "gex": 0.06,
+    "near": {
+     "d": "2026-11-16",
+     "mp": 385,
+     "pcr": 0.71,
+     "iv": 0.2922
+    },
+    "mon": {
+     "d": "2026-11-20",
+     "mp": 375,
+     "cw": 400,
+     "pw": 350,
+     "iv": 0.5271,
+     "skew": 7.9,
+     "oi": [
+      [
+       335,
+       608,
+       4568
+      ],
+      [
+       337.5,
+       62,
+       761
+      ],
+      [
+       340,
+       1635,
+       6786
+      ],
+      [
+       342.5,
+       182,
+       1055
+      ],
+      [
+       345,
+       979,
+       4210
+      ],
+      [
+       347.5,
+       332,
+       1026
+      ],
+      [
+       350,
+       6251,
+       11866
+      ],
+      [
+       352.5,
+       395,
+       723
+      ],
+      [
+       355,
+       3643,
+       4964
+      ],
+      [
+       357.5,
+       374,
+       1580
+      ],
+      [
+       360,
+       6524,
+       9376
+      ],
+      [
+       362.5,
+       914,
+       928
+      ],
+      [
+       365,
+       3158,
+       3497
+      ],
+      [
+       367.5,
+       763,
+       814
+      ],
+      [
+       370,
+       6147,
+       5686
+      ],
+      [
+       372.5,
+       811,
+       2614
+      ],
+      [
+       375,
+       4697,
+       4345
+      ],
+      [
+       377.5,
+       2981,
+       1137
+      ],
+      [
+       380,
+       9929,
+       10750
+      ],
+      [
+       382.5,
+       1398,
+       2307
+      ],
+      [
+       385,
+       4083,
+       4187
+      ],
+      [
+       387.5,
+       433,
+       539
+      ],
+      [
+       390,
+       4491,
+       5276
+      ],
+      [
+       392.5,
+       1073,
+       332
+      ],
+      [
+       395,
+       6636,
+       3178
+      ],
+      [
+       397.5,
+       10885,
+       72
+      ],
+      [
+       400,
+       25777,
+       8149
+      ],
+      [
+       402.5,
+       611,
+       49
+      ],
+      [
+       405,
+       6129,
+       2923
+      ],
+      [
+       407.5,
+       2158,
+       50
+      ],
+      [
+       410,
+       17787,
+       2167
+      ],
+      [
+       412.5,
+       3984,
+       3
+      ],
+      [
+       415,
+       6144,
+       476
+      ],
+      [
+       417.5,
+       300,
+       61
+      ],
+      [
+       420,
+       14874,
+       2070
+      ],
+      [
+       422.5,
+       442,
+       0
+      ]
+     ]
+    },
+    "exps": [
+     {
+      "d": "2026-11-16",
+      "dte": 0,
+      "coi": 77499,
+      "poi": 55386,
+      "cv": 197463,
+      "pv": 224620,
+      "pcr_oi": 0.71,
+      "mp": 385,
+      "atm_iv": 0.2922,
+      "gex": -28.1
+     },
+     {
+      "d": "2026-11-18",
+      "dte": 2,
+      "coi": 19649,
+      "poi": 22169,
+      "cv": 24607,
+      "pv": 24209,
+      "pcr_oi": 1.13,
+      "mp": 390,
+      "atm_iv": 0.5045,
+      "gex": -8.2
+     },
+     {
+      "d": "2026-11-20",
+      "dte": 4,
+      "coi": 345017,
+      "poi": 481454,
+      "cv": 46362,
+      "pv": 46817,
+      "pcr_oi": 1.4,
+      "mp": 375,
+      "atm_iv": 0.5271,
+      "gex": 68.4
+     },
+     {
+      "d": "2026-11-23",
+      "dte": 7,
+      "coi": 18896,
+      "poi": 5124,
+      "cv": 2338,
+      "pv": 1090,
+      "pcr_oi": 0.27,
+      "mp": 390,
+      "atm_iv": 0.4862,
+      "gex": 2.2
+     },
+     {
+      "d": "2026-11-25",
+      "dte": 9,
+      "coi": 1660,
+      "poi": 3234,
+      "cv": 873,
+      "pv": 834,
+      "pcr_oi": 1.95,
+      "mp": 390,
+      "atm_iv": 0.5071,
+      "gex": -0.3
+     },
+     {
+      "d": "2026-11-27",
+      "dte": 11,
+      "coi": 56047,
+      "poi": 51536,
+      "cv": 6459,
+      "pv": 5174,
+      "pcr_oi": 0.92,
+      "mp": 375,
+      "atm_iv": 0.4739,
+      "gex": 15.7
+     },
+     {
+      "d": "2026-12-04",
+      "dte": 18,
+      "coi": 37389,
+      "poi": 29941,
+      "cv": 2962,
+      "pv": 2934,
+      "pcr_oi": 0.8,
+      "mp": 380,
+      "atm_iv": 0.487,
+      "gex": 7.5
+     },
+     {
+      "d": "2026-12-11",
+      "dte": 25,
+      "coi": 19707,
+      "poi": 25076,
+      "cv": 1960,
+      "pv": 2386,
+      "pcr_oi": 1.27,
+      "mp": 375,
+      "atm_iv": 0.4956,
+      "gex": -0.7
+     },
+     {
+      "d": "2026-12-18",
+      "dte": 32,
+      "coi": 438588,
+      "poi": 381002,
+      "cv": 9337,
+      "pv": 11876,
+      "pcr_oi": 0.87,
+      "mp": 350,
+      "atm_iv": 0.4829,
+      "gex": 3.2
+     },
+     {
+      "d": "2026-12-24",
+      "dte": 38,
+      "coi": 10215,
+      "poi": 5329,
+      "cv": 1505,
+      "pv": 1598,
+      "pcr_oi": 0.52,
+      "mp": 380,
+      "atm_iv": 0.4827,
+      "gex": 2.8
+     },
+     {
+      "d": "2026-12-31",
+      "dte": 45,
+      "coi": 953,
+      "poi": 364,
+      "cv": 390,
+      "pv": 445,
+      "pcr_oi": 0.38,
+      "mp": 380,
+      "atm_iv": 0.4887,
+      "gex": 0.4
+     }
+    ]
+   }
+  ],
+  "asof": "11/16 10:34"
+ }
+}

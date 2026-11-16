@@ -1,0 +1,411 @@
+{
+ "asof": "11/6 (금) 종가",
+ "summary": [
+  "이 보드의 미국 데이터는 현지 11월 6일(금) 종가 기준입니다. S&P500 +0.31%(7,376.86), 나스닥 +1.09%(24,579), 다우 -0.46%로, 전날 S&P500 -4.4%·나스닥 -5.5%의 폭락(18개월 만에 최악) 뒤 저가 매수가 들어왔습니다. 필라델피아 반도체 +4.2%, VIX는 25.6으로 9% 내렸습니다.",
+  "폭락의 배경은 11월 3일 중간선거입니다. 민주당이 상·하원을 가져가며 AI 데이터센터에 대한 청문·조사, 세제 혜택 축소, 전력·용수 비용 부담 같은 감독 강화가 예상됐습니다. 데이터센터 운영·전력주(비스트라, GE버노바, 코어위브)가 급락한 반면, 기존 데이터센터 자산 가치가 오를 하이퍼스케일러와 청정에너지·병원주는 올랐습니다.",
+  "금요일 반등은 반도체가 이끌었습니다. AMD +11%, 램리서치 +8.2%(250억 달러 자사주 매입), 마이크론 +5.1%, 엔비디아 +2.8%, 비스트라 +10.6%, 스페이스X +8.6%입니다. 실적이 실망스러운 종목은 크게 빠졌습니다: 드래프트킹스 -21%, 액손 -18%, 아틀라시안 -16%.",
+  "10월 고용은 16만 5천 명으로 예상(6만 5천 명)을 크게 웃돌았고 실업률은 4.1%로 내려갔습니다. 10년물 금리는 4.86%로 올랐고, 12월 금리 인상 확률은 약 73%까지 높아졌습니다(CME FedWatch, 슈왑 집계). 유가는 중간선거 뒤 이란 전쟁 조기 종식 기대로 한 주 내내 밀려 WTI 90.8달러입니다.",
+  "시장 폭은 상승 3,268 · 하락 2,434로 회복됐지만 52주 신고가 91 · 신저가 404입니다. S&P500은 1주 -2.7%, 4주 -5.6%입니다. 다음 주는 11/10 CPI, 11/13 PPI가 있고, 11/17 엔비디아 실적이 AI 투자 심리의 분수령이 될 전망입니다."
+ ],
+ "ideas": {
+  "asof": "2026-11-06 (현지) 종가 기준 · 아이디어 5개",
+  "items": [
+   {
+    "kind": "hot",
+    "title": "AI 인프라, 폭락 후 첫 반등",
+    "strength": 3,
+    "trend": "관찰",
+    "thesis": "5일 반도체는 2020년 이후 최악의 하루를 보냈고 엔비디아·퀄컴은 9% 넘게 빠졌습니다. 6일 AMD +11%, 램리서치 +8.2%, 마이크론 +5.1%로 반등했지만 4주 수익률은 여전히 -19~-44%입니다. 11/17 엔비디아 실적이 반등 지속을 가를 분수령입니다.",
+    "why": "근거: 사상 최대급 낙폭 이후 거래대금 상위 1~3위가 엔비디아·마이크론·AMD로 저가 매수 유입. 약점: 규제 우려의 실체가 아직 불분명합니다.",
+    "codes": [
+     "NVDA",
+     "AMD",
+     "MU",
+     "AVGO",
+     "LRCX",
+     "CRWV",
+     "VST",
+     "GEV"
+    ],
+    "evidence": [
+     {
+      "d": "11/05",
+      "t": "AI 붕괴: 엔비디아·퀄컴 9% 넘게 하락, 나스닥 2025년 4월 이후 최악",
+      "s": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGR6VGxMQVNKdUF0R21NRjNRYzB1MlJMRzZFVVViM0tLZXpMM3BOc210T2FGZ0RMcEVWOTRXeGx3dHJNd2JlOHh4Z05BREdvSmVGdjdHWlptek45UEc1UGU1eDFYdVdRczVheTJCcE93S2E4d0dULWI0NUtVXzNiQtIBhgFBVV95cUxPU1pQS0l2NFdxYnpCWkV0d1lrSzFVQU45NVJWOEhlQTZfdTFoaVVwbUNsMXBNZVJ5aFAtMFRhbUhIZ0VNbG16YklqODNsekdieHY4M2ZGNzlXemtZTHYxOHYyM096QWVyVkllTFhjTHZUYmpWeEpMUEJBaHdTbXBTTkp2VG5TUQ?oc=5"
+     },
+     {
+      "d": "11/07",
+      "t": "반도체주, 2020년 이후 최악의 하루",
+      "s": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG5DVXUxWHBEcjNJUGxTVi16Z0d6QWcxaFJHdjBDQzZrbjRRZjlyc09TWkt4cWRtNUF1V2h2bUd0SFVUTWZUT3FCTm9TY0R2MVdxWkotNE90N0Zhajkwd2FWb2UwLWtFVDVWWE9Ec0J3TUg4dVU5MC1KcVJCb1h2ZkRQeGVWb2NnZW54eTZOMXBIYjNRZEsw?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "엔비디아·AMD 등 반도체주 반등 — '격렬한' 매도 이후 안도는 일시적일까",
+      "s": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "오늘 증시는 왜 올랐나? 목요일 폭락 후 나스닥·엔비디아·브로드컴 반등",
+      "s": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3daSm9kaEtCd0liU2phZDJaUXJOYzJGMHgzc3NyVmdjMlViZFBITnZkYVdLQzQ2SE5hV2dna0pyVzJrRGRwSFBGYXBRUmtDMHdHREQ2OXRWUFdkNVVlNVFvS09LLUJQdlFrWjhjVTRnSWRTUE5kbU9LWDlJbW12VllxSHhkbXN2Smw5anZIRVhwaWFEd0pWaHNDWjZkWWtqOXg5cml5aGZVNzdPOGh1bzh1OE5hY1U?oc=5"
+     }
+    ],
+    "risks": [
+     "의회 청문·조사가 구체화될 경우",
+     "강한 고용으로 12월 금리 인상 확률 상승(약 73%)"
+    ],
+    "checks": [
+     "코어위브 실적의 수주 잔고",
+     "엔비디아 데이터센터 매출 가이던스(11/17)"
+    ]
+   },
+   {
+    "kind": "hot",
+    "title": "하이퍼스케일러는 규제의 상대적 수혜",
+    "strength": 3,
+    "trend": "유지",
+    "thesis": "중간선거 다음 날 아마존·마이크로소프트는 약 6%, 알파벳은 4.6% 올랐습니다. 새 데이터센터 건설이 줄면 이미 가진 데이터센터 자산의 가치가 오른다는 논리입니다. 1주 기준 아마존 +7.9%, 마이크로소프트 +1.7%로 반도체(-9~-22%)와 대조적입니다.",
+    "why": "근거: 선거 직후 업종별 반응 + 1주 상대 수익률. 약점: 설비투자 둔화가 클라우드 성장 둔화로 이어질 수도 있습니다.",
+    "codes": [
+     "AMZN",
+     "MSFT",
+     "GOOGL",
+     "META"
+    ],
+    "evidence": [
+     {
+      "d": "11/5",
+      "t": "AI 데이터센터주 급락, 민주당 압승 뒤 재생에너지 랠리",
+      "s": "The Star (로이터 전재)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep"
+     }
+    ],
+    "risks": [
+     "반독점·데이터 규제가 빅테크로 번질 가능성"
+    ],
+    "checks": [
+     "클라우드 3사의 설비투자 가이던스 변화",
+     "데이터센터 임대료·가동률 지표"
+    ]
+   },
+   {
+    "kind": "hot",
+    "title": "청정에너지·병원, 민주당 정책 수혜",
+    "strength": 3,
+    "trend": "강화",
+    "thesis": "선거 직후 엔페이즈(+8.8%)·퍼스트솔라(+8.4%)·선런(+6.9%)·넥스트에라(+4.6%) 같은 청정에너지와 HCA(+8.5%)·UHS(+6.8%)·센틴(+7.3%) 같은 병원·보험주가 올랐습니다. 연방 지원 확대와 의료보장 확대 기대 때문입니다. 선런은 1주 +33%입니다.",
+    "why": "근거: 선거 결과에 따른 정책 기대 + 1주 수익률. 약점: 행정부는 여전히 공화당이라 실제 입법은 제한적일 수 있습니다.",
+    "codes": [
+     "RUN",
+     "FSLR",
+     "ENPH",
+     "NEE",
+     "HCA",
+     "UHS",
+     "CNC",
+     "MOH"
+    ],
+    "evidence": [
+     {
+      "d": "11/5",
+      "t": "AI 데이터센터주 급락, 민주당 압승 뒤 재생에너지 랠리",
+      "s": "The Star (로이터 전재)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep"
+     }
+    ],
+    "risks": [
+     "분열된 정부로 법안 통과가 어려움",
+     "금리 상승은 태양광 금융 비용 부담"
+    ],
+    "checks": [
+     "예산 협상에서 청정에너지 세액공제 논의",
+     "병원 체인 실적의 입원 수요"
+    ]
+   },
+   {
+    "kind": "guess",
+    "title": "고용 서프라이즈, 12월 인상 재부각",
+    "strength": 2,
+    "trend": "관찰",
+    "thesis": "10월 고용이 16만 5천 명으로 예상의 2배를 넘으며 12월 금리 인상 확률이 약 73%로 올랐습니다. 금리 변동성이 커지면 거래소(CME)와 은행의 이자 수익이 상대적으로 유리하다는 가설입니다. 다만 6일 은행주는 -0.4~-1.2%로 약했습니다.",
+    "why": "Claude 추정: 거시 지표와 업종 특성을 묶은 가설입니다. 11/10 CPI가 높게 나오면 성장주 부담이 더 커질 수 있습니다.",
+    "codes": [
+     "CME",
+     "JPM",
+     "WFC",
+     "BAC",
+     "SCHW"
+    ],
+    "evidence": [
+     {
+      "d": "11/06",
+      "t": "10월 고용 서프라이즈에 금리 상승",
+      "s": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnpMd1ZuR2N2T2ZIelhxU25lLVpES1EteXlqbW4zVXM1V2M3SkppUlRRZkctZ181TzNsYnhPdFV4OXhzejdscG5TRHJWbGx6M0hrMXZmLS03MDFaQ2VGU0xjaHA1UDhZQ3lsUTNyVVFGODdjR253T2ZGVlNieDZ5dWRwQ3dqa0pqR21pYi1FNUlWOFpMTjZ0VEU4VGc?oc=5"
+     },
+     {
+      "d": "11/06",
+      "t": "강한 고용에 연준 인상 베팅 커지며 미 국채 약세",
+      "s": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5"
+     },
+     {
+      "d": "11/07",
+      "t": "미 10월 CPI 전월 대비 0.3% 상승 예상… 연준 결정을 가를 한 주",
+      "s": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QQ2VTV0RZVHAtY3lCOXgwRDVfSm9taXpWNER5bGkxT0owSG1CZTlCdWUyajRIWmFoU21EM0dyZ2M4TnZ1cGF3V0tyVkFEZmhNVFZ1RGRxTktPc09uNjltUUNqeXdTRUhzaFBfdm56N3JTODZkMFE?oc=5"
+     },
+     {
+      "d": "11/6",
+      "t": "10월 고용 16.5만 명, 12월 인상 확률 약 73%",
+      "s": "Charles Schwab",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     }
+    ],
+    "risks": [
+     "경기 둔화 신호 시 은행 대손 우려"
+    ],
+    "checks": [
+     "11/10 CPI",
+     "FedWatch 12월 인상 확률"
+    ]
+   },
+   {
+    "kind": "guess",
+    "title": "방산·머스크 관련주 정책 리스크",
+    "strength": 2,
+    "trend": "관찰",
+    "thesis": "선거 직후 노스럽그루먼·록히드마틴·RTX 등 방산주가 3~6% 빠졌습니다. 트럼프 행정부의 1조 5천억 달러 국방 예산이 민주당 의회를 통과할지 의문이 커졌기 때문입니다. 트럼프미디어(-13%)·테슬라·스페이스X도 감독 강화 우려로 밀렸습니다.",
+    "why": "Claude 추정: 선거 직후 반응에서 세운 가설입니다. 6일 테슬라 +4.2%, 스페이스X +8.6%로 일부 되돌림이 있었습니다.",
+    "codes": [
+     "NOC",
+     "LMT",
+     "RTX",
+     "LHX",
+     "TSLA",
+     "SPCX",
+     "DJT"
+    ],
+    "evidence": [
+     {
+      "d": "11/5",
+      "t": "방산·머스크 관련주 동반 하락",
+      "s": "The Star (로이터 전재)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep"
+     }
+    ],
+    "risks": [
+     "예산 협상 결과에 따라 급반등 가능"
+    ],
+    "checks": [
+     "국방 예산 협상 진행",
+     "스페이스X-테슬라 합병 관련 감독 동향"
+    ]
+   }
+  ]
+ },
+ "events": [
+  {
+   "d": "11/10 (화)",
+   "t": "10월 소비자물가지수(CPI)",
+   "s": "전월 대비 0.3% 상승 예상"
+  },
+  {
+   "d": "11/9~13",
+   "t": "코어위브 실적 등 AI 인프라 기업 실적",
+   "s": ""
+  },
+  {
+   "d": "11/13 (금)",
+   "t": "10월 생산자물가지수(PPI)",
+   "s": ""
+  },
+  {
+   "d": "11/17 (화) 장 마감 후",
+   "t": "엔비디아 3분기(2027 회계연도) 실적",
+   "s": "AI 투자 심리의 분수령"
+  },
+  {
+   "d": "일정 미정",
+   "t": "앤트로픽 상장(IPO)",
+   "s": "대형 AI 상장, 시장 자금 흐름 변수"
+  },
+  {
+   "d": "12/8~9",
+   "t": "FOMC 금리 결정",
+   "s": "12월 인상 확률 약 73% (11/6 기준)"
+  }
+ ],
+ "reasons": {
+  "LRCX": [
+   [
+    "뉴스",
+    "250억 달러 자사주 매입 발표"
+   ]
+  ],
+  "DKNG": [
+   [
+    "실적",
+    "실적 예상 하회로 급락"
+   ]
+  ],
+  "AXON": [
+   [
+    "실적",
+    "실적 발표 후 급락"
+   ]
+  ],
+  "TEAM": [
+   [
+    "실적",
+    "실적 발표 후 급락"
+   ]
+  ],
+  "AMD": [
+   [
+    "뉴스",
+    "전날 17% 폭락 후 반등"
+   ]
+  ],
+  "SNAP": [
+   [
+    "실적",
+    "3분기 매출 부진"
+   ]
+  ],
+  "NVDA": [
+   [
+    "뉴스",
+    "폭락 다음 날 저가 매수 (거래대금 1위)"
+   ]
+  ]
+ },
+ "news_tr": {
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5": [
+   "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세… 나스닥 1.1% 상승",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QQ2VTV0RZVHAtY3lCOXgwRDVfSm9taXpWNER5bGkxT0owSG1CZTlCdWUyajRIWmFoU21EM0dyZ2M4TnZ1cGF3V0tyVkFEZmhNVFZ1RGRxTktPc09uNjltUUNqeXdTRUhzaFBfdm56N3JTODZkMFE?oc=5": [
+   "미 10월 CPI 전월 대비 0.3% 상승 예상… 연준 결정을 가를 한 주",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG5DVXUxWHBEcjNJUGxTVi16Z0d6QWcxaFJHdjBDQzZrbjRRZjlyc09TWkt4cWRtNUF1V2h2bUd0SFVUTWZUT3FCTm9TY0R2MVdxWkotNE90N0Zhajkwd2FWb2UwLWtFVDVWWE9Ec0J3TUg4dVU5MC1KcVJCb1h2ZkRQeGVWb2NnZW54eTZOMXBIYjNRZEsw?oc=5": [
+   "반도체주, 2020년 이후 최악의 하루",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5": [
+   "뉴욕증시 급락세 진정… 미 10월 고용 '깜짝 증가'",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXlkWkZDQWhUblg3c0VWaHN4Mmp4MjgwMGFmRWRieWp3VnNHR2t1MzlSa0xsRExCVDc0WFdXOGduekR5RmlsbEFuOGFJWW5VX3hOOW1ELVY4SjhlMTZjSkRsRTFFeURyUVhaNkcxajNMalpQbEtKSHk1Y3BEYmU4em5wV05GVFZ4RlFWQUhiTjdzQmh3Mkg4UWZ6SGNYNjlMcTBxOUh1Q21VemVZQWRRcUZmdVY5aG90eGhBSkJiZmNQQTdRSXJ1UDBSU2c?oc=5": [
+   "중간선거 결과가 이란 전쟁 종식 가능성을 시사하며 유가 하락",
+   "원자재"
+  ],
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTjcwLXphcnRxNG9rOFYtb2hVQTh0RHVERzBfX0sycUNSSHRRYVUxY2gySEhoNmNMdFdOVUlGbW5rcmhCTHh5MXdWYUVWYlVqT2JTWlNvdU5vTzBNT1E?oc=5": [
+   "뉴욕 증시 반등… 반도체주 중심 저가 매수세",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DRzNwcDZBTUtBbnFFZUZyZEJFQjRROGR1SjBkcEdPTGdpeUxMbWltUGN3VWJQV3JJelRCQ3o1emNWZHZZT2k0dUgwTFRyTkRhMGJ5ZXA0LW4zVkxSWTZGMURjR29OQ0V5TWlEUjUwbWRoZ3VHdVFweg?oc=5": [
+   "크레이머의 다음 주: AI 데이터센터주와 연준 모두 또 하나의 고비",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkNWMElVN0RDc0RadU5MSnhFNGZrcWgtZ3JYWU91TDd3OFdUWXJKR2xKUlIzWmQxN1RvVHBTYVNHNDFTX3h1b1dqLVVraVRvdER3UG9fZmZtN3l2cjlHSGJZMlBMTTNJSWlMTEtGVURRd3N4QXFndEFRel9yMkVzcnY3SDFEVlhZNlJ5YWlKLUVEUWdyakRCeWRhUXc?oc=5": [
+   "AI 관련 대규모 매도 이후 월가 반등",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSEtCVnByRFlXSW42YTRncV92cndKa29tckpLbWYxM0lQU1E5UE4xTWFfelMyQk5MbThDZ2xiM1ZwNjRTLU1aTHFJMk5hZ1ZsUExIeWwyVzBidGNDUFMzZHVSaGthZV9vSWxHY05mNDE?oc=5": [
+   "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수… 혼조 마감",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWlzcGJ5b2FoTDRoekZ5blNRdTExdkc3NURPalBjNElDM1NzamNoS1IzS1B4cXlzX3dGMlJXcG9RdWMweW5CM1NCQ0MwdGYwc2h4dGZQaFZSZVBBZUpIZGw0ci01bE1aamxNRktLdGw3MkFKQ05peWZQVjdkdEk4d1U2M2NQNDVqUy1aZFJWUEdvN1RWSFNaNXFzSnJ2aEZmbmxTVW11aUFQS0lhbFlaWDd3?oc=5": [
+   "기술주 폭락 후 발판 되찾으려는 투자자들",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzB0T0gxWmhJTUhwZWprNTVMM2pqQlhYY1N4U29mNXFxbENnUGdVYk0xMGhoZDBpV1RTMXFuV1FxeXU5UWtGMDVpYVFOcTNpY0dFcTJpMzAwVUMxSWdxUlZDMnpraWhKb3VlNU1md010X3hkNEI3QWl4bE1uQk9Vb0dtWUFCN2w3b0RTS1BTV01GY090RmZrblZubmFvcno1MzBuTm1zZ08zRUdLNXFEcUlOcWk?oc=5": [
+   "뉴욕 마감: 나스닥 +1.09%, S&P500 +0.32%, 다우 -0.46%",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5": [
+   "엔비디아·AMD 등 반도체주 반등 — '격렬한' 매도 이후 안도는 일시적일까",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5": [
+   "시가총액 수조 달러 증발 후 AI주 반등",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5": [
+   "강한 고용에 연준 인상 베팅 커지며 미 국채 약세",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5": [
+   "증시 전망: 엔비디아 실적, 앤트로픽 상장, 연준 금리 결정",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYU84SzFvTjVhTDY5WWV6Ykh5X2pVd1BUMndfS2k5cU9fMjNUazZGVWQ2TGU0M0drd0ZYZlViT3A3a2p1dHFhdUxXTmFfck1QT0FlRGd2cjBIX2RnYjEydUtGSjlHQjdRekFOS0xZemxRM2pfbFNkSjZQWFFnVVA3QkFjUlByZ1UzSkZzWXRB?oc=5": [
+   "기술주 추가 혼란 가능성, 다음 주 볼 것들",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5": [
+   "고용 지표 호조에 국채 금리 상승",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3daSm9kaEtCd0liU2phZDJaUXJOYzJGMHgzc3NyVmdjMlViZFBITnZkYVdLQzQ2SE5hV2dna0pyVzJrRGRwSFBGYXBRUmtDMHdHREQ2OXRWUFdkNVVlNVFvS09LLUJQdlFrWjhjVTRnSWRTUE5kbU9LWDlJbW12VllxSHhkbXN2Smw5anZIRVhwaWFEd0pWaHNDWjZkWWtqOXg5cml5aGZVNzdPOGh1bzh1OE5hY1U?oc=5": [
+   "오늘 증시는 왜 올랐나? 목요일 폭락 후 나스닥·엔비디아·브로드컴 반등",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVRMUmlMbU0zb3FJOFJHNHB4SU45Y2EyVFFEb2JzRVVrLUdseDVrWFhBY0NvQTJEbWxaQ0tvRzNSQjdtT3RqUU1ZcDR3cEEtZjJIWU8tcENpUkRCSUV5UFBzVnAyVTNZeGV6R2xPSVBaOG1Ja1c0ck82NzE5SE91d3A4QUR0UFRUSkxTaGFVWTN0MkVlTHNiVkxObC00UWMyY0VDWGNrYy12cUtWQkFwa1hhWVVGc3BqT0U3bHM2MmQ2U1hvWkpHX0hrZDVNNExwbUF0dA?oc=5": [
+   "18개월 만의 최악의 하루 — 내 포트폴리오에는 무슨 의미인가",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDR1blQzX2o2ejlGUk1mc3htT3BrODY1VU5DdzhEczVlNDItYWl1Z0FvakRGQTdnam8wNkVuMFl0QmE0dWI4NE16emY4VUZnVjJrTmdLX1BNODJwN3VfY2Q5NGp0YjdNWV9CMDVLQ3A5ai1QRGExYXMtQ2VobkxKRUVKYVhKQkptT2E4dlc4NWRJcWdlSnMwSTR4Y3U4NnJWVjZ1M2pmQnVMcHBQV3F0WDFB?oc=5": [
+   "이란-미국 평화 협상 가능성 보도에 국제유가 급락",
+   "원자재"
+  ],
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjFLNDFvcVVFVTM0LU9ZTUMtYVZhcGhiTTRJVElXUHFZMHRLMGxyZ2xsX1djamVfOUNGdGxnbkZZc1lTVHNPSHotU1JMNEpuSnRBNHlBeDB0WFZVSWpoRUpSZmJCU0ttbmVZOGhBZmlPazNDckswNGRPS2hMRXFvN2V0OU04MmFVMmU2cFJSY0FxdUhVTWs2VHptU1ctNW8ybEUyYm44bzlCamplNDRIWVRWZkdaaXdLa3poVlBuNFN3MmNSWjE3ONIByAFBVV95cUxNbUx2MmJUZFFFeF84ZHBkcXI0UnBBd0hpWWFsWXhYdE8ySTN5YUk4NTFSVWpheXlVWGkxUVV6UG5uc0pzMDdlYjA4UGdKWWk4Y3BvWFVuODlLcXo0QnpQZGlHeXZWeExjeEk3cG0zZXRRdUtuSUJza3ZsVmRXejVTTHNIWXh3VzNoSEVMWlFFSTNWaHhZLVNNVlRuRXM4NGpMWVNjcFJUb2pTZW15WDB2aVpnTjlPT2dnb2xaZ09mMm1kNHFnMjhMZw?oc=5": [
+   "AI 공포가 아시아를 덮친 뒤 유럽 증시도 글로벌 매도에 동참",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2JpNmpFX3NFWURNaTBlZDB5WDI2THhydmtNeDJUTk1YenZfU290TWh5VlR1RnZCVWdkZWxFWkswVnhXUm1tVGtRaThmM0trRTRmMFY0VW4tbk1DTkVfeWpEWWpPT3NuRERrZ255RXpwQ1RGRFRTV1k2WUt3Ymx5M19mSGw0Q1pC?oc=5": [
+   "크게 맞은 반도체주, 엔비디아 등 5종목이 '헐값'",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnpMd1ZuR2N2T2ZIelhxU25lLVpES1EteXlqbW4zVXM1V2M3SkppUlRRZkctZ181TzNsYnhPdFV4OXhzejdscG5TRHJWbGx6M0hrMXZmLS03MDFaQ2VGU0xjaHA1UDhZQ3lsUTNyVVFGODdjR253T2ZGVlNieDZ5dWRwQ3dqa0pqR21pYi1FNUlWOFpMTjZ0VEU4VGc?oc=5": [
+   "10월 고용 서프라이즈에 금리 상승",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWlPMS1sdHZxcTUxa3RDeUkwRFNDMFhEeGVNRktDVW9xeTNnMTFXbWMxQjlOTkttTkx5b19EVlVZOThRRGNCX0FrR2dIVTZpUHQzblctejRubG4yTWNyajJVaU8yV3JoYjZ1T19HY1U2dHBlMVE2a2oyUHpBZFZtb2g0T3FtSWRaT0hscHhkdGMwNktlb092R2g4cUFWWE9QS2RCOHh6d1QteW5pcWc?oc=5": [
+   "다음 주 월가: 기술주 급락 속 미국 물가 지표 대기",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXVpWEM1UkxaN1VydGZoc1kzUFU5ZV9NR2N4YnpqMnJqTGs4UGJaRXRSMklwTVRER2FhLUtZN0I3cy1wVVFCdm1QQXFDTWx2QWlSRGdReFEtRzlMLURfVlpVR0dzNVlHREx6NnJZSFFGZTB4QUVQcFVIRW9lLW8zNXZFaVpfRWdrV2w5aTVJdjV1ZmVocWRadjg1SnV3MEw4RlhObGM1YkkwcW1QUm5QaEN30gG3AUFVX3lxTE1JN1RPSW1JLTExTjhyeVZjT0M1bnpXXzRVMlhIRGFoVGFWaUkxMFl3TDlZNkNQLVZDemtoQUhlRXAxRnRZb0tkektIQUFuS2p0YVRCRGNfd2VCLUc3a2puMUpOcy1CZmcwYkhFR2NDbF9INVNfT0FtMUFndlVkbUdIb0d3d1FHWTRXYWVvMFpsTDZCTFdVaHpHN1FHM3dBUkFRT3RiNXRKYlkxN3JJZ1pKZEJ3TU1QSQ?oc=5": [
+   "일본 닛케이·한국 코스피·대만 증시 동반 폭락",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5": [
+   "예상보다 강한 10월 고용에도 10년물 금리는 보합권",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWQ?oc=5": [
+   "중간선거 이후 이란 분쟁 위험을 저울질하며 유가 주간 급락",
+   "원자재"
+  ],
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGR6VGxMQVNKdUF0R21NRjNRYzB1MlJMRzZFVVViM0tLZXpMM3BOc210T2FGZ0RMcEVWOTRXeGx3dHJNd2JlOHh4Z05BREdvSmVGdjdHWlptek45UEc1UGU1eDFYdVdRczVheTJCcE93S2E4d0dULWI0NUtVXzNiQtIBhgFBVV95cUxPU1pQS0l2NFdxYnpCWkV0d1lrSzFVQU45NVJWOEhlQTZfdTFoaVVwbUNsMXBNZVJ5aFAtMFRhbUhIZ0VNbG16YklqODNsekdieHY4M2ZGNzlXemtZTHYxOHYyM096QWVyVkllTFhjTHZUYmpWeEpMUEJBaHdTbXBTTkp2VG5TUQ?oc=5": [
+   "AI 붕괴: 엔비디아·퀄컴 9% 넘게 하락, 나스닥 2025년 4월 이후 최악",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5": [
+   "AI 규제 우려에 나스닥 19개월 만에 최대 일일 낙폭 (11/5)",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE5URFBRMUkxOTlmaTVFV0YzdXJQajI3dVFFUVU4cFdBcXNIZ1VMRmhyQU9FbWVGT3loR2hmUE11Vmp1YTB3SzJGTFN5eWk2QUEwSTM2X2dJZ2VWRVd3b19lTE1Qejh0amlaS3VjWWpnQzVmbUnSAXhBVV95cUxQUHpWczVQOXdMRkt6RmdLRVRhbnh0Y09CR0QyMS1ZQ1pHd21fUkNxWVNNcmMwR1ZvcnhNSVFzMHdva3BYdGplcmxrQTRLRDJkTXYzSUZYODR2dTBwX0dIcnRTUGIzdE5aeDh3cXJMcTBPcDFLc3dwSUc?oc=5": [
+   "스냅, 3분기 매출 부진에 10% 넘게 하락",
+   "실적"
+  ]
+ },
+ "news_codes": {},
+ "est_note": "",
+ "deriv_note": ""
+}
