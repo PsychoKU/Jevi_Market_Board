@@ -14,7 +14,7 @@ on:
         default: false
   push:
     branches: [main]
-    paths: ['content/**', 'site/index.html']
+    paths: ['content/**', 'site/index.html', 'pipeline/**']
 
 permissions:
   contents: write

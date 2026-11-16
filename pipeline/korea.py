@@ -122,7 +122,7 @@ class KIS_API:
         return (o[0] if isinstance(o, list) and o else o) or None
 
     def program_today(self, mkt):
-        j = self.get('/uapi/domestic-stock/v1/quotations/investor-program-trade-today', 'HHPPG046600C1', {'MRKT_DIV_CLS_CODE': mkt})
+        j = self.get('/uapi/domestic-stock/v1/quotations/investor-program-trade-today', 'HHPPG046600C1', {'MRKT_DIV_CLS_CODE': mkt, 'EXCH_DIV_CLS_CODE': 'J'})
         return (j or {}).get('output1')
 
     def futures_board(self):
@@ -179,4 +179,6 @@ def kis_snapshot(api):
             row = lambda x: [_num(x.get('acpr')), _num(x.get('hts_otst_stpl_qty')), _num(x.get('otst_stpl_qty_icdc')), _num(x.get('acml_vol')),
                              _num(x.get('hts_ints_vltl')), _num(x.get('gama')), _num(x.get('optn_prpr')), _num(x.get('delta_val'))]
             snap['opt'] = {'month': months[0], 'calls': [row(x) for x in b['calls']], 'puts': [row(x) for x in b['puts']]}
+            smp = lambda xs: [[x.get('optn_shrn_iscd'), x.get('acpr')] for x in xs[:3] + xs[-3:]]
+            log.info('KIS option board %s: calls %d %s puts %d %s', months, len(b['calls']), smp(b['calls']), len(b['puts']), smp(b['puts']))
     return snap
