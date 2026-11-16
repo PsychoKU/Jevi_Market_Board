@@ -156,38 +156,26 @@ _D36 = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 def _sidx(code): return _D36.index(code[-3]) * 100 + int(code[-2:])
 def _scode(prefix, i): return prefix + _D36[i // 100] + f'{i % 100:02d}'
 
-def option_chain_near(api, board_calls, spot, width=0.07, max_calls=110):
-    """Strike -> row for calls and puts within +-width of spot, read one option at a time."""
-    rows = [(x.get('optn_shrn_iscd'), _num(x.get('acpr'))) for x in board_calls if x.get('optn_shrn_iscd') and _num(x.get('acpr'))]
-    if len(rows) < 2 or not spot: return None
-    rows.sort(key=lambda r: _sidx(r[0]))
-    (c0, k0), (c1, k1) = rows[0], rows[1]
-    step = (k1 - k0) / (_sidx(c1) - _sidx(c0)) or 2.5
-    prefix = c0[:-3]; base = _sidx(c0)
-    guess = base - int(round((k0 - spot) / step)); used = 0
-    def read(i, kind):
-        nonlocal used
-        used += 1
-        return api.option_price(('B' if kind == 'c' else 'C') + _scode(prefix, i)[1:])
-    # correct the guess once using the real strike at the guessed code
-    o = read(guess, 'c'); k = _num((o or {}).get('acpr'))
-    for probe in (guess, base - 1, base - 3):
-        oo = api.option_price('B' + _scode(prefix, probe)[1:])
-        log.info('KIS probe %s -> %s', _scode(prefix, probe), {kk: (oo or {}).get(kk) for kk in ('hts_kor_isnm', 'acpr', 'futs_prpr', 'hts_otst_stpl_qty')} if oo else None)
-    if k: guess += int(round((spot - k) / 2.5))
+def option_chain_near(api, board_calls, spot, width=0.05, max_calls=90):
+    """Calls and puts within +-width of spot, read one option at a time.
+    Strikes under 1,000 use the strike itself as the code suffix (B01612790 = call 790.0, 792.5 -> 792);
+    strikes from 1,000 up use a serial (B40 = 1,345.0). Every reading is checked against the strike it reports."""
+    codes = [x.get('optn_shrn_iscd') for x in board_calls if x.get('optn_shrn_iscd')]
+    if not codes or not spot: return None
+    prefix = codes[0][1:-3]                     # '01612'
     lo, hi = spot * (1 - width), spot * (1 + width)
-    out = {'calls': [], 'puts': []}
-    span = int(spot * width / 2.5) + 2
-    for i in range(guess - span, guess + span + 1):
-        if used >= max_calls: break
-        for kind in ('c', 'p'):
-            o = read(i, kind)
-            if not o: continue
-            k = _num(o.get('acpr'))
-            if not k or not (lo <= k <= hi): continue
-            out['calls' if kind == 'c' else 'puts'].append([k, _num(o.get('hts_otst_stpl_qty')), _num(o.get('otst_stpl_qty_icdc')), _num(o.get('acml_vol')),
-                                                            _num(o.get('hts_ints_vltl')), _num(o.get('gama')), _num(o.get('futs_prpr')), _num(o.get('delta_val'))])
-    log.info('KIS near-the-money chain: %d calls, %d puts, %d requests', len(out['calls']), len(out['puts']), used)
+    ks = [k / 2 for k in range(int(lo * 2) // 5 * 5, int(hi * 2) + 1, 5)]   # 2.5 grid
+    out = {'calls': [], 'puts': []}; used = 0; misses = 0
+    for k in ks:
+        if k >= 1000 or used >= max_calls: continue
+        for kind, side in (('B', 'calls'), ('C', 'puts')):
+            o = api.option_price(f'{kind}{prefix}{int(k):03d}'); used += 1
+            kk = _num((o or {}).get('acpr'))
+            if not kk or abs(kk - k) > 0.01: misses += 1; continue
+            out[side].append([kk, _num(o.get('hts_otst_stpl_qty')), _num(o.get('otst_stpl_qty_icdc')), _num(o.get('acml_vol')),
+                              _num(o.get('hts_ints_vltl')), _num(o.get('gama')), _num(o.get('futs_prpr')), _num(o.get('delta_val'))])
+        if used >= 6 and misses == used: break   # coding guess is wrong; stop early
+    log.info('KIS near-the-money chain: %d calls, %d puts, %d requests, %d misses', len(out['calls']), len(out['puts']), used, misses)
     return out if out['calls'] and out['puts'] else None
 
 FLOW_KEYS = [('foreign', 'frgn'), ('indiv', 'prsn'), ('inst', 'orgn'), ('fininv', 'scrt'), ('trust', 'ivtr'), ('pension', 'fund'), ('bank', 'bank'), ('insure', 'insu')]
@@ -228,8 +216,14 @@ def kis_snapshot(api):
             spot = (snap.get('fut') or {}).get('px')
             ks = [r[0] for r in snap['opt']['calls'] if r[0]]
             if spot and ks and min(ks) > spot * 0.97:      # board missed the money
-                try:
+                prev = load('kis_today.json', {}).get('snaps') or []
+                pn = next((p_.get('opt') for p_ in reversed(prev) if (p_.get('opt') or {}).get('near_ts')), None)
+                if pn and time.time() - pn['near_ts'] < 25 * 60 and pn.get('month') == months[0]:
+                    snap['opt'].update({k: pn[k] for k in ('calls', 'puts', 'near_ts')})
+                else:
+                  try:
                     near = option_chain_near(api, b['calls'], spot)
+                    if near: near['near_ts'] = int(time.time())
                     if near: snap['opt'].update(near)
-                except Exception as e: log.warning('near chain failed: %s', e)
+                  except Exception as e: log.warning('near chain failed: %s', e)
     return snap
