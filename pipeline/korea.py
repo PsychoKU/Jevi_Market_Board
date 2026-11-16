@@ -171,6 +171,9 @@ def option_chain_near(api, board_calls, spot, width=0.07, max_calls=110):
         return api.option_price(('B' if kind == 'c' else 'C') + _scode(prefix, i)[1:])
     # correct the guess once using the real strike at the guessed code
     o = read(guess, 'c'); k = _num((o or {}).get('acpr'))
+    for probe in (guess, base - 1, base - 3):
+        oo = api.option_price('B' + _scode(prefix, probe)[1:])
+        log.info('KIS probe %s -> %s', _scode(prefix, probe), {kk: (oo or {}).get(kk) for kk in ('hts_kor_isnm', 'acpr', 'futs_prpr', 'hts_otst_stpl_qty')} if oo else None)
     if k: guess += int(round((spot - k) / 2.5))
     lo, hi = spot * (1 - width), spot * (1 + width)
     out = {'calls': [], 'puts': []}
