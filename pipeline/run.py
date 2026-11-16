@@ -13,6 +13,7 @@ import korea, japan, us, news, build
 
 BUDGET = 40 * 60          # seconds per run (workflow timeout is 55 min)
 T0 = time.time()
+FORCED = set()
 def left(): return BUDGET - (time.time() - T0)
 
 INDEX_CH = {'jp': ['^N225'], 'kr': ['^KS11', '^KQ11'], 'us': ['^GSPC', '^IXIC']}
@@ -123,7 +124,7 @@ def kr_steps(full, open_now):
         save('kr_kind.json', {'date': market_date('kr'), 'today': rows, 'big': big})
     except Exception: log.warning('KIND failed\n%s', traceback.format_exc())
     api = korea.KIS_API()
-    if api.ok and (open_now or full):
+    if api.ok and (open_now or full or 'kr' in FORCED):
         snap = korea.kis_snapshot(api)
         kt = load('kis_today.json', {})
         if snap and kt.get('snaps'):
@@ -180,6 +181,7 @@ def main():
     plan = []
     for m in ('us', 'kr', 'jp'):
         forced = m in a.force.split(',') or a.force == 'all'
+        if forced: FORCED.add(m)
         open_now = in_window(m)
         need_full = after_close(m) and done.get(m) != market_date(m)
         if forced: plan.append((m, a.full or need_full or not load(f'{m}_raw.json'), open_now))
