@@ -144,6 +144,49 @@ class KIS_API:
         if not j: return None
         return {'calls': j.get('output1') or [], 'puts': j.get('output2') or []}
 
+    def option_price(self, code):
+        j = self.get('/uapi/domestic-futureoption/v1/quotations/inquire-price', 'FHMIF10000000',
+                     {'FID_COND_MRKT_DIV_CODE': 'O', 'FID_INPUT_ISCD': code})
+        return (j or {}).get('output1') or None
+
+# Option short codes look like B01612C41: B/C = call/put, 01 = KOSPI200, 612 = 2026-12, then a 3-char serial that
+# moves by one per listed strike (C41 -> C40 -> ... -> C00 -> B99). The board only returns the 100 highest strikes,
+# so the near-the-money chain is reached by stepping that serial down from the board and reading each strike.
+_D36 = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+def _sidx(code): return _D36.index(code[-3]) * 100 + int(code[-2:])
+def _scode(prefix, i): return prefix + _D36[i // 100] + f'{i % 100:02d}'
+
+def option_chain_near(api, board_calls, spot, width=0.07, max_calls=110):
+    """Strike -> row for calls and puts within +-width of spot, read one option at a time."""
+    rows = [(x.get('optn_shrn_iscd'), _num(x.get('acpr'))) for x in board_calls if x.get('optn_shrn_iscd') and _num(x.get('acpr'))]
+    if len(rows) < 2 or not spot: return None
+    rows.sort(key=lambda r: _sidx(r[0]))
+    (c0, k0), (c1, k1) = rows[0], rows[1]
+    step = (k1 - k0) / (_sidx(c1) - _sidx(c0)) or 2.5
+    prefix = c0[:-3]; base = _sidx(c0)
+    guess = base - int(round((k0 - spot) / step)); used = 0
+    def read(i, kind):
+        nonlocal used
+        used += 1
+        return api.option_price(('B' if kind == 'c' else 'C') + _scode(prefix, i)[1:])
+    # correct the guess once using the real strike at the guessed code
+    o = read(guess, 'c'); k = _num((o or {}).get('acpr'))
+    if k: guess += int(round((spot - k) / 2.5))
+    lo, hi = spot * (1 - width), spot * (1 + width)
+    out = {'calls': [], 'puts': []}
+    span = int(spot * width / 2.5) + 2
+    for i in range(guess - span, guess + span + 1):
+        if used >= max_calls: break
+        for kind in ('c', 'p'):
+            o = read(i, kind)
+            if not o: continue
+            k = _num(o.get('acpr'))
+            if not k or not (lo <= k <= hi): continue
+            out['calls' if kind == 'c' else 'puts'].append([k, _num(o.get('hts_otst_stpl_qty')), _num(o.get('otst_stpl_qty_icdc')), _num(o.get('acml_vol')),
+                                                            _num(o.get('hts_ints_vltl')), _num(o.get('gama')), _num(o.get('futs_prpr')), _num(o.get('delta_val'))])
+    log.info('KIS near-the-money chain: %d calls, %d puts, %d requests', len(out['calls']), len(out['puts']), used)
+    return out if out['calls'] and out['puts'] else None
+
 FLOW_KEYS = [('foreign', 'frgn'), ('indiv', 'prsn'), ('inst', 'orgn'), ('fininv', 'scrt'), ('trust', 'ivtr'), ('pension', 'fund'), ('bank', 'bank'), ('insure', 'insu')]
 DERIV = [('fut', 'K2I', 'F001', '코스피200 선물'), ('call', 'K2I', 'OC01', '코스피200 콜'), ('put', 'K2I', 'OP01', '코스피200 풋'),
          ('wcall_thu', 'WKI', 'OC04', '위클리 콜(목)'), ('wput_thu', 'WKI', 'OP04', '위클리 풋(목)'),
@@ -179,6 +222,11 @@ def kis_snapshot(api):
             row = lambda x: [_num(x.get('acpr')), _num(x.get('hts_otst_stpl_qty')), _num(x.get('otst_stpl_qty_icdc')), _num(x.get('acml_vol')),
                              _num(x.get('hts_ints_vltl')), _num(x.get('gama')), _num(x.get('optn_prpr')), _num(x.get('delta_val'))]
             snap['opt'] = {'month': months[0], 'calls': [row(x) for x in b['calls']], 'puts': [row(x) for x in b['puts']]}
-            smp = lambda xs: [[x.get('optn_shrn_iscd'), x.get('acpr')] for x in xs[:3] + xs[-3:]]
-            log.info('KIS option board %s: calls %d %s puts %d %s', months, len(b['calls']), smp(b['calls']), len(b['puts']), smp(b['puts']))
+            spot = (snap.get('fut') or {}).get('px')
+            ks = [r[0] for r in snap['opt']['calls'] if r[0]]
+            if spot and ks and min(ks) > spot * 0.97:      # board missed the money
+                try:
+                    near = option_chain_near(api, b['calls'], spot)
+                    if near: snap['opt'].update(near)
+                except Exception as e: log.warning('near chain failed: %s', e)
     return snap
