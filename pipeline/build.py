@@ -281,6 +281,10 @@ def deriv_us():
             except Exception as e: log.warning('option metrics %s: %s', s, e)
     return {'vix': vix, 'vixh': mk.get('vixh', {}), 'opts': opts, 'asof': fmt_local(max([o.get('ts') or 0 for o in O.values()] or [0]), 'us')}
 
+def _f(x):
+    try: return float(str(x).replace(',', ''))
+    except (TypeError, ValueError): return None
+
 def deriv_kr():
     snaps = load('kis_today.json', {}).get('snaps', [])
     if not snaps:
@@ -309,7 +313,12 @@ def deriv_kr():
         opt = {'month': o['month'], 'spot': spot, 'pcr_oi': round(poi / coi, 2) if coi else None, 'mp': mp, 'cw': cw[0] if cw else None, 'pw': pw[0] if pw else None,
                'gex': round(gex / 1e8) if gex is not None else None,
                'oi': [[k, (cm.get(k) or [0, 0, 0])[1] or 0, (pm.get(k) or [0, 0, 0])[1] or 0, (cm.get(k) or [0, 0, 0])[2] or 0, (pm.get(k) or [0, 0, 0])[2] or 0] for k in ks]}
-    return {'kis': True, 'stale': stale, 'asof': fmt_local(last['ts'], 'kr'), 'flows': last['flows'], 'fut': last.get('fut'), 'program': last.get('program'), 'series': series, 'opt': opt,
+    prog = {}
+    for mk_, rows_ in (last.get('program') or {}).items():
+        pick = {r.get('invr_cls_name', '').replace(' ', ''): r for r in rows_}
+        prog[mk_] = [[n, *(_f(pick.get(k, {}).get(f)) for f in ('all_ntby_amt', 'arbt_ntby_amt', 'nabt_ntby_amt'))]
+                     for n, k in (('외국인', '외국인'), ('기관', '기관'), ('개인', '개인'), ('금융투자', '금융투자'), ('연기금', '연기금등'), ('투신', '투신')) if k in pick]
+    return {'kis': True, 'stale': stale, 'prog': prog, 'asof': fmt_local(last['ts'], 'kr'), 'flows': last['flows'], 'fut': last.get('fut'), 'series': series, 'opt': opt,
             'note': '출처: 한국투자증권 Open API. 금액은 백만원 단위 원자료를 억원으로 바꿔 표시합니다. 장중 값은 누적 잠정치이고, 15분마다 쌓은 값으로 흐름을 그립니다.'}
 
 def deriv(m):
