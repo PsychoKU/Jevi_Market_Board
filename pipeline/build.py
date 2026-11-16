@@ -293,11 +293,13 @@ def deriv_kr():
     stale = {k: fmt_local(v['stale'], 'kr') for k, v in last['flows'].items() if v.get('stale')}
     for k in ('fut', 'opt'):
         if (last.get(k) or {}).get('stale'): stale[k] = fmt_local(last[k]['stale'], 'kr')
-    series = {'t': [fmt_local(s['ts'], 'kr', False) for s in snaps]}
+    live = [s_ for s_ in snaps if s_.get('live')]
+    snaps_ser = live if len(live) > 1 else []
+    series = {'t': [fmt_local(s['ts'], 'kr', False) for s in snaps_ser]}
     for prod in ('fut', 'call', 'put'):
         for inv in ('foreign', 'indiv', 'inst'):
-            series[f'{prod}_{inv}'] = [((s['flows'].get(prod) or {}).get(inv) or {}).get('amt') for s in snaps]
-            series[f'{prod}_{inv}_q'] = [((s['flows'].get(prod) or {}).get(inv) or {}).get('qty') for s in snaps]
+            series[f'{prod}_{inv}'] = [((s['flows'].get(prod) or {}).get(inv) or {}).get('amt') for s in snaps_ser]
+            series[f'{prod}_{inv}_q'] = [((s['flows'].get(prod) or {}).get(inv) or {}).get('qty') for s in snaps_ser]
     opt = None
     if last.get('opt'):
         o = last['opt']; spot = None

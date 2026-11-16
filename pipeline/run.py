@@ -136,7 +136,10 @@ def kr_steps(full, open_now):
                 if not snap.get(k) and prev.get(k): snap[k] = {**prev[k], 'stale': prev[k].get('stale') or prev['ts']}
         if snap:
             if kt.get('date') != today: kt = {'date': today, 'snaps': []}
-            kt['snaps'].append(snap); kt['snaps'] = kt['snaps'][-60:]
+            # the intraday chart only uses snapshots taken during the session; off-hours runs keep one latest snapshot
+            snap['live'] = bool(open_now)
+            kt['snaps'] = ([x for x in kt['snaps'] if x.get('live')] + [snap])[-60:] if open_now else [x for x in kt['snaps'] if x.get('live')][-59:] + [snap]
+            if not open_now and len(kt['snaps']) > 1 and not kt['snaps'][0].get('live'): kt['snaps'] = [snap]
             save('kis_today.json', kt)
             log.info('KIS flows %s; fields %s', list(snap['flows']), snap['raw_keys'][:20])
 
