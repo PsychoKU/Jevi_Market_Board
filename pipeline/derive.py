@@ -123,9 +123,9 @@ def sector_revisions(comp, key='y1'):
         s['r1'].append(b['r1w'])
         if b['r4w'] is not None: s['r4'].append(b['r4w'])
         # aggregate earnings (only positive-earnings names to avoid sign flips)
-        if b['eps'] and b['old7'] and b['eps'] > 0 and b['old7'] > 0:
-            s['cur'] += b['eps'] * c['shares']; s['o7'] += b['old7'] * c['shares']
-            if b['old30'] and b['old30'] > 0: s['o30'] += b['old30'] * c['shares']
+        # market-cap weighted EPS change (currency-free, so ADRs reporting EPS in local currency are fine)
+        if b['eps'] and b['old7'] and b['eps'] > 0 and b['old7'] > 0 and c['mcap']:
+            s['cur'] += c['mcap'] * min(2.0, max(0.5, b['eps'] / b['old7'])); s['o7'] += c['mcap']
     out = []
     for k, s in secs.items():
         if s['n'] < 3: continue
