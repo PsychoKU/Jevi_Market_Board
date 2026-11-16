@@ -24,7 +24,7 @@ def tickers(s):
     return m or (c or {}).get('m', {})
 
 def feed(s, form, start):
-    r = fetch(s, 'GET', f'{SEC}/cgi-bin/browse-edgar?action=getcurrent&type={form}&company=&dateb=&owner=include&start={start}&count=100&output=atom')
+    r = fetch(s, 'GET', f'{SEC}/cgi-bin/browse-edgar?action=getcurrent&type={form}&company=&dateb=&owner=include&start={start}&count=100&output=atom', tries=2, timeout=45)
     if r is None: return []
     try: root = ET.fromstring(r.content)
     except ET.ParseError: return []
@@ -40,7 +40,7 @@ def filings(s):
     if s is None: return load('us_sec.json', {'e8': [], 'd13': []})
     cik = tickers(s)
     e8 = []
-    for st in range(0, 800, 100):
+    for st in range(0, 500, 100):
         f = feed(s, '8-K', st); e8 += f; time.sleep(0.2)
         if len(f) < 100: break
     out8 = []

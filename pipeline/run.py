@@ -153,8 +153,9 @@ def jp_steps(full):
 def us_steps(y):
     s = us.sec_session()
     if s is None: log.warning('SEC_UA secret missing: skipping 8-K/13D')
+    elif time.time() - load('sec_at.json', {}).get('at', 0) < 50 * 60: log.info('SEC fetched recently; skipping')
     else:
-        try: us.filings(s)
+        try: us.filings(s); save('sec_at.json', {'at': time.time()})
         except Exception: log.warning('SEC failed\n%s', traceback.format_exc())
     O = load('us_options.json', {})
     for sym in ('SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA'):
