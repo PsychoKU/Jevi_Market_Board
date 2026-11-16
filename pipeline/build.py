@@ -286,6 +286,9 @@ def deriv_kr():
     if not snaps:
         return {'kis': False, 'note': '한국투자증권 Open API 키(KIS_APP_KEY, KIS_APP_SECRET)를 저장소 비밀 값에 넣으면 선물·콜·풋 투자자별 순매수와 옵션 미결제 분포가 표시됩니다.'}
     last = snaps[-1]
+    stale = {k: fmt_local(v['stale'], 'kr') for k, v in last['flows'].items() if v.get('stale')}
+    for k in ('fut', 'opt'):
+        if (last.get(k) or {}).get('stale'): stale[k] = fmt_local(last[k]['stale'], 'kr')
     series = {'t': [fmt_local(s['ts'], 'kr', False) for s in snaps]}
     for prod in ('fut', 'call', 'put'):
         for inv in ('foreign', 'indiv', 'inst'):
@@ -306,7 +309,7 @@ def deriv_kr():
         opt = {'month': o['month'], 'spot': spot, 'pcr_oi': round(poi / coi, 2) if coi else None, 'mp': mp, 'cw': cw[0] if cw else None, 'pw': pw[0] if pw else None,
                'gex': round(gex / 1e8) if gex is not None else None,
                'oi': [[k, (cm.get(k) or [0, 0, 0])[1] or 0, (pm.get(k) or [0, 0, 0])[1] or 0, (cm.get(k) or [0, 0, 0])[2] or 0, (pm.get(k) or [0, 0, 0])[2] or 0] for k in ks]}
-    return {'kis': True, 'asof': fmt_local(last['ts'], 'kr'), 'flows': last['flows'], 'fut': last.get('fut'), 'program': last.get('program'), 'series': series, 'opt': opt,
+    return {'kis': True, 'stale': stale, 'asof': fmt_local(last['ts'], 'kr'), 'flows': last['flows'], 'fut': last.get('fut'), 'program': last.get('program'), 'series': series, 'opt': opt,
             'note': '출처: 한국투자증권 Open API. 금액은 백만원 단위 원자료를 억원으로 바꿔 표시합니다. 장중 값은 누적 잠정치이고, 15분마다 쌓은 값으로 흐름을 그립니다.'}
 
 def deriv(m):

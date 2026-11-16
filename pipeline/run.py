@@ -125,8 +125,15 @@ def kr_steps(full, open_now):
     api = korea.KIS_API()
     if api.ok and (open_now or full):
         snap = korea.kis_snapshot(api)
+        kt = load('kis_today.json', {})
+        if snap and kt.get('snaps'):
+            # a call that failed this time keeps the last value it returned, marked with that time
+            prev = kt['snaps'][-1]
+            for k, v in prev.get('flows', {}).items():
+                if k not in snap['flows']: snap['flows'][k] = {**v, 'stale': v.get('stale') or prev['ts']}
+            for k in ('fut', 'opt'):
+                if not snap.get(k) and prev.get(k): snap[k] = {**prev[k], 'stale': prev[k].get('stale') or prev['ts']}
         if snap:
-            kt = load('kis_today.json', {})
             if kt.get('date') != today: kt = {'date': today, 'snaps': []}
             kt['snaps'].append(snap); kt['snaps'] = kt['snaps'][-60:]
             save('kis_today.json', kt)
