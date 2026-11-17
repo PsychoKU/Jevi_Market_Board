@@ -70,6 +70,13 @@ def option_metrics(sym, o, now_ts):
         oi = [[k, v[0], v[1]] for k, v in sorted(buck.items())]
     else:
         oi = [[k, cmap.get(k, 0), pmap.get(k, 0)] for k in ks]
+    inr = lambda rows: [r for r in rows if lo <= r[0] <= hi]
+    mxc = max(inr(mon['calls']), key=lambda r: r[1], default=[None])[0]
+    mxp = max(inr(mon['puts']), key=lambda r: r[1], default=[None])[0]
+    mon_d = dt.datetime.utcfromtimestamp(mon['d']).date()
+    mon_dte = max(0, (mon_d - today).days)
+    mon_iv = iv_at(mon['calls'] + mon['puts'], S)
+    em = round(mon_iv * math.sqrt(max(mon_dte, 1) / 365) * 100, 1) if mon_iv else None   # 1-sigma move to expiry, %
     skew = None
     ivp, ivc = iv_at(mon['puts'], S * 0.95), iv_at(mon['calls'], S * 1.05)
     if ivp and ivc: skew = round((ivp - ivc) * 100, 1)
@@ -79,8 +86,8 @@ def option_metrics(sym, o, now_ts):
             'cv': tot['cv'], 'pv': tot['pv'], 'coi': tot['coi'], 'poi': tot['poi'],
             'gex': round(gex / 1e9, 2),  # $bn per 1% move
             'near': {'d': per[0]['d'], 'mp': per[0]['mp'], 'pcr': per[0]['pcr_oi'], 'iv': per[0]['atm_iv']},
-            'mon': {'d': dt.datetime.utcfromtimestamp(mon['d']).date().isoformat(), 'mp': max_pain(mon['calls'], mon['puts']),
-                    'cw': cw, 'pw': pw, 'iv': iv_at(mon['calls'] + mon['puts'], S), 'skew': skew, 'oi': oi},
+            'mon': {'d': mon_d.isoformat(), 'dte': mon_dte, 'mp': max_pain(mon['calls'], mon['puts']),
+                    'cw': cw, 'pw': pw, 'mxc': mxc, 'mxp': mxp, 'em': em, 'iv': mon_iv, 'skew': skew, 'oi': oi},
             'exps': per}
 
 # ---------------- estimates ----------------

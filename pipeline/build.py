@@ -1,5 +1,5 @@
 """Assemble site/data/{market}.json from cached raw data (state/) and Claude-written commentary (content/)."""
-import re, json, unicodedata, datetime as dt, time
+import re, json, math, unicodedata, datetime as dt, time
 from common import load, save, OUT, CONTENT, DIGEST, r2, TZ, market_date, log
 from yahoo import build_row, COLS as YCOLS
 from jp_disc_rules import translate as jp_translate
@@ -274,7 +274,8 @@ def deriv_us():
         q = QQ.get(s)
         if q: vix.append({'s': s, 'n': n, 'px': q.get('regularMarketPrice'), 'chg': q.get('regularMarketChangePercent')})
     now = time.time(); opts = []
-    for s in ('SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA'):
+    watch = load('options.json', {}, base=CONTENT).get('us') or ['SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA']
+    for s in watch:
         o = O.get(s)
         if o and o.get('exps'):
             try: opts.append(derive.option_metrics(s, o, o.get('ts') or now))
@@ -312,7 +313,14 @@ def deriv_kr():
         gex = sum(((cm[k][5] or 0) * (cm[k][1] or 0) if k in cm else 0) - ((pm[k][5] or 0) * (pm[k][1] or 0) if k in pm else 0) for k in ks) * 250000 * (spot or 0) ** 2 * 0.01 if spot else None
         cw = max((r for r in calls if spot and r[0] >= spot and r[0] in ks), key=lambda r: r[1] or 0, default=None)
         pw = max((r for r in puts if spot and r[0] <= spot and r[0] in ks), key=lambda r: r[1] or 0, default=None)
-        opt = {'month': o['month'], 'spot': spot, 'pcr_oi': round(poi / coi, 2) if coi else None, 'mp': mp, 'cw': cw[0] if cw else None, 'pw': pw[0] if pw else None,
+        inr = lambda rows: [r for r in rows if r[0] in ks]
+        mxc = max(inr(calls), key=lambda r: r[1] or 0, default=[None])[0]; mxp = max(inr(puts), key=lambda r: r[1] or 0, default=[None])[0]
+        exp = kr_expiry(o['month']); dte = max(0, (exp - dt.datetime.now(TZ['kr']).date()).days) if exp else None
+        atm = min(calls, key=lambda r: abs(r[0] - spot), default=None) if spot else None
+        iv = (atm[4] / 100) if atm and atm[4] else None
+        em = round(iv * math.sqrt(max(dte or 1, 1) / 365) * 100, 1) if iv else None
+        opt = {'month': o['month'], 'exp': exp.isoformat() if exp else None, 'dte': dte, 'iv': iv, 'em': em, 'mxc': mxc, 'mxp': mxp,
+               'spot': spot, 'pcr_oi': round(poi / coi, 2) if coi else None, 'mp': mp, 'cw': cw[0] if cw else None, 'pw': pw[0] if pw else None,
                'gex': round(gex / 1e8) if gex is not None else None,
                'oi': [[k, (cm.get(k) or [0, 0, 0])[1] or 0, (pm.get(k) or [0, 0, 0])[1] or 0, (cm.get(k) or [0, 0, 0])[2] or 0, (pm.get(k) or [0, 0, 0])[2] or 0] for k in ks]}
     prog = {}
@@ -323,9 +331,135 @@ def deriv_kr():
     return {'kis': True, 'stale': stale, 'prog': prog, 'asof': fmt_local(last['ts'], 'kr'), 'flows': last['flows'], 'fut': last.get('fut'), 'series': series, 'opt': opt,
             'note': '출처: 한국투자증권 Open API. 금액은 백만원 단위 원자료를 억원으로 바꿔 표시합니다. 장중 값은 누적 잠정치이고, 15분마다 쌓은 값으로 흐름을 그립니다.'}
 
+def kr_expiry(yyyymm):
+    """KOSPI200 monthly options expire on the second Thursday."""
+    try: y, mo = int(yyyymm[:4]), int(yyyymm[4:6])
+    except (TypeError, ValueError): return None
+    d = dt.date(y, mo, 1); d += dt.timedelta(days=(3 - d.weekday()) % 7)
+    return d + dt.timedelta(days=7)
+
+# ---------------- plain-language readings (rule based, descriptive only) ----------------
+def readings(px, mp=None, cw=None, pw=None, mxc=None, mxp=None, gex=None, pcr=None, skew=None, em=None, dte=None, dec=0, gex_unit=''):
+    if not px: return []
+    f = lambda k: f"{k:,.{dec}f}"; dist = lambda k: (k / px - 1) * 100
+    out = []
+    if mp:
+        d = dist(mp)
+        out.append(f"맥스페인({f(mp)})이 현재가보다 {abs(d):.1f}% {'위' if d > 0 else '아래'}에 있습니다. 옵션 매수자 손실이 가장 커지는 가격이라, 만기가 가까울수록 이쪽으로 끌린다는 해석이 자주 쓰입니다(늘 맞지는 않습니다)."
+                   if abs(d) >= 0.3 else f"맥스페인({f(mp)})이 현재가와 거의 같습니다. 옵션 쪽에서 큰 방향 압력은 약한 구간입니다.")
+    if mxp and mxc:
+        if mxp > px: out.append(f"풋 미결제가 가장 많은 행사가({f(mxp)})가 현재가보다 위에 있습니다. 이미 내가격인 풋이 많다는 뜻으로, 현물 보유자의 헤지가 상당히 깔려 있는 상태로 읽힙니다.")
+        else: out.append(f"풋 미결제가 가장 많은 행사가 {f(mxp)}({dist(mxp):+.1f}%)는 하방 방어선으로, 콜 미결제가 가장 많은 행사가 {f(mxc)}({dist(mxc):+.1f}%)는 상방 목표·저항으로 자주 읽힙니다.")
+    elif cw or pw:
+        out.append(f"콜 벽 {f(cw) if cw else '—'}" + (f"({dist(cw):+.1f}%)" if cw else '') + f", 풋 벽 {f(pw) if pw else '—'}" + (f"({dist(pw):+.1f}%)" if pw else '') + " 사이가 옵션 시장이 보는 박스권입니다.")
+    if gex is not None:
+        out.append(f"딜러 감마가 음수({gex:+,}{gex_unit})입니다. 오르면 딜러가 따라 사고 내리면 따라 파는 구조라, 움직임이 커지기 쉬운 구간입니다." if gex < 0
+                   else f"딜러 감마가 양수({gex:+,}{gex_unit})입니다. 딜러 헤지가 오르면 팔고 내리면 사는 방향이라, 움직임이 눌리기 쉬운 구간입니다.")
+    if pcr is not None:
+        out.append(f"풋/콜 미결제 비율 {pcr:.2f}: " + ("풋이 콜보다 훨씬 많습니다. 하락 대비(헤지) 수요가 크다는 뜻이고, 과하면 역발상(바닥) 신호로 보기도 합니다." if pcr >= 1.3
+                   else "콜이 풋보다 많습니다. 상승 기대가 쌓여 있다는 뜻이고, 과하면 과열 신호로 보기도 합니다." if pcr <= 0.7 else "콜과 풋이 비슷한 중립 수준입니다."))
+    if em and dte is not None:
+        out.append(f"옵션 가격이 반영한 만기({dte}일 뒤)까지의 예상 변동폭은 약 ±{em:.1f}% ({f(px * (1 - em / 100))} ~ {f(px * (1 + em / 100))}, 1표준편차)입니다.")
+    if skew is not None and skew >= 6:
+        out.append(f"스큐 {skew:.1f}%p: 하락 쪽 풋이 상승 쪽 콜보다 비싸게 거래됩니다. 하방 보험료가 높은 상태입니다.")
+    return out
+
+# ---------------- history and trend (1 week / 2 weeks / 1 month) ----------------
+def _ago(hist, today, days):
+    """History entry on or before today-days (closest earlier record)."""
+    target = (dt.date.fromisoformat(today) - dt.timedelta(days=days)).isoformat()
+    ks = [k for k in sorted(hist) if k <= target]
+    return hist[ks[-1]] if ks else None
+
+def record_hist(m, X):
+    H = load('deriv_hist.json', {}); day = market_date(m)
+    if m == 'us':
+        for o in X.get('opts') or []:
+            H.setdefault('us', {}).setdefault(o['sym'], {})[day] = {'px': o['px'], 'pcr_oi': o['pcr_oi'], 'pcr_vol': o['pcr_vol'], 'gex': o['gex'], 'iv': o['mon'].get('iv'),
+                'mp': o['mon'].get('mp'), 'mxc': o['mon'].get('mxc'), 'mxp': o['mon'].get('mxp'), 'skew': o['mon'].get('skew'), 'coi': o['coi'], 'poi': o['poi']}
+    elif m == 'kr' and X.get('kis'):
+        fl = X.get('flows') or {}; o = X.get('opt') or {}; ft = X.get('fut') or {}
+        H.setdefault('kr', {})[day] = {
+            'flows': {p: {i: (fl.get(p) or {}).get(i) for i in ('foreign', 'indiv', 'inst')} for p in ('fut', 'call', 'put', 'mfut', 'kq_fut', 'spot_kospi')},
+            'fut': {k: ft.get(k) for k in ('px', 'theo', 'oi')}, 'opt': {k: o.get(k) for k in ('spot', 'pcr_oi', 'mp', 'mxc', 'mxp', 'gex', 'iv')}}
+    for k in ('us', 'kr'):
+        if k in H:
+            if k == 'us':
+                for sym in H['us']: H['us'][sym] = {d: v for d, v in sorted(H['us'][sym].items())[-60:]}
+            else: H['kr'] = dict(sorted(H['kr'].items())[-60:])
+    save('deriv_hist.json', H)
+
+PERIODS = (('1주 전', 7), ('2주 전', 14), ('1달 전', 30))
+def trend_us(sym, now, today):
+    h = load('deriv_hist.json', {}).get('us', {}).get(sym, {})
+    past = [_ago(h, today, d) for _, d in PERIODS]
+    rows = []
+    for k, n, dec in (('px', '현재가', 2), ('pcr_oi', '풋/콜 미결제', 2), ('pcr_vol', '풋/콜 거래량', 2), ('gex', '딜러 감마 ($B/1%)', 2), ('iv', '월물 ATM IV (%)', 1),
+                      ('mp', '월물 맥스페인', 0), ('mxc', '콜 미결제 최대 행사가', 0), ('mxp', '풋 미결제 최대 행사가', 0), ('skew', '스큐 (%p)', 1)):
+        cur = now.get(k)
+        if k == 'iv': cur = cur * 100 if cur else None
+        vals = [((p or {}).get(k) * 100 if k == 'iv' and (p or {}).get(k) else (p or {}).get(k)) for p in past]
+        rows.append([n, dec, cur, *vals])
+    return {'days': len(h), 'cols': [p for p, _ in PERIODS], 'rows': rows}
+
+def trend_vix(vixh, QQ):
+    out = []
+    for s, n in (('^VIX', 'VIX'), ('^VIX3M', 'VIX 3개월'), ('^SKEW', 'SKEW')):
+        pts = vixh.get(s) or []
+        if not pts: continue
+        cur = (QQ.get(s) or {}).get('regularMarketPrice') or pts[-1][1]
+        def at(days):
+            t = pts[-1][0] - days * 86400; c = [p for p in pts if p[0] <= t]
+            return c[-1][1] if c else None
+        out.append([n, 2, cur, *[at(d) for _, d in PERIODS]])
+    v = {r[0]: r for r in out}
+    if 'VIX' in v and 'VIX 3개월' in v:
+        out.append(['VIX ÷ VIX3M (1 넘으면 역전)', 2, *[(a / b if a and b else None) for a, b in zip(v['VIX'][2:], v['VIX 3개월'][2:])]])
+    return {'cols': [p for p, _ in PERIODS], 'rows': out}
+
+def trend_kr(X):
+    H = load('deriv_hist.json', {}).get('kr', {}); today = market_date('kr')
+    days = sorted(H)
+    def cum(n, p, i):
+        sel = days[-n:]
+        if len(sel) < min(n, 2): return None
+        vals = [((H[d]['flows'].get(p) or {}).get(i) or {}).get('amt') for d in sel]
+        vals = [v for v in vals if v is not None]
+        return round(sum(vals) / 100) if vals else None      # 억원
+    flows = []
+    for p, pn in (('fut', '선물'), ('call', '콜'), ('put', '풋'), ('mfut', '미니 선물'), ('spot_kospi', '코스피 현물')):
+        for i, iname in (('foreign', '외국인'), ('indiv', '개인'), ('inst', '기관')):
+            today_v = ((X.get('flows') or {}).get(p) or {}).get(i) or {}
+            flows.append([f'{iname} {pn}', round(today_v['amt'] / 100) if today_v.get('amt') is not None else None, cum(5, p, i), cum(10, p, i), cum(21, p, i)])
+    past = [_ago(H, today, d) for _, d in PERIODS]
+    o = X.get('opt') or {}; ft = X.get('fut') or {}
+    lv = []
+    basis = lambda f_: (f_.get('px') - f_.get('theo')) if f_ and f_.get('px') is not None and f_.get('theo') is not None else None
+    lv.append(['코스피200', 2, o.get('spot'), *[((p or {}).get('opt') or {}).get('spot') for p in past]])
+    lv.append(['선물 미결제약정 (계약)', 0, ft.get('oi'), *[((p or {}).get('fut') or {}).get('oi') for p in past]])
+    lv.append(['베이시스 (선물−이론가)', 2, basis(ft), *[basis((p or {}).get('fut')) for p in past]])
+    for k, n, dec in (('pcr_oi', '풋/콜 미결제', 2), ('mp', '맥스페인', 1), ('mxc', '콜 미결제 최대 행사가', 1), ('mxp', '풋 미결제 최대 행사가', 1), ('gex', '딜러 감마 (억원/1%)', 0)):
+        lv.append([n, dec, o.get(k), *[((p or {}).get('opt') or {}).get(k) for p in past]])
+    return {'days': len(days), 'flow_cols': ['오늘', '최근 5일', '최근 10일', '최근 21일'], 'flows': flows, 'cols': [p for p, _ in PERIODS], 'rows': lv}
+
 def deriv(m):
-    if m == 'us': return deriv_us()
-    if m == 'kr': return {**deriv_kr(), 'us_ref': deriv_us()['vix']}
+    if m == 'us':
+        X = deriv_us(); today = market_date('us')
+        for o in X['opts']:
+            o['read'] = readings(o['px'], o['mon'].get('mp'), o['mon'].get('cw'), o['mon'].get('pw'), o['mon'].get('mxc'), o['mon'].get('mxp'),
+                                 o['gex'], o['pcr_oi'], o['mon'].get('skew'), o['mon'].get('em'), o['mon'].get('dte'), dec=2 if o['px'] < 100 else 0, gex_unit='B$')
+            o['trend'] = trend_us(o['sym'], {'px': o['px'], 'pcr_oi': o['pcr_oi'], 'pcr_vol': o['pcr_vol'], 'gex': o['gex'], 'iv': o['mon'].get('iv'),
+                                             'mp': o['mon'].get('mp'), 'mxc': o['mon'].get('mxc'), 'mxp': o['mon'].get('mxp'), 'skew': o['mon'].get('skew')}, today)
+        X['vtrend'] = trend_vix(X.get('vixh') or {}, load('market.json', {}).get('q', {}))
+        return X
+    if m == 'kr':
+        X = deriv_kr()
+        if X.get('kis'):
+            o = X.get('opt') or {}
+            X['read'] = readings(o.get('spot'), o.get('mp'), o.get('cw'), o.get('pw'), o.get('mxc'), o.get('mxp'), o.get('gex'), o.get('pcr_oi'),
+                                 None, o.get('em'), o.get('dte'), dec=1, gex_unit='억원') if o else []
+            X['trend'] = trend_kr(X)
+        return {**X, 'us_ref': deriv_us()['vix']}
     return {'us_ref': deriv_us()['vix'], 'note': '일본 파생 수급(닛케이 선물 투자자별)은 JPX 주간 자료만 무료로 공개되어 추후 추가 예정입니다.'}
 
 # ---------------- assemble ----------------
@@ -353,6 +487,8 @@ def build(m, open_now):
          'bench': bench, 'summary': content.get('summary', []), 'ideas': content.get('ideas', {'asof': '', 'items': []}), 'flows': flows(m, rows), 'rates': rates(m),
          'macro': macro, 'disc': d, 'hold': holdings(m, rows), 'news': news(m, content), 'events': content.get('events', []), 'reasons': reasons,
          'est': estimates(m, rows), 'deriv': deriv(m), 'notes': {'est': content.get('est_note', ''), 'deriv': content.get('deriv_note', '')}}
+    try: record_hist(m, D['deriv'] or {})
+    except Exception as e: log.warning('deriv history: %s', e)
     save(f'{m}.json', D, base=OUT)
     save('meta.json', {**(load('meta.json', {}, base=OUT)), m: meta['built']}, base=OUT)
     return D

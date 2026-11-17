@@ -227,3 +227,50 @@ def kis_snapshot(api):
                     if near: snap['opt'].update(near)
                   except Exception as e: log.warning('near chain failed: %s', e)
     return snap
+
+# ---------------- Naver (real-time quotes; Yahoo's Korean quotes run about 20 minutes late) ----------------
+NAVER = 'https://m.stock.naver.com/api'
+
+def _n(x):
+    try: return float(str(x).replace(',', '').replace('%', '').strip())
+    except (TypeError, ValueError): return None
+
+def naver_quotes():
+    """code -> {px, chg, vol, mcap (KRW), ts} for every KOSPI/KOSDAQ stock (about 30 requests). Empty on failure."""
+    s = session({'Referer': 'https://m.stock.naver.com/', 'Accept': 'application/json'})
+    out = {}
+    for mkt in ('KOSPI', 'KOSDAQ'):
+        for p in range(1, 40):
+            j = jget(s, f'{NAVER}/stocks/marketValue/{mkt}?page={p}&pageSize=100', tries=2)
+            rows = (j or {}).get('stocks') or []
+            if not rows: break
+            if not out: log.info('naver fields %s', sorted(rows[0].keys())[:30])
+            for r in rows:
+                c = r.get('itemCode')
+                px = _n(r.get('closePrice'))
+                if not c or px is None: continue
+                ts = None
+                if r.get('localTradedAt'):
+                    try: ts = int(dt.datetime.fromisoformat(r['localTradedAt']).timestamp())
+                    except ValueError: ts = None
+                mv = _n(r.get('marketValue'))           # 억원
+                out[c] = {'px': px, 'chg': _n(r.get('fluctuationsRatio')), 'vol': _n(r.get('accumulatedTradingVolume')),
+                          'mcap': mv * 1e8 if mv else None, 'ts': ts}
+            if len(rows) < 100: break
+            time.sleep(0.1)
+    log.info('naver quotes %d', len(out))
+    return out
+
+def naver_indices():
+    """Yahoo symbol -> {px, ch, chg, ts} for KOSPI, KOSDAQ, KOSPI200."""
+    s = session({'Referer': 'https://m.stock.naver.com/', 'Accept': 'application/json'}); out = {}
+    for code, sym in (('KOSPI', '^KS11'), ('KOSDAQ', '^KQ11'), ('KPI200', '^KS200')):
+        j = jget(s, f'{NAVER}/index/{code}/basic', tries=2)
+        if not j or _n(j.get('closePrice')) is None: continue
+        ts = None
+        if j.get('localTradedAt'):
+            try: ts = int(dt.datetime.fromisoformat(j['localTradedAt']).timestamp())
+            except ValueError: ts = None
+        out[sym] = {'regularMarketPrice': _n(j.get('closePrice')), 'regularMarketChange': _n(j.get('compareToPreviousClosePrice')),
+                    'regularMarketChangePercent': _n(j.get('fluctuationsRatio')), **({'regularMarketTime': ts} if ts else {})}
+    return out

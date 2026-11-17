@@ -195,6 +195,8 @@ footer b{color:var(--ink2);font-weight:500}
 .shc{position:relative}
 .shtip{position:absolute;pointer-events:none;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:5px 8px;font-size:11.5px;line-height:1.45;box-shadow:0 4px 14px rgba(0,0,0,.12);white-space:nowrap;z-index:2}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.readbox{background:var(--bg2,rgba(127,127,127,.06));border-radius:10px;padding:10px 14px;margin:8px 0 12px}.readbox ul{margin:6px 0 0;padding-left:18px}.readbox li{margin:4px 0;font-size:13.5px;line-height:1.55}
+.guide summary{cursor:pointer;font-size:15px}.guide dl{margin:10px 0 0}.guide dt{font-weight:700;margin-top:10px}.guide dd{margin:4px 0 0;font-size:13.5px;line-height:1.6;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -586,7 +588,27 @@ function oiChart(oi,{spot,mp,cw,pw,w=760,h=240,dec=0}){
   return `<svg viewBox="0 0 ${w} ${h}" width="100%" role="img" aria-label="행사가별 미결제약정"><line x1="${L}" x2="${w-R}" y1="${mid}" y2="${mid}" stroke="var(--line)"/>${b}${vl(spot,"var(--ink)","현재",T+10)}${vl(mp,"var(--accent)","맥스페인",T+24)}${xt}</svg>
   <div class="note" style="margin-top:4px">위 = 콜 미결제, 아래 = 풋 미결제. 콜 벽 ${fin(cw)?nfmt(cw,dec):"—"} · 풋 벽 ${fin(pw)?nfmt(pw,dec):"—"} (현재가 ±12% 안에서 미결제가 가장 많은 행사가)</div>`;
 }
-function vixCard(V,VH){
+function trendTbl(T,{label="지표",nowLbl="지금"}={}){
+  if(!T||!T.rows||!T.rows.length)return"";
+  const arrow=(a,b)=>fin(a)&&fin(b)?(a>b?'<span class="up">▲</span>':a<b?'<span class="dn">▼</span>':""):"";
+  return `<div class="tbl-wrap"><table><thead><tr><th class="l">${label}</th><th>${nowLbl}</th>${T.cols.map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>
+  ${T.rows.map(r=>{const[n,dec,cur,...p]=r;return `<tr><td class="l">${esc(n)}</td><td><b>${nfmt(cur,dec)}</b></td>${p.map(v=>`<td>${fin(v)?nfmt(v,dec)+" "+arrow(cur,v):'<span class="lbl">—</span>'}</td>`).join("")}</tr>`}).join("")}</tbody></table></div>`;
+}
+function readBox(list){return list&&list.length?`<div class="readbox"><div class="minihd">자동 해석 <span class="lbl">숫자를 말로 옮긴 것이며 예측이 아닙니다</span></div><ul>${list.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:""}
+function optGuide(){return `<details class="card guide" style="margin-top:14px"><summary><b>옵션 지표 읽는 법</b> <span class="lbl">처음이라면 펼쳐 보세요</span></summary>
+<dl>
+<dt>미결제약정(OI)</dt><dd>아직 청산되지 않고 남아 있는 계약 수입니다. 행사가별 OI를 보면 시장 참가자들이 어느 가격대에 돈을 걸어 두었는지 알 수 있습니다. 차트에서 위쪽 막대가 콜, 아래쪽이 풋입니다.</dd>
+<dt>콜 벽 · 풋 벽 / 미결제 최대 행사가</dt><dd>현재가 위에서 콜 OI가 가장 많은 행사가(콜 벽)는 저항, 아래에서 풋 OI가 가장 많은 행사가(풋 벽)는 지지로 자주 읽힙니다. 메모에 쓰신 "Max Put OI가 현재가보다 위"는 이미 내가격인 풋이 많다는 뜻이라, 현물 보유자의 헤지가 깔려 있는 상태로 해석됩니다.</dd>
+<dt>맥스페인</dt><dd>만기 때 그 가격으로 끝나면 옵션 매수자 전체 손실이 가장 커지는(= 매도자에게 가장 유리한) 가격입니다. 만기 직전 지수가 이쪽으로 끌린다는 말이 있지만 늘 맞지는 않습니다.</dd>
+<dt>딜러 감마(GEX)</dt><dd>옵션을 판 딜러(시장조성자)는 델타를 맞추려고 현물·선물을 사고팝니다. 음수면 오를 때 사고 내릴 때 파는 구조라 움직임이 커지고, 양수면 반대로 움직임이 눌립니다. 딜러가 콜은 사고 풋은 팔았다는 관례적 가정으로 추정한 값입니다.</dd>
+<dt>풋/콜 비율</dt><dd>풋 OI(또는 거래량) ÷ 콜. 1보다 크면 하락 대비가 많은 것이고, 극단값은 반대로 바닥·과열 신호로 쓰이기도 합니다.</dd>
+<dt>내재변동성(IV) · 예상 변동폭</dt><dd>옵션 가격에 들어 있는 기대 변동성입니다. IV × √(남은 일수/365)로 만기까지 1표준편차 예상 변동폭을 계산합니다(약 68% 확률 범위).</dd>
+<dt>스큐</dt><dd>현재가 5% 아래 풋 IV − 5% 위 콜 IV. 클수록 하방 보험료가 비쌉니다.</dd>
+<dt>VIX 기간 구조</dt><dd>VIX(1개월) ÷ VIX3M(3개월)이 1을 넘으면 단기 공포가 더 큰 역전 상태입니다. 메모에 쓰신 "옵션 시장이 잭슨홀보다 NFP·FOMC에 더 높은 변동성을 반영"처럼, 기간별 IV 차이로 시장이 어떤 이벤트를 더 걱정하는지 볼 수 있습니다.</dd>
+<dt>외국인 선물 순매수 · 베이시스 (한국)</dt><dd>외국인 선물 매매는 현물 방향을 이끄는 경우가 많습니다. 베이시스(선물 − 이론가)가 크게 음수면 차익 프로그램 매도가 나오기 쉽습니다. 만기 전 장 막판 선물 대량 매도는 기존 롱 포지션 헤지(커버)일 수 있어, 장중 흐름 차트와 같이 보세요.</dd>
+<dt>추세 표</dt><dd>각 지표를 1주·2주·1달 전과 비교합니다. VIX는 과거 일봉이 있어 바로 나오고, 옵션 미결제·한국 선물 수급은 이 보드가 매일 기록한 값이라 기록이 쌓이는 대로 채워집니다.</dd>
+</dl></details>`}
+function vixCard(V,VH,VT){
   const g=s=>(V.find(v=>v.s===s)||{}).px;const term=["^VIX9D","^VIX","^VIX3M","^VIX6M"].map(s=>V.find(v=>v.s===s)).filter(Boolean);
   const r=fin(g("^VIX"))&&fin(g("^VIX3M"))?g("^VIX")/g("^VIX3M"):null;
   const state=r==null?"":r>1?`<span class="dn">역전(백워데이션) — 단기 공포가 장기보다 큼</span>`:r>0.95?`<span>평탄 — 경계 구간</span>`:`<span class="up">정상(콘탱고) — 안정 구간</span>`;
@@ -597,6 +619,7 @@ function vixCard(V,VH){
   return `<section class="card"><h2>변동성 지수 <span class="sub">CBOE · 기간 구조 VIX/VIX3M ${fin(r)?r.toFixed(2):"—"}</span></h2>
    <div class="grid g22" style="align-items:center"><div>${tc}<div style="font-size:13px;margin-top:4px">${state}</div></div>
    <div class="hkpi" style="grid-template-columns:repeat(3,minmax(0,1fr))">${V.filter(v=>!["^VIX9D","^VIX3M","^VIX6M"].includes(v.s)).map(v=>`<div><div class="lbl">${esc(v.n)}</div><div class="v">${nfmt(v.px,2)}</div><div class="num ${cls(v.chg)}" style="font-size:12px">${pct(v.chg)}</div></div>`).join("")}</div></div>
+   ${VT&&VT.rows&&VT.rows.length?`<div class="minihd" style="margin-top:12px">추세</div>${trendTbl(VT)}`:""}
    ${hs?`<div class="minihd" style="margin-top:12px">최근 1년</div>${hs}`:""}
    <div class="note">VIX는 S&P500 옵션으로 본 향후 30일 기대 변동성입니다. 단기(9일)가 3개월물보다 높아지는 역전은 급락기에 자주 나옵니다. SKEW가 높으면 깊은 외가격 풋 수요(꼬리 위험 대비)가 많다는 뜻입니다.</div></section>`;
 }
@@ -606,7 +629,8 @@ function usOptions(X){
   return `<section class="card" style="margin-top:14px"><h2>미국 옵션 포지션 <span class="sub">${esc(X.asof)} ET 기준 · Yahoo 옵션 체인</span></h2>
    <div class="tbl-wrap"><table><thead><tr><th class="l">기초자산</th><th>현재가</th><th>풋/콜 미결제</th><th>풋/콜 거래량</th><th>딜러 감마(GEX)</th><th>최근월 ATM IV</th><th>최근 만기 맥스페인</th><th>월물 맥스페인</th><th>콜 벽</th><th>풋 벽</th><th>스큐</th></tr></thead><tbody>
    ${X.opts.map(z=>`<tr><td class="l"><button class="nm" data-osym="${esc(z.sym)}" style="font-weight:${z.sym===sel?700:400}">${esc(z.sym)}</button></td><td>$${nfmt(z.px,2)}</td><td>${nfmt(z.pcr_oi,2)}</td><td>${nfmt(z.pcr_vol,2)}</td><td class="${cls(z.gex)}">${gx(z.gex)}</td><td>${fin(z.mon.iv)?(z.mon.iv*100).toFixed(1)+"%":"—"}</td><td>${nfmt(z.near.mp,0)} <span class="lbl">${esc(z.near.d.slice(5))}</span></td><td>${nfmt(z.mon.mp,0)} <span class="lbl">${esc(z.mon.d.slice(5))}</span></td><td>${nfmt(z.mon.cw,0)}</td><td>${nfmt(z.mon.pw,0)}</td><td>${fin(z.mon.skew)?z.mon.skew.toFixed(1):"—"}</td></tr>`).join("")}</tbody></table></div>
-   ${o?`<div class="minihd" style="margin-top:12px">${esc(o.sym)} ${esc(o.mon.d)} 월물 행사가별 미결제약정</div>${oiChart(o.mon.oi,{spot:o.px,mp:o.mon.mp,cw:o.mon.cw,pw:o.mon.pw})}
+   ${o?`<div class="minihd" style="margin-top:14px">${esc(o.sym)} ${esc(o.mon.d)} 월물 (만기까지 ${o.mon.dte??"—"}일)</div>${readBox(o.read)}${oiChart(o.mon.oi,{spot:o.px,mp:o.mon.mp,cw:o.mon.cw,pw:o.mon.pw})}
+   <div class="minihd" style="margin-top:12px">${esc(o.sym)} 추세 <span class="lbl">기록 ${o.trend?o.trend.days:0}일 · 매일 장 마감 값을 쌓습니다</span></div>${trendTbl(o.trend)}
    <div class="minihd" style="margin-top:12px">${esc(o.sym)} 만기별</div><div class="tbl-wrap"><table><thead><tr><th class="l">만기</th><th>남은 일수</th><th>콜 미결제</th><th>풋 미결제</th><th>풋/콜</th><th>ATM IV</th><th>맥스페인</th><th>감마($M/1%)</th></tr></thead><tbody>
    ${o.exps.map(e=>`<tr><td class="l num">${esc(e.d)}</td><td>${e.dte}</td><td>${nfmt(e.coi)}</td><td>${nfmt(e.poi)}</td><td>${nfmt(e.pcr_oi,2)}</td><td>${fin(e.atm_iv)?(e.atm_iv*100).toFixed(1)+"%":"—"}</td><td>${nfmt(e.mp,0)}</td><td class="${cls(e.gex)}">${nfmt(e.gex,0)}</td></tr>`).join("")}</tbody></table></div>`:""}
    <div class="note">딜러 감마(GEX)는 딜러가 콜은 매수·풋은 매도 포지션이라는 관례적 가정으로, 기초자산이 1% 움직일 때 딜러가 헤지로 사고팔아야 하는 금액(10억 달러)을 추정한 값입니다. 음수면 딜러 헤지가 움직임을 키우는 쪽(변동성 확대), 양수면 누르는 쪽입니다. 맥스페인은 만기 때 옵션 매수자 전체 손실이 가장 큰 가격입니다. 스큐는 현재가 5% 아래 풋 IV − 5% 위 콜 IV(%p)입니다. 미결제는 전일 기준으로 하루 한 번 바뀝니다.</div></section>`;
@@ -627,13 +651,16 @@ function krDeriv(X){
    ${ft?`<div class="hkpi" style="margin-top:12px"><div><div class="lbl">${esc(ft.name||"최근월 선물")}${X.stale&&X.stale.fut?` (${esc(X.stale.fut)} 값)`:""}</div><div class="v">${nfmt(ft.px,2)}</div><div class="num ${cls(ft.chg)}" style="font-size:12px">${pct(ft.chg)}</div></div><div><div class="lbl">이론가 대비 (평균 베이시스)</div><div class="v ${cls(ft.px-ft.theo)}">${fin(ft.theo)?(ft.px-ft.theo>0?"+":"")+(ft.px-ft.theo).toFixed(2):"—"}</div></div><div><div class="lbl">미결제약정</div><div class="v">${nfmt(ft.oi)}</div></div><div><div class="lbl">만기까지</div><div class="v">${fin(ft.dte)?ft.dte+"일":"—"}</div></div></div>`:""}
    ${X.prog&&Object.keys(X.prog).length?`<div class="minihd" style="margin-top:14px">프로그램 매매 순매수 (억원)</div><div class="tbl-wrap"><table><thead><tr><th class="l">시장</th><th class="l">주체</th><th>전체</th><th>차익</th><th>비차익</th></tr></thead><tbody>${Object.entries(X.prog).map(([mk,rs])=>rs.map((r,i)=>`<tr><td class="l">${i?"":mk==="kospi"?"코스피":"코스닥"}</td><td class="l">${esc(r[0])}</td>${r.slice(1).map(v=>`<td class="${cls(v)}">${eok(v)}</td>`).join("")}</tr>`).join("")).join("")}</tbody></table></div>`:""}
    <div class="note">${esc(X.note)}</div></section>
-   ${O?`<section class="card" style="margin-top:14px"><h2>코스피200 옵션 ${esc(O.month)} 월물 <span class="sub">${X.stale&&X.stale.opt?`${esc(X.stale.opt)} 값 · `:""}풋/콜 미결제 ${nfmt(O.pcr_oi,2)} · 맥스페인 ${nfmt(O.mp,1)} · 딜러 감마 ${fin(O.gex)?nfmt(O.gex)+"억원/1%":"—"}</span></h2>${oiChart(O.oi,{spot:O.spot,mp:O.mp,cw:O.cw,pw:O.pw,dec:1})}</section>`:""}`;
+   ${X.trend?`<section class="card" style="margin-top:14px"><h2>수급 추세 <span class="sub">억원 · 기록 ${X.trend.days}일 (매일 장 마감 값을 쌓습니다)</span></h2>
+     <div class="tbl-wrap"><table><thead><tr><th class="l">주체·상품</th>${X.trend.flow_cols.map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>${X.trend.flows.filter(r=>r.slice(1).some(fin)).map(r=>`<tr><td class="l">${esc(r[0])}</td>${r.slice(1).map(v=>`<td class="${cls(v)}">${fin(v)?nfmt(v):'<span class="lbl">—</span>'}</td>`).join("")}</tr>`).join("")}</tbody></table></div>
+     <div class="minihd" style="margin-top:12px">선물·옵션 지표 변화</div>${trendTbl(X.trend)}</section>`:""}
+   ${O?`<section class="card" style="margin-top:14px"><h2>코스피200 옵션 ${esc(O.month)} 월물${O.exp?` · 만기 ${esc(O.exp.slice(5).replace("-","/"))} (${O.dte}일)`:""} <span class="sub">${X.stale&&X.stale.opt?`${esc(X.stale.opt)} 값 · `:""}풋/콜 미결제 ${nfmt(O.pcr_oi,2)} · 맥스페인 ${nfmt(O.mp,1)} · 딜러 감마 ${fin(O.gex)?nfmt(O.gex)+"억원/1%":"—"}</span></h2>${readBox(X.read)}${oiChart(O.oi,{spot:O.spot,mp:O.mp,cw:O.cw,pw:O.pw,dec:1})}</section>`:""}`;
 }
 function vDeriv(){
   const D=S.D,X=D.deriv||{};const memo=D.notes&&D.notes.deriv?`<section class="card"><h2>파생 메모 <span class="sub">Claude 해설</span></h2><div class="note" style="margin:0;font-size:14px;color:var(--ink);white-space:pre-line">${esc(D.notes.deriv)}</div></section>`:"";
   let body="";
-  if(S.m==="us")body=vixCard(X.vix||[],X.vixh)+(X.opts&&X.opts.length?usOptions(X):"");
-  else if(S.m==="kr")body=krDeriv(X)+`<div style="margin-top:14px">${vixCard(X.us_ref||[],null)}</div>`;
+  if(S.m==="us")body=vixCard(X.vix||[],X.vixh,X.vtrend)+(X.opts&&X.opts.length?usOptions(X):"")+optGuide();
+  else if(S.m==="kr")body=krDeriv(X)+optGuide()+`<div style="margin-top:14px">${vixCard(X.us_ref||[],null)}</div>`;
   else body=`<section class="card"><h2>일본 파생</h2><div class="empty" style="text-align:left">${esc(X.note||"")}</div></section><div style="margin-top:14px">${vixCard(X.us_ref||[],null)}</div>`;
   $("#view").innerHTML=memo+`<div style="margin-top:${memo?14:0}px">${body}</div>`;
   document.querySelectorAll("[data-osym]").forEach(b=>b.addEventListener("click",e=>{e.stopPropagation();S.ui.osym=b.dataset.osym;vDeriv()}));

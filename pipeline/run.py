@@ -7,7 +7,7 @@ full   : once per trading day after the close -> also universe + sectors, 2-year
 Usage  : python pipeline/run.py [--force kr,jp,us] [--full]
 """
 import sys, time, argparse, traceback, datetime as dt
-from common import load, save, log, in_window, after_close, market_date, local_now, r2
+from common import CONTENT, load, save, log, in_window, after_close, market_date, local_now, r2
 from yahoo import Yahoo, trend
 import korea, japan, us, news, build
 
@@ -83,6 +83,28 @@ def quotes_quick(y, m):
         if any(x is not None for x in e.values()): ext[s] = e
     save(f'{m}_ext.json', ext)
     return True
+
+def naver_overlay():
+    """Replace Yahoo's delayed Korean prices with Naver's real-time ones when Naver answers."""
+    try: nq = korea.naver_quotes()
+    except Exception: log.warning('naver failed\n%s', traceback.format_exc()); nq = {}
+    if nq:
+        raw = load('kr_raw.json', {}); n = 0
+        for sym, q in raw.items():
+            v = nq.get(sym.split('.')[0])
+            if not v: continue
+            q['regularMarketPrice'] = v['px']; n += 1
+            if v['chg'] is not None: q['regularMarketChangePercent'] = v['chg']
+            if v['vol'] is not None: q['regularMarketVolume'] = v['vol']
+            if v['mcap']: q['marketCap'] = v['mcap']
+            if v['ts']: q['regularMarketTime'] = v['ts']
+        save('kr_raw.json', raw); log.info('naver overlay %d', n)
+    try: ni = korea.naver_indices()
+    except Exception: ni = {}
+    if ni:
+        mk = load('market.json', {}); mk.setdefault('q', {})
+        for s_, v in ni.items(): mk['q'][s_] = {**mk['q'].get(s_, {}), **v}
+        save('market.json', mk)
 
 def estimates_step(y, m, max_syms=None):
     """Analyst EPS revisions (Yahoo epsTrend). Resumable: continues where the previous run stopped."""
@@ -161,7 +183,9 @@ def us_steps(y):
         try: us.filings(s); save('sec_at.json', {'at': time.time()})
         except Exception: log.warning('SEC failed\n%s', traceback.format_exc())
     O = load('us_options.json', {})
-    for sym in ('SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA'):
+    watch = (load('options.json', {}, base=CONTENT).get('us') or ['SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA'])[:12]
+    O = {k: v for k, v in O.items() if k in watch}
+    for sym in watch:
         o = y.options(sym)
         if o: O[sym] = o
     save('us_options.json', O)
@@ -169,6 +193,7 @@ def us_steps(y):
 def run_market(y, m, full, open_now):
     log.info('=== %s %s', m, 'full' if full else 'quick')
     ok = universe_full(y, m) if full else quotes_quick(y, m)
+    if m == 'kr' and ok: naver_overlay()
     for step in ((lambda: kr_steps(full, open_now)) if m == 'kr' else (lambda: jp_steps(full)) if m == 'jp' else (lambda: us_steps(y)),
                  lambda: save(f'{m}_news.json', news.headlines(m) or load(f'{m}_news.json', []))):
         try: step()
