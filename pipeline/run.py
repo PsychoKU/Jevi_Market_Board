@@ -183,12 +183,40 @@ def us_steps(y):
         try: us.filings(s); save('sec_at.json', {'at': time.time()})
         except Exception: log.warning('SEC failed\n%s', traceback.format_exc())
     O = load('us_options.json', {})
-    watch = (load('options.json', {}, base=CONTENT).get('us') or ['SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA'])[:12]
-    O = {k: v for k, v in O.items() if k in watch}
-    for sym in watch:
+    watch = load('options.json', {}, base=CONTENT).get('us') or ['SPY', 'QQQ', 'IWM']
+    auto = rank_option_names(y)
+    keep = set(watch) | set(auto)
+    O = {k: v for k, v in O.items() if k in keep}
+    for sym in watch:                                    # fixed list: every run
         o = y.options(sym)
         if o: O[sym] = o
+    A = load('us_opt_auto_at.json', {})
+    for sym in auto:                                     # most-traded names: about once an hour
+        if sym in watch or time.time() - A.get(sym, 0) < 55 * 60 and sym in O: continue
+        if left() < 8 * 60: break
+        o = y.options(sym, max_exp=8)
+        if o: O[sym] = o; A[sym] = time.time()
+    save('us_opt_auto_at.json', A)
     save('us_options.json', O)
+
+def rank_option_names(y, n=30, candidates=120):
+    """The n US stocks with the most option contracts traded at the nearest expiry, re-ranked once per trading day
+    from the 120 stocks with the largest dollar turnover."""
+    R = load('us_opt_auto.json', {})
+    if R.get('date') == market_date('us') and R.get('syms'): return R['syms']
+    raw = load('us_raw.json', {})
+    cand = sorted(raw, key=lambda s_: -((raw[s_].get('regularMarketPrice') or 0) * (raw[s_].get('regularMarketVolume') or 0)))[:candidates]
+    vol = {}
+    for sym in cand:
+        if left() < 15 * 60: break
+        o = y.options(sym, max_exp=1)
+        if o and o['exps']:
+            e = o['exps'][0]; vol[sym] = sum(r[2] for r in e['calls']) + sum(r[2] for r in e['puts'])
+    syms = [s_ for s_, _ in sorted(vol.items(), key=lambda kv: -kv[1])[:n]]
+    if syms:
+        save('us_opt_auto.json', {'date': market_date('us'), 'syms': syms, 'vol': {s_: vol[s_] for s_ in syms}})
+        log.info('option names %s', syms)
+    return syms or R.get('syms', [])
 
 def run_market(y, m, full, open_now):
     log.info('=== %s %s', m, 'full' if full else 'quick')

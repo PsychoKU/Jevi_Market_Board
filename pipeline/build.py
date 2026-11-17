@@ -274,11 +274,12 @@ def deriv_us():
         q = QQ.get(s)
         if q: vix.append({'s': s, 'n': n, 'px': q.get('regularMarketPrice'), 'chg': q.get('regularMarketChangePercent')})
     now = time.time(); opts = []
-    watch = load('options.json', {}, base=CONTENT).get('us') or ['SPY', 'QQQ', 'IWM', 'NVDA', 'TSLA']
-    for s in watch:
+    watch = load('options.json', {}, base=CONTENT).get('us') or ['SPY', 'QQQ', 'IWM']
+    auto = load('us_opt_auto.json', {}).get('syms') or []
+    for s in watch + [a_ for a_ in auto if a_ not in watch]:
         o = O.get(s)
         if o and o.get('exps'):
-            try: opts.append(derive.option_metrics(s, o, o.get('ts') or now))
+            try: opts.append({**derive.option_metrics(s, o, o.get('ts') or now), 'auto': s not in watch})
             except Exception as e: log.warning('option metrics %s: %s', s, e)
     return {'vix': vix, 'vixh': mk.get('vixh', {}), 'opts': opts, 'asof': fmt_local(max([o.get('ts') or 0 for o in O.values()] or [0]), 'us')}
 
