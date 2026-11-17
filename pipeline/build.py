@@ -448,7 +448,8 @@ def deriv(m):
         X = deriv_us(); today = market_date('us')
         for o in X['opts']:
             o['read'] = readings(o['px'], o['mon'].get('mp'), o['mon'].get('cw'), o['mon'].get('pw'), o['mon'].get('mxc'), o['mon'].get('mxp'),
-                                 o['gex'], o['pcr_oi'], o['mon'].get('skew'), o['mon'].get('em'), o['mon'].get('dte'), dec=2 if o['px'] < 100 else 0, gex_unit='B$')
+                                 round(o['gex'] * 1000) if abs(o['gex']) < 1 else o['gex'], o['pcr_oi'], o['mon'].get('skew'), o['mon'].get('em'), o['mon'].get('dte'),
+                                 dec=2 if o['px'] < 100 else 0, gex_unit='M$' if abs(o['gex']) < 1 else 'B$')
             o['trend'] = trend_us(o['sym'], {'px': o['px'], 'pcr_oi': o['pcr_oi'], 'pcr_vol': o['pcr_vol'], 'gex': o['gex'], 'iv': o['mon'].get('iv'),
                                              'mp': o['mon'].get('mp'), 'mxc': o['mon'].get('mxc'), 'mxp': o['mon'].get('mxp'), 'skew': o['mon'].get('skew')}, today)
         X['vtrend'] = trend_vix(X.get('vixh') or {}, load('market.json', {}).get('q', {}))

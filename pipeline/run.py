@@ -212,7 +212,9 @@ def rank_option_names(y, n=30, candidates=120):
         o = y.options(sym, max_exp=1)
         if o and o['exps']:
             e = o['exps'][0]; vol[sym] = sum(r[2] for r in e['calls']) + sum(r[2] for r in e['puts'])
-    syms = [s_ for s_, _ in sorted(vol.items(), key=lambda kv: -kv[1])[:n]]
+    ranked = [s_ for s_, _ in sorted(vol.items(), key=lambda kv: -kv[1])]
+    if 'GOOG' in ranked and 'GOOGL' in ranked: ranked.remove('GOOGL' if ranked.index('GOOG') < ranked.index('GOOGL') else 'GOOG')   # same company
+    syms = ranked[:n]
     if syms:
         save('us_opt_auto.json', {'date': market_date('us'), 'syms': syms, 'vol': {s_: vol[s_] for s_ in syms}})
         log.info('option names %s', syms)

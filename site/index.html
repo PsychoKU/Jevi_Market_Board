@@ -625,7 +625,7 @@ function vixCard(V,VH,VT){
 }
 function usOptions(X){
   const sel=S.ui.osym||(X.opts[0]||{}).sym;const o=X.opts.find(z=>z.sym===sel)||X.opts[0];
-  const gx=v=>fin(v)?(v>0?"+":"")+v.toFixed(2)+"B":"—";
+  const gx=v=>!fin(v)?"—":Math.abs(v)>=1?(v>0?"+":"")+v.toFixed(2)+"B":(v>0?"+":"")+Math.round(v*1000)+"M";
   return `<section class="card" style="margin-top:14px"><h2>미국 옵션 포지션 <span class="sub">종목명을 누르면 아래에 상세 · ${esc(X.asof)} ET 기준 · Yahoo 옵션 체인</span></h2>
    <div class="tbl-wrap"><table><thead><tr><th class="l">기초자산</th><th>현재가</th><th>풋/콜 미결제</th><th>풋/콜 거래량</th><th>딜러 감마(GEX)</th><th>최근월 ATM IV</th><th>최근 만기 맥스페인</th><th>월물 맥스페인</th><th>콜 벽</th><th>풋 벽</th><th>스큐</th></tr></thead><tbody>
    ${X.opts.map((z,i)=>`${(i===0||z.auto!==X.opts[i-1].auto)?`<tr><td class="l" colspan="11" style="background:transparent;padding-top:12px"><b>${z.auto?"옵션 거래 상위 30 종목":"고정 감시"}</b> <span class="lbl">${z.auto?"전날 최근월물 옵션 거래량 기준으로 매일 선정 · 1시간마다 갱신":"15분마다 갱신"}</span></td></tr>`:""}<tr><td class="l"><button class="nm" data-osym="${esc(z.sym)}" style="font-weight:${z.sym===sel?700:400}">${esc(z.sym)}</button></td><td>$${nfmt(z.px,2)}</td><td>${nfmt(z.pcr_oi,2)}</td><td>${nfmt(z.pcr_vol,2)}</td><td class="${cls(z.gex)}">${gx(z.gex)}</td><td>${fin(z.mon.iv)?(z.mon.iv*100).toFixed(1)+"%":"—"}</td><td>${nfmt(z.near.mp,z.px<100?1:0)} <span class="lbl">${esc(z.near.d.slice(5))}</span></td><td>${nfmt(z.mon.mp,z.px<100?1:0)} <span class="lbl">${esc(z.mon.d.slice(5))}</span></td><td>${nfmt(z.mon.cw,z.px<100?1:0)}</td><td>${nfmt(z.mon.pw,z.px<100?1:0)}</td><td>${fin(z.mon.skew)?z.mon.skew.toFixed(1):"—"}</td></tr>`).join("")}</tbody></table></div>
