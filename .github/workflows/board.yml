@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
   pages: write
   id-token: write
 
@@ -91,3 +92,24 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # GitHub's own schedule fires irregularly on new repositories, so each run queues the next one itself.
+  next:
+    needs: [update, deploy]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: pipeline
+      - name: Wait, then start the next run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          START=$(gh api repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID --jq .run_started_at)
+          WAIT=$(cd pipeline && python3 next_wait.py "$START")
+          echo "next run in $WAIT s"
+          sleep "$WAIT"
+          OTHERS=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/board.yml/runs?per_page=10" --jq "[.workflow_runs[]|select(.id != $GITHUB_RUN_ID and (.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\"))]|length")
+          if [ "$OTHERS" = "0" ]; then gh workflow run board.yml --ref main; else echo "another run is already queued"; fi
