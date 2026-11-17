@@ -1,274 +1,327 @@
 {
- "asof": "11/6 (금) 장 마감",
+ "asof": "11/17 (화) 장 마감",
  "summary": [
-  "코스피는 6.02% 떨어진 5,059.69로 마감했습니다. 장중 4,911까지 밀려 5,000선을 내줬고 서킷브레이커가 발동됐습니다. 5일(-5.28%)에 이어 이틀 누적 낙폭은 약 11%이고, 코스닥도 5.03% 내린 644.27입니다.",
-  "원인은 미국 중간선거의 '블루 웨이브'입니다. 민주당 압승으로 AI 데이터센터 규제와 투자 둔화 우려가 커지며 5일 미국 기술주가 폭락했고, 한국은 메모리 대형주가 직격탄을 맞았습니다. 외국인은 6일 하루 2조 6,892억원을 순매도했고, 4~6일 사흘간 매도 규모는 약 8조 5천억원입니다. 기관(+1조 7,092억원)과 개인(+5,211억원)이 받았습니다.",
-  "반도체 업종이 -7.5%로, SK하이닉스 -10.4%, 삼성전자 -6.4%, 삼성전기 -7.8%, SK스퀘어 -10.5%였습니다. 하이닉스와 삼성전자 두 종목 거래대금만 15조원이 넘었습니다. 반도체 업종의 4주 수익률은 -28%, 코스피는 4주 -23.6%로 6월 고점 이후 낙폭이 가팔라졌습니다.",
-  "상승 375 · 하락 2,176, 52주 신고가 6 · 신저가 696으로 내부도 무너졌습니다. 버틴 곳은 경영권 이슈의 한진칼(1주 +58%, 우선주 상한가), NHN(+15.6%), 삼성SDS(+6.3%), LG유플러스(+5.2%), NAVER(+2.9%) 같은 인터넷·통신과, 외국인이 담은 제약·바이오(업종 -1.5%)입니다.",
-  "원·달러 환율은 1,363.7원으로 한 주 새 20원 넘게 올랐고, 국고채 금리는 위험회피 수요로 내렸습니다. 다음 주는 11/10 미국 CPI, 11/12 MSCI 정기 변경 발표와 코스피200 옵션 만기가 겹쳐 수급 변동성이 클 수 있습니다."
+  "코스피는 132.02포인트(2.59%) 내린 4,968.48로 마감하며 5,000선을 내줬습니다. 종가 기준 5,000 아래는 2월 이후 9달여 만입니다. 코스닥은 2.34% 내린 650.06, 코스피200은 2.63% 내린 770.74입니다.",
+  "외국인이 코스피에서 1조 4,459억원을 순매도했고 기관(+5,360억원)과 개인(+4,292억원)이 받았습니다. 외국인은 11/13(-5,419억원), 11/16(-1조 3,300억원)에 이어 사흘 연속 매도했고, 최근 20거래일 누적 순매도는 13조 2,858억원입니다. 프로그램 매매에서도 외국인 비차익이 -6,966억원으로 현물 매도의 대부분을 차지했습니다.",
+  "출발점은 미국 반도체입니다. 전날 밤 필라델피아 반도체지수가 5.28% 빠져 사흘 새 9% 하락했고, '젠슨 황 사임' 여파와 미국의 신규 반도체 수출 규제 보도가 겹쳤습니다. SK하이닉스 ADR이 7.3% 급락한 영향으로 SK하이닉스(-2.05%, 1주 -9.5%)·삼성전자(-3.2%)·삼성전자우(-5.52%)·삼성전기(-4.2%, 1주 -14.7%)가 밀렸고, 반도체 업종은 -2.83%(1주 -6.1%)입니다.",
+  "상승 568 · 하락 1,978, 52주 신고가 8 · 신저가 405로 하락 종목이 압도적이었습니다. 전기장비(-4.78%)·비철금속(-4.68%)·방산(-4.33%)·조선(-4.01%)의 낙폭이 컸고, 항공(-0.06%)·바이오(-0.38%)·제약(-0.4%)·화장품(-0.59%)·통신(-0.81%)은 덜 빠졌습니다. 현대백화점(+7.95%)·신세계(+5.58%)·롯데쇼핑(+4.1%) 같은 백화점주와, 상장 첫날 49.5% 오른 옵토닉스가 눈에 띄었습니다.",
+  "원·달러 환율은 1,337.17원으로 거의 변화가 없었고, 국고채 금리는 3년물이 장중 연 3.757%까지 오르는 등 일제히 상승했습니다. 한국 시간 18일 새벽 엔비디아 실적과 19일(목) 위클리 옵션 만기, 12/10 코스피200 12월물 만기가 다음 변수입니다."
  ],
  "ideas": {
-  "asof": "2026-11-06 장 마감 기준 · 아이디어 5개",
+  "asof": "2026-11-17 장 마감 기준 · 아이디어 6개",
   "items": [
    {
     "kind": "hot",
-    "title": "블루웨이브발 AI 투매, 외국인 사흘간 8.5조 매도",
+    "title": "외국인 사흘 연속 매도, 코스피 5,000 이탈",
     "strength": 5,
     "trend": "강화",
-    "thesis": "미국 민주당 압승 뒤 AI 데이터센터 규제 우려가 번지자 외국인이 '삼전닉스'를 집중 매도했습니다. 4~6일 코스피 외국인 순매도는 약 8조 5천억원이고, SK하이닉스는 1주 -26%, 삼성전기 -27%, 이수페타시스 -26%입니다. 6일 밤 미국 반도체가 4% 반등해 월요일이 분수령이라는 평가입니다.",
-    "why": "근거: 외국인 대량 매도 + 서킷브레이커 + 반도체 업종 4주 -28%. 약점: 투매 이후 기술적 반등이 나올 수 있는 구간.",
+    "thesis": "외국인이 코스피에서 하루 1조 4,459억원을 팔아 지수가 9달여 만에 5,000 아래로 마감했습니다. 11/13부터 사흘 누적 매도는 약 3조 3천억원, 20거래일 누적은 13조 2,858억원입니다. 매도는 프로그램 비차익(-6,966억원)으로 나와 지수 바스켓 단위의 매도 성격이 강합니다.",
+    "why": "근거: 외국인 현물 -1조 4,459억원 + 비차익 -6,966억원 + 하락 1,978 대 상승 568. 약점: 같은 날 외국인이 코스피200 선물은 3,038억원 순매수해 방향성 베팅이라기보다 헤지 조정일 수 있습니다.",
     "codes": [
-     "000660",
      "005930",
-     "402340",
+     "000660",
+     "005935",
      "009150",
-     "042700",
-     "007660",
-     "000150"
+     "402340",
+     "012450",
+     "105560"
     ],
     "evidence": [
      {
-      "d": "11/06",
-      "t": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이",
+      "d": "11/17",
+      "t": "코스피, 외국인 투매에 5000 내줬다…2월 이후 처음[마감시황]",
+      "s": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TUjFvYV9DbWxCSzZ3RkN3NTdaMnEwSjJFUmpzS2Q4NGtrWVJZaWpNa3J3TXlTTzAzUnczUjYwcW9XWWttT1Z4VXJIN3lPdmE3Q05JTG01dVZTZXM?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "[오후시황] 외국인 1조원 넘게 매도…코스피 다시 5000선 아래로",
+      "s": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSnp2OUhUSGRqV0FSYXBaeFdvTXNWM3NfRWthOUtYWDF1QUV4a215WjNxOUJSWFdkY3BYUEJibUZWdktUajRMM0doOS1hZlh2T2F1RkEyZU4wQQ?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "엔비디아 우려에 코스피 장중 5,000 하회…외국인 순매도(상보) |",
       "s": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wd2ZSR3Ytb3J1RFEySGo2bksxMWowLUJJU0FvYjFJQTZEaklGV3lta3M4WDNnX29DYlZXWmc5eW5PVXA2NXE5cDBycHdnSENrNHdpVkpad1Zad25RWmlveWYwNXotX1RKSm5VazYtZWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsLVVfTS1DZVJRZHVBd3hrQTc5cHp0ckVuWDluYVRIQndBVFQ3MEUtYjIwdm04Zzl1VmpkeXhqbW5MN1B1cERJUnlhZkw2eTBJdTVPNFBNRHNlYnlxeVNmYUdjbkxrc0IzU3BMbE5ROFlOaDVo?oc=5"
      },
      {
-      "d": "11/07",
-      "t": "헤지펀드 AI주 투자 축소…SK하이닉스 외국인 순매도 1위",
-      "s": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BWkVwbXlNanZVaVp6SnRqbmFCdlhIVXdYd25HVmFaUEZPdlBwQ0oxMTFLY2hoakZIZ2N2WFNFYUJ2NEt6S0xDVlNoc3BIajFxOWdHb3JpSjByamN2SVBxdlVhYk1nbjY3SzUyVjFac1B6VFlh?oc=5"
-     },
-     {
-      "d": "11/07",
-      "t": "美반도체 4% 반등에도 SOXL 주간 40% 폭락…외국인 2.8조 매도한 '삼전닉스', 월요일 분수령",
-      "s": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNDhGdTBwZmhta0Rtby1uX2E4RmdjbFMxUjIxRnFKTzlZa0Mxa01jN0RPaDVGNlFCZjljd283dTR4SVZJUmFnNXVwLXA5cjZ5c3NFWnFJMXNRTWpDenloTl9JWWpWd1A4?oc=5"
-     },
-     {
-      "d": "11/06",
-      "t": "'검은 금요일' 코스피, 5000선 턱걸이 마감…외인 2.5兆 넘게 팔아",
-      "s": "경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qOGpEdGZ5WjdQRmdsX2k3NFZMNUNTSjlzNGI1YzQ2LUxHRWw1VFB5SmdqcHI3X0xqLXhNdVJLdGV4X3U5clFvOEo2c1E2NTVoLW9aWnJQMEc?oc=5"
+      "d": "11/17",
+      "t": "[속보] 코스피, 9달여 만에 '5천' 아래로‥4,900선서 마감",
+      "s": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0azJydkM3MzNtVndrazZaX2FLQ185QWJNcmhNOTlLN21pYThvRlUxS2VnSnppU1pMcS1INEdybFVPMWotbmpZT0JjUmxJT1laWGpDcGdEVnNLLWJiTTQyTlRCZFNyd3E1VlpXUEJKVjg1RHhK0gF0QVVfeXFMTnJSRi02eV90Nko5bnlzR2hQRFVJbHJ1aFNlRGt0QkQ5d25haVhfSGNzZW1vdHRGbHh1OEdBeEozT1pSbHVWZC1oejdXMHoyV2hoSVM3U1J5QjU4RXQ2XzFZSXItTlVkamxXNVk3WF9jWXBESk4?oc=5"
      }
     ],
     "risks": [
-     "미국 의회의 데이터센터 규제가 구체화될 경우",
-     "외국인 매도가 MSCI 변경(11/12)과 겹칠 경우"
+     "엔비디아 실적 이후 미국 반도체가 다시 밀릴 경우",
+     "원·달러 환율이 다시 오르며 외국인 매도가 길어질 경우"
     ],
     "checks": [
-     "월요일 외국인 순매도 규모 축소 여부",
-     "11/17 엔비디아 실적과 HBM 수요 코멘트"
+     "18일 외국인 현물·비차익 매도 규모 축소 여부",
+     "코스피200 풋 최대 미결제 750선 지지 여부"
     ]
    },
    {
     "kind": "hot",
-    "title": "외국인이 담은 바이오·뷰티·방산",
-    "strength": 3,
+    "title": "엔비디아 리더십 공백·美 수출 규제, 메모리 대형주 압박",
+    "strength": 4,
     "trend": "유지",
-    "thesis": "외국인은 반도체를 던지면서 바이오·뷰티·방산은 사들였다는 분석이 나왔습니다. 6일 제약 업종은 -1.5%로 코스피(-6%)보다 크게 덜 빠졌고, 한미사이언스(1주 +26%)·한미약품(+12.5%)·셀트리온(+10%)은 1주 기준 상승입니다.",
-    "why": "근거: 외국인 업종별 매매 보도 + 업종 상대 수익률. 약점: 방산은 4주 -26~-32%로 아직 추세가 약합니다.",
+    "thesis": "'젠슨 황 리스크'와 미국의 신규 반도체 수출 규제 보도가 겹치며 필라델피아 반도체지수가 사흘 새 9% 빠졌고, SK하이닉스 ADR은 7.3% 급락했습니다. 국내에서는 SK하이닉스(1주 -9.5%)·삼성전기(1주 -14.7%)·SK스퀘어(1주 -10.8%)가 한 주 내내 밀렸습니다. 엔비디아 실적은 한국 시간 18일 새벽에 나옵니다.",
+    "why": "근거: 미국 반도체지수 급락 + ADR 급락 + 반도체 업종 1주 -6.1%. 약점: 하이닉스는 이날 -2.05%로 ADR(-7.3%)보다 훨씬 덜 빠져 국내 저가 매수도 확인됐습니다.",
     "codes": [
-     "207940",
-     "068270",
-     "128940",
-     "008930",
-     "000100",
-     "090430",
-     "192820",
-     "012450"
+     "000660",
+     "005930",
+     "009150",
+     "402340",
+     "000150",
+     "007660"
     ],
     "evidence": [
      {
-      "d": "11/06",
-      "t": "삼전닉스 던진 외국인, 바이오·뷰티·방산은 담아",
-      "s": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWdnWDFLLVZ0SHFIUmZBTTlPcGY4OVhyNXEwd3BwZGJrNHo0M2hpb0J0NHVsX1I5RGowNEZzV0FjMmEyT204MWxjRFd1ZjNEOTNjdXZWdEVPWU9aVWdkd0hPSFRrOEVla1lpM05DMnJFczM1Nk1rUXE2dS1PaEstcg?oc=5"
+      "d": "11/17",
+      "t": "[특징주] 삼전·닉스, '젠슨황 리스크' 지속에 장초반 1∼2%대↓",
+      "s": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VMFFaWVB6emdWSlctVUk4UFNhb01DOFpwSWpDWDVhaWRXZE40RU1WalJsNjB1SGdBMHhMRVlxZy1xbl9LUVpqTi1iN293Yk9TSUJVNHNtWU5zNVpqaDdTYdIBYEFVX3lxTE1VMFFaWVB6emdWSlctVUk4UFNhb01DOFpwSWpDWDVhaWRXZE40RU1WalJsNjB1SGdBMHhMRVlxZy1xbl9LUVpqTi1iN293Yk9TSUJVNHNtWU5zNVpqaDdTYQ?oc=5"
      },
      {
-      "d": "11/6",
-      "t": "제약 업종 -1.5% vs 코스피 -6.0%",
+      "d": "11/17",
+      "t": "미국의 신규 반도체 수출 규제에 삼성전자 주가 하락",
+      "s": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43dzBvUXhUd2s5d1VydDg2OTdwM2hDbWw1VG9hT01sMG0wZklHQ3FIQ0UyNUdpWkNOY1dZU0wyUGZtdkhCcWFpMmhLZWt4aFh6bkkxXzBVVUdQcTA2eTBRWVowNG51aGdvamplTjBhRWtnWGg4bzF3?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "[뉴욕증시 마감시황] 엔비디아 실적 앞두고 美반도체주 급락…SK하이닉스 ADR 7.3%↓, 코스피 부담 커지나",
+      "s": "https://www.moneystorm.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nLTNONEtOQW5kU0lJS2k4ZXptTE1TYll2N3JWT3BlcmQ0cnM0V0dhY1VGRVJqa1gtQ3ZNYS1COXN5TnY3YmJiS1JUZXcxTDMxTVZ2MWwxSko1SnFidzZtS1FlWThrdGFOeGc?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "美 반도체지수 사흘 새 9% ’뚝’…AI 투자심리 위축",
+      "s": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQ3lVdXlBSnRFYnBpWDBxbFNnaE9QQ09tcUtSUzJSUXhkTXVNbU5FSE5kdHY0WnZiYk1DWk9IZ3BDcFU5TUVEY0lxUEh2VVpYRFFqZWRqY1lCQ2paeGpuQ01kNGY3R1E?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "[뉴욕증시 마감] 젠슨 황 사임 여파에 일제히 하락…나스닥 2.49%↓",
+      "s": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MMThjdzJvRGJkU0FUcXFxNHdVWnhIejdBT3FNOHhqcG85Z25GVUdDSmRrNXFmbnpNTWVqMENnY3lZUzczNXBMeGQ0Ql85YmpyTlg1cWNoT19BZ9IBWEFVX3lxTE02ZUhaYU0xdHlmbTFtX1hmQUJPdU0zMENNbGFEbVcxY3hWZml3NVczbWhkTzZpT1I2VGZtVm00UGxMeUoyRHFKVkZwRVVuTEw0QmFfWkxHZ1A?oc=5"
+     }
+    ],
+    "risks": [
+     "수출 규제 대상과 범위가 넓어질 경우",
+     "엔비디아 경영 공백이 길어질 경우"
+    ],
+    "checks": [
+     "엔비디아 실적과 HBM 수요 코멘트",
+     "미국 수출 규제 세부 내용"
+    ]
+   },
+   {
+    "kind": "watch",
+    "title": "반도체 소부장·기판주의 역행 강세",
+    "strength": 3,
+    "trend": "신규",
+    "thesis": "대형 반도체가 밀린 날에도 티엘비(+6.67%, 1주 +35.8%)·와이씨(+4.65%, 1주 +31.4%)·케이씨텍(+5.76%, 1주 +20.3%)·이수페타시스(+3.07%, 1주 +22.3%)·파크시스템스(+9.8%)·유진테크(+4.58%)가 올랐고, 코리아써키트도 1주 +31.1%입니다. 기판·장비 쪽으로 종목별 매수가 이어지는 모습입니다.",
+    "why": "근거: 상승률 상위에 반도체 소부장이 다수 + 1주 수익률 상위. 약점: 같은 업종의 티에스이(-17.47%)·솔브레인(-12.19%)은 급락해 업종 전체 흐름은 아니며, 상승을 설명하는 뉴스·공시는 확인되지 않았습니다.",
+    "codes": [
+     "356860",
+     "232140",
+     "281820",
+     "007660",
+     "007810",
+     "140860",
+     "084370"
+    ],
+    "evidence": [
+     {
+      "d": "11/17",
+      "t": "티엘비 +6.67%, 케이씨텍 +5.76%, 와이씨 +4.65%, 이수페타시스 +3.07% vs 반도체 업종 -2.83%",
       "s": "이 보드 집계",
       "url": null
      }
     ],
     "risks": [
-     "임상·허가 일정 지연(HLB 사례)",
-     "방산은 수주 공백 우려"
+     "단기 급등 후 차익 매물",
+     "대형 반도체 약세가 길어질 경우 동반 조정"
     ],
     "checks": [
-     "외국인 업종별 순매수가 이어지는지",
-     "바이오 대형주 3분기 실적"
+     "소부장 종목의 수주·공급계약 공시",
+     "엔비디아 실적 이후 기판·장비주 반응"
     ]
    },
    {
-    "kind": "hot",
-    "title": "한진칼 경영권 이슈",
+    "kind": "contra",
+    "title": "방어 업종 상대 강세: 제약·바이오·화장품·통신",
     "strength": 3,
-    "trend": "강화",
-    "thesis": "한진칼이 연일 상한가를 이어 가며 '대한항공 주인이 바뀌나'라는 보도까지 나왔습니다. 한진칼은 1주 +58%로 52주 신고가, 우선주는 6일에도 상한가였습니다. 폭락장에서도 거래대금 8위(2,721억원)에 올랐습니다.",
-    "why": "근거: 연일 상한가 + 신고가 + 거래대금 상위. 약점: 지분 경쟁의 실체가 확인되지 않으면 급락할 수 있습니다.",
+    "trend": "유지",
+    "thesis": "코스피가 2.59% 내린 날 제약(-0.4%)·바이오(-0.38%)·화장품(-0.59%)·통신(-0.81%)은 낙폭이 작았습니다. 루닛(+7.96%)·동국제약(+7.38%)·한올바이오파마(+5.51%)가 올랐고, 아모레퍼시픽·아모레퍼시픽홀딩스는 기업가치 제고 계획을 공시했습니다.",
+    "why": "근거: 업종 상대 수익률 + 제약·바이오 상승 종목 + 아모레 밸류업 공시. 약점: 바이오 업종 1주 -3.0%로 절대 수익률은 아직 마이너스입니다.",
     "codes": [
-     "180640",
-     "18064K",
-     "003490"
-    ],
-    "evidence": [
-     {
-      "d": "11/06",
-      "t": "“한진칼, 연일 상한가”…대한항공 주인 바뀌나? [잇슈 머니]",
-      "s": "KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jWkVkV1o4Q05TYTJJeDNTel85dXJHWVNPN3lITW81TjVzdDJ3V0Rnb0lsSlFoMjROYzZIc2pRS1VPTmVnTncxeFlkQUNGQmRuemlhNGtUX2o0MEE?oc=5"
-     }
-    ],
-    "risks": [
-     "지분 매입 주체·의도가 불분명할 때의 변동성",
-     "우선주는 유통 물량이 적어 가격 왜곡이 큼"
-    ],
-    "checks": [
-     "대량보유 탭에서 한진칼 관련 5% 보고",
-     "공시 탭의 조회공시·답변"
-    ]
-   },
-   {
-    "kind": "guess",
-    "title": "2차전지·태양광·풍력, 민주당 정책 수혜?",
-    "strength": 2,
-    "trend": "관찰",
-    "thesis": "미국에서는 민주당 압승 뒤 청정에너지주가 올랐습니다. 국내에서도 씨에스윈드(1주 +28%)·OCI홀딩스(+20%)·한화솔루션(+15%)이 오르며 '당장은 2차전지·태양광 주목'이라는 분석이 나왔습니다. 다만 LG에너지솔루션·삼성SDI는 6일 함께 밀렸습니다.",
-    "why": "Claude 추정: 미국 정책 기대와 1주 수익률을 묶은 가설입니다. 2차전지 본업 회복은 아직 확인되지 않았습니다.",
-    "codes": [
-     "112610",
-     "010060",
-     "009830",
-     "373220",
-     "006400",
-     "051910",
-     "247540"
-    ],
-    "evidence": [
-     {
-      "d": "11/06",
-      "t": "[AI 패닉]반도체 성장 유효하지만…당장은 2차전지·태양광 주목",
-      "s": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVMkhmSFhqVGNrX2JBaHVRZzZfbWZNYWdMTGZEWUcwU0dTMlRwUXFaSE5JNV9TbHFuMVZZYUZKb1VLMVFod2JTNnhDRlM4RHRwZEE0UDZmMjhOT1BKUnV0NVRISWRxQkgyelE?oc=5"
-     },
-     {
-      "d": "11/05",
-      "t": "美 민주당 압승에도 LG엔솔·삼성SDI 약세…2차전지 '진짜 반등' 가능할까",
-      "s": "인베스트조선",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlR6NHJSX0R6VDljWkJtOVBXZjZkcWpCT1poZHFQN3VCVEo1dHpsWVoxeWV3aXlBd215Q052RHhDbERlQ19PMG5UNzRibkpOZm1udmdsV0ZVeGhtV25udm1XN2JwM3pKc2pSRU5GUThXSWZwQWNnUUZlR1h0eWJpRjBBSQ?oc=5"
-     },
-     {
-      "d": "11/06",
-      "t": "LG화학, 2조5천억 자산 유동화에 이차전지 성장 기대-NH투자證",
-      "s": "PRESS9",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EcG1oLWpUNUQzQV9KRmxMbXR1WURmYlUtR3J3dWRUQ1hqdmgwQVZ0TFpWQ3ltTzVEcWgwcjMyaHpueWdHT04wNzBpRTJ4V0pEeHhNbXQ4N3Ztc0puRmh6Q2haOTU?oc=5"
-     }
-    ],
-    "risks": [
-     "정책 기대가 실제 법안으로 이어지지 않을 수 있음",
-     "전기차 수요 둔화"
-    ],
-    "checks": [
-     "미국 청정에너지 관련 예산 협상",
-     "LG화학 자산 유동화 진행"
-    ]
-   },
-   {
-    "kind": "guess",
-    "title": "인터넷·통신·게임, AI 하드웨어의 반대편",
-    "strength": 3,
-    "trend": "강화",
-    "thesis": "반도체가 무너진 1주일 동안 크래프톤(+21%)·LG유플러스(+18%)·KT(+15%)·NHN(+27%)·NAVER(+10%)가 올랐습니다. 미국에서 하이퍼스케일러가 데이터센터 규제의 상대적 수혜로 평가받은 것처럼, AI를 '쓰는 쪽'과 내수 통신으로 자금이 옮겨 가는 흐름으로 보입니다.",
-    "why": "Claude 추정: 1주 수익률 상위 대형주의 공통점에서 세운 가설입니다. 6일에도 NHN +15.6%, 삼성SDS +6.3%, LG유플러스 +5.2%로 상승했습니다.",
-    "codes": [
-     "259960",
-     "032640",
-     "030200",
-     "181710",
-     "035420",
-     "018260",
+     "328130",
+     "086450",
+     "009420",
+     "226950",
+     "090430",
+     "002790",
      "017670"
     ],
     "evidence": [
      {
-      "d": "11/6",
-      "t": "NHN +15.6%, 삼성SDS +6.3%, LG유플러스 +5.2%, NAVER +2.9%",
+      "d": "11/17",
+      "t": "아모레퍼시픽 · 기업가치 제고 계획(자율공시)",
+      "s": "KIND 공시",
+      "url": "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261117000119"
+     },
+     {
+      "d": "11/17",
+      "t": "아모레퍼시픽홀딩스 · 기업가치 제고 계획(자율공시)",
+      "s": "KIND 공시",
+      "url": "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261117000143"
+     },
+     {
+      "d": "11/17",
+      "t": "제약 -0.4%, 바이오 -0.38%, 화장품 -0.59%, 통신 -0.81% vs 코스피 -2.59%",
       "s": "이 보드 집계",
       "url": null
      }
     ],
     "risks": [
-     "반도체 반등 시 자금이 다시 빠질 수 있음"
+     "반도체 반등 시 방어주 자금이 다시 빠질 수 있음",
+     "임상·허가 일정 변수"
     ],
     "checks": [
-     "반등장에서 이들 종목의 상대 수익률",
-     "통신 3사 3분기 실적과 배당 정책"
+     "반등장에서도 상대 강세가 유지되는지",
+     "아모레 기업가치 제고 계획의 주주환원 내용"
+    ]
+   },
+   {
+    "kind": "watch",
+    "title": "백화점·소비주 강세",
+    "strength": 2,
+    "trend": "신규",
+    "thesis": "하락장에서 현대백화점(+7.95%, 1주 +15.2%)·신세계(+5.58%, 1주 +7.9%)·롯데쇼핑(+4.1%)이 동반 상승했고, LF(+3.37%)·빙그레(+4.87%)도 올랐습니다. 백화점 3사가 함께 오른 점에서 업종 단위 매수로 보입니다.",
+    "why": "근거: 백화점 3사 동반 상승 + 1주 수익률. 약점: 이 흐름을 설명하는 뉴스·공시가 디지스트에 없어 원인이 확인되지 않았습니다.",
+    "codes": [
+     "069960",
+     "004170",
+     "023530",
+     "093050",
+     "005180"
+    ],
+    "evidence": [
+     {
+      "d": "11/17",
+      "t": "현대백화점 +7.95%, 신세계 +5.58%, 롯데쇼핑 +4.1%",
+      "s": "이 보드 집계",
+      "url": null
+     }
+    ],
+    "risks": [
+     "원인이 확인되지 않은 테마성 상승일 가능성"
+    ],
+    "checks": [
+     "백화점 매출 지표·실적 코멘트",
+     "다음 거래일에도 상승이 이어지는지"
+    ]
+   },
+   {
+    "kind": "new",
+    "title": "옵토닉스 상장 첫날 급등",
+    "strength": 2,
+    "trend": "신규",
+    "thesis": "방산·우주 업종의 옵토닉스가 상장 첫날 49.5% 올라 거래대금 상위에 올랐습니다. 같은 날 계양전기는 현대차 부품 공급업체 선정 소식에 상한가를 기록했습니다. 지수가 약할 때 개별 재료주로 단기 자금이 몰리는 모습입니다.",
+    "why": "근거: 상장 첫날 급등 보도 + 거래대금 상위. 약점: 신규 상장주는 상장 초기 변동성이 매우 큽니다.",
+    "codes": [
+     "493260"
+    ],
+    "evidence": [
+     {
+      "d": "11/17",
+      "t": "[특징주] 옵토닉스, 코스닥 입성 첫날 51%대 상승 마감(종합)",
+      "s": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dkhhZWY2NTdvbTcxS1c5SXhzQUpJU29rc1hmQ2xBbkJkdXFKbXh2TXI5Wlp1bUJBQU5XdFptMFlWMnZvTk1JMFJqS3F1T2RiaDZxMmp5S0J3d1XSAWBBVV95cUxPS3JVLVptalYwZDJyZEVhaUpkSURnWndIdEVnSXdHd2R6aU9fcFBXbHpFNEwxV284anNJNElLR1ZIZXV3SmtCX3YtTlkxNHR6VVZoYjMtZVpvNUh1MmJ0OEk?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "코스피 옵토닉스 상장일·계양전기 상한가",
+      "s": "BNT뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUC1QUzl1aGZicTlRN1EzSm1uRnU0ZVZtaFItSzZQT09Na21BUUxYWWotMUNjcFR6QV8zazdYZll5a0NNUXdVMnVya28ycExDOXdrc0RibEtTaUEzRFFvTTBUWmI?oc=5"
+     },
+     {
+      "d": "11/17",
+      "t": "[특징주] 계양전기, 현대차 부품 공급업체 선정.. '상한가'",
+      "s": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0FRa0dzSUd3dmlNczZVMnVyNVJwZjVsV2VVcUZDcS1xYk1BVG8tbEVJREdHQ19mOXBXWlQ0ODdzeUVjQlhUcVQwTUthdUp2aS1fUUMxUktad1ZKMVlDcTFUd0xkbkJ4NmdieFRGcTJ3QzV3RVNibjBkeWJyV2lBX051eVpJUE9B?oc=5"
+     }
+    ],
+    "risks": [
+     "상장 초기 유통 물량 출회",
+     "보호예수 해제 일정"
+    ],
+    "checks": [
+     "상장 2~3일차 거래대금과 주가 유지 여부"
     ]
    }
   ]
  },
  "events": [
   {
-   "d": "11/10 (화, 미국)",
-   "t": "미국 10월 소비자물가지수(CPI)",
-   "s": "다음 주 3대 변수 중 하나"
-  },
-  {
-   "d": "11/9~13",
-   "t": "TSMC 10월 매출·코어위브 실적",
-   "s": "AI 투자 불안을 잠재울지 주목"
-  },
-  {
-   "d": "11/12 (목)",
-   "t": "MSCI 정기 지수 변경 결과 발표 · 코스피200 옵션 만기",
-   "s": "수급 변동성 경계"
-  },
-  {
-   "d": "11/13 (금, 미국)",
-   "t": "미국 10월 생산자물가지수(PPI)",
-   "s": ""
-  },
-  {
-   "d": "11/17 (화, 미국 장 마감 후)",
+   "d": "11/18 (수) 새벽, 한국 시간",
    "t": "엔비디아 3분기 실적 발표",
-   "s": "메모리·HBM 수요 확인"
+   "s": "반도체 대형주 방향을 가를 변수"
   },
   {
-   "d": "12/8~9 (미국)",
-   "t": "FOMC",
+   "d": "11/19 (목)",
+   "t": "코스피200 위클리 옵션(목) 만기",
    "s": ""
+  },
+  {
+   "d": "12/10 (목)",
+   "t": "코스피200 12월물 선물·옵션 만기",
+   "s": "옵션 맥스페인 800 · 풋 최대 미결제 750"
   }
  ],
  "reasons": {
-  "000660": [
-   [
-    "수급",
-    "외국인 순매도 1위 · 헤지펀드 AI주 비중 축소"
-   ]
-  ],
   "005930": [
    [
-    "수급",
-    "외국인 집중 매도 · 20만전자 붕괴"
-   ]
-  ],
-  "180640": [
+    "뉴스",
+    "미국 신규 반도체 수출 규제 보도"
+   ],
    [
     "뉴스",
-    "연일 상한가, 경영권 변동 관측"
+    "'젠슨 황 리스크'로 삼전·닉스 약세"
    ]
   ],
-  "18064K": [
+  "000660": [
    [
     "뉴스",
-    "한진칼 경영권 이슈로 상한가"
+    "SK하이닉스 ADR 7.3% 급락 · 젠슨 황 리스크"
+   ]
+  ],
+  "493260": [
+   [
+    "뉴스",
+    "상장 첫날 급등 마감"
    ]
   ]
  },
  "news_tr": {},
- "news_codes": {},
- "est_note": "",
- "deriv_note": ""
+ "news_codes": {
+  "옵토닉스": [
+   "493260"
+  ],
+  "삼성전자": [
+   "005930"
+  ],
+  "SK하이닉스": [
+   "000660"
+  ],
+  "삼전·닉스": [
+   "005930",
+   "000660"
+  ]
+ },
+ "est_note": "이번 주 국내 애널리스트 이익 추정치는 하향이 우세합니다. 올해(y0) EPS 기준 상향 173건·하향 318건으로 순상향 비율이 -29.5%이고, 내년(y1)도 상향 183건·하향 308건(-25.5%)입니다. 반도체는 올해 기준 25건 상향·33건 하향(-12.3%)으로 약하지만 시총 가중 1주 변화는 +0.33%이고, 내년 기준으로는 31건 상향·28건 하향(+4.8%)으로 소폭 상향 우위입니다. 상향 폭이 가장 큰 곳은 해운(3종목 모두 상향, 올해 EPS 가중 +44.7%)이고, 석유·가스(4주 중앙값 +12.0%)·철강(가중 +7.6%)이 뒤를 이었습니다. 하향은 엔터·방송(-36.0%)·전력(3종목 모두 하향, -25.0%)·게임(-19.5%)·소프트웨어(-18.3%)·디스플레이(-17.2%)·화학(-15.8%)이 컸고, 방산은 내년 기준 10건이 모두 하향(상향 0)입니다.",
+ "deriv_note": "외국인 코스피200 선물 +1,582계약(+3,038억원) 순매수. 현물은 -1조 4,451억원 순매도.\n→ 현물 팔고 선물 사는 그림. 기관은 선물 -5,460억원, 개인 +2,312억원.\n옵션은 외국인 콜 -2,578계약(-20억원) 순매도, 풋 +3,794계약(+3억원) 순매수로 하방 쪽.\n프로그램: 외국인 비차익 -6,966억원(차익 0). 기관은 +432억원(차익 +564억원).\n베이시스 -5.15p (선물 767.20 vs 이론가 772.35), 미결제 164,810계약. 선물 할인 상태.\n현물 770.74 기준 맥스페인·콜 최대 미결제 800(+3.8%), 풋 최대 미결제 750(-2.7%).\n딜러 감마 -409억원/1%로 음수 → 오르면 사고 내리면 파는 구간, 변동 확대 쪽.\n풋/콜 미결제 2.31. 12월물 만기(12/10)까지 23일, 옵션 내재 예상 변동 ±12.9%.\n코스닥150 선물은 외국인 -3,586계약(-396억원) 순매도."
 }
