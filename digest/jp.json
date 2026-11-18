@@ -1,68 +1,68 @@
 {
- "built": 1794899869,
- "asof": "11/17 15:30 JST",
+ "built": 1794986125,
+ "asof": "11/18 15:30 JST",
  "strip": [
   {
    "n": "닛케이225",
-   "px": 58860.43,
-   "ch": -801.58984,
-   "chg": -1.3435513,
+   "px": 59024.28,
+   "ch": 163.85156,
+   "chg": 0.27837303,
    "fmt": null,
    "home": true
   },
   {
    "n": "TOPIX (1306 ETF)",
-   "px": 404.5,
-   "ch": -6.399994,
-   "chg": -1.5575552,
+   "px": 401.9,
+   "ch": -2.600006,
+   "chg": -0.64277035,
    "fmt": null,
    "home": false
   },
   {
    "n": "JPX400 (1591 ETF)",
-   "px": 34960.0,
-   "ch": -710.0,
-   "chg": -1.9904683,
+   "px": 34800.0,
+   "ch": -160.0,
+   "chg": -0.4576659,
    "fmt": null,
    "home": false
   },
   {
    "n": "그로스250 (2516 ETF)",
-   "px": 549.3,
-   "ch": -17.700012,
-   "chg": -3.1216953,
+   "px": 542.4,
+   "ch": -6.8999634,
+   "chg": -1.2561375,
    "fmt": null,
    "home": false
   },
   {
    "n": "닛케이 선물 (엔, CME)",
-   "px": 58900.0,
-   "ch": -305.0,
-   "chg": -0.5151592,
+   "px": 59205.0,
+   "ch": 315.0,
+   "chg": 0.53489554,
    "fmt": null,
    "home": false
   },
   {
    "n": "USD/JPY",
-   "px": 159.237,
-   "ch": -0.15499878,
-   "chg": -0.09724315,
+   "px": 159.282,
+   "ch": -0.12200928,
+   "chg": -0.07654187,
    "fmt": "fx",
    "home": false
   },
   {
    "n": "S&P 500",
-   "px": 7416.59,
-   "ch": -145.08008,
-   "chg": -1.9186249,
+   "px": 7340.53,
+   "ch": -76.06006,
+   "chg": -1.0255395,
    "fmt": null,
    "home": false
   },
   {
    "n": "KOSPI",
-   "px": 4968.48,
-   "ch": -132.02,
-   "chg": -2.59,
+   "px": 5067.44,
+   "ch": 98.96,
+   "chg": 1.99,
    "fmt": null,
    "home": false
   }
@@ -71,768 +71,768 @@
   {
    "g": "일본",
    "n": "닛케이225",
-   "px": 58860.43,
-   "chg": -1.3435513,
-   "t": "11/17 15:45",
+   "px": 59024.28,
+   "chg": 0.27837303,
+   "t": "11/18 15:45",
    "y": false
   },
   {
    "g": "일본",
    "n": "TOPIX (1306 ETF)",
-   "px": 404.5,
-   "chg": -1.5575552,
-   "t": "11/17 15:30",
+   "px": 401.9,
+   "chg": -0.64277035,
+   "t": "11/18 15:30",
    "y": false
   },
   {
    "g": "일본",
    "n": "닛케이 선물 (엔, CME)",
-   "px": 58900.0,
-   "chg": -0.5151592,
-   "t": "11/17 15:51",
+   "px": 59205.0,
+   "chg": 0.53489554,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "한국",
    "n": "KOSPI",
-   "px": 4968.48,
-   "chg": -2.59,
-   "t": "11/17 16:01",
+   "px": 5067.44,
+   "chg": 1.99,
+   "t": "11/18 16:04",
    "y": false
   },
   {
    "g": "한국",
    "n": "KOSDAQ",
-   "px": 650.06,
-   "chg": -2.34,
-   "t": "11/17 16:01",
+   "px": 662.81,
+   "chg": 1.96,
+   "t": "11/18 16:04",
    "y": false
   },
   {
    "g": "미국",
    "n": "S&P 500",
-   "px": 7416.59,
-   "chg": -1.9186249,
-   "t": "11/17 07:22",
+   "px": 7340.53,
+   "chg": -1.0255395,
+   "t": "11/18 06:42",
    "y": false
   },
   {
    "g": "미국",
    "n": "나스닥 종합",
-   "px": 24509.758,
-   "chg": -2.4924762,
-   "t": "11/17 07:15",
+   "px": 24328.383,
+   "chg": -0.7400114,
+   "t": "11/18 07:15",
    "y": false
   },
   {
    "g": "미국",
    "n": "다우",
-   "px": 51608.17,
-   "chg": -1.4124422,
-   "t": "11/17 07:28",
+   "px": 50759.42,
+   "chg": -1.6446038,
+   "t": "11/18 06:42",
    "y": false
   },
   {
    "g": "미국",
    "n": "필라델피아 반도체",
-   "px": 9610.652,
-   "chg": -5.279458,
-   "t": "11/17 07:15",
+   "px": 9642.878,
+   "chg": 0.3353111,
+   "t": "11/18 07:15",
    "y": false
   },
   {
    "g": "미국",
    "n": "VIX",
-   "px": 22.91,
-   "chg": 18.704668,
-   "t": "11/17 06:15",
+   "px": 25.46,
+   "chg": 11.130507,
+   "t": "11/18 06:15",
    "y": false
   },
   {
    "g": "미국",
    "n": "S&P500 선물",
-   "px": 7423.0,
-   "chg": -0.21508268,
-   "t": "11/17 15:51",
+   "px": 7375.25,
+   "chg": 0.22081804,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "아시아",
    "n": "항셍",
-   "px": 23544.07,
-   "chg": -0.88309735,
-   "t": "11/17 15:46",
+   "px": 23252.7,
+   "chg": -1.0867316,
+   "t": "11/18 15:49",
    "y": false
   },
   {
    "g": "아시아",
    "n": "상하이종합",
-   "px": 3579.8887,
-   "chg": -0.6296557,
-   "t": "11/17 15:46",
+   "px": 3589.2803,
+   "chg": 0.13115849,
+   "t": "11/18 15:49",
    "y": false
   },
   {
    "g": "아시아",
    "n": "대만 가권",
-   "px": 40092.11,
-   "chg": -2.309861,
-   "t": "11/17 14:33",
+   "px": 40194.91,
+   "chg": 0.2564115,
+   "t": "11/18 14:33",
    "y": false
   },
   {
    "g": "유럽",
    "n": "유로스톡스50",
-   "px": 6348.35,
-   "chg": -0.602953,
-   "t": "11/17 02:00",
+   "px": 6212.11,
+   "chg": -2.146073,
+   "t": "11/18 02:00",
    "y": false
   },
   {
    "g": "유럽",
    "n": "DAX",
-   "px": 26598.64,
-   "chg": -0.5656407,
-   "t": "11/17 02:00",
+   "px": 26045.37,
+   "chg": -2.0800743,
+   "t": "11/18 02:00",
    "y": false
   },
   {
    "g": "유럽",
    "n": "FTSE100",
-   "px": 10881.55,
-   "chg": -0.19270489,
-   "t": "11/17 02:04",
+   "px": 10689.87,
+   "chg": -1.761511,
+   "t": "11/18 01:35",
    "y": false
   },
   {
    "g": "환율",
    "n": "USD/JPY",
-   "px": 159.237,
-   "chg": -0.09724315,
-   "t": "11/17 16:01",
+   "px": 159.282,
+   "chg": -0.07654187,
+   "t": "11/18 16:04",
    "y": false
   },
   {
    "g": "환율",
    "n": "USD/KRW",
-   "px": 1337.17,
-   "chg": 0.10106808,
-   "t": "11/17 16:01",
+   "px": 1332.27,
+   "chg": -0.18202008,
+   "t": "11/18 16:04",
    "y": false
   },
   {
    "g": "환율",
    "n": "EUR/USD",
-   "px": 1.1012003,
-   "chg": 0.13213173,
-   "t": "11/17 16:01",
+   "px": 1.0980564,
+   "chg": -0.19767193,
+   "t": "11/18 16:03",
    "y": false
   },
   {
    "g": "환율",
    "n": "달러 인덱스",
-   "px": 103.502,
-   "chg": -0.045393676,
-   "t": "11/17 15:51",
+   "px": 103.693,
+   "chg": 0.20099549,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "금리",
    "n": "미 국채 10년",
-   "px": 5.121,
-   "chg": -0.6402885,
-   "t": "11/17 04:59",
+   "px": 5.1029997,
+   "chg": -0.3514963,
+   "t": "11/18 04:59",
    "y": true
   },
   {
    "g": "금리",
    "n": "미 국채 30년",
-   "px": 5.467,
-   "chg": -0.25542673,
-   "t": "11/17 04:59",
+   "px": 5.458,
+   "chg": -0.16462089,
+   "t": "11/18 04:59",
    "y": true
   },
   {
    "g": "원자재",
    "n": "WTI",
-   "px": 85.05,
-   "chg": -0.7816124,
-   "t": "11/17 15:51",
+   "px": 84.09,
+   "chg": -2.2323053,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "원자재",
    "n": "브렌트",
-   "px": 91.85,
-   "chg": -0.63825613,
-   "t": "11/17 15:50",
+   "px": 91.83,
+   "chg": -1.4064822,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "원자재",
    "n": "금",
-   "px": 3874.0,
-   "chg": 0.5449874,
-   "t": "11/17 15:51",
+   "px": 3780.9,
+   "chg": -2.1556869,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "원자재",
    "n": "구리",
-   "px": 5.973,
-   "chg": -0.57428414,
-   "t": "11/17 15:51",
+   "px": 5.821,
+   "chg": -2.756431,
+   "t": "11/18 15:54",
    "y": false
   },
   {
    "g": "가상자산",
    "n": "비트코인",
-   "px": 64585.66,
-   "chg": -0.5153261,
-   "t": "11/17 16:01",
+   "px": 64609.06,
+   "chg": -0.10243476,
+   "t": "11/18 16:04",
    "y": false
   }
  ],
  "breadth": {
-  "up": 720,
-  "dn": 2773,
-  "nh": 77,
-  "nl": 233
+  "up": 1053,
+  "dn": 2373,
+  "nh": 32,
+  "nl": 270
  },
  "sectors": [
   [
    "전기기기",
    222,
-   2129034,
-   -1.99,
-   -4.8
+   2155006,
+   1.27,
+   -6.1
   ],
   [
    "은행",
    79,
-   1312289,
-   -3.26,
-   -2.7
+   1294913,
+   -1.29,
+   -6.2
   ],
   [
    "정보·통신",
    606,
-   1076429,
-   -1.2,
-   -1.0
+   1075964,
+   0.0,
+   -0.5
   ],
   [
    "도매(상사)",
    276,
-   908803,
-   -3.05,
-   -2.0
+   897880,
+   -1.19,
+   -4.1
   ],
   [
    "소매",
-   324,
-   764354,
-   -0.19,
-   3.6
+   323,
+   752015,
+   -1.55,
+   3.0
   ],
   [
    "수송용기기",
    82,
-   744826,
-   -0.7,
-   -1.0
+   740722,
+   -0.54,
+   -1.1
   ],
   [
    "서비스",
    534,
-   641283,
-   1.33,
-   1.0
+   628527,
+   -1.94,
+   -0.2
   ],
   [
    "화학",
    203,
-   597739,
-   -0.94,
-   0.5
+   594095,
+   -0.59,
+   -1.2
   ],
   [
    "기계",
    205,
-   586853,
-   -1.59,
-   -4.1
+   588197,
+   0.25,
+   -5.2
   ],
   [
    "의약품",
    80,
-   515961,
-   -0.64,
-   3.1
+   510191,
+   -1.11,
+   1.8
   ],
   [
    "보험",
    14,
-   422523,
-   -2.14,
-   0.7
+   417712,
+   -1.13,
+   -1.7
   ],
   [
    "식료품",
    124,
-   403460,
-   0.18,
-   4.3
+   402540,
+   -0.21,
+   4.8
   ],
   [
    "건설",
    141,
-   293143,
-   -2.55,
-   0.7
+   291298,
+   -0.61,
+   -0.7
   ],
   [
    "육운",
-   55,
-   265873,
-   -0.69,
-   2.7
+   56,
+   261581,
+   -1.62,
+   2.4
   ],
   [
    "기타제품",
    102,
-   258591,
-   -0.4,
-   0.9
+   259839,
+   0.04,
+   0.8
   ],
   [
    "부동산",
    132,
-   236544,
-   -1.69,
-   1.7
+   234920,
+   -0.67,
+   1.0
   ],
   [
    "정밀기기",
    52,
-   206253,
-   0.15,
-   -0.9
+   208337,
+   0.74,
+   -0.8
   ],
   [
    "비철금속",
    32,
-   169810,
-   -3.36,
-   -12.2
+   168436,
+   -0.73,
+   -14.8
   ],
   [
    "기타금융",
    39,
-   158588,
-   -1.45,
-   1.9
+   157770,
+   -0.51,
+   0.2
   ],
   [
    "전기·가스",
    29,
-   147648,
-   -1.66,
-   1.1
+   147382,
+   -0.18,
+   0.7
   ],
   [
    "증권·선물",
    37,
-   108059,
-   -1.96,
-   -0.2
+   107185,
+   -0.8,
+   -2.7
   ],
   [
    "유리·토석",
    49,
-   87847,
-   -1.9,
-   -5.0
+   88257,
+   0.5,
+   -6.4
   ],
   [
    "고무",
    16,
-   85674,
-   0.54,
-   2.7
+   83161,
+   -1.48,
+   2.8
   ],
   [
    "철강",
    36,
-   82650,
-   -0.52,
-   0.2
+   82056,
+   -0.71,
+   -1.4
   ],
   [
    "해운",
    11,
-   72400,
-   -0.54,
-   2.4
+   73015,
+   0.85,
+   1.5
   ],
   [
    "금속제품",
    85,
-   59478,
-   -1.46,
-   -0.5
+   59486,
+   0.21,
+   -1.5
   ],
   [
    "석유·석탄",
    9,
-   53195,
-   -2.83,
-   -4.7
+   53812,
+   1.16,
+   -3.1
   ],
   [
    "광업",
    5,
-   46579,
-   -5.4,
-   -2.9
+   46470,
+   -0.21,
+   -3.8
   ],
   [
    "섬유",
    44,
-   41662,
-   -1.77,
-   0.7
+   41343,
+   -0.76,
+   -2.9
   ],
   [
    "항공",
    7,
-   30041,
-   0.19,
-   1.7
+   29433,
+   -2.02,
+   -0.3
   ]
  ],
  "gainers": [
   [
-   "6098",
-   "リクルートホールディングス",
-   "서비스",
-   5.02,
-   1.3,
-   252392.0
-  ],
-  [
-   "4403",
-   "日油",
-   "화학",
-   4.23,
-   3.9,
-   5857.0
-  ],
-  [
-   "5101",
-   "横浜ゴム",
-   "고무",
-   3.41,
-   4.4,
-   11803.0
-  ],
-  [
-   "9831",
-   "ヤマダホールディングス",
-   "소매",
-   3.41,
-   8.3,
-   5319.0
-  ],
-  [
-   "4911",
-   "資生堂",
-   "화학",
-   2.91,
-   11.3,
-   17236.0
-  ],
-  [
-   "3769",
-   "GMOペイメントゲートウェイ",
-   "정보·통신",
-   2.8,
-   -3.1,
-   6382.0
-  ],
-  [
-   "4527",
-   "ロート製薬",
-   "의약품",
-   2.71,
-   -3.9,
-   5970.0
-  ],
-  [
-   "6952",
-   "カシオ計算機",
+   "6525",
+   "KOKUSAI ELECTRIC",
    "전기기기",
-   2.6,
-   -4.7,
-   4449.0
+   5.86,
+   -8.8,
+   13079.0
   ],
   [
-   "8253",
-   "クレディセゾン",
-   "기타금융",
-   2.35,
-   19.7,
-   7210.0
-  ],
-  [
-   "4088",
-   "エア・ウォーター",
-   "화학",
-   2.22,
-   4.7,
-   6763.0
-  ],
-  [
-   "4543",
-   "テルモ",
-   "정밀기기",
-   1.91,
-   -0.1,
-   36999.0
-  ],
-  [
-   "7747",
-   "朝日インテック",
-   "정밀기기",
-   1.91,
-   10.5,
-   11300.0
-  ],
-  [
-   "6465",
-   "ホシザキ",
-   "기계",
-   1.59,
-   -3.9,
-   7252.0
-  ],
-  [
-   "6841",
-   "横河電機",
+   "6787",
+   "メイコー",
    "전기기기",
-   1.58,
-   0.2,
-   10687.0
+   5.38,
+   -5.8,
+   4025.0
   ],
   [
-   "9706",
-   "日本空港ビルデング",
-   "부동산",
-   1.52,
-   9.1,
-   6236.0
-  ],
-  [
-   "2810",
-   "ハウス食品グループ本社",
-   "식료품",
-   1.51,
-   4.8,
-   4047.0
-  ],
-  [
-   "2269",
-   "明治ホールディングス",
-   "식료품",
-   1.45,
-   7.4,
-   12507.0
-  ],
-  [
-   "3086",
-   "J.フロント リテイリング",
-   "소매",
-   1.34,
-   6.2,
-   7784.0
-  ],
-  [
-   "5110",
-   "住友ゴム工業",
-   "고무",
-   1.34,
-   -3.7,
-   5353.0
-  ],
-  [
-   "2267",
-   "ヤクルト本社",
-   "식료품",
-   1.26,
-   2.9,
-   8216.0
-  ]
- ],
- "losers": [
-  [
-   "4004",
-   "レゾナック・ホールディングス",
-   "화학",
-   -7.56,
-   1.4,
-   23078.0
-  ],
-  [
-   "4062",
-   "イビデン",
+   "6920",
+   "レーザーテック",
    "전기기기",
-   -6.44,
-   -18.5,
-   29834.0
+   4.96,
+   -12.4,
+   29235.0
   ],
   [
-   "1605",
-   "INPEX",
-   "광업",
-   -5.86,
-   -2.6,
-   39363.0
-  ],
-  [
-   "5801",
-   "古河電気工業",
-   "비철금속",
-   -5.67,
-   -14.9,
-   13159.0
-  ],
-  [
-   "3110",
-   "日東紡",
-   "유리·토석",
-   -5.53,
-   -12.1,
-   4323.0
-  ],
-  [
-   "1773",
-   "YTL Corporation Berhad",
-   "건설",
-   -5.19,
-   -7.6,
-   8568.0
-  ],
-  [
-   "285A",
-   "キオクシアホールディングス",
-   "전기기기",
-   -5.08,
-   -12.2,
-   127311.0
-  ],
-  [
-   "9962",
-   "ミスミグループ本社",
+   "3132",
+   "マクニカホールディングス",
    "도매(상사)",
-   -5.0,
-   -13.9,
-   9391.0
-  ],
-  [
-   "1801",
-   "大成建設",
-   "건설",
-   -4.92,
-   0.0,
-   18597.0
-  ],
-  [
-   "1969",
-   "高砂熱学工業",
-   "건설",
-   -4.86,
-   7.2,
-   5267.0
-  ],
-  [
-   "5706",
-   "三井金属",
-   "비철금속",
-   -4.61,
-   -23.3,
-   7692.0
-  ],
-  [
-   "8411",
-   "みずほフィナンシャルグループ",
-   "은행",
-   -4.55,
-   -0.5,
-   189980.0
-  ],
-  [
-   "1860",
-   "戸田建設",
-   "건설",
-   -4.48,
-   3.6,
-   4422.0
-  ],
-  [
-   "8136",
-   "サンリオ",
-   "도매(상사)",
-   -4.41,
-   -5.7,
-   12887.0
+   4.66,
+   -9.1,
+   5301.0
   ],
   [
    "6857",
    "アドバンテスト",
    "전기기기",
-   -4.39,
-   -12.4,
-   187819.0
+   4.56,
+   -13.5,
+   196376.0
   ],
   [
-   "8031",
-   "三井物産",
-   "도매(상사)",
-   -4.31,
-   -2.2,
-   137178.0
+   "6963",
+   "ローム",
+   "전기기기",
+   4.53,
+   -10.1,
+   11003.0
   ],
   [
-   "8053",
-   "住友商事",
-   "도매(상사)",
-   -4.21,
-   -3.9,
-   77475.0
+   "6752",
+   "パナソニック ホールディングス",
+   "전기기기",
+   4.39,
+   -6.6,
+   71010.0
+  ],
+  [
+   "2810",
+   "ハウス食品グループ本社",
+   "식료품",
+   4.12,
+   10.2,
+   4214.0
+  ],
+  [
+   "6981",
+   "村田製作所",
+   "전기기기",
+   4.1,
+   -7.5,
+   91236.0
+  ],
+  [
+   "4088",
+   "エア・ウォーター",
+   "화학",
+   3.73,
+   5.6,
+   7013.0
+  ],
+  [
+   "8050",
+   "セイコーグループ",
+   "정밀기기",
+   3.48,
+   -5.0,
+   6770.0
+  ],
+  [
+   "6976",
+   "太陽誘電",
+   "전기기기",
+   3.46,
+   -13.6,
+   8598.0
+  ],
+  [
+   "5344",
+   "MARUWA",
+   "유리·토석",
+   3.37,
+   -10.5,
+   5067.0
+  ],
+  [
+   "6762",
+   "TDK",
+   "전기기기",
+   3.36,
+   -4.3,
+   42978.0
   ],
   [
    "1942",
    "関電工",
    "건설",
-   -4.2,
-   -1.2,
-   8665.0
+   3.33,
+   -0.4,
+   8954.0
   ],
   [
-   "8309",
-   "三井住友トラストグループ",
+   "9984",
+   "ソフトバンクグループ",
+   "정보·통신",
+   3.11,
+   -12.2,
+   192808.0
+  ],
+  [
+   "5991",
+   "ニッパツ",
+   "금속제품",
+   3.08,
+   -0.3,
+   5604.0
+  ],
+  [
+   "7729",
+   "東京精密",
+   "정밀기기",
+   2.98,
+   -9.2,
+   4976.0
+  ],
+  [
+   "3436",
+   "SUMCO",
+   "금속제품",
+   2.94,
+   -3.6,
+   7045.0
+  ],
+  [
+   "1721",
+   "コムシスホールディングス",
+   "건설",
+   2.94,
+   2.9,
+   6078.0
+  ]
+ ],
+ "losers": [
+  [
+   "5838",
+   "楽天銀行",
    "은행",
-   -4.17,
-   3.5,
-   47148.0
+   -15.16,
+   -30.1,
+   18199.0
   ],
   [
-   "9501",
-   "東京電力ホールディングス",
-   "전기·가스",
-   -4.11,
-   -4.9,
-   6803.0
+   "4755",
+   "楽天グループ",
+   "서비스",
+   -5.67,
+   -5.1,
+   13371.0
+  ],
+  [
+   "5713",
+   "住友金属鉱山",
+   "비철금속",
+   -4.56,
+   -14.3,
+   17156.0
+  ],
+  [
+   "2433",
+   "博報堂DYホールディングス",
+   "서비스",
+   -4.47,
+   4.7,
+   4996.0
+  ],
+  [
+   "5016",
+   "JX金属",
+   "비철금속",
+   -4.43,
+   -19.9,
+   19182.0
+  ],
+  [
+   "2413",
+   "エムスリー",
+   "서비스",
+   -4.23,
+   -6.0,
+   11515.0
+  ],
+  [
+   "8267",
+   "イオン",
+   "소매",
+   -4.06,
+   -0.6,
+   34338.0
+  ],
+  [
+   "3086",
+   "J.フロント リテイリング",
+   "소매",
+   -4.05,
+   1.4,
+   7469.0
+  ],
+  [
+   "9024",
+   "西武ホールディングス",
+   "육운",
+   -3.97,
+   -5.5,
+   9221.0
+  ],
+  [
+   "3549",
+   "クスリのアオキホールディングス",
+   "소매",
+   -3.9,
+   -2.7,
+   4697.0
+  ],
+  [
+   "4506",
+   "住友ファーマ",
+   "의약품",
+   -3.88,
+   -2.1,
+   8494.0
+  ],
+  [
+   "6098",
+   "リクルートホールディングス",
+   "서비스",
+   -3.35,
+   -0.7,
+   243930.0
+  ],
+  [
+   "8233",
+   "高島屋",
+   "소매",
+   -3.33,
+   -0.8,
+   6471.0
+  ],
+  [
+   "7936",
+   "アシックス",
+   "기타제품",
+   -3.21,
+   -16.5,
+   30127.0
+  ],
+  [
+   "4385",
+   "メルカリ",
+   "정보·통신",
+   -3.19,
+   -17.2,
+   5304.0
+  ],
+  [
+   "4689",
+   "LINEヤフー",
+   "정보·통신",
+   -3.15,
+   -0.0,
+   35488.0
+  ],
+  [
+   "3288",
+   "オープンハウスグループ",
+   "부동산",
+   -3.05,
+   -0.2,
+   8124.0
+  ],
+  [
+   "9008",
+   "京王電鉄",
+   "육운",
+   -3.05,
+   -0.8,
+   4415.0
+  ],
+  [
+   "4733",
+   "オービックビジネスコンサルタント",
+   "정보·통신",
+   -3.03,
+   -1.1,
+   7469.0
+  ],
+  [
+   "8002",
+   "丸紅",
+   "도매(상사)",
+   -3.01,
+   -7.4,
+   78287.0
   ]
  ],
  "turnover": [
@@ -840,502 +840,639 @@
    "285A",
    "キオクシアホールディングス",
    "전기기기",
-   -5.08,
-   -12.2,
-   127311.0
+   0.74,
+   -16.2,
+   128253.0
   ],
   [
    "6857",
    "アドバンテスト",
    "전기기기",
-   -4.39,
-   -12.4,
-   187819.0
-  ],
-  [
-   "8035",
-   "東京エレクトロン",
-   "전기기기",
-   -1.56,
-   -3.9,
-   195957.0
-  ],
-  [
-   "9984",
-   "ソフトバンクグループ",
-   "정보·통신",
-   -3.95,
-   -15.3,
-   186994.0
-  ],
-  [
-   "4062",
-   "イビデン",
-   "전기기기",
-   -6.44,
-   -18.5,
-   29834.0
+   4.56,
+   -13.5,
+   196376.0
   ],
   [
    "6920",
    "レーザーテック",
    "전기기기",
-   -1.4,
-   -11.3,
-   27854.0
+   4.96,
+   -12.4,
+   29235.0
+  ],
+  [
+   "9984",
+   "ソフトバンクグループ",
+   "정보·통신",
+   3.11,
+   -12.2,
+   192808.0
+  ],
+  [
+   "8035",
+   "東京エレクトロン",
+   "전기기기",
+   0.49,
+   -6.2,
+   196908.0
+  ],
+  [
+   "4062",
+   "イビデン",
+   "전기기기",
+   1.34,
+   -23.4,
+   30233.0
   ],
   [
    "5803",
    "フジクラ",
    "비철금속",
-   -4.06,
-   -16.1,
-   42904.0
-  ],
-  [
-   "9983",
-   "ファーストリテイリング",
-   "소매",
-   0.79,
-   3.5,
-   258989.0
-  ],
-  [
-   "8306",
-   "三菱UFJフィナンシャル・グループ",
-   "은행",
-   -3.75,
-   -4.3,
-   370068.0
+   0.58,
+   -16.5,
+   43152.0
   ],
   [
    "6981",
    "村田製作所",
    "전기기기",
-   -0.08,
-   -8.0,
-   87641.0
+   4.1,
+   -7.5,
+   91236.0
   ],
   [
    "6976",
    "太陽誘電",
    "전기기기",
-   -2.25,
-   -10.4,
-   8310.0
+   3.46,
+   -13.6,
+   8598.0
   ],
   [
-   "6146",
-   "ディスコ",
-   "기계",
-   -1.39,
-   -4.3,
-   47081.0
-  ],
-  [
-   "6098",
-   "リクルートホールディングス",
-   "서비스",
-   5.02,
-   1.3,
-   252392.0
+   "8306",
+   "三菱UFJフィナンシャル・グループ",
+   "은행",
+   -1.1,
+   -7.2,
+   366015.0
   ],
   [
    "7974",
    "任天堂",
    "기타제품",
-   0.36,
-   5.6,
-   102910.0
+   0.85,
+   7.5,
+   103786.0
   ],
   [
-   "8316",
-   "三井住友フィナンシャルグループ",
-   "은행",
-   -3.74,
-   -2.8,
-   237923.0
-  ],
-  [
-   "8411",
-   "みずほフィナンシャルグループ",
-   "은행",
-   -4.55,
-   -0.5,
-   189980.0
-  ],
-  [
-   "6758",
-   "ソニーグループ",
-   "전기기기",
-   -1.13,
-   0.8,
-   248925.0
-  ],
-  [
-   "7011",
-   "三菱重工業",
+   "6146",
+   "ディスコ",
    "기계",
-   -0.71,
-   -8.6,
-   96794.0
+   2.28,
+   -6.7,
+   48156.0
   ],
   [
-   "5801",
-   "古河電気工業",
-   "비철금속",
-   -5.67,
-   -14.9,
-   13159.0
+   "9983",
+   "ファーストリテイリング",
+   "소매",
+   -1.61,
+   3.2,
+   254816.0
   ],
   [
    "4004",
    "レゾナック・ホールディングス",
    "화학",
-   -7.56,
-   1.4,
-   23078.0
+   -0.04,
+   -3.3,
+   23068.0
+  ],
+  [
+   "7011",
+   "三菱重工業",
+   "기계",
+   -0.17,
+   -8.4,
+   96626.0
+  ],
+  [
+   "6098",
+   "リクルートホールディングス",
+   "서비스",
+   -3.35,
+   -0.7,
+   243930.0
+  ],
+  [
+   "6758",
+   "ソニーグループ",
+   "전기기기",
+   -0.7,
+   1.0,
+   247176.0
+  ],
+  [
+   "8411",
+   "みずほフィナンシャルグループ",
+   "은행",
+   -0.52,
+   -4.0,
+   188990.0
+  ],
+  [
+   "8316",
+   "三井住友フィナンシャルグループ",
+   "은행",
+   -1.18,
+   -5.8,
+   235118.0
+  ],
+  [
+   "2914",
+   "JT",
+   "식료품",
+   0.61,
+   7.6,
+   106277.0
   ]
  ],
  "new_highs": [
   [
-   "4502",
-   "武田薬品工業",
-   "의약품",
-   -0.09,
-   5.1,
-   110719.0
+   "7832",
+   "バンダイナムコホールディングス",
+   "기타제품",
+   1.63,
+   4.8,
+   45828.0
   ],
   [
-   "4661",
-   "オリエンタルランド",
+   "9735",
+   "セコム",
    "서비스",
-   0.18,
-   3.8,
-   63505.0
-  ],
-  [
-   "4503",
-   "アステラス製薬",
-   "의약품",
-   -0.51,
-   4.2,
-   48952.0
-  ],
-  [
-   "4452",
-   "花王",
-   "화학",
-   0.12,
-   3.5,
-   36652.0
-  ],
-  [
-   "2502",
-   "アサヒグループホールディングス",
-   "식료품",
-   -0.33,
-   5.8,
-   26884.0
-  ],
-  [
-   "2503",
-   "キリンホールディングス",
-   "식료품",
-   -0.84,
-   3.9,
-   25060.0
-  ],
-  [
-   "7550",
-   "ゼンショーホールディングス",
-   "소매",
-   -2.01,
-   4.0,
-   20950.0
-  ],
-  [
-   "9843",
-   "ニトリホールディングス",
-   "소매",
-   0.38,
-   8.3,
-   20834.0
-  ],
-  [
-   "8113",
-   "ユニ・チャーム",
-   "화학",
-   0.09,
+   1.3,
    6.3,
-   19935.0
+   28238.0
   ],
   [
-   "6532",
-   "ベイカレント",
-   "서비스",
-   1.11,
-   2.9,
-   18785.0
-  ],
-  [
-   "2587",
-   "サントリービバレッジ&フード",
-   "식료품",
-   -0.2,
-   8.7,
-   16686.0
-  ],
-  [
-   "9201",
-   "日本航空",
-   "항공",
-   0.14,
-   2.7,
-   15319.0
-  ],
-  [
-   "4523",
-   "エーザイ",
-   "의약품",
-   0.3,
-   5.7,
-   14929.0
-  ],
-  [
-   "9684",
-   "スクウェア・エニックス・ホールディングス",
-   "정보·통신",
-   0.59,
-   12.0,
-   12940.0
+   "4911",
+   "資生堂",
+   "화학",
+   -0.46,
+   7.6,
+   17156.0
   ],
   [
    "2702",
    "日本マクドナルドホールディングス",
    "소매",
-   -1.0,
-   5.1,
-   12910.0
+   0.64,
+   4.4,
+   12993.0
   ],
   [
    "2269",
    "明治ホールディングス",
    "식료품",
-   1.45,
-   7.4,
-   12507.0
+   1.41,
+   10.8,
+   12683.0
   ],
   [
-   "3088",
-   "マツキヨココカラ&カンパニー",
-   "소매",
-   0.1,
-   8.2,
-   11672.0
-  ],
-  [
-   "7747",
-   "朝日インテック",
-   "정밀기기",
-   1.91,
-   10.5,
-   11300.0
-  ],
-  [
-   "2212",
-   "山崎製パン",
+   "2501",
+   "サッポロビール",
    "식료품",
-   0.8,
-   4.4,
-   8404.0
+   -0.66,
+   13.8,
+   9029.0
   ],
   [
-   "8253",
-   "クレディセゾン",
-   "기타금융",
-   2.35,
-   19.7,
-   7210.0
+   "9064",
+   "ヤマトホールディングス",
+   "육운",
+   0.71,
+   2.2,
+   7435.0
   ],
   [
-   "2002",
-   "日清製粉グループ本社",
-   "식료품",
-   -0.26,
-   3.5,
-   6893.0
-  ],
-  [
-   "2809",
-   "キユーピー",
-   "식료품",
-   -0.31,
-   3.4,
-   6615.0
-  ],
-  [
-   "2331",
-   "ALSOK",
-   "서비스",
-   0.7,
-   7.3,
-   6489.0
-  ],
-  [
-   "4912",
-   "ライオン",
-   "화학",
-   1.03,
-   5.9,
-   6248.0
+   "4816",
+   "東映アニメーション",
+   "정보·통신",
+   1.49,
+   3.3,
+   6951.0
   ],
   [
    "9706",
    "日本空港ビルデング",
    "부동산",
-   1.52,
-   9.1,
-   6236.0
+   0.67,
+   9.2,
+   6278.0
   ],
   [
    "9831",
    "ヤマダホールディングス",
    "소매",
-   3.41,
-   8.3,
-   5319.0
+   0.34,
+   7.5,
+   5337.0
   ],
   [
-   "8410",
-   "セブン銀行",
-   "은행",
-   -0.11,
-   3.8,
-   4179.0
-  ],
-  [
-   "2229",
-   "カルビー",
+   "2810",
+   "ハウス食品グループ本社",
    "식료품",
-   1.12,
-   4.1,
-   4034.0
+   4.12,
+   10.2,
+   4214.0
   ]
  ],
  "flagged_disc": [
   [
    "16:00",
-   "4464",
-   "ソフト99",
-   "부정 접속·정보 유출 관련 공시",
-   "業務委託企業への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117582082.pdf"
-  ],
-  [
-   "15:30",
-   "262A",
-   "インターメスティック",
-   "주요주주·모회사 관련",
-   "親会社以外の支配株主及び主要株主の異動に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117581880.pdf"
-  ],
-  [
-   "15:30",
-   "2789",
-   "カルラ",
-   "주요주주·모회사 관련",
-   "非上場の親会社等の決算に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117581812.pdf"
-  ],
-  [
-   "15:30",
-   "2978",
-   "G-ツクルバ",
-   "2027년 7월기 실적 전망 수정",
-   "2027年7月期通期連結業績予想の修正に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117582034.pdf"
-  ],
-  [
-   "15:30",
-   "3690",
-   "イルグルム",
-   "주식교환·자회사 편입·합병",
-   "連結子会社株式の追加取得による完全子会社化に関するお知らせ(株式会社オリエントコーポレーションとの資本提携の解消)",
-   "https://www.release.tdnet.info/inbs/140120261116581636.pdf"
-  ],
-  [
-   "15:30",
-   "3690",
-   "イルグルム",
-   "주식교환·자회사 편입·합병",
-   "(開示事項の経過)完全子会社の吸収合併に係る吸収合併契約締結に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261116581665.pdf"
-  ],
-  [
-   "15:30",
-   "4972",
-   "綜研化学",
-   "실적 전망 수정",
-   "業績予想の修正及び配当予想に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261112575155.pdf"
-  ],
-  [
-   "15:30",
-   "6929",
-   "日セラミック",
-   "자사주 매입 결정",
-   "自己株式取得に係る事項の決定に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117582120.pdf"
-  ],
-  [
-   "15:30",
-   "7133",
-   "G-ヒュウガプライマ",
+   "4712",
+   "KeyH",
    "공개매수(TOB) 관련 공시",
-   "自己株式の取得及び自己株式の公開買付けの開始に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261110570522.pdf"
+   "株式会社HYBE JAPANによる当社株式に対する公開買付けに関する意見表明のお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582725.pdf"
+  ],
+  [
+   "16:00",
+   "5451",
+   "ヨドコウ",
+   "사업 종료·중단 관련",
+   "鉄鋼ロール事業の譲渡及び非鉄ロール事業の撤退に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582678.pdf"
+  ],
+  [
+   "16:00",
+   "6899",
+   "ASTI",
+   "주요주주·모회사 관련",
+   "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261015551522.pdf"
+  ],
+  [
+   "16:00",
+   "8508",
+   "Jトラスト",
+   "공개매수(TOB) 관련 공시",
+   "公開買付けへの応募及び持分法適用関連会社の異動に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261117582273.pdf"
   ],
   [
    "15:30",
-   "8016",
-   "オンワードHD",
+   "2122",
+   "Iスペース",
+   "공개매수(TOB) 관련 공시",
+   "公開買付に準ずる行為として政令で定める買集め行為に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582577.pdf"
+  ],
+  [
+   "15:30",
+   "3395",
+   "サンマルクHD",
    "주식교환·자회사 편입·합병",
-   "株式の取得(完全子会社化)に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117581807.pdf"
+   "完全子会社の吸収合併(簡易合併・略式合併)及び特定子会社の異動に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261116581396.pdf"
+  ],
+  [
+   "15:30",
+   "407A",
+   "UNICON HD",
+   "주식 취득(자회사 편입)",
+   "荻野建設株式会社の株式の取得(子会社化)に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582639.pdf"
+  ],
+  [
+   "15:30",
+   "6078",
+   "バリューHR",
+   "주식 취득(자회사 편입)",
+   "有限会社新赤坂健康管理協会の株式の取得(子会社化)完了及び第三者割当による自己株式処分の手続き完了に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261117582162.pdf"
+  ],
+  [
+   "15:30",
+   "8127",
+   "ヤマトインター",
+   "주식 취득(자회사 편입)",
+   "特別目的会社(SPC)の株式取得(子会社化等)に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261116581380.pdf"
+  ],
+  [
+   "15:30",
+   "8887",
+   "シーラHD",
+   "소송·판결 관련",
+   "当社が承継した訴訟に係る開示遅延および当該訴訟の取り下げに関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582668.pdf"
+  ],
+  [
+   "15:30",
+   "9025",
+   "鴻池運輸",
+   "주식교환·자회사 편입·합병",
+   "NSホールディングス株式会社の株式取得(完全子会社化)及び日進機工株式会社の孫会社化に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582423.pdf"
   ],
   [
    "15:00",
-   "7419",
-   "ノジマ",
+   "6063",
+   "EAJ",
    "자사주 매입 결정",
    "自己株式取得に係る事項の決定に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117582128.pdf"
+   "https://www.release.tdnet.info/inbs/140120261117582392.pdf"
   ],
   [
-   "14:30",
-   "6577",
-   "G-ベストワンドット",
-   "자사주 매입 결정",
-   "自己株式取得に係る事項の決定に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117582076.pdf"
+   "15:00",
+   "6572",
+   "オープンG",
+   "부정 접속·정보 유출 관련 공시",
+   "当社連結子会社のクラウド環境への不正アクセスに関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261117582184.pdf"
   ],
   [
-   "13:30",
-   "2321",
-   "G-ソフトフロントH",
+   "13:00",
+   "3083",
+   "スターシーズ",
+   "업무·자본 제휴",
+   "株式会社イスズとのコンテナ型AIデータセンター事業に関する業務提携の基本合意書締結のお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582567.pdf"
+  ],
+  [
+   "11:00",
+   "3086",
+   "Jフロント",
+   "주요주주·모회사 관련",
+   "主要株主である筆頭株主の異動に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582533.pdf"
+  ],
+  [
+   "10:30",
+   "3905",
+   "G-データセクション",
+   "주요주주·모회사 관련",
+   "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261118582520.pdf"
+  ],
+  [
+   "10:00",
+   "3964",
+   "オークネット",
    "주요주주·모회사 관련",
    "主要株主の異動に関するお知らせ",
-   "https://www.release.tdnet.info/inbs/140120261117581984.pdf"
+   "https://www.release.tdnet.info/inbs/140120261118582430.pdf"
+  ],
+  [
+   "09:00",
+   "438A",
+   "G-インフキュリオン",
+   "부정 접속·정보 유출 관련 공시",
+   "外部委託先への不正アクセスに伴う情報漏えいに関するお知らせ",
+   "https://www.release.tdnet.info/inbs/140120261117582347.pdf"
+  ],
+  [
+   "09:00",
+   "4507",
+   "塩野義薬",
+   "인수 관련 경과",
+   "IntraBio社の買収完了について",
+   "https://www.release.tdnet.info/inbs/140120261118582416.pdf"
+  ],
+  [
+   "08:45",
+   "4015",
+   "G-ペイクラウドHD",
+   "부정 접속·정보 유출 관련 공시",
+   "当社連結子会社が提供するシステムへの不正アクセスに関するお知らせ(第2報)",
+   "https://www.release.tdnet.info/inbs/140120261118582408.pdf"
   ]
  ],
  "news": [
   [
-   "11/17 16:00",
+   "11/18 16:03",
    "종목",
-   "11月17日のストップ高・ストップ安銘柄メモ｜池田伸太郎",
+   "11月18日のストップ高・ストップ安銘柄メモ｜池田伸太郎",
    "note",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZ25ORExIeGFWa2dUY0todktCMEluX3VwLWtFci10SE5peGpSOUsyUE1mYk5wSEdUMGxnRlQyMGtUcV9lejgxclBMRVhMSnh0eFE?oc=5"
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0U1dRai1BNFNIby1xREV4cjBvTGNBYlBNTEVkTkF4V2Z4ZGh0d2Z2YnpBT2FURkFVZzVFOEE1dGM1dEJDX0VRektXTWpsUDhfbFE?oc=5"
+  ],
+  [
+   "11/18 15:55",
+   "시황",
+   "[도쿄증시-마감] 엔비디아 호실적발 AI·반도체주 강세에 닛케이 59,000선 회복",
+   "KB Think",
+   "https://news.google.com/rss/articles/CBMickFVX3lxTE44MzU4MTNSVzhsaE5rT3l4VW5KbWxwdTZVSzBXelVnN0Y3ZTBKUExyQ1ZVSDNPcktoUDNpeDNSd1RiOTFBMzJ1UjNLSV9XZUZ2enhzLVZjbnRscE4wOEVOQ3Nub1dpNEhlZGlmNmFJRklFZw?oc=5"
+  ],
+  [
+   "11/18 15:48",
+   "시황",
+   "東証株価反発、163円高 大引けにかけて買い注文が優勢（共同通信）",
+   "Yahoo!ニュース",
+   "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMFVxSDlINVAwRS0wczZ5QzJGc2FfeUk5bDVrQ3BJNEVKSEMtb0dtZXo2ZnBRei1DTm4yajFnbGJSZ0E0aHNuTEl5RU00eW1RbFNad1JxOFU4YmFVTWFKb2hOLTNvYnI2ZlJrUTF3QXY0T0QxM2dlOE1MZ1FmOEE?oc=5"
+  ],
+  [
+   "11/18 15:47",
+   "시황",
+   "日経平均終値は３営業日ぶり上昇、１６３円高の５万９０２４円…ＡＩや半導体関連株買われる",
+   "読売新聞",
+   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5icmh2bzVuQ0dGdXY2RnRtdnFuYzZPdGl4QkxfTTJpM0VJVjV3eW5hbGY5Vi01dXozeVlicUFkNE1peHdWT3Z1YXJKOE56N1dBY0xJenZPNU9LX1UwVGZkX0xQekU?oc=5"
+  ],
+  [
+   "11/18 15:45",
+   "종목",
+   "本日の【ストップ高／ストップ安】 引け S高＝ 7 銘柄 S安＝ 4 銘柄 (11月18日)(株探ニュース)",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1gxdkdjODlzTVlPNGVSaFZrR21YUGNHTG5QXzY0ZmI5REpvQUh0Ml9jek16dnk3eE9YT3FsOWs0ZnUyNWROd0VTMTJPbktSR0lIcExVR0tEMWxiM0NZbUE1RzJxVkVRUE1mWDM2ZW9hTlRCdmxxREhHX2ZfWGUyUU1JeWd6bU0?oc=5"
+  ],
+  [
+   "11/18 15:33",
+   "시황",
+   "東証グロース（大引け）＝値下がり優勢、ＶＮＸ、リベースがS高(株探ニュース)",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWxxOENBR1FuV2Z5cG5oTmFWR01FUmZqcTA0UGtmdVpWZFRKN1B6ZjRsNmpHMFM5d3pqQ0ZubnBmc3prQTQzSS1jd1VLX0ZDLU9CRWRvN0pxYk40TTlHV2V6cDJac3JOWUx1akRyTkprdjZwQlVYTkF0ZURaU1pGN1hkRXRXSXM?oc=5"
+  ],
+  [
+   "11/18 15:32",
+   "시황",
+   "東証スタンダード（大引け）＝値下がり優勢、セキュアヴェ、ショーケースがS高(株探ニュース)",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHFJT0FCS0dzU3ZoSDFKNVBXS0xJSmlfZzVXUWtBSVNNUUxnOFE3SGd4TnN0UURKZEpZX25rNDRWbVk1ZDdWcS1CMngxNW1haVMzT1FpN3FDYzRiUDFPVVFVQ1lwNDJxM1Q4YkJnb1dyQnVXakx2Y2FzSktFSXVtUlNoME1vQkk?oc=5"
+  ],
+  [
+   "11/18 15:18",
+   "시황",
+   "日経平均株価、終値163円85銭高の5万9024円28銭 - TOKYO CLOSING BELL 大引け解説",
+   "日経CNBC online",
+   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDLTd6azBpV0ZfMzFKUUpEd1dmdFota1BhNGd1dG83UXdKMlB3a1FvR3NYMVFEZmNMZDR4cXV5SGI3NjhtcHFoVkU2c2hpdXRHNGxPYQ?oc=5"
+  ],
+  [
+   "11/18 14:55",
+   "종목",
+   "台湾ASIC関連3銘柄に買い戻し、世芯-KYはストップ高・聯発科は4,000台湾ドル回復・創意はストップ安から切り返し",
+   "BigGo ファイナンス",
+   "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IMVNwRU1lS2NYTVZmZ0d2VVFWZ2tlWVNHTFBNY2NEcFhIdXk5RjRackQyemFCdXdfOGFRTGw3dE1DaU1XN3d0anhTVHFMeHBhVHdtNkdvakNabDRGU3hMQVJOSTY1b2dUclgxb0V2MzdoZEdt?oc=5"
+  ],
+  [
+   "11/18 14:30",
+   "종목",
+   "ニトリHD－みずほが目標株価引き上げ 2027.3期営業利益予想を上方修正〔DZH 個別株情報〕(時事通信)",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVBXaWhCRHJBODNremlJdlBvUGkzUGlVblU1RG1nOUtwLTJibHRzeDRibnUzeU9nVi1zSlJiTGsyX2RJdDNjaEZxQWZfTEJYR0s3bExzVy1PUExEV3pOT2sxVnZfLXdUOE5KV1kzZzNCYzZNWExHZ08zaXpNbXduZmM5VGVid3c?oc=5"
+  ],
+  [
+   "11/18 14:28",
+   "종목",
+   "漏洩問題多発受けセキュアヴェイルがストップ高",
+   "四季報オンライン",
+   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FQWozRVY1R2ZJMkRfX1pmT0hkLUpaZWZlNXpfMFFMMm1XVUNKN0FQZUhXSDlqcjBRUEpuaGRoYkxma2luTDdRekRDU3RPaE9rdHJRZXlGVQ?oc=5"
+  ],
+  [
+   "11/18 13:56",
+   "금리·환율",
+   "東京為替：ドル・円は続落、クロス円も軟調",
+   "株探",
+   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZVVBIZ2RWR1pVX1ZzeWlZbjFlODJzNndWaW5tNW5Kb1kxRU1Cc0VtMEN4M0U1V0VKSU1vYzdzMzBBdGplLWQ2dGVZX245MXJCeVozRkxGQWNFWG9fN09fWA?oc=5"
+  ],
+  [
+   "11/18 13:49",
+   "금리·환율",
+   "NZドル/円【NZDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0cHp4akZTV1Y0allfZTd0dk5qSlZJWTdtRE9OYmFVa3VMcUNITHcxcEpxUnVTYi1udDJndC13RTUzSlhWYUl5ZkN5emcxODk0YWpzNktn?oc=5"
+  ],
+  [
+   "11/18 13:30",
+   "전망",
+   "プラチナは軟調、米利上げ見通しや株安で ＜コモディティ特集＞(株探ニュース)",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVFSNFgtOVYzVjZSUUlXNU5yclFXSktvUldqaG5RQjh2MXRsR0gwYVBhNS1NQXprc0FkX2RPcmptUDFsTV9TMzU1UVh3NjhyXzdFdC1QbkxWY1lnRlFLZHNlQWtTTEZNNnY2cGxvRkxOazdrX2xDZEt1UEpmajJ3a3ZhMFIzNGM?oc=5"
+  ],
+  [
+   "11/18 12:31",
+   "시황",
+   "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る",
+   "株探",
+   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mUnZ5ZERWT0NuMTFrREE2UWxuVWRXdTZJS0RVSHlpLXh4QkhLdndDbXAwQXo5djlTYzFqbjRSWXZBVDh3SHAxTFRfS0NwQk5RdENIOWNfZHZxVWhUX3JhUA?oc=5"
+  ],
+  [
+   "11/18 12:21",
+   "산업",
+   "上場インデックスファンド日経半導体株【213A】：株価・株式情報（夜間PTS含む）",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMktqQW01NHFYNTF4R1VCTUc5TUs2N2p3dndTTVQ5cmRaMmVielNUNFZvSTZHbWNHM1lWX2tqQ3NZSGVKU2RONWdMWUxXNzd2enc?oc=5"
+  ],
+  [
+   "11/18 11:56",
+   "시황",
+   "엔비디아 호실적 약발 안 먹혀…닛케이 0.28%↓[Asia오전] - 머니투데이",
+   "머니투데이",
+   "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XYVhXLUYyQ1JENDhEWWM0UWw0RWFGLVlQZ205TUZtNmJjY01Pd2ZkcGt4YjViRm9vai03N0VEUUJDcGJuYTBkUzM4NjNaYnhIRzU3a1NoaUMydnh5aTlzbWZoQ08zeVQ2WEI1OHBR0gFuQVVfeXFMT1dhWFctRjJDUkQ0OERZYzRRbDRFYUYtWVBnbTlNRm02YmNjTU93ZmRwa3hiNWJGb29qLTc3RURRQkNwYm5hMGRTMzg2M1pieEhHNTdrU2hpQzJ2eHlpOXNtZmhDTzN5VDZYQjU4cFE?oc=5"
+  ],
+  [
+   "11/18 11:51",
+   "시황",
+   "日経平均、午前終値163円安 NVIDIA好決算も高揚感乏しく",
+   "日本経済新聞",
+   "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5"
+  ],
+  [
+   "11/18 11:10",
+   "산업",
+   "GX 半導体関連-日本株式【2644】：株価・株式情報（夜間PTS含む）",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QdDNtZ2U2X3c4VW9lMVBvRlg2UkljLWl6UER4cWVGYTU5S1piOWhTNEVwakp6bHlLZlZQQjhkZjEyUHNPQjVLX3dWNUtfdmhQTUE?oc=5"
+  ],
+  [
+   "11/18 11:00",
+   "금리·환율",
+   "経済・物価・金融情勢に応じ政策金利上げ、緩和度合い調整が適切＝日銀総裁（ロイター）",
+   "Yahoo!ニュース",
+   "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YT1hrdWNTQXlsU1Rtamp2UWFDbWpxN3FldVJMcXhTT29LUmJmU2NHWUdjRXlBRXpmVE5XM29oZ2tEMUNUZ3pkUGRNTjdxYjVKR0JycFk0S0NLWXo5djlQS0FreDZhaVBhS2N4VnNaMjBYYzdVeVRuTFJnQVo5UU0?oc=5"
+  ],
+  [
+   "11/18 10:40",
+   "산업",
+   "(NEXT FUNDS) 日経半導体株指数連動型上場投信【200A】：株価・株式情報（夜間PTS含む）",
+   "Yahoo!ファイナンス",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VS2pDdHZPSTQtaE56MUxrRUxzVENvU2QwdTlpclBITmt5aGhlWnRKaGNNNk9YT0dsRUtTT0ZHUmxLNEY0elMwTmJIN2NNY0ltOGc?oc=5"
+  ],
+  [
+   "11/18 10:22",
+   "금리·환율",
+   "植田日銀総裁、引き続き利上げで緩和調整－物価2%定着の確認が重要",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkRFa3Faa21QbkRkWExHcWpzQUpobHpRTG1USXZBYy1ERzhGSDFzWUIzTmZEQ2R0aWYwNzIzWDhNTVJKOW1ocVE0RFBUblRjUlZvanliM2VoSWFDWjltWHR6QjZ1UUc5RHRRLW1HY1NsYzdoOFcxQVg3MWIwcFJnRWIxY3A5SmxYeTd6VDRB?oc=5"
+  ],
+  [
+   "11/18 09:46",
+   "시황",
+   "日증시, 엔비디아 호실적에 닛케이 반등…앤트로픽 IPO 주목",
+   "뉴시스",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVnRqLWVxbkZKYXdzcVFvWUkyVGkwaW9McDlScHMyRjRpXzBZNmY4NVNQN0FUZTR1ekI5XzUwWnhpRkxhZ3VXNFFzRVNPcExJMHEzU0FOYzlGOGIwRW0xTk9GRDNuM1ltUzNab0syTUhXUVVraXJQONIBeEFVX3lxTE4wVnRqLWVxbkZKYXdzcVFvWUkyVGkwaW9McDlScHMyRjRpXzBZNmY4NVNQN0FUZTR1ekI5XzUwWnhpRkxhZ3VXNFFzRVNPcExJMHEzU0FOYzlGOGIwRW0xTk9GRDNuM1ltUzNab0syTUhXUVVraXJQOA?oc=5"
+  ],
+  [
+   "11/18 09:36",
+   "종목",
+   "綜研化学が業績上方修正と大幅増配を手掛かりに新展開入り",
+   "四季報オンライン",
+   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vUnV5Rm1Pc3VPTlBJeEJmUnN5RkRfRDVkUGhxbVBubjR6Q2Q3N3kyZkRCODYyeEZSWUJjTnRIRndfdXNMeEhjOEZQS0NDR25ZZ1N4MFRUYw?oc=5"
+  ],
+  [
+   "11/18 08:14",
+   "전망",
+   "今日の株式見通し＝強もち合い、エヌビディア好決算で安心感 イベント続き上値重い",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGJYVmRvRHdwQmV5blprRGJUT1lHZzBQa0pvZ0JhX29PNHJyRUxjNU9SOFlidE4tNU0zLTE4TEFkb1E5SUR6bHpsNU05NzdJVEFoTWpxY0hidUMxSGZJQjEzVFQwQzNNcjViZG9hX3NxMDlVMnRudHdvYkRUMnBZemREMkNYMXViM1hnUGFyelk?oc=5"
+  ],
+  [
+   "11/18 07:46",
+   "금리·환율",
+   "ドル円午前の為替予想、AI株安一服なら再び160円へ 2026/11/18",
+   "外為どっとコム",
+   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndTJKOVJIam9xMnN2NzFzRGNVbzhMdEYtS2hnajVndF9CUTJsOEFXWC1PV1ZQX0ZzaGZKVXJPRHJMSWZTWnlmMXU5ZEZWdTc1ZGN5RkhPRUhsOURzTUJ6VFVGTQ?oc=5"
+  ],
+  [
+   "11/18 06:00",
+   "금리·환율",
+   "減速し始めた個人消費、実質賃金は9カ月連続プラスだが…連続利上げの日銀が直面する景気判断の難所 【唐鎌大輔の為替から見る日本】実質GDPが4四半期ぶりにマイナス成長、消費減速を特殊要因だけで説明できるか？(1/4)",
+   "JBpress",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua0ZVNGRYa0w5a1NDcGJhVTZBbWNSb3V0SDhGWW1pNWk1LXk0dVRkbXJJOFU1WlZ2OFBsbHd5VHRqRUxSSmlzRjRETlZ0OGsycEFCUGln?oc=5"
+  ],
+  [
+   "11/18 06:00",
+   "종목",
+   "株高の主役は｢大幅増配｣銘柄！上方修正で注目の高配当株",
+   "四季報オンライン",
+   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycTY4WkRuODRYc2ZfT0xOeXduZlZpUHV4bjd1U3hmV3ZlckR2cWF3ai0zdWJwd0tXV1FHWFVObGs5TER6RG9FSk1HWmF3QVAxenQza19PVQ?oc=5"
+  ],
+  [
+   "11/18 05:45",
+   "전망",
+   "上期決算が示した日本企業の「稼ぐ力」と株価の行方【プロの眼】",
+   "テレ東BIZ",
+   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43ZzZKZVQ1NlpnZGdLSVQwa3RqY2prOU9ULVBWOERMMHhmRDI2a1h6T0otTF9LcmRWR1lGM21QSjRqbkdlZmtEU084bC1xSVUtX1lDRlFkbS1hQlRIQzNHVg?oc=5"
+  ],
+  [
+   "11/17 22:45",
+   "금리·환율",
+   "米ドル円が一時160円台に 米利上げ期待が再上昇、米ドル全面高は続くか 野村證券・後藤祐二朗",
+   "野村證券",
+   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1La0M4X2w1U3JETnZxQ0ZUQklEekFMN21CcWU2OUNqZkE5OVJLUkJ3NkZBTHRwNmZqRkU2YzJ5UWpvRnhOUnNYOUpyNGVzWHc5emJEWGhfOFFvU3dUMkNv?oc=5"
+  ],
+  [
+   "11/17 17:00",
+   "전망",
+   "AI相場の先行き、日本株の見通しは？3人の識者の見方",
+   "トウシル",
+   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ESklCUGxkM251djNiMHJ1c0dJMURKQllLVFNsZDlNWGI4VmQ1N2VvWkpFaE4yRjJibUxxaHQ2ZjZTTm1kVktRS0loQVBtcmFRcmhnbHBBc1NuUQ?oc=5"
+  ],
+  [
+   "11/17 16:34",
+   "시황",
+   "[일본 증시] 닛케이 1.34% 하락...엔비디아 실적 앞두고 반도체주 약세",
+   "뉴스핌",
+   "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQTgzbTU1T2pUQXNpbTBjbkZTRUZncHZzcEp3cGNodmlGMm9YZncybTZDR2MzLXllS19jTHNiTWFIRXh6NENmRmFBLVJVcmFteGFhd3c3QW1wUG93?oc=5"
   ],
   [
    "11/17 15:57",
@@ -1345,95 +1482,11 @@
    "https://news.google.com/rss/articles/CBMibEFVX3lxTE51V09DQThkTHJZblFVYVFBVkR0NV80VVVZMjFocVRtTUR4dnpwMk1DejQ4alJNMWEtZFFDNVhGUEpLZmNZd2pOZV90Qk4xLUNBWGlkN0FWTW13RWEtOW1nUndSa3Ezc001amlrbw?oc=5"
   ],
   [
-   "11/17 15:50",
+   "11/17 13:43",
    "종목",
-   "《17日のストップ高・ストップ安銘柄》イオレがストップ高(フィスコ)",
-   "Yahoo!ファイナンス",
-   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFJ3SUxkNkFtUjZIbTMzYzFPLWp4Xzk2bDJTUGVDTjlRQXJOV1pYekNnSng0Y1NaMm9yNlRvUlZrU0RCM2tOZ3hzM3lYLTl4cnFGNVIxX0JLem9yME5YaE9sNWxZVGFfb1I4aVJnNU9iZXJ2ZkZka2tITWo0NGYtYTgyVHZGQmM?oc=5"
-  ],
-  [
-   "11/17 15:45",
-   "시황",
-   "日経平均続落、終値８０１円安の５万８８６０円…エヌビディア後任の不透明感を嫌気しＡＩ株売られる（読売新聞オンライン）",
-   "Yahoo!ニュース",
-   "https://news.google.com/rss/articles/CBMif0FVX3lxTE52MXZkc002WVJvSnhPdURjakU5eVpIc0dzOXdOTFIycTJ1dkdSazB4MG5kQ19yT2o0Zkh6My1NQjhhWlBVMVRVS2xGbkJaakhZQ2NkbVY0N0UxakVLRnhWZG9SNjFpZUlBdlAzOEZmMEdiLTR6VVJQLUtOVTllM0k?oc=5"
-  ],
-  [
-   "11/17 15:40",
-   "산업",
-   "東証続落、終値は８０１円安",
-   "福井新聞社",
-   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EMDlOMm9IQ183THhmWGx2RkZtQmJWREhlUmNnYWhXTzlnMUJIblFfWnNRamwyZWxVbl80ZG50MHdNNVRLUHEwUFdjTzJwNzQ0S2J3aDA2R25wSHVxY1E?oc=5"
-  ],
-  [
-   "11/17 15:32",
-   "시황",
-   "東証スタンダード（大引け）＝値下がり優勢、スプリックス、アイビーが買われる(株探ニュース)",
-   "Yahoo!ファイナンス",
-   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR3puN21HVzNzajByeVAzb000RUFhdDlBNEdmWDg4WlQtMmZnODFsbzUtaWtDNlFuUWdKQUYxR0lrbVpFOFBhSm84VEtTMG1IUjgwY2lxamZWYzRGb3JRX3lMamZoN2dicmVpZ1M4NTgtUlY5UFhIeU4wU0FJaWRvM0pQcDRxRlU?oc=5"
-  ],
-  [
-   "11/17 15:18",
-   "시황",
-   "日経平均株価、終値801円59銭安の5万8860円43銭 - TOKYO CLOSING BELL 大引け解説",
-   "日経CNBC online",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Icmkza2hyTWVlZ3IyWU51c0dZZE03eGlxOVpMWFg5QThiNlBxNDBKZ3JOazBJeDQ1d1BOSTVNenZVOFhfV25KY21ZNTBOVjRzWDRsVQ?oc=5"
-  ],
-  [
-   "11/17 15:06",
-   "전망",
-   "日本株予想の下げ相次ぐ､AI懸念が日経平均重し－業績支えにTOPIX優位",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnJTN3FhaGZhTFl0cy1sQmZSay1wUUVYSXdJWVhYYzlqSGc5MDNOWlBhLW0wdGVSZVBUeFA3T2x1Tlp0V3lCdlQ3aU1LblpObFJrcDFiSHdhS0t1QXY1eFhCd2xJd0EweFRhbFVqUnU4cWNTSmxsZGRxUEJ1ekpIaElkanNEM2JnVGh6TDBR?oc=5"
-  ],
-  [
-   "11/17 14:14",
-   "산업",
-   "GX 半導体関連-日本株式【2644】：株価・株式情報（夜間PTS含む）",
-   "Yahoo!ファイナンス",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QdDNtZ2U2X3c4VW9lMVBvRlg2UkljLWl6UER4cWVGYTU5S1piOWhTNEVwakp6bHlLZlZQQjhkZjEyUHNPQjVLX3dWNUtfdmhQTUE?oc=5"
-  ],
-  [
-   "11/17 12:52",
-   "종목",
-   "イオレ---ストップ高、27年3月期通期経常利益予想を2.1倍に上方修正",
+   "光陽社は高い、２７年３月期最終利益予想及び配当予想を上方修正",
    "株探",
-   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DaW5MakdfTThidXcySU1qNlg1S1A2MnBlUzZzb1NLZ0dQZnVvTmx6aHNkcENaZ1lUZE83MWtsb1ExczYzTFVsWmN4U1M5d2E3VFhPb3R1bUVLS2NqYWd6Sg?oc=5"
-  ],
-  [
-   "11/17 12:40",
-   "시황",
-   "엔비디아 실적에 쏠리는 눈…日닛케이 1.18%↓[Asia오전] - 머니투데이",
-   "머니투데이",
-   "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HQjFETDZoM2N6eUZnUTZlbWdvNmo4QUY4VnB1b1k1M2ZnVS1VTEVvOVpMYmlzendiak9PRWVJbnV6NVpmLVRncW9jbmFnYXEwMHVQMGpsaE1SSmVwcS1FemI2TV9SZmJtZlcxV1Z0TDBmVVRyRVFtTnhoNNIBe0FVX3lxTE5HQjFETDZoM2N6eUZnUTZlbWdvNmo4QUY4VnB1b1k1M2ZnVS1VTEVvOVpMYmlzendiak9PRWVJbnV6NVpmLVRncW9jbmFnYXEwMHVQMGpsaE1SSmVwcS1FemI2TV9SZmJtZlcxV1Z0TDBmVVRyRVFtTnhoNA?oc=5"
-  ],
-  [
-   "11/17 12:31",
-   "시황",
-   "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る",
-   "株探",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5"
-  ],
-  [
-   "11/17 12:25",
-   "종목",
-   "中国の半導体株が逆行高、国林科技は20cmストップ高－ファウンドリ満稼働と中国製演算チップの量産拡大が共振",
-   "BigGo ファイナンス",
-   "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUTGNzcW1iekJkcU4zUUNlcEl2NGp5N29RUGltZFQ5cGR1MkZTZF94Z3RaRnR6QW5pX0tlVkJjdndQWHM0REVwZkZWbG1DZjlUVXB2bkp2SjR1MTFralRxRFlsbnE1SzlBSXJHemNfb3RwZ2JN?oc=5"
-  ],
-  [
-   "11/17 12:24",
-   "산업",
-   "上場インデックスファンド日経半導体株【213A】：株価・株式情報（夜間PTS含む）",
-   "Yahoo!ファイナンス",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMktqQW01NHFYNTF4R1VCTUc5TUs2N2p3dndTTVQ5cmRaMmVielNUNFZvSTZHbWNHM1lWX2tqQ3NZSGVKU2RONWdMWUxXNzd2enc?oc=5"
-  ],
-  [
-   "11/17 09:52",
-   "시황",
-   "美 AI·반도체주 급락에 日 증시도 흔들…닛케이 0.61%↓",
-   "뉴시스",
-   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FUjhZalBrX241eDdhUXNvV2Q0VGI1VjZkYkJHQlVJbHBaVmtYbElJRnJNc1pMRmcxMkZreEhocTFtNk9EZ2tsSFE3ZVJKb253U0JGVGY5VFd5ajBXaXNob3Y2RGNRWTdLTFJScHNSVWxEeU5ZNHpTeNIBeEFVX3lxTE1FUjhZalBrX241eDdhUXNvV2Q0VGI1VjZkYkJHQlVJbHBaVmtYbElJRnJNc1pMRmcxMkZreEhocTFtNk9EZ2tsSFE3ZVJKb253U0JGVGY5VFd5ajBXaXNob3Y2RGNRWTdLTFJScHNSVWxEeU5ZNHpTeA?oc=5"
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wRUFTdmY2bzIyR0JoU3ItLXE0VC03WGtMdFA3cDUtREZpRDFMNG9hVU1VZlk5aXBEbllwTEo1emM4eXRWUXpHb3Vvd1AzT080Znc?oc=5"
   ],
   [
    "11/17 09:25",
@@ -1443,88 +1496,11 @@
    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfUlAtY2RVNGtEcUROS0FZOTdvcEVGOE5nNG55TlcyYnZoRkdINE53TXdWMF9SOTR2dEJRZEZOOENSWDV5N0RvSUxBeUU3bmlHdFhZV2VQQlhHTXJQZ1hBaGpsMl9HNzNSa1dHOQ?oc=5"
   ],
   [
-   "11/17 09:18",
-   "종목",
-   "フェローテクは４日ぶり反発、今期最終益・配当予想を上方修正",
-   "株探",
-   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yd0dtSW1GQ3pxNDVkTEQ1MTlGRG5IX0U5UkdlUTRUUmd0M3hfMFJaelVIcUtfdG1SUWp3cGFZbi03N3pkR0dwNFRzcjhJbFNhU2Y2cnRqZjZIdFMxTUhRVw?oc=5"
-  ],
-  [
-   "11/17 09:07",
-   "시황",
-   "日経平均株価、続落 午前終値705円安の5万8956円",
+   "11/16 18:02",
+   "금리·환율",
+   "日銀・高田委員、利上げの累積効果発生「タイミングはまだ先」",
    "日本経済新聞",
-   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iLUhVRmFYVmRkR1ZWS3JZcDdCR2dkTmdCbmZ1OGpNcFdwd2hLZkJkeHNSRmhlQVRUNTdHTzIxVnRJbVhBOW1IOUtCWnZaaGo1V3gxbWs1WDN1MFp2OTVMUnhpeXRnaEFlWmtYTg?oc=5"
-  ],
-  [
-   "11/17 07:59",
-   "전망",
-   "今日の株式見通し＝売り先行、米半導体規制強化を嫌気 エヌビディア決算待ちも",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUhSNTlqdE5wQm9IQ0YxNGdWM3FEc2RpcVhQQml4Y2JDZE1xQ0FVeEMyTlhrWWxKRTVGM0w1RUdscE5nekJNcFdqRTlWdjhLNWJKc25PWFd3UXRUY2lQRUdXdEhCNDFWbUFqQVZyR29hUTJYREhXeThzQ1JXc2FiQmJFOW5OSUR0UjZTb3hsaFI?oc=5"
-  ],
-  [
-   "11/17 07:18",
-   "전망",
-   "〔株式・今日の見通し〕続落か＝米国株安を引き継ぐ（17日）(時事通信)",
-   "Yahoo!ファイナンス",
-   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHp5VTEtN0YycE5Kdm9kVUdnWjhCMzgzbW9jZGdRZzRvRDh6UGp2Vkl5d2NVeE9tNmRUN1BOZi1HWjg2LUtjUkpFTDJQNGRCdFBaRUhVOU9PTEMyVHMxT0ViOXprOEZCWGZrSllyNlZHbFlZNkh3LXdTTnQwWEI0ZW5qY0ZyUVU?oc=5"
-  ],
-  [
-   "11/17 06:32",
-   "시황",
-   "東証小反発、終値１２８円高 大引けにかけ利益確定買い注文",
-   "山陽新聞",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1BGVDlGX250d0IwazF3Y1h1RDFoRGVXWGtxY3NhSzU1TGFWektCcTY0eF95eV81TnpEMTZ3OUNOekFPWDBhVU50M3FCMGY0cmZrd1VjbzItVjFrUTkzeGI4bWRDYTBTbGZoSjY1bXRObkdyNzQ2VTZFclVfTi1wVi1tSm5NVUlo?oc=5"
-  ],
-  [
-   "11/17 05:45",
-   "전망",
-   "日本株のバリュエーションは回復するか｜Newsモーニングサテライト（モーサテ）",
-   "テレ東BIZ",
-   "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1ODh3aVRYWDJLTzk4XzFwMEh0bFZEM2Y1X2ZOQXlYUUxRdmZRbW5VOE1aTzdNLTdZYXNtY3E4NzJoLU5vVkIzaFdKQWNITVVkako5MjJyV0VMUXpQ?oc=5"
-  ],
-  [
-   "11/16 20:10",
-   "종목",
-   "ニトリ好決算、みずほ＆セゾンは上方修正・配当増額・自社株買い/日経平均反落【今日の注目株＆日本株市場見通し】「デイリーZAi」11月16日号（ダイヤモンド・ザイ）",
-   "Yahoo!ニュース",
-   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uWjIyakFYMTRtVmRfbjRGcDEyLWlaQWZHdG5iZWFaV0tvcE14TEY4dXB5Y3RGVTV5aG5YT3RHZm91Z0JUYm80QU5odTc0SHNsVHlkT2cxeGl3V1FrdnZ2cUgtazA4d3M0Yjc3X0JyTTZoM0xmdk05RkZZTl9zNTQ?oc=5"
-  ],
-  [
-   "11/16 16:11",
-   "시황",
-   "[일본 증시] 닛케이 2.42% 급락...AI 투자 불안에 6만선 붕괴",
-   "뉴스핌",
-   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uTG5HNnBDa3hjUTFkc0tTWGZjSzNxeGdEYlN0NkttbnljVGdSRzlFVjRabG1lZTJQeDE3eERGSWMwMjBTLWd1c05pbTNqYnlVcGFhemF2eWNhYXRF?oc=5"
-  ],
-  [
-   "11/16 15:48",
-   "시황",
-   "決算マイナス・インパクト銘柄 【東証プライム】引け後 … 荏原、アシックス、ＴＯＰＰＡＮ (11月13日発表分)",
-   "株探",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xODhQX1FPMnNxRXU4RkZXV1hwdHo2STV3RGRySzFOSG1lRERBdTFNNkUyUGREcXNlUmJjYVFNU1RGQklGN2o3MkdMZHJ3SlowS3c?oc=5"
-  ],
-  [
-   "11/16 15:48",
-   "시황",
-   "[도쿄증시-마감] AI·반도체주 매도세에 닛케이 6만선 하회 |",
-   "연합인포맥스",
-   "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hSkt6czkzanhkVW9RZ0gzWFFEc0FXSS0ycjRtd1A1VnZVaVpoUFEyLWE2QXgyMDJkWkVxdGcxQ1NabmdGTjRPaDJoOG5STmZ1RUdRa19xYjhIRS1MNjBKTWJGUzd5U3ZlWVRpUVQzaE84b0Nv?oc=5"
-  ],
-  [
-   "11/16 15:06",
-   "종목",
-   "THK株価が一時16%安 26年12月期上方修正でも中国受注減に懸念",
-   "日本経済新聞",
-   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFSEdlanFpeDdQNlE3N1pUc01rTU5NaG84YlVKS2tSOEZEVy11ZXlFT000aUs0SGVPOGl6QVl4Y19la1Z1SmQ4WlVOZXkyUG5aaVlnYkVlV0w3SEVLYjcyS0M3cm8zMEpzckdCdg?oc=5"
-  ],
-  [
-   "11/16 06:00",
-   "종목",
-   "業績上方修正で\"上場来高値\"勢いに乗る｢半導体｣関連銘柄",
-   "四季報オンライン",
-   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ESjMzTTVENjBNZjVtOEo0a0E5VlRpVXl4R0ZqdV9vSUNudDgyWWJESDYwNzZLemV6anJkV1FyakxrV2xZbnRnb3h4ZUxULVFWblhQb3NaWQ?oc=5"
+   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sa2I2M204U3hoMVdKajJRVk9lUGZ2aU9jdWtEQk92eGp5a1NwTUhWVGxHaEZwbGw0eW9Oc3BxUkVvTTg3T0pnUTZ4WnNwc0hxX1Z5REZJVlI5ZV9TNWp4VF9KTElPVkwwU1Vfag?oc=5"
   ]
  ],
  "flows": {
@@ -1688,27 +1664,27 @@
  },
  "rates": {
   "title": "일본 국채 금리",
-  "asof": "2026-11-16 기준 (재무성)",
+  "asof": "2026-11-17 기준 (재무성)",
   "items": [
    {
     "n": "2년",
     "v": 1.878,
-    "chg": -0.4
+    "chg": 0.0
    },
    {
     "n": "5년",
-    "v": 2.27,
-    "chg": 0.8
+    "v": 2.274,
+    "chg": 0.4
    },
    {
     "n": "10년",
-    "v": 2.927,
-    "chg": 2.8
+    "v": 2.925,
+    "chg": -0.2
    },
    {
     "n": "30년",
-    "v": 4.062,
-    "chg": 2.4
+    "v": 4.069,
+    "chg": 0.7
    }
   ],
   "note": "재무성 국채 금리 정보입니다. 다음 영업일에 공표됩니다. 변화는 전 영업일 대비 bp입니다."
@@ -1718,40 +1694,40 @@
    {
     "sec": "전기기기",
     "n": 135,
-    "mcap": 2102802.0,
-    "up": 66,
-    "dn": 45,
-    "breadth": 15.6,
-    "agg1w": 0.4,
-    "med1w": 0.0,
+    "mcap": 2128661.0,
+    "up": 67,
+    "dn": 47,
+    "breadth": 14.8,
+    "agg1w": 0.3,
+    "med1w": 0.03,
     "med4w": 0.96
    },
    {
     "sec": "은행",
     "n": 31,
-    "mcap": 1235551.0,
+    "mcap": 1218721.0,
     "up": 22,
     "dn": 6,
     "breadth": 51.6,
-    "agg1w": 0.51,
+    "agg1w": 0.67,
     "med1w": 1.56,
     "med4w": 1.35
    },
    {
     "sec": "정보·통신",
     "n": 190,
-    "mcap": 1027075.0,
-    "up": 84,
-    "dn": 63,
-    "breadth": 11.1,
-    "agg1w": -0.1,
+    "mcap": 1026802.0,
+    "up": 85,
+    "dn": 62,
+    "breadth": 12.1,
+    "agg1w": -0.12,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "도매(상사)",
     "n": 72,
-    "mcap": 844650.0,
+    "mcap": 833888.0,
     "up": 38,
     "dn": 15,
     "breadth": 31.9,
@@ -1762,238 +1738,238 @@
    {
     "sec": "수송용기기",
     "n": 40,
-    "mcap": 721062.0,
+    "mcap": 717150.0,
     "up": 15,
     "dn": 15,
     "breadth": 0.0,
-    "agg1w": 1.16,
+    "agg1w": 1.26,
     "med1w": 0.0,
     "med4w": -0.02
    },
    {
     "sec": "소매",
     "n": 112,
-    "mcap": 684207.0,
-    "up": 44,
-    "dn": 40,
-    "breadth": 3.6,
-    "agg1w": -0.08,
+    "mcap": 672983.0,
+    "up": 45,
+    "dn": 38,
+    "breadth": 6.2,
+    "agg1w": -0.02,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "서비스",
-    "n": 161,
-    "mcap": 583366.0,
-    "up": 63,
-    "dn": 56,
-    "breadth": 4.3,
-    "agg1w": 1.07,
+    "n": 162,
+    "mcap": 571353.0,
+    "up": 62,
+    "dn": 60,
+    "breadth": 1.2,
+    "agg1w": 1.28,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
-    "sec": "화학",
-    "n": 102,
-    "mcap": 570657.0,
-    "up": 44,
-    "dn": 35,
-    "breadth": 8.8,
-    "agg1w": 1.11,
-    "med1w": 0.0,
-    "med4w": 0.28
-   },
-   {
     "sec": "기계",
     "n": 103,
-    "mcap": 565774.0,
-    "up": 53,
-    "dn": 24,
-    "breadth": 28.2,
-    "agg1w": 1.99,
+    "mcap": 567209.0,
+    "up": 55,
+    "dn": 22,
+    "breadth": 32.0,
+    "agg1w": 2.0,
     "med1w": 0.49,
-    "med4w": 0.84
+    "med4w": 1.02
+   },
+   {
+    "sec": "화학",
+    "n": 102,
+    "mcap": 567152.0,
+    "up": 46,
+    "dn": 33,
+    "breadth": 12.7,
+    "agg1w": 0.91,
+    "med1w": 0.0,
+    "med4w": 0.67
    },
    {
     "sec": "의약품",
-    "n": 36,
-    "mcap": 508345.0,
-    "up": 11,
-    "dn": 10,
-    "breadth": 2.8,
-    "agg1w": 0.47,
+    "n": 37,
+    "mcap": 502672.0,
+    "up": 13,
+    "dn": 11,
+    "breadth": 5.4,
+    "agg1w": 0.45,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "보험",
     "n": 10,
-    "mcap": 421854.0,
-    "up": 3,
+    "mcap": 417053.0,
+    "up": 4,
     "dn": 4,
-    "breadth": -10.0,
+    "breadth": 0.0,
     "agg1w": 1.12,
     "med1w": 0.0,
-    "med4w": -0.29
+    "med4w": 0.0
    },
    {
     "sec": "식료품",
-    "n": 52,
-    "mcap": 375807.0,
+    "n": 51,
+    "mcap": 373059.0,
     "up": 16,
     "dn": 21,
-    "breadth": -9.6,
-    "agg1w": 0.05,
+    "breadth": -9.8,
+    "agg1w": 0.16,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "육운",
     "n": 37,
-    "mcap": 263084.0,
-    "up": 21,
-    "dn": 4,
-    "breadth": 45.9,
-    "agg1w": 1.19,
-    "med1w": 0.16,
+    "mcap": 258768.0,
+    "up": 19,
+    "dn": 6,
+    "breadth": 35.1,
+    "agg1w": 0.86,
+    "med1w": 0.14,
     "med4w": 0.0
    },
    {
     "sec": "건설",
     "n": 53,
-    "mcap": 259036.0,
+    "mcap": 257334.0,
     "up": 20,
-    "dn": 19,
-    "breadth": 1.9,
-    "agg1w": -0.13,
+    "dn": 20,
+    "breadth": 0.0,
+    "agg1w": -0.79,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "기타제품",
-    "n": 34,
-    "mcap": 249693.0,
-    "up": 13,
+    "n": 35,
+    "mcap": 251002.0,
+    "up": 14,
     "dn": 11,
-    "breadth": 5.9,
-    "agg1w": -0.82,
+    "breadth": 8.6,
+    "agg1w": -1.41,
     "med1w": 0.0,
-    "med4w": 0.1
+    "med4w": 0.19
    },
    {
     "sec": "부동산",
     "n": 35,
-    "mcap": 218813.0,
-    "up": 14,
+    "mcap": 217346.0,
+    "up": 13,
     "dn": 7,
-    "breadth": 20.0,
-    "agg1w": 0.63,
+    "breadth": 17.1,
+    "agg1w": 0.62,
     "med1w": 0.0,
     "med4w": 0.04
    },
    {
     "sec": "정밀기기",
-    "n": 32,
-    "mcap": 203358.0,
+    "n": 33,
+    "mcap": 205453.0,
     "up": 16,
-    "dn": 8,
-    "breadth": 25.0,
-    "agg1w": -3.41,
-    "med1w": 0.09,
-    "med4w": 1.26
+    "dn": 10,
+    "breadth": 18.2,
+    "agg1w": -3.89,
+    "med1w": 0.0,
+    "med4w": 2.21
    },
    {
     "sec": "비철금속",
     "n": 16,
-    "mcap": 167600.0,
+    "mcap": 166246.0,
     "up": 8,
     "dn": 6,
     "breadth": 12.5,
-    "agg1w": 2.28,
+    "agg1w": 2.09,
     "med1w": 0.52,
     "med4w": 2.18
    },
    {
     "sec": "전기·가스",
     "n": 20,
-    "mcap": 144565.0,
-    "up": 5,
+    "mcap": 144313.0,
+    "up": 9,
     "dn": 6,
-    "breadth": -5.0,
-    "agg1w": -1.6,
+    "breadth": 15.0,
+    "agg1w": -4.22,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "기타금융",
     "n": 22,
-    "mcap": 126781.0,
+    "mcap": 126327.0,
     "up": 7,
     "dn": 11,
     "breadth": -18.2,
-    "agg1w": -1.77,
+    "agg1w": -0.8,
     "med1w": -0.07,
     "med4w": -0.07
    },
    {
     "sec": "증권·선물",
     "n": 9,
-    "mcap": 95125.0,
+    "mcap": 94415.0,
     "up": 2,
     "dn": 3,
     "breadth": -11.1,
-    "agg1w": -0.24,
+    "agg1w": -0.22,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "유리·토석",
     "n": 23,
-    "mcap": 82468.0,
+    "mcap": 82862.0,
     "up": 7,
     "dn": 9,
     "breadth": -8.7,
-    "agg1w": -0.32,
+    "agg1w": -0.2,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "고무",
     "n": 9,
-    "mcap": 82455.0,
+    "mcap": 79959.0,
     "up": 5,
     "dn": 3,
     "breadth": 22.2,
-    "agg1w": 0.6,
+    "agg1w": 0.65,
     "med1w": 0.86,
     "med4w": 0.91
    },
    {
     "sec": "철강",
     "n": 11,
-    "mcap": 74522.0,
+    "mcap": 73980.0,
     "up": 5,
     "dn": 4,
     "breadth": 9.1,
-    "agg1w": 5.93,
+    "agg1w": 5.91,
     "med1w": 0.0,
     "med4w": 1.23
    },
    {
     "sec": "해운",
     "n": 4,
-    "mcap": 68718.0,
+    "mcap": 69326.0,
     "up": 2,
     "dn": 2,
     "breadth": 0.0,
-    "agg1w": 1.85,
+    "agg1w": 1.8,
     "med1w": 3.66,
     "med4w": 13.06
    },
    {
     "sec": "석유·석탄",
     "n": 4,
-    "mcap": 51997.0,
+    "mcap": 52616.0,
     "up": 2,
     "dn": 1,
     "breadth": 25.0,
@@ -2004,29 +1980,29 @@
    {
     "sec": "금속제품",
     "n": 18,
-    "mcap": 39581.0,
+    "mcap": 39661.0,
     "up": 7,
-    "dn": 8,
-    "breadth": -5.6,
-    "agg1w": -1.18,
-    "med1w": -0.02,
-    "med4w": -0.43
+    "dn": 9,
+    "breadth": -11.1,
+    "agg1w": -1.37,
+    "med1w": -0.05,
+    "med4w": -0.26
    },
    {
     "sec": "섬유",
     "n": 10,
-    "mcap": 32593.0,
-    "up": 3,
-    "dn": 6,
-    "breadth": -30.0,
-    "agg1w": 1.33,
-    "med1w": -0.36,
-    "med4w": -0.93
+    "mcap": 32345.0,
+    "up": 4,
+    "dn": 5,
+    "breadth": -10.0,
+    "agg1w": 3.34,
+    "med1w": -0.06,
+    "med4w": -0.45
    },
    {
     "sec": "항공",
     "n": 3,
-    "mcap": 29778.0,
+    "mcap": 29170.0,
     "up": 3,
     "dn": 0,
     "breadth": 100.0,
@@ -2037,18 +2013,18 @@
    {
     "sec": "펄프·종이",
     "n": 6,
-    "mcap": 15739.0,
+    "mcap": 15659.0,
     "up": 2,
     "dn": 2,
     "breadth": 0.0,
-    "agg1w": -3.18,
+    "agg1w": -3.15,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "창고·운수",
     "n": 5,
-    "mcap": 15014.0,
+    "mcap": 15134.0,
     "up": 3,
     "dn": 0,
     "breadth": 60.0,
@@ -2059,21 +2035,21 @@
    {
     "sec": "수산·농림",
     "n": 4,
-    "mcap": 6120.0,
+    "mcap": 6079.0,
     "up": 1,
     "dn": 0,
     "breadth": 25.0,
-    "agg1w": 2.99,
+    "agg1w": 2.97,
     "med1w": 0.0,
     "med4w": 1.97
    },
    {
     "sec": "기타",
-    "n": 22,
+    "n": 23,
     "mcap": 0,
-    "up": 7,
-    "dn": 6,
-    "breadth": 4.5,
+    "up": 8,
+    "dn": 8,
+    "breadth": 0.0,
     "agg1w": null,
     "med1w": 0.0,
     "med4w": 0.0
@@ -2083,40 +2059,40 @@
    {
     "sec": "전기기기",
     "n": 134,
-    "mcap": 2102680.0,
-    "up": 70,
+    "mcap": 2128539.0,
+    "up": 73,
     "dn": 33,
-    "breadth": 27.6,
-    "agg1w": 1.21,
-    "med1w": 0.12,
-    "med4w": 0.93
+    "breadth": 29.9,
+    "agg1w": 1.26,
+    "med1w": 0.43,
+    "med4w": 0.97
    },
    {
     "sec": "은행",
     "n": 31,
-    "mcap": 1235551.0,
+    "mcap": 1218721.0,
     "up": 21,
-    "dn": 6,
-    "breadth": 48.4,
-    "agg1w": 0.37,
+    "dn": 7,
+    "breadth": 45.2,
+    "agg1w": 0.28,
     "med1w": 0.94,
     "med4w": 2.04
    },
    {
     "sec": "정보·통신",
     "n": 187,
-    "mcap": 1026241.0,
+    "mcap": 1025987.0,
     "up": 80,
-    "dn": 61,
-    "breadth": 10.2,
-    "agg1w": -6.81,
+    "dn": 59,
+    "breadth": 11.2,
+    "agg1w": -6.99,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "도매(상사)",
     "n": 70,
-    "mcap": 840153.0,
+    "mcap": 829470.0,
     "up": 30,
     "dn": 16,
     "breadth": 20.0,
@@ -2127,183 +2103,183 @@
    {
     "sec": "수송용기기",
     "n": 41,
-    "mcap": 736056.0,
+    "mcap": 732044.0,
     "up": 14,
-    "dn": 15,
-    "breadth": -2.4,
-    "agg1w": 0.84,
+    "dn": 16,
+    "breadth": -4.9,
+    "agg1w": 0.77,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "소매",
     "n": 111,
-    "mcap": 704414.0,
-    "up": 43,
-    "dn": 37,
-    "breadth": 5.4,
-    "agg1w": 0.1,
+    "mcap": 692891.0,
+    "up": 44,
+    "dn": 36,
+    "breadth": 7.2,
+    "agg1w": 0.13,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "서비스",
-    "n": 161,
-    "mcap": 602136.0,
-    "up": 60,
-    "dn": 62,
-    "breadth": -1.2,
-    "agg1w": 1.34,
+    "n": 162,
+    "mcap": 589902.0,
+    "up": 61,
+    "dn": 64,
+    "breadth": -1.9,
+    "agg1w": 1.2,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "화학",
     "n": 102,
-    "mcap": 570657.0,
-    "up": 43,
-    "dn": 20,
-    "breadth": 22.5,
-    "agg1w": 0.63,
+    "mcap": 567152.0,
+    "up": 46,
+    "dn": 21,
+    "breadth": 24.5,
+    "agg1w": 0.83,
     "med1w": 0.0,
-    "med4w": 0.26
+    "med4w": 0.41
    },
    {
     "sec": "기계",
     "n": 102,
-    "mcap": 565175.0,
-    "up": 47,
+    "mcap": 566616.0,
+    "up": 49,
     "dn": 12,
-    "breadth": 34.3,
-    "agg1w": 1.23,
-    "med1w": 0.0,
-    "med4w": 0.29
+    "breadth": 36.3,
+    "agg1w": 1.2,
+    "med1w": 0.01,
+    "med4w": 0.39
    },
    {
     "sec": "의약품",
-    "n": 34,
-    "mcap": 508061.0,
-    "up": 11,
-    "dn": 10,
+    "n": 35,
+    "mcap": 502389.0,
+    "up": 12,
+    "dn": 11,
     "breadth": 2.9,
-    "agg1w": 0.5,
+    "agg1w": 0.55,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "보험",
     "n": 10,
-    "mcap": 421854.0,
-    "up": 3,
-    "dn": 5,
-    "breadth": -20.0,
-    "agg1w": -0.67,
-    "med1w": -0.14,
+    "mcap": 417053.0,
+    "up": 2,
+    "dn": 6,
+    "breadth": -40.0,
+    "agg1w": -1.02,
+    "med1w": -0.36,
     "med4w": -0.26
    },
    {
     "sec": "식료품",
-    "n": 52,
-    "mcap": 375807.0,
+    "n": 51,
+    "mcap": 373059.0,
     "up": 15,
-    "dn": 20,
-    "breadth": -9.6,
-    "agg1w": 0.16,
+    "dn": 21,
+    "breadth": -11.8,
+    "agg1w": 0.17,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "육운",
     "n": 37,
-    "mcap": 263084.0,
-    "up": 16,
-    "dn": 4,
-    "breadth": 32.4,
-    "agg1w": 1.04,
+    "mcap": 258768.0,
+    "up": 15,
+    "dn": 5,
+    "breadth": 27.0,
+    "agg1w": 1.08,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "건설",
     "n": 53,
-    "mcap": 259036.0,
+    "mcap": 257334.0,
     "up": 21,
-    "dn": 8,
-    "breadth": 24.5,
-    "agg1w": 0.44,
+    "dn": 7,
+    "breadth": 26.4,
+    "agg1w": 0.45,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "기타제품",
-    "n": 34,
-    "mcap": 249693.0,
-    "up": 8,
-    "dn": 11,
-    "breadth": -8.8,
-    "agg1w": 0.09,
+    "n": 35,
+    "mcap": 251002.0,
+    "up": 10,
+    "dn": 10,
+    "breadth": 0.0,
+    "agg1w": 0.11,
     "med1w": 0.0,
-    "med4w": 0.12
+    "med4w": 0.0
    },
    {
     "sec": "부동산",
     "n": 35,
-    "mcap": 218813.0,
-    "up": 14,
-    "dn": 8,
-    "breadth": 17.1,
-    "agg1w": 0.58,
+    "mcap": 217346.0,
+    "up": 15,
+    "dn": 7,
+    "breadth": 22.9,
+    "agg1w": 0.67,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "정밀기기",
-    "n": 32,
-    "mcap": 203265.0,
-    "up": 16,
-    "dn": 6,
-    "breadth": 31.2,
-    "agg1w": 0.4,
-    "med1w": 0.04,
-    "med4w": 0.68
+    "n": 33,
+    "mcap": 205362.0,
+    "up": 18,
+    "dn": 7,
+    "breadth": 33.3,
+    "agg1w": 0.49,
+    "med1w": 0.37,
+    "med4w": 0.63
    },
    {
     "sec": "비철금속",
     "n": 16,
-    "mcap": 167600.0,
+    "mcap": 166246.0,
     "up": 8,
-    "dn": 1,
-    "breadth": 43.8,
-    "agg1w": 0.66,
-    "med1w": 0.09,
+    "dn": 2,
+    "breadth": 37.5,
+    "agg1w": 0.52,
+    "med1w": 0.08,
     "med4w": 1.72
    },
    {
     "sec": "전기·가스",
     "n": 20,
-    "mcap": 144565.0,
-    "up": 4,
+    "mcap": 144313.0,
+    "up": 6,
     "dn": 4,
-    "breadth": 0.0,
-    "agg1w": -1.01,
+    "breadth": 10.0,
+    "agg1w": -0.96,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "기타금융",
     "n": 22,
-    "mcap": 126781.0,
+    "mcap": 126327.0,
     "up": 8,
     "dn": 8,
     "breadth": 0.0,
-    "agg1w": -0.64,
+    "agg1w": -0.15,
     "med1w": 0.0,
     "med4w": -0.18
    },
    {
     "sec": "증권·선물",
     "n": 9,
-    "mcap": 95125.0,
+    "mcap": 94415.0,
     "up": 2,
     "dn": 2,
     "breadth": 0.0,
@@ -2314,51 +2290,51 @@
    {
     "sec": "유리·토석",
     "n": 23,
-    "mcap": 82468.0,
+    "mcap": 82862.0,
     "up": 8,
     "dn": 5,
     "breadth": 13.0,
-    "agg1w": 0.54,
+    "agg1w": 0.97,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "고무",
     "n": 9,
-    "mcap": 82455.0,
+    "mcap": 79959.0,
     "up": 4,
     "dn": 4,
     "breadth": 0.0,
-    "agg1w": 0.33,
+    "agg1w": 0.32,
     "med1w": 0.01,
     "med4w": 0.27
    },
    {
     "sec": "철강",
     "n": 11,
-    "mcap": 74522.0,
+    "mcap": 73980.0,
     "up": 6,
     "dn": 0,
     "breadth": 54.5,
-    "agg1w": 2.58,
+    "agg1w": 2.57,
     "med1w": 2.16,
     "med4w": 2.16
    },
    {
     "sec": "해운",
     "n": 4,
-    "mcap": 68718.0,
+    "mcap": 69326.0,
     "up": 4,
     "dn": 0,
     "breadth": 100.0,
-    "agg1w": 3.55,
+    "agg1w": 3.56,
     "med1w": 3.41,
     "med4w": 6.33
    },
    {
     "sec": "석유·석탄",
     "n": 4,
-    "mcap": 51997.0,
+    "mcap": 52616.0,
     "up": 0,
     "dn": 1,
     "breadth": -25.0,
@@ -2369,29 +2345,29 @@
    {
     "sec": "금속제품",
     "n": 18,
-    "mcap": 39581.0,
-    "up": 9,
-    "dn": 6,
-    "breadth": 16.7,
-    "agg1w": 1.12,
-    "med1w": 0.66,
-    "med4w": 0.71
+    "mcap": 39661.0,
+    "up": 8,
+    "dn": 7,
+    "breadth": 5.6,
+    "agg1w": 1.3,
+    "med1w": 0.0,
+    "med4w": 0.43
    },
    {
     "sec": "섬유",
     "n": 10,
-    "mcap": 32593.0,
-    "up": 2,
-    "dn": 7,
-    "breadth": -50.0,
-    "agg1w": 0.59,
-    "med1w": -0.96,
+    "mcap": 32345.0,
+    "up": 3,
+    "dn": 6,
+    "breadth": -30.0,
+    "agg1w": 2.33,
+    "med1w": -0.2,
     "med4w": -0.96
    },
    {
     "sec": "항공",
     "n": 3,
-    "mcap": 29778.0,
+    "mcap": 29170.0,
     "up": 2,
     "dn": 1,
     "breadth": 33.3,
@@ -2402,7 +2378,7 @@
    {
     "sec": "펄프·종이",
     "n": 6,
-    "mcap": 15739.0,
+    "mcap": 15659.0,
     "up": 1,
     "dn": 0,
     "breadth": 16.7,
@@ -2413,7 +2389,7 @@
    {
     "sec": "창고·운수",
     "n": 5,
-    "mcap": 15014.0,
+    "mcap": 15134.0,
     "up": 1,
     "dn": 0,
     "breadth": 20.0,
@@ -2424,24 +2400,24 @@
    {
     "sec": "수산·농림",
     "n": 4,
-    "mcap": 6120.0,
+    "mcap": 6079.0,
     "up": 1,
     "dn": 0,
     "breadth": 25.0,
-    "agg1w": 1.69,
+    "agg1w": 1.68,
     "med1w": 0.0,
     "med4w": 1.74
    },
    {
     "sec": "기타",
-    "n": 22,
+    "n": 23,
     "mcap": 0,
-    "up": 6,
-    "dn": 9,
-    "breadth": -13.6,
+    "up": 7,
+    "dn": 10,
+    "breadth": -13.0,
     "agg1w": null,
     "med1w": 0.0,
-    "med4w": -0.45
+    "med4w": -0.51
    }
   ]
  },
@@ -2450,56 +2426,56 @@
    {
     "s": "^VIX9D",
     "n": "VIX 9일",
-    "px": 23.15,
-    "chg": 29.910213
+    "px": 26.7,
+    "chg": 15.334779
    },
    {
     "s": "^VIX",
     "n": "VIX 1개월",
-    "px": 22.91,
-    "chg": 18.704668
+    "px": 25.46,
+    "chg": 11.130507
    },
    {
     "s": "^VIX3M",
     "n": "VIX 3개월",
-    "px": 23.02,
-    "chg": 11.639183
+    "px": 24.98,
+    "chg": 8.514331
    },
    {
     "s": "^VIX6M",
     "n": "VIX 6개월",
-    "px": 23.79,
-    "chg": 7.989107
+    "px": 25.37,
+    "chg": 6.6414456
    },
    {
     "s": "^VVIX",
     "n": "VVIX (VIX의 변동성)",
-    "px": 114.23,
-    "chg": 12.508623
+    "px": 121.28,
+    "chg": 6.1717544
    },
    {
     "s": "^SKEW",
     "n": "SKEW (꼬리 위험)",
-    "px": 146.33,
-    "chg": -0.5504945
+    "px": 145.11,
+    "chg": -0.8337328
    },
    {
     "s": "^VXN",
     "n": "VXN (나스닥100)",
-    "px": 32.9,
-    "chg": 11.980948
+    "px": 34.44,
+    "chg": 4.680842
    },
    {
     "s": "^OVX",
     "n": "OVX (원유)",
-    "px": 49.59,
-    "chg": -1.3723123
+    "px": 49.9,
+    "chg": 0.6251288
    },
    {
     "s": "^MOVE",
     "n": "MOVE (미 국채)",
-    "px": 101.2824,
-    "chg": 2.5229285
+    "px": 101.8774,
+    "chg": 0.58746755
    }
   ],
   "note": "일본 파생 수급(닛케이 선물 투자자별)은 JPX 주간 자료만 무료로 공개되어 추후 추가 예정입니다."
