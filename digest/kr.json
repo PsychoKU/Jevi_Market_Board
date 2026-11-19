@@ -1,68 +1,68 @@
 {
- "built": 1794986121,
- "asof": "11/18 16:04 KST",
+ "built": 1795072740,
+ "asof": "11/19 16:04 KST",
  "strip": [
   {
    "n": "KOSPI",
-   "px": 5067.44,
-   "ch": 98.96,
-   "chg": 1.99,
+   "px": 5113.99,
+   "ch": 46.55,
+   "chg": 0.92,
    "fmt": null,
    "home": true
   },
   {
    "n": "KOSDAQ",
-   "px": 662.81,
-   "ch": 12.75,
-   "chg": 1.96,
+   "px": 679.42,
+   "ch": 16.61,
+   "chg": 2.51,
    "fmt": null,
    "home": true
   },
   {
    "n": "KOSPI 200",
-   "px": 787.71,
-   "ch": 16.97,
-   "chg": 2.2,
+   "px": 795.88,
+   "ch": 8.17,
+   "chg": 1.04,
    "fmt": null,
    "home": false
   },
   {
    "n": "USD/KRW",
-   "px": 1332.27,
-   "ch": -2.4299316,
-   "chg": -0.18202008,
+   "px": 1328.48,
+   "ch": -4.0600586,
+   "chg": -0.30470625,
    "fmt": "fx",
    "home": false
   },
   {
    "n": "S&P500 선물",
-   "px": 7375.25,
-   "ch": 16.25,
-   "chg": 0.22081804,
+   "px": 7408.75,
+   "ch": 68.25,
+   "chg": 0.92977315,
    "fmt": null,
    "home": false
   },
   {
    "n": "필라델피아 반도체",
-   "px": 9642.878,
-   "ch": 32.225586,
-   "chg": 0.3353111,
+   "px": 9652.797,
+   "ch": 9.918945,
+   "chg": 0.10286292,
    "fmt": null,
    "home": false
   },
   {
    "n": "닛케이225",
-   "px": 59024.28,
-   "ch": 163.85156,
-   "chg": 0.27837303,
+   "px": 59444.21,
+   "ch": 419.9297,
+   "chg": 0.7114524,
    "fmt": null,
    "home": false
   },
   {
    "n": "미 국채 10년",
-   "px": 5.1029997,
-   "ch": -0.018000126,
-   "chg": -0.3514963,
+   "px": 5.066,
+   "ch": -5.1029997,
+   "chg": -50.181923,
    "fmt": "y",
    "home": false
   }
@@ -71,768 +71,768 @@
   {
    "g": "일본",
    "n": "닛케이225",
-   "px": 59024.28,
-   "chg": 0.27837303,
-   "t": "11/18 15:45",
+   "px": 59444.21,
+   "chg": 0.7114524,
+   "t": "11/19 15:45",
    "y": false
   },
   {
    "g": "일본",
    "n": "TOPIX (1306 ETF)",
-   "px": 401.9,
-   "chg": -0.64277035,
-   "t": "11/18 15:30",
+   "px": 402.2,
+   "chg": 0.07464999,
+   "t": "11/19 15:30",
    "y": false
   },
   {
    "g": "일본",
    "n": "닛케이 선물 (엔, CME)",
-   "px": 59205.0,
-   "chg": 0.53489554,
-   "t": "11/18 15:54",
+   "px": 59755.0,
+   "chg": 1.5636951,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "한국",
    "n": "KOSPI",
-   "px": 5067.44,
-   "chg": 1.99,
-   "t": "11/18 16:04",
+   "px": 5113.99,
+   "chg": 0.92,
+   "t": "11/19 16:03",
    "y": false
   },
   {
    "g": "한국",
    "n": "KOSDAQ",
-   "px": 662.81,
-   "chg": 1.96,
-   "t": "11/18 16:04",
+   "px": 679.42,
+   "chg": 2.51,
+   "t": "11/19 16:04",
    "y": false
   },
   {
    "g": "미국",
    "n": "S&P 500",
-   "px": 7340.53,
-   "chg": -1.0255395,
-   "t": "11/18 06:42",
+   "px": 7323.63,
+   "chg": -0.23022728,
+   "t": "11/19 06:57",
    "y": false
   },
   {
    "g": "미국",
    "n": "나스닥 종합",
-   "px": 24328.383,
-   "chg": -0.7400114,
-   "t": "11/18 07:15",
+   "px": 24429.885,
+   "chg": 0.41721618,
+   "t": "11/19 07:15",
    "y": false
   },
   {
    "g": "미국",
    "n": "다우",
-   "px": 50759.42,
-   "chg": -1.6446038,
-   "t": "11/18 06:42",
+   "px": 50198.17,
+   "chg": -1.1057061,
+   "t": "11/19 06:57",
    "y": false
   },
   {
    "g": "미국",
    "n": "필라델피아 반도체",
-   "px": 9642.878,
-   "chg": 0.3353111,
-   "t": "11/18 07:15",
+   "px": 9652.797,
+   "chg": 0.10286292,
+   "t": "11/19 07:15",
    "y": false
   },
   {
    "g": "미국",
    "n": "VIX",
-   "px": 25.46,
-   "chg": 11.130507,
-   "t": "11/18 06:15",
+   "px": 24.56,
+   "chg": -3.5349555,
+   "t": "11/19 06:15",
    "y": false
   },
   {
    "g": "미국",
    "n": "S&P500 선물",
-   "px": 7375.25,
-   "chg": 0.22081804,
-   "t": "11/18 15:54",
+   "px": 7408.75,
+   "chg": 0.92977315,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "아시아",
    "n": "항셍",
-   "px": 23252.7,
-   "chg": -1.0867316,
-   "t": "11/18 15:49",
+   "px": 22802.65,
+   "chg": -2.1124914,
+   "t": "11/19 15:48",
    "y": false
   },
   {
    "g": "아시아",
    "n": "상하이종합",
-   "px": 3589.2803,
-   "chg": 0.13115849,
-   "t": "11/18 15:49",
+   "px": 3572.3838,
+   "chg": -0.43058324,
+   "t": "11/19 15:48",
    "y": false
   },
   {
    "g": "아시아",
    "n": "대만 가권",
-   "px": 40194.91,
-   "chg": 0.2564115,
-   "t": "11/18 14:33",
+   "px": 38426.89,
+   "chg": -4.3986154,
+   "t": "11/19 14:33",
    "y": false
   },
   {
    "g": "유럽",
    "n": "유로스톡스50",
-   "px": 6212.11,
-   "chg": -2.146073,
-   "t": "11/18 02:00",
+   "px": 6154.39,
+   "chg": -0.9291485,
+   "t": "11/19 02:00",
    "y": false
   },
   {
    "g": "유럽",
    "n": "DAX",
-   "px": 26045.37,
-   "chg": -2.0800743,
-   "t": "11/18 02:00",
+   "px": 25736.24,
+   "chg": -1.1868863,
+   "t": "11/19 02:00",
    "y": false
   },
   {
    "g": "유럽",
    "n": "FTSE100",
-   "px": 10689.87,
-   "chg": -1.761511,
-   "t": "11/18 01:35",
+   "px": 10551.17,
+   "chg": -1.2974919,
+   "t": "11/19 01:35",
    "y": false
   },
   {
    "g": "환율",
    "n": "USD/JPY",
-   "px": 159.282,
-   "chg": -0.07654187,
-   "t": "11/18 16:04",
+   "px": 159.594,
+   "chg": 0.19840162,
+   "t": "11/19 16:03",
    "y": false
   },
   {
    "g": "환율",
    "n": "USD/KRW",
-   "px": 1332.27,
-   "chg": -0.18202008,
-   "t": "11/18 16:04",
+   "px": 1328.48,
+   "chg": -0.30470625,
+   "t": "11/19 16:03",
    "y": false
   },
   {
    "g": "환율",
    "n": "EUR/USD",
-   "px": 1.0980564,
-   "chg": -0.19767193,
-   "t": "11/18 16:03",
+   "px": 1.0973334,
+   "chg": -0.04389408,
+   "t": "11/19 16:03",
    "y": false
   },
   {
    "g": "환율",
    "n": "달러 인덱스",
-   "px": 103.693,
-   "chg": 0.20099549,
-   "t": "11/18 15:54",
+   "px": 103.88,
+   "chg": 0.01636607,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "금리",
    "n": "미 국채 10년",
-   "px": 5.1029997,
-   "chg": -0.3514963,
-   "t": "11/18 04:59",
+   "px": 5.066,
+   "chg": -50.181923,
+   "t": "11/19 04:59",
    "y": true
   },
   {
    "g": "금리",
    "n": "미 국채 30년",
-   "px": 5.458,
-   "chg": -0.16462089,
-   "t": "11/18 04:59",
+   "px": 5.4119997,
+   "chg": -50.211597,
+   "t": "11/19 04:59",
    "y": true
   },
   {
    "g": "원자재",
    "n": "WTI",
-   "px": 84.09,
-   "chg": -2.2323053,
-   "t": "11/18 15:54",
+   "px": 82.32,
+   "chg": 0.012151788,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "원자재",
    "n": "브렌트",
-   "px": 91.83,
-   "chg": -1.4064822,
-   "t": "11/18 15:54",
+   "px": 89.38,
+   "chg": 0.2355042,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "원자재",
    "n": "금",
-   "px": 3780.9,
-   "chg": -2.1556869,
-   "t": "11/18 15:54",
+   "px": 3729.7,
+   "chg": -0.32603627,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "원자재",
    "n": "구리",
-   "px": 5.821,
-   "chg": -2.756431,
-   "t": "11/18 15:54",
+   "px": 5.6725,
+   "chg": 0.0705687,
+   "t": "11/19 15:53",
    "y": false
   },
   {
    "g": "가상자산",
    "n": "비트코인",
-   "px": 64609.06,
-   "chg": -0.10243476,
-   "t": "11/18 16:04",
+   "px": 63689.58,
+   "chg": -1.7284298,
+   "t": "11/19 16:03",
    "y": false
   }
  ],
  "breadth": {
-  "up": 1510,
-  "dn": 996,
-  "nh": 14,
-  "nl": 367
+  "up": 1569,
+  "dn": 941,
+  "nh": 13,
+  "nl": 193
  },
  "sectors": [
   [
    "반도체",
    169,
-   22863622,
-   3.36,
-   -7.3
+   23187939,
+   1.66,
+   -6.0
   ],
   [
    "은행",
    11,
-   1922279,
-   -0.72,
-   2.0
+   1902101,
+   -1.1,
+   1.4
   ],
   [
    "제약",
    158,
-   1862908,
-   -2.44,
-   -3.4
+   1883300,
+   1.31,
+   -2.4
   ],
   [
    "전기제품",
    61,
-   1351900,
-   0.04,
-   -8.2
-  ],
-  [
-   "자동차",
-   11,
-   1003375,
-   2.05,
-   -1.9
-  ],
-  [
-   "조선",
-   29,
-   963198,
-   -0.39,
-   -3.3
+   1327416,
+   -1.59,
+   -8.3
   ],
   [
    "전자장비",
    100,
-   956726,
-   5.48,
-   -10.0
+   1019846,
+   6.53,
+   -1.7
+  ],
+  [
+   "자동차",
+   11,
+   991685,
+   -1.07,
+   -1.5
+  ],
+  [
+   "조선",
+   29,
+   969025,
+   0.73,
+   -3.5
   ],
   [
    "지주·복합",
    24,
-   841804,
-   3.12,
-   -4.2
-  ],
-  [
-   "화학",
-   117,
-   778900,
-   0.2,
-   -8.0
+   846492,
+   0.64,
+   -3.2
   ],
   [
    "전기장비",
    31,
-   755983,
-   1.46,
-   -4.9
+   790570,
+   4.53,
+   -1.9
+  ],
+  [
+   "화학",
+   117,
+   777197,
+   -0.11,
+   -6.8
   ],
   [
    "석유·가스",
    18,
-   755732,
-   3.17,
-   -0.4
+   736711,
+   -2.43,
+   -2.9
   ],
   [
    "방산·우주",
    33,
-   736268,
-   1.49,
-   -5.9
+   736449,
+   0.06,
+   -4.8
   ],
   [
    "증권",
    39,
-   725326,
-   2.04,
-   -1.6
+   723480,
+   -0.32,
+   2.5
   ],
   [
    "기계",
    101,
-   698659,
-   4.49,
-   -3.7
+   710115,
+   1.72,
+   -0.8
   ],
   [
    "자동차부품",
    143,
-   690116,
-   1.73,
-   -1.1
+   676694,
+   -1.81,
+   -2.0
   ],
   [
    "생명보험",
    3,
-   566085,
-   5.14,
-   1.8
+   562512,
+   -0.58,
+   0.8
   ],
   [
    "IT서비스",
    109,
-   544808,
-   2.97,
-   -0.7
+   530961,
+   -2.41,
+   -1.0
   ],
   [
    "손해보험",
    12,
-   470132,
-   2.07,
-   -3.2
-  ],
-  [
-   "인터넷",
-   15,
-   416309,
-   0.45,
-   -7.8
+   456321,
+   -2.9,
+   -0.8
   ],
   [
    "건설",
    68,
-   412655,
-   -1.65,
-   -5.0
+   416162,
+   0.74,
+   -3.3
+  ],
+  [
+   "인터넷",
+   15,
+   413384,
+   -0.58,
+   -4.4
   ],
   [
    "식품",
    84,
-   392969,
-   0.41,
-   0.6
+   392175,
+   -0.15,
+   -0.5
   ],
   [
    "화장품",
    58,
-   371742,
-   1.42,
-   0.7
+   388304,
+   4.69,
+   6.9
   ],
   [
    "통신",
    6,
-   370525,
-   -1.13,
-   -0.6
+   357109,
+   -3.33,
+   -3.4
   ],
   [
    "철강",
    51,
-   328757,
-   1.44,
-   -3.5
+   324618,
+   -0.72,
+   -4.3
   ],
   [
    "항공",
    9,
-   298251,
-   1.04,
-   4.4
+   298066,
+   0.43,
+   4.1
   ],
   [
    "바이오",
    50,
-   287121,
-   -1.04,
-   -7.9
+   292905,
+   2.06,
+   -3.7
   ],
   [
    "해운",
    11,
-   253001,
-   2.59,
-   9.3
+   255930,
+   0.79,
+   7.7
   ],
   [
    "게임",
    30,
-   246960,
-   2.34,
-   -4.6
+   252477,
+   2.69,
+   -1.5
   ],
   [
    "전자제품",
    15,
-   237400,
-   5.52,
-   -3.0
+   234363,
+   -1.47,
+   -1.7
   ],
   [
    "비철금속",
    37,
-   226331,
-   -0.96,
-   -11.1
+   223379,
+   -1.28,
+   -10.8
   ]
  ],
  "gainers": [
   [
-   "277810",
-   "레인보우로보틱스",
-   "기계",
-   20.06,
-   17.0,
-   78957.0
-  ],
-  [
-   "043260",
-   "성호전자",
-   "전기제품",
-   15.38,
-   15.6,
-   19806.0
-  ],
-  [
-   "041510",
-   "에스엠",
+   "253450",
+   "스튜디오드래곤",
    "엔터·방송",
-   14.3,
-   20.6,
-   20124.0
+   29.96,
+   31.6,
+   9258.0
   ],
   [
-   "108490",
-   "로보티즈",
+   "035760",
+   "CJ ENM",
+   "엔터·방송",
+   28.11,
+   38.5,
+   11842.0
+  ],
+  [
+   "083450",
+   "GST",
+   "반도체",
+   17.32,
+   12.6,
+   8865.0
+  ],
+  [
+   "166090",
+   "하나머티리얼즈",
+   "반도체",
+   15.26,
+   9.9,
+   9483.0
+  ],
+  [
+   "095610",
+   "테스",
+   "반도체",
+   15.19,
+   -1.2,
+   17327.0
+  ],
+  [
+   "476830",
+   "알지노믹스",
+   "바이오",
+   13.83,
+   2.6,
+   6031.0
+  ],
+  [
+   "352820",
+   "하이브",
+   "엔터·방송",
+   13.45,
+   21.4,
+   81472.0
+  ],
+  [
+   "079900",
+   "전진건설로봇",
    "기계",
-   13.95,
-   -0.2,
-   35357.0
+   12.79,
+   6.5,
+   6435.0
   ],
   [
-   "295310",
-   "에이치브이엠",
-   "비철금속",
-   13.43,
-   -11.3,
-   5840.0
-  ],
-  [
-   "290550",
-   "디케이티",
-   "휴대폰",
-   12.86,
-   5.2,
-   5880.0
-  ],
-  [
-   "058610",
-   "에스피지",
-   "전기제품",
-   12.24,
-   -2.8,
-   16877.0
-  ],
-  [
-   "347700",
-   "스피어",
-   "방산·우주",
-   11.09,
-   3.5,
-   8470.0
-  ],
-  [
-   "030530",
-   "원익홀딩스",
-   "반도체",
-   10.63,
-   12.7,
-   27342.0
-  ],
-  [
-   "491000",
-   "리브스메드",
-   "의료기기",
-   10.53,
-   -2.1,
-   9016.0
-  ],
-  [
-   "126340",
-   "비나텍",
-   "전기장비",
-   10.53,
-   -11.0,
-   6182.0
-  ],
-  [
-   "437730",
-   "삼현",
-   "자동차부품",
-   10.42,
-   22.5,
-   17082.0
-  ],
-  [
-   "089890",
-   "코세스",
-   "반도체",
-   10.26,
-   8.0,
-   5705.0
-  ],
-  [
-   "000155",
-   "두산우",
-   "지주·복합",
-   10.09,
-   -2.2,
-   8237.0
-  ],
-  [
-   "000150",
-   "두산",
-   "지주·복합",
-   9.24,
-   -14.1,
-   84143.0
-  ],
-  [
-   "131970",
-   "두산테스나",
-   "반도체",
-   9.04,
-   -5.9,
-   13993.0
-  ],
-  [
-   "241710",
-   "코스메카코리아",
+   "483650",
+   "달바글로벌",
    "화장품",
-   9.04,
-   12.4,
-   11460.0
+   12.62,
+   4.5,
+   16449.0
   ],
   [
-   "307950",
-   "현대오토에버",
-   "IT서비스",
-   8.99,
-   4.8,
-   83095.0
-  ],
-  [
-   "319400",
-   "현대무벡스",
-   "기계",
-   8.84,
+   "053800",
+   "안랩",
+   "소프트웨어",
+   11.64,
    1.6,
-   17553.0
+   13018.0
   ],
   [
-   "035900",
-   "JYP Ent.",
-   "엔터·방송",
-   8.84,
-   20.9,
-   16629.0
+   "319660",
+   "피에스케이",
+   "반도체",
+   11.2,
+   3.9,
+   27026.0
+  ],
+  [
+   "053610",
+   "프로텍",
+   "반도체",
+   11.2,
+   9.0,
+   5985.0
+  ],
+  [
+   "468530",
+   "프로티나",
+   "바이오",
+   11.19,
+   3.3,
+   6619.0
+  ],
+  [
+   "089590",
+   "제주항공",
+   "항공",
+   10.93,
+   11.8,
+   6709.0
+  ],
+  [
+   "089970",
+   "브이엠",
+   "반도체",
+   10.84,
+   4.2,
+   10861.0
+  ],
+  [
+   "403870",
+   "HPSP",
+   "반도체",
+   10.83,
+   3.7,
+   34525.0
+  ],
+  [
+   "034230",
+   "파라다이스",
+   "호텔·레저",
+   10.6,
+   16.0,
+   10726.0
+  ],
+  [
+   "462870",
+   "시프트업",
+   "게임",
+   10.27,
+   0.6,
+   15772.0
+  ],
+  [
+   "004170",
+   "신세계",
+   "백화점",
+   10.09,
+   21.7,
+   27816.0
+  ],
+  [
+   "008770",
+   "호텔신라",
+   "백화점",
+   9.73,
+   9.7,
+   15052.0
   ]
  ],
  "losers": [
   [
-   "000250",
-   "삼천당제약",
-   "제약",
-   -15.0,
-   -26.6,
-   32043.0
+   "181710",
+   "NHN",
+   "IT서비스",
+   -9.99,
+   -5.4,
+   20981.0
   ],
   [
-   "298020",
-   "효성티앤씨",
-   "상사",
-   -8.12,
-   -16.0,
-   11512.0
+   "100790",
+   "미래에셋벤처투자",
+   "창투",
+   -7.62,
+   20.0,
+   7469.0
   ],
   [
-   "127120",
-   "제이에스링크",
-   "바이오서비스",
-   -6.46,
-   -22.5,
-   5744.0
+   "018260",
+   "삼성에스디에스",
+   "IT서비스",
+   -7.36,
+   -7.2,
+   165588.0
   ],
   [
-   "028050",
-   "삼성E&A",
-   "건설",
-   -5.89,
-   -3.8,
-   125244.0
+   "005850",
+   "에스엘",
+   "자동차부품",
+   -6.49,
+   -18.9,
+   17395.0
   ],
   [
-   "087010",
-   "펩트론",
-   "바이오",
+   "018670",
+   "SK가스",
+   "가스",
    -5.83,
-   -15.2,
-   19587.0
+   -11.8,
+   19465.0
   ],
   [
-   "175330",
-   "JB금융지주",
-   "은행",
+   "096770",
+   "SK이노베이션",
+   "석유·가스",
+   -5.77,
+   -8.8,
+   165672.0
+  ],
+  [
+   "010950",
+   "S-Oil",
+   "석유·가스",
+   -5.42,
+   -2.4,
+   112020.0
+  ],
+  [
+   "092870",
+   "엑시콘",
+   "반도체",
+   -5.37,
+   -9.0,
+   6904.0
+  ],
+  [
+   "361610",
+   "SK아이이테크놀로지",
+   "전기제품",
+   -5.22,
+   -10.8,
+   9365.0
+  ],
+  [
+   "140410",
+   "메지온",
+   "식품",
    -5.09,
-   -1.9,
-   48682.0
+   -9.6,
+   18989.0
   ],
   [
-   "298380",
-   "에이비엘바이오",
-   "바이오",
-   -4.89,
-   -15.3,
-   20155.0
+   "001450",
+   "현대해상",
+   "손해보험",
+   -5.01,
+   -7.2,
+   29112.0
   ],
   [
-   "007660",
-   "이수페타시스",
-   "반도체",
-   -4.3,
-   -2.2,
-   58874.0
+   "047050",
+   "포스코인터내셔널",
+   "상사",
+   -4.83,
+   -1.5,
+   84883.0
   ],
   [
-   "003090",
-   "대웅",
-   "제약",
-   -3.99,
-   0.3,
-   9105.0
+   "030200",
+   "KT",
+   "통신",
+   -4.65,
+   -8.0,
+   118954.0
   ],
   [
-   "071970",
-   "HD현대마린엔진",
-   "조선",
-   -3.89,
-   -12.6,
-   11720.0
-  ],
-  [
-   "302440",
-   "SK바이오사이언스",
-   "제약",
-   -3.76,
-   -3.9,
-   30127.0
-  ],
-  [
-   "000240",
-   "한국앤컴퍼니",
+   "012330",
+   "현대모비스",
    "자동차부품",
-   -3.75,
-   -11.2,
-   18503.0
+   -4.63,
+   -3.6,
+   304941.0
   ],
   [
-   "008930",
-   "한미사이언스",
+   "085620",
+   "미래에셋생명",
+   "생명보험",
+   -4.6,
+   -10.0,
+   22724.0
+  ],
+  [
+   "128940",
+   "한미약품",
    "제약",
-   -3.68,
-   -6.1,
-   35837.0
+   -4.45,
+   -11.4,
+   53678.0
   ],
   [
-   "171090",
-   "선익시스템",
-   "디스플레이",
-   -3.68,
-   -5.6,
-   6887.0
+   "000810",
+   "삼성화재",
+   "손해보험",
+   -4.24,
+   -1.1,
+   231720.0
   ],
   [
-   "028300",
-   "HLB",
-   "의료기기",
-   -3.53,
-   -8.7,
-   36386.0
+   "180640",
+   "한진칼",
+   "항공",
+   -3.82,
+   5.4,
+   142871.0
   ],
   [
-   "000100",
-   "유한양행",
-   "제약",
-   -3.49,
-   1.6,
-   59113.0
+   "009240",
+   "한샘",
+   "가구",
+   -3.81,
+   -15.2,
+   7719.0
   ],
   [
-   "326030",
-   "SK바이오팜",
-   "제약",
-   -3.48,
-   -0.9,
-   67271.0
-  ],
-  [
-   "111770",
-   "영원무역",
-   "의류·패션",
-   -3.26,
-   -5.3,
-   30265.0
-  ],
-  [
-   "064290",
-   "인텍플러스",
-   "반도체",
-   -3.19,
-   -8.9,
-   5733.0
-  ],
-  [
-   "161390",
-   "한국타이어앤테크놀로지",
-   "자동차부품",
-   -3.14,
-   -0.5,
-   76307.0
+   "445680",
+   "큐리옥스바이오시스템즈",
+   "바이오서비스",
+   -3.72,
+   -25.8,
+   7579.0
   ]
  ],
  "turnover": [
@@ -840,211 +840,618 @@
    "000660",
    "SK하이닉스",
    "반도체",
-   4.83,
-   -9.9,
-   8135258.0
+   3.06,
+   -6.0,
+   8333161.0
   ],
   [
    "005930",
    "삼성전자",
    "반도체",
-   2.31,
-   -5.5,
-   11382704.0
+   0.46,
+   -6.0,
+   11435321.0
   ],
   [
    "009150",
    "삼성전기",
    "전자장비",
-   7.03,
-   -12.6,
-   602778.0
+   8.77,
+   -0.6,
+   658051.0
   ],
   [
    "005935",
    "삼성전자우",
    "반도체",
-   3.62,
-   -4.5,
-   1263735.0
-  ],
-  [
-   "471800",
-   "에이엘로봇",
-   "기계",
-   -24.2,
-   null,
-   1610.0
-  ],
-  [
-   "402340",
-   "SK스퀘어",
-   "반도체",
-   4.57,
-   -10.8,
-   936660.0
-  ],
-  [
-   "030530",
-   "원익홀딩스",
-   "반도체",
-   10.63,
-   12.7,
-   27342.0
-  ],
-  [
-   "028050",
-   "삼성E&A",
-   "건설",
-   -5.89,
-   -3.8,
-   125244.0
+   -1.14,
+   -7.2,
+   1253304.0
   ],
   [
    "006400",
    "삼성SDI",
    "전기제품",
-   -2.02,
-   -8.9,
-   351353.0
+   -2.19,
+   -10.1,
+   342489.0
   ],
   [
-   "263860",
-   "지니언스",
-   "소프트웨어",
-   4.92,
-   48.3,
-   3487.0
+   "402340",
+   "SK스퀘어",
+   "반도체",
+   4.44,
+   -6.4,
+   976897.0
+  ],
+  [
+   "352820",
+   "하이브",
+   "엔터·방송",
+   13.45,
+   21.4,
+   81472.0
+  ],
+  [
+   "471800",
+   "에이엘로봇",
+   "기계",
+   2.33,
+   null,
+   1645.0
+  ],
+  [
+   "030530",
+   "원익홀딩스",
+   "반도체",
+   -0.99,
+   15.1,
+   27033.0
   ],
   [
    "036930",
    "주성엔지니어링",
    "반도체",
-   1.83,
-   -15.7,
-   69908.0
+   3.72,
+   -9.2,
+   72557.0
   ],
   [
-   "000250",
-   "삼천당제약",
+   "041510",
+   "에스엠",
+   "엔터·방송",
+   7.96,
+   22.6,
+   21727.0
+  ],
+  [
+   "010170",
+   "대한광통신",
+   "통신장비",
+   7.8,
+   9.1,
+   22126.0
+  ],
+  [
+   "261780",
+   "아리바이오랩",
    "제약",
-   -15.0,
-   -26.6,
-   32043.0
+   8.88,
+   34.4,
+   1668.0
   ],
   [
-   "043260",
-   "성호전자",
-   "전기제품",
-   15.38,
-   15.6,
-   19806.0
+   "035900",
+   "JYP Ent.",
+   "엔터·방송",
+   2.46,
+   6.2,
+   17020.0
   ],
   [
-   "000150",
-   "두산",
-   "지주·복합",
-   9.24,
-   -14.1,
-   84143.0
+   "028050",
+   "삼성E&A",
+   "건설",
+   -1.72,
+   -4.5,
+   123480.0
   ],
   [
-   "222800",
-   "심텍",
-   "전자장비",
-   0.65,
-   -11.0,
-   42217.0
+   "018260",
+   "삼성에스디에스",
+   "IT서비스",
+   -7.36,
+   -7.2,
+   165588.0
   ],
   [
-   "105560",
-   "KB금융",
-   "은행",
-   -0.51,
-   1.8,
-   553313.0
+   "053800",
+   "안랩",
+   "소프트웨어",
+   11.64,
+   1.6,
+   13018.0
   ],
   [
-   "005380",
-   "현대차",
-   "자동차",
-   3.28,
-   -1.8,
-   544273.0
+   "263860",
+   "지니언스",
+   "소프트웨어",
+   -1.43,
+   20.9,
+   3441.0
   ],
   [
-   "277810",
-   "레인보우로보틱스",
-   "기계",
-   20.06,
-   17.0,
-   78957.0
-  ],
-  [
-   "353200",
-   "대덕전자",
-   "전자장비",
-   0.87,
-   -10.6,
-   40225.0
-  ],
-  [
-   "007660",
-   "이수페타시스",
+   "042700",
+   "한미반도체",
    "반도체",
-   -4.3,
-   -2.2,
-   58874.0
+   1.31,
+   -6.6,
+   161935.0
+  ],
+  [
+   "068270",
+   "셀트리온",
+   "제약",
+   3.61,
+   2.6,
+   499078.0
   ]
  ],
  "new_highs": [
   [
+   "003490",
+   "대한항공",
+   "항공",
+   3.67,
+   2.5,
+   119488.0
+  ],
+  [
    "012750",
    "에스원",
    "상업서비스",
-   1.18,
-   4.6,
-   39139.0
+   2.91,
+   6.7,
+   40279.0
   ],
   [
    "089860",
    "롯데렌탈",
    "육운",
-   0.0,
-   10.2,
-   21241.0
+   0.34,
+   11.0,
+   21314.0
   ],
   [
-   "251970",
-   "펌텍코리아",
-   "포장재",
-   1.05,
-   3.5,
-   9560.0
+   "453340",
+   "현대그린푸드",
+   "식품",
+   3.68,
+   8.1,
+   6868.0
+  ],
+  [
+   "089590",
+   "제주항공",
+   "항공",
+   10.93,
+   11.8,
+   6709.0
   ]
  ],
- "flagged_disc": [],
+ "flagged_disc": [
+  [
+   "15:57",
+   "445090",
+   "에이직랜드",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000390"
+  ],
+  [
+   "15:53",
+   "089230",
+   "THE E&M",
+   "조회공시요구(현저한시황변동)에대한답변(미확정)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000376"
+  ],
+  [
+   "15:45",
+   "",
+   "타임X AI",
+   "유상증자결정(제3자배정-출자전환)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000362"
+  ],
+  [
+   "15:20",
+   "",
+   "현대사료",
+   "소송 등의 제기ㆍ신청(경영권 분쟁 소송)(주주명부 열람 및 등사 청구의 소)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000267"
+  ],
+  [
+   "15:17",
+   "290560",
+   "파라택시스이더리움",
+   "자기주식취득 신탁계약 체결 결정",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000302"
+  ],
+  [
+   "15:16",
+   "007680",
+   "대원",
+   "기타 경영사항(자율공시)(소규모합병 승인 이사회 결의(주주총회 갈음) 결과 보고)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000299"
+  ],
+  [
+   "14:48",
+   "002460",
+   "HS화성",
+   "[정정] 단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000297"
+  ],
+  [
+   "14:12",
+   "013360",
+   "일성건설",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000254"
+  ],
+  [
+   "14:00",
+   "",
+   "제일엠앤에스",
+   "전환사채권발행결정(제3회차)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000264"
+  ],
+  [
+   "13:37",
+   "002870",
+   "신풍",
+   "자기주식취득 신탁계약 체결 결정",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000218"
+  ],
+  [
+   "13:16",
+   "103590",
+   "일진전기",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000214"
+  ],
+  [
+   "12:09",
+   "286750",
+   "나노실리칸첨단소재",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000202"
+  ],
+  [
+   "11:17",
+   "355390",
+   "크라우드웍스",
+   "조회공시요구(풍문또는보도)에대한답변(부인)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000159"
+  ],
+  [
+   "11:11",
+   "005490",
+   "POSCO홀딩스",
+   "풍문 또는 보도에 대한 해명(미확정)(자회사의 주요경영사항)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000164"
+  ],
+  [
+   "10:40",
+   "115610",
+   "이미지스",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000126"
+  ],
+  [
+   "10:08",
+   "112610",
+   "씨에스윈드",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000079"
+  ],
+  [
+   "10:03",
+   "042660",
+   "한화오션",
+   "단일판매ㆍ공급계약체결",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000082"
+  ],
+  [
+   "07:56",
+   "010130",
+   "고려아연",
+   "소송 등의 제기ㆍ신청(경영권 분쟁 소송)",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000003"
+  ],
+  [
+   "07:56",
+   "010130",
+   "고려아연",
+   "소송등의판결ㆍ결정",
+   null,
+   "https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20261119000002"
+  ]
+ ],
  "news": [
   [
-   "11/18 15:55",
-   "해외",
-   "[도쿄증시-마감] 엔비디아 호실적발 AI·반도체주 강세에 닛케이 59,000선 회복",
-   "KB Think",
-   "https://news.google.com/rss/articles/CBMickFVX3lxTE44MzU4MTNSVzhsaE5rT3l4VW5KbWxwdTZVSzBXelVnN0Y3ZTBKUExyQ1ZVSDNPcktoUDNpeDNSd1RiOTFBMzJ1UjNLSV9XZUZ2enhzLVZjbnRscE4wOEVOQ3Nub1dpNEhlZGlmNmFJRklFZw?oc=5"
+   "11/19 15:55",
+   "산업",
+   "수출 1조달러 달성에도 웃는 건 반도체뿐…증시 온기 확산이 과제 - 머니투데이",
+   "머니투데이",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6WGtOWDJNeThBV1N5YVIxbWhLYnpiME1vYmJTc3U1ZHJRUm42enJ3MEYxeWJMQXZLeElEZEVzRDdZNnlfSnctM2JweFBMN01lSmVJeWVVRXVwMGlkd0psejhVVXIxTk440gFuQVVfeXFMT0xiNHd6WnFzOTI3dmFHWDlaWVQ2R1VyWkJUYkxUQ2NDcllyU09Cc3JWWHVXa3BEdzFONWczYzVTY3c0YnFpbTlVYmZuSG5UR1B1N25wd1dCTHlQdEpIT2UyVjFKcC13YzA1TUhNNHc?oc=5"
   ],
   [
-   "11/18 15:51",
+   "11/19 15:53",
    "금리·환율",
-   "'5천피' 탈환에 환율도 하락…5.2원 내린 1,333.0원",
-   "연합뉴스",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XRmpWSDBHTVlmQl9tUmtwY2YxWW5qQ3BqRzdrWkdhNzMyeXJzT3Q1WjdkZkR2TDNxQzU0RkYyVXVGaHZOdDBTdG5Kb3k1RjEyMEMxSmRWQnl5bUXSAWBBVV95cUxNMHZvYU5Kb0V5S1Z4ZG5iT0cwWTZPM3FGTHhtb1JVT2RUX3VCNnpfcVN4Tk1iVjRCclF4ckxwNjZyTHRlcy1ndmhJbDVaV0JRNFBJOC1iVDFQdFpxbEVyMTc?oc=5"
+   "[외환] 원/달러 환율 3.0원 내린 1,330.0원(15:30 기준가)",
+   "매일경제 마켓",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93SlF1YzdNY1JUVDRMXzkwQ3hJcVpCSWZad1FsV1BjVUhLWks3NG5QQ1NfdzZ6YVF5MkpIb2tzdW9MQjF4OFp4RU5JVWdlSGVWaHc?oc=5"
   ],
   [
-   "11/18 15:50",
-   "시황",
-   "엔비디아 호실적에 되찾은 5000선... 한숨 돌린 코스피, 1.99% 반등 [마감시황]",
+   "11/19 15:46",
+   "산업",
+   "[마감분석] LG에너지솔루션, 1.15% 내린 30만1500원 마감 : 기업주식정보",
+   "재경일보",
+   "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjT1BEWWxKNURFck45RlMyT1pfYUY2T3NuWHZXMV8wbGNJb3lNTm9hYkM0WV9Sd2t3UnNfWEFSN3pVNmVMTndCbndBWQ?oc=5"
+  ],
+  [
+   "11/19 15:44",
+   "금리·환율",
+   "원·달러 환율, 3.0원 내린 1330.0원 (오후 3시30분)",
+   "아시아경제",
+   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xUTdMMWpRcnpnV3AzVnpzX19zamdFQlcxX1k4UC1mb2hKTzZkSU1VOWdNNml5YWJycEM2VkNBNTN1WTRCRDh1eVZXeEhhSksyUDZpT1lSVzVBYWE3SjJSYg?oc=5"
+  ],
+  [
+   "11/19 15:36",
+   "금리·환율",
+   "원·달러 환율, 3원 내린 1330원",
+   "Chosunbiz",
+   "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1ZwOGE2NkIxckhyWHd4blRoa0lidGlVb0x4ODVFaHNtNlBvMDZtMDZfbzRubkpVRGlqd1ZxV2FVeUExbEFfaktFZktERkUzVU40dk81ck0xbnNIc2I2eElHNGZwX3pmbjVBTFljWmpWZUJtZ1ZYZGozQ19wcUx0VU1OTVZ6Z9IBmgFBVV95cUxOUFpTZnZVME8wYTVHU3pFcm5ybGtOeHNHM2sxakd0UURscWZqS2M0Q3M4dXh1bURiM25lRVJJQmk3ckVIRnR3RFR5TUVpT0RuOXpXVjNmdkNwY3ZTbU5tcE5QSDNGb1Y4RXJfRHgxdGFsbmR3dEtELWRJR2VDdUhNWTlFZ2tVOE1CUGFlekpmcFZwSTA5WXRiQTZR?oc=5"
+  ],
+  [
+   "11/19 15:35",
+   "전망",
+   "\"어쩌란 말이냐\" 7500부터 1만500까지···내년 증시 전망 '예측불가'",
+   "뉴스웨이",
+   "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pRDJyZGFvbzJQaFJkeHNLODFrWDUtRmZTWXVWOFM1a0hhLTFSUVFzYVBuZTRwT1dISmZzcEJrTmxhZWtNT2tpWDM4QUlhd3hZV0JLR2tjci1WVER5SWZDeTU3TDhVbmhwd3c?oc=5"
+  ],
+  [
+   "11/19 15:24",
+   "산업",
+   "반도체 반토막 났는데 금융주는 하락장 방파제 역할 '톡톡'",
    "매일일보",
-   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GUHpBM21ZMTI4VWVmX3JoNzVnXzZFR1N6Zm1lQldya1VkT0hVNXR3ZjlxdGdSdFVxOW5HelBtT016S2FjWm1mcGFBeVp2MkNMVHcybGxOTjNFa0VnYklYeGxMcEU?oc=5"
+   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZSDZYeHAwaEZOdWpPLXIzLW8xdGRwLW9sZlhwRnBXWWR6bVFYUkxjbzRpQmNwX3p2RllsSWNQdXU1NVgweTRMRmUtcDVhUkVmRjVGeF9DRGNYQkdkbnFrTVZzZks?oc=5"
+  ],
+  [
+   "11/19 15:03",
+   "종목",
+   "5천피 또 내줬는데 엔터·여행주는 상한가…’한한령 수혜주’ 적정주가로 따져보니",
+   "Investing.com 한국어",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0NXM5TEZTb3FGRkhpaGJCbTZqLVlHempzREtlcWM5Z0d4cllLc0t5cTJYWUZLaVhpSDdTRGQxVUdPQXdNbFlEWTBRQ2RMWjRWLTBGM2tPWm9IQ2JwOXh5bG01Y1RVY25pQVJNMC1SRzM?oc=5"
+  ],
+  [
+   "11/19 13:11",
+   "금리·환율",
+   "[환율 전망] KRW: Power Overwhelming",
+   "KB Think",
+   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WcU1TbndIWkFVV2lLZEp0a3RSQkFFb2U2dkNkZ2g0dWpjeC1rM0JGNW5wWW5Td2dCZF8tZUZzZzRjVFVrSEt3Y0VwWldRazA3Z2hoVVZkVzRXTmlNaFJKRQ?oc=5"
+  ],
+  [
+   "11/19 11:19",
+   "금리·환율",
+   "美 추가 인상 경고에도 10년물 금리는 하락…국고채 시장 엇갈린 신호 By EBN",
+   "Investing.com 한국어",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHVzVsMTRvV0lRa19qdXgzbFFKT0VUX05UdmFYS0hUcXZNNHdXc3JuWWZXelJLSFprYUw3RUpvakhzamM0LUV5VG80OEY0NlczTkd4OWY2b3h0RFNYQjRxakVrS1FoLXBZMVdjTE5QWk4?oc=5"
+  ],
+  [
+   "11/19 11:14",
+   "금리·환율",
+   "外人 국채선물 순매수·코스피 하락에 강세…국고 3년 0.7bp↓",
+   "KB Think",
+   "https://news.google.com/rss/articles/CBMickFVX3lxTFBlZnJIMzU1bWREd1I2SHN1NWo2aE9zN2R1OTZXRkJqMk1vUF91NTZ1WmFzMDJieEVtNWlSeTFwaUhjQUhJZEpxRUJuTUItSFN3ZmdQMjQ3T0tTTUZ1NE15dkdZTUhNajZHUU4wRlgxVHNWZw?oc=5"
+  ],
+  [
+   "11/19 10:49",
+   "수급",
+   "코스피, 외국인 매수에 5090선 회복…코스닥도 상승 By EBN",
+   "Investing.com 한국어",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE54QVJPcmhHT1hCTXpYMG5tTDRrZUlMbGNxblA1TV9fQ25rOEZZWlM2b0JXLUFnQi03M1ZJRkhnRW5iRTQxakllTk03WkVsYzZmRDRhVXdvbVNhVDBEMzBRSVpfbUYtbk9DSnBrSTBoUDc?oc=5"
+  ],
+  [
+   "11/19 10:44",
+   "수급",
+   "코스피, 기관‧외국인 매도에 장중 5000선 내줘",
+   "아시아경제",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1YTJrUGFDTFB0OVdiOGc5OS16a0JNaENldkFOMTRYNWZoMXBwUDU1TTRxSmE5YVhXZDFKak43X3BtR2VHTjdFeldZMHNvSXptLTdRQXpLeHZWeW1acVNvT1BR?oc=5"
+  ],
+  [
+   "11/19 10:41",
+   "수급",
+   "코스피 하루 만에 다시 5000선 아래로…외국인 5거래일 연속 순매도",
+   "진일보 | 전남일보",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiQW1va29mWWV4eHRDX21CblgzWklMaFMwWlZaOHAxT1JOR01Rb0xUamRVa0Y0Zi1maWdQbk1ONllTNXNVa21iVVRrN3FhS25CeWR6TndiTkJfSGJZaWpabUp1aTdMR3MtNjlKTVQtTQ?oc=5"
+  ],
+  [
+   "11/19 10:29",
+   "종목",
+   "한중 관계 개선에 화장품주 '방긋'…한국화장품, 상한가 - 머니투데이",
+   "머니투데이",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oY3BSUlp0WURPWVEySThrUVF5Sk16TTl6MEpaQWRsY2FxS2NUSXJYY0VqTGlpWnB0RkpISFhKbVVsMG84dlcwTGNHN3hkY1dlUTdVZ1I5NElZaHVxalZ4LXlUckR3bkR1bG9IR0RUVkVhWkx6NFHSAXtBVV95cUxPQmdwT0htWVRRSFpIWVZTUDZndFktYUhNSm1XVUxfOGoyOC13Z0o4VzlMMTBBeXIxaTBDejlHODJPZlhCY3hGd1c4ekFLQ0cwRWtnR1A2S3ZmYjc2SktuUXA4WFhqZ0ozVjR2T3pWRjhTYTg0OGpmRlFCTGM?oc=5"
+  ],
+  [
+   "11/19 10:25",
+   "산업",
+   "수능날 반도체 투톱 '희비'…삼전은 주춤, 하닉은 꿋꿋",
+   "뉴시스",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQnFZZ2ZuX0NEbkszWkNKNWdrOTNTc0FWZjZ2YTNuMXlrUDN1OTlIdnd0c0xUTlB4VzAwYV83akRrYnFNcEw4SVNNdWo0bW1VM0NhNUMtUDJtQkNhNkdZMHhoZjJlbFVvMTRuajRRa28yZkdmYm5ZNtIBeEFVX3lxTE9PQnFZZ2ZuX0NEbkszWkNKNWdrOTNTc0FWZjZ2YTNuMXlrUDN1OTlIdnd0c0xUTlB4VzAwYV83akRrYnFNcEw4SVNNdWo0bW1VM0NhNUMtUDJtQkNhNkdZMHhoZjJlbFVvMTRuajRRa28yZkdmYm5ZNg?oc=5"
+  ],
+  [
+   "11/19 10:24",
+   "종목",
+   "[특징주] 한한령 해제 기대에 여행주 급등…노랑풍선 ‘상한가’·하나투어 18%↑",
+   "Chosunbiz",
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDJaYjhLMnZKT2loS1diQ1VBMzBITXNoZzFXYkExRDZXSTg5RVVxcERoczhTSnhJVjE2X0FjdWR3Y2FxVGNjM0hST1F1aDRJQ21oVjZlXzE4cDdEMXRTbFZ5OEpHNUprTmVUb1VKcUhlSGphN29mbW9zZ3VBLV9KSWd4SllCaXJz0gGcAUFVX3lxTFA5WmZpN0tYUm5RX2hlUHJhY20xZWxMTUNLVjRySm1iOVY4QmpJeEM3SWhPOG9BQnFUVVdVeXlkQ0lNdDBrQVRRMGZhajRlV3pzM0lDdWpIUGd0ZGJpbVo0Tm5UOU43ZEFSZ0x3aWttbUxuenNvUUNKdE9EOXAyZWZsaE5YamlXd0xqVnNPTzFtMm5kb3ZsUEhTMGpYTA?oc=5"
+  ],
+  [
+   "11/19 10:20",
+   "수급",
+   "[개장시황] 수능일 코스피 상승 출발…외국인 매도에 5000선 '위태'",
+   "뉴스핌",
+   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wM2JyUXNyMmNZM0VVbjhrcnM3dUJzd2Z0ZU5lUDR0SEtJdy1mOF9yemQzT1MtVnU5bWNHdXZ2eHlHLURYNndzaUx0YlhYdWlkcTV2U3Z4LXp3alM2?oc=5"
+  ],
+  [
+   "11/19 10:14",
+   "금리·환율",
+   "나스닥100 선물, 앤트로픽 상장 기대에 상승세…美 국채금리↑",
+   "연합인포맥스",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BS3dVSzVhZExKakdaYTdCMHZmNkQ0QlZGTVJCN3I5U20yVVZCTkI5eWVaQlVNX01EUThzbjFxT1lSVE9zeHVCaEI1LTFMTm1yb05tTUlsVVYxODhmWFYwWFRnekZlSGtUTENRS2dQak0?oc=5"
+  ],
+  [
+   "11/19 10:14",
+   "종목",
+   "한한령 해제 기대감에…스튜디오드래곤 상한가",
+   "연합뉴스TV",
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56NW83YUhieHE2OF9HcEtuS0o0WTZiOWNoMkEyV1lKYXdmaWxzUTJGcEtVMUt5TjFwdTVtRFotZTdsVVdSLVNTSHI4Z2lxWGg2NlVVQ1dqcFY1N0tMS0RMaHJtbldrYm8?oc=5"
+  ],
+  [
+   "11/19 09:40",
+   "전망",
+   "[2027 증시전망] 상상인證 \"코스피 상단 7,700P…반도체 역기저 부담\"",
+   "연합인포맥스",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSGdPeHlDd1FveTBRaEc3VVpqdl8xOWZVbHEwaUdva0FUQ3pibGxvclBFUDI5QmR2MnE2Nmw2YW9XdVZicy1EM25aREJyU2pUaDFscDE5ODJRNUxuZ21Udl9zU2owNTdqbmFwaVJOOWY?oc=5"
+  ],
+  [
+   "11/19 09:24",
+   "해외",
+   "[뉴욕 증시] 엔비디아 호실적에도 혼조 마감…S&P500 5일째 ↓",
+   "한양경제",
+   "https://news.google.com/rss/articles/CBMickFVX3lxTFAySHlOS2U3Z1FNY0p2RU9odTNDQnM3eGZ5ZGlUS2QtbmlKODdNTGNzdzluMzlWejY1UVFubDBvQkY0eE1YWngxV05mak1zV2h5TEF6LXZRTnAzXzhINnVQS3RtRHVFNllkY01faVgyU2hhdw?oc=5"
+  ],
+  [
+   "11/19 09:08",
+   "파생",
+   "수능날엔 주가 떨어진다?…10년치 코스피 성적표 살펴보니",
+   "TradingView",
+   "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lM1JFelpzMDVHQjhyRGVURnpENVZvV1IxRmNzRGZsTFR0andRcE0xdEVBLXV3OXFvY3NzVHdqeTZ2OHdqaWROdjI5cmFBQVNfc1ZBZXprRVFBalpjUndueDNIZkV1Y3VVS1E?oc=5"
+  ],
+  [
+   "11/19 08:34",
+   "해외",
+   "뉴욕증시 혼조 마감…엔비디아 호실적에도 AI 투자 불안 지속",
+   "서울경제TV",
+   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzcklmRURVUnVkUGxGNmNpYjFUT1RMX1c1VnZJN0RHRzFMSnpRR0VqeE1xV3I2M0Z0Tm1uSGttS0ZxclY1WVNpM2xSV0hQalZTVGY0R3A3TkxHeUdhWWJBeTZUX2s?oc=5"
+  ],
+  [
+   "11/19 08:03",
+   "전망",
+   "[AI MY 증시전망] 美 반도체 약세에 코스피 하락 출발…반발 매수 주목",
+   "뉴스핌",
+   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85cGVqd0w3MEp4amlpeC1Ib29vREVTek91OU5XUlp4TmM5U0lJcFpGUThybTFTRnE1V1ZNUjlXWU1heGg2NDBDblgxMDVnTHEyVE9lNzY2THZSdkNq?oc=5"
+  ],
+  [
+   "11/19 07:35",
+   "해외",
+   "뉴욕 증시, 엔비디아 실적 호조에도 혼조 마감",
+   "YTN",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wbGxiY3doY3FNTFRubmRpT3E2WmxRRnlGRUxnbFh3VlJDdVVkVWQ3N1YyZGc3VFAteV9xek1JekY3SkJaWHRMR2V4UFR4UEdaOUZrMUNwZm9aa3hUSWdITjlldzhJYW5DUmgxcDV5RQ?oc=5"
+  ],
+  [
+   "11/19 07:18",
+   "전망",
+   "[오늘 증시 전망] 코스피 5,000선 되찾았지만 외국인 매도 지속…19일 수능일 증시 10시 개장",
+   "업코리아",
+   "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lNVVnTGFnQVFzWERXVVltV3p3cFdSUS1pWGt3Q0pYaFZDX2NnUjJ0ejhTeExMOWp5SzAyVXRiVElYM3Vfd1NkV2E4RlBNc1lyM1g0WWVnam9yaWlSWnBiWDFnb1pRakZ5Tm1TY05R?oc=5"
+  ],
+  [
+   "11/19 06:57",
+   "해외",
+   "[뉴욕증시] 엔비디아 실적도 못 살렸다…혼조 마감",
+   "연합인포맥스",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVXdCa2ZJM1NaNFVtUkdWWUFhak9TUDMySzBDeTJMVFdpT21NcjNJcXpubXAyTWwxdVRZZmhRZl9mcUR4WkxkTEpTWW9oajBvbzlGckZvN21ydmhpM0NuQ085M2R5SDZoTndpZkZ5cC0?oc=5"
+  ],
+  [
+   "11/19 01:49",
+   "산업",
+   "KB자산운용, 첨단전략산업 주식·단기채 담는 혼합형 펀드 출시",
+   "비즈월드",
+   "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PS3k1Y0Z3VHUwd3dCRnNSQktRa1FvYzFDYkZfV1poamxYc0xodFhKazMwcmlySVZta1NYTjJzV3lNOGZUTTFTdG9KMEI2OWVzYnZuWkwzVndSYkxxdzJ0eTB0RUh2clp4NmtF?oc=5"
+  ],
+  [
+   "11/18 19:35",
+   "시황",
+   "코스피, 기관 매수세에 5060선 상승 마감...엔비디아 협력 확대 삼성전기 ‘급등’",
+   "한국증권신문",
+   "https://news.google.com/rss/articles/CBMia0FVX3lxTE55Q1N2NGxOWnpzSEFhZ3h2ODFubUZOQmIwaU1kNkg5bVNyelduS204RWQ0MFZ2VnRKZnFnTnBiNWtZWm5MbmpuV2x2T0hQcEJ4SnFNdkUxWWtSbEw1Skt0NXRfb1E0dWtiUjJJ?oc=5"
+  ],
+  [
+   "11/18 18:15",
+   "산업",
+   "엔비디아는 이상무…하지만 한국 반도체 주가는 ㅠㅠ [핫클립]",
+   "KBS 뉴스",
+   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zT3JhRElzcWdxOEo2bGw1V3JPVGpvbldlRG83Q25Cd3Ixa1EzNlpmdE5sVndJQUs1bEE3RHI0NUpCbnpTcWloZGZHU3Naa1h2Z3Rpa01WN0gySmhpaDBTY0J2Mnc1UQ?oc=5"
+  ],
+  [
+   "11/18 18:11",
+   "파생",
+   "엔비디아 훈풍에 '꿈틀'한 '삼전닉스'··· 본격 반등 가능할까",
+   "그린포스트코리아",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE96dnJSZTktakxGWnQtUVlyVGRmTWswT3ctM1BWcTFIcXItRVJacUwycDV1akRYQm5UQm5qb212dlNHa1ZJYnhRX2lvUnJ6NkdMVjc3aTRQSHVsZ1FjbmEtZmowdmJ6WnduNkljbnB1YUw4SVNyYUHSAXpBVV95cUxPR3hIc0p3cmpla3F1cndHcnR3TWhsSl9MejV6ZjJldExsQ3FMMjlOLWlQZXg3RnZ4aU9OaWNWUTh0RGFJZ3UzbmVqVG5pRWR4ZWVXekJpQ3pueGZPLUNmWm92ajNmRy1BbWJ6RUNyRzE4YlgxN0xGVGR5Zw?oc=5"
+  ],
+  [
+   "11/18 17:53",
+   "시황",
+   "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
+   "네이버 프리미엄콘텐츠",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUYzZGc0bGpkZVY2cVdBZXFKN2hVaW93NXJrSVBQbnF4TGtsVTFGVnFQa3NyLTZGalYtTWIwT09iSF8xcUxoM29MdkJRX0Vydmkzb2dEQmZTdnlpX3prX05BRWl2ZlVUNklHZEkxVjN1QnlQVWRqdlZIaFdwbFJNcy1Cbjg3OW85STV2bWY5bEI?oc=5"
+  ],
+  [
+   "11/18 17:00",
+   "금리·환율",
+   "증시 따라 오르내린 국고채 금리…3년물 연 3.736%(종합)",
+   "연합뉴스",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTjdDNU1oQ0FOZGtaLWdSTjJhZ1JlTW00UkZ6YjdqWkdoWlZpMzJLSEw1M3FQVm9PNlAzM01MbGJFWjZXUFhfMWI3TGNSSngzYk1GTXJQbk1oaFU?oc=5"
+  ],
+  [
+   "11/18 17:00",
+   "시황",
+   "코스피, 하루 만에 ‘5천피’ 탈환… 코스닥도 상승 마감(종합)",
+   "천지일보",
+   "https://news.google.com/rss/articles/CBMiakFVX3lxTE93YUdHYUlTU3NJS2hJVEJyRmJVd0ZmeW1uSVhiNTdsX0hLQ2hqWm9vRUVaSXNiak1nMGFYeUdEMm1oR2VvYUFzbi0yNlgwUkJBcVh4dmNXUFZ2bDA1eTZscG9DWW55ZXVEdFE?oc=5"
+  ],
+  [
+   "11/18 16:20",
+   "시황",
+   "코스피, 2% 오른 5,067 마감‥하루 만에 다시 '5천피'",
+   "MBC 뉴스",
+   "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZmNEaGFTUkhMTnpDbzBnLW1oVmlwbTVLZnItdmF6bTB2SF92akxNVmZUQkVzNVZaU056eS1ZbmdMNFZFRHFwaTdpR3djQUh6Y2JtUGxtOElDZk15ZEQwZXZKZzBMcl9PeVR1RDBfT0pQeGV30gF0QVVfeXFMT0ZTbjh6YXVaWFljUmVpZFpVU1c4UXdJMzYtbXZfbWZUdWZTT0ZPUV9CcThvMVp1SlRHWVJITkFWa09RelNVTjBPNDBvZlBMZENIQmdCbWw3N0dCM2pJNkY3ZHVMUzRHSE9KQTgxY1N0Wk5aQ08?oc=5"
+  ],
+  [
+   "11/18 16:00",
+   "시황",
+   "코스피, 5000선 탈환 마감…엔비디아발 불확실성은 여전",
+   "전자신문",
+   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YQnhiRVBuQVNYRG5VUUhUQ1hUWlhrMTBtYjNtX0tZdGg0bFJRNmV4a2d4M1c1dGNHcDlOa2FYRTFDeDVoTGpwaXBhSFpldw?oc=5"
   ],
   [
    "11/18 15:49",
@@ -1054,69 +1461,6 @@
    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSNnBuYWxwQ09xWkhmM09IdlFZMXBvQlBFM2JrWE1rQjJZQ3VTQnNRYXNMaW1WWmJ2ZFRfMVl2STZLaFNMSktmenhETDJQRTRMaU41QUZ6ZzNGSUpuSFF2NTg4T3l0bUJNeGZLbkoxeVA?oc=5"
   ],
   [
-   "11/18 15:48",
-   "금리·환율",
-   "원·달러 환율, 5.2원 내린 1333원",
-   "Chosunbiz",
-   "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWg5SjdTRkthS0xaUHRpY19YSHNUZVVCbk9PUWoxdER3bTBZNHdnVTRuMGtwQmM2SnlyUzNYTEx2cEMxNlBTdi1pN1c0b2tqemNrM3ZXaEpwXzFLcXVuY0M3Z3VpTmRuQlFrazlHS3ZVbVZGaDQwUDd2NDg4d1E5SUhLZnpUQdIBmgFBVV95cUxQb25BVFFJMDJBMEQyVWJYbUdUeTQ1WDhkV2lMbXozXzd4T3VaOWg5RnVha3pxa1FCNVhNN2tVMzRaN0NTOVNuU1dXVkdHcmtIZ2dIXy1FZEhjLTZZWGJ3VDE0elhNc08zczFCNURCTS1SbnJKNXU1alhxTWhkRDNFXzM3OGt5ODZQUU9ONUJNZUJDckFqQU9jTU1n?oc=5"
-  ],
-  [
-   "11/18 15:46",
-   "시황",
-   "코스피 하루 만에 5000선 회복…2% 가까이 뛰어 5067 마감",
-   "진일보 | 전남일보",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRQk4yTjB4SENseUxlOUpLNU9WLUE3MVJkYk1zZGFqTHp3SjM2YTN3Q1RUVFNyYmdiTEZTZ05FVVByS3NBQmRYdElGVnZ1MW5xZHVfME1wcFV4WGE0bE9ma3hzbGEzc1VvRGZRcGc3NA?oc=5"
-  ],
-  [
-   "11/18 15:46",
-   "시황",
-   "코스피, 하루 만에 ‘5천피’ 탈환… 코스닥도 상승 마감(1보)",
-   "천지일보",
-   "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RNUpBQUJoS1oxT0hYQnZwVHpuV1NiaURTcTJtSEVlaWpXWUtrbzRYQUJMTlVITnhIMFFHakUxQ2dUdHRiSFFUUEdwUkdtOEZtWlhBSlFTWlBsc3pJUFE5c0JSNnh3TV83Qmc?oc=5"
-  ],
-  [
-   "11/18 15:46",
-   "시황",
-   "코스피, 1.99% 오른 5.067.44 마감…하루만에 ’5천피’ 회복",
-   "연합뉴스TV",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bFNYSXlaWUlYVUprRFRJeU5vQkhVZ0FHUWp6eDlNdXZwTlZCcW5wWlZJZGRlb0NCRUNlWjNwZGRiQ25TZTJhU0pvUjlfbi1Fd0tjd3M5TzRLSjV3Q1NPam0zVGpnOGc?oc=5"
-  ],
-  [
-   "11/18 15:45",
-   "산업",
-   "[마감시황]코스피 5000선 탈환…반도체·로봇주 강세, 바이오 대형주 약세",
-   "한국경제",
-   "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRanhNNko2Vzl0b2MyVklvMVMyRDFEU2dEcHhWdGxJcUk1RVZ6TG9vekJ2YU1ySFJLbkJEb1ZlYUJxR2d1UDM3Zzl0VklxOHVfTzhleW1EeXBYZw?oc=5"
-  ],
-  [
-   "11/18 15:38",
-   "산업",
-   "제주반도체 주가 100원 상승 후 장마감",
-   "아시아뉴스통신",
-   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdDFlN0ZiTlBTaEJhQ2ktUFVsNWlBTjBGZUtZTGZuMUFodUF2WGRXQjNfNTJzSVY1WkpCb19zNEE5ajQ4REJVVkl3a3liby1YM29TeEhBS1ZFUHlj?oc=5"
-  ],
-  [
-   "11/18 15:36",
-   "시황",
-   "코스피, 1.99% 상승한 5067.44 마감…코스닥 1.96%↑(2보)",
-   "뉴스1",
-   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wM2l3ZnFBek5uaHY3SjIzNlVkRWcyMTZnbC1xN0UtVDJ3SXptZDViNHFmQU9LR2dsRzk2aWNKejZSOGlrSEVGS0JkYzE4aFYxY2tUQkpvd3pRY0k0X2NF?oc=5"
-  ],
-  [
-   "11/18 15:35",
-   "시황",
-   "[속보] 코스피, 2% 오른 5067 마감…하루만에 ‘5천피’ 탈환",
-   "중앙일보",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZUDFCdlUwWmJSUHZrYnIxS0tVUmxsRHQtOE1SUVMtTUZZc2JVc3VNaFg2blFJOHBQeEtLSjc2UnlKYXBjUHFOMVZUZ3NBV1ZRVUhuajh3?oc=5"
-  ],
-  [
-   "11/18 15:34",
-   "금리·환율",
-   "[외환] 원/달러 환율 5.2원 내린 1,333.0원(15:30 기준가)",
-   "매일경제 마켓",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9icWdPWFRRVnRoV1MzT3p6VVhYY2c5RVk1dTRLc3NtQkJpcG5ONEN3Ulg1Q2hsWjNlUWF5ZDhqSUhfQWJzYWFXOTdYemF1RFcxVGc?oc=5"
-  ],
-  [
    "11/18 15:33",
    "시황",
    "[코스닥 마감] 12.75P(1.96%) 오른 662.81",
@@ -1124,137 +1468,11 @@
    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ydkJ6NFR0RkhIM2ppamVHRTRIWHZqTzFUV19vSGpyYV8weTRDMTFHa0NRejVheFFZTUlDbi16VERlNEdLa2hWbklVMzRZenFQbGtEYjZZRV9VSkJ2UnJZU3JFOE5LcVhvWXc?oc=5"
   ],
   [
-   "11/18 14:43",
-   "종목",
-   "[특징주] 빅웨이브로보틱스, 로봇 테마 훈풍 속 장중 상한가 '폭발'",
-   "와이드경제",
-   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZ2IxZnEtQ0oyQVhocnFtQ3BaLU5UMGJoVHpoM1poU05Da2l4RG1fTjZzbHRqU3p4RU1QRVJLZU1YYlpfX3JYQ1YzbXZRUERBcWlVMlQ3YjItcWRFcGxVSkJld2NmUGhiOXR5WQ?oc=5"
-  ],
-  [
-   "11/18 14:19",
-   "전망",
-   "[카드] 대신증권, '2027년 글로벌 증시 전망' 온라인 세미나 개최",
-   "프라임경제",
-   "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfS3IxMFVHVFNrWkVNX05wc01oVS1mbEc4TVc4QXV5ZV9GM2VBa0tfMmFwUGNId0E5QXhqcDJ4TkMwRkYySEVQeTByUzVObUtLcEZwTC1KdmpQZmpZYU9pZ0lMaC1oUQ?oc=5"
-  ],
-  [
-   "11/18 14:06",
-   "종목",
-   "아리바이오랩, 알츠하이머 치료제 임상서 증상 악화 31% 지연…상한가",
-   "아주경제",
-   "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhb2g2eXNOLVdYbkNqLXJIQjZRNW5YNDFXekNKb0VpTEkwWGlvaldETzExclczaWp1T3UtSWJHZnpwbmlqdGQ3dGo2bzVzQVNBLW9VR0VzYnHSAVhBVV95cUxQYW9oNnlzTi1XWG5Dai1ySEI2UTVuWDQxV3pDSm9FaUxJMFhpb2pXRE8xMXJXM2lqdU91LUliR2Z6cG5panRkN3RqNm81c0FTQS1vVUdFc2Jx?oc=5"
-  ],
-  [
-   "11/18 14:00",
-   "금리·환율",
-   "이형일 부총리의 재경부, 국고채 딜러 면담…10년물 3.985%에 전액 낙찰",
-   "CEO저널",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RMEtzTlZ4NWRIVXdUekJjS2pmZUZ4U0xYOHpmVkhjVkZGS1VKUkZZYWlpRmV6MWhGM18tUkgzdkxzUjBvSTBTcUhpdjZva3pfMnBfNGpHRm9idEpCZ21HSzNYU0ItaG8?oc=5"
-  ],
-  [
-   "11/18 13:53",
-   "전망",
-   "대신증권, 2027년 상반기 글로벌 증시 전망 세미나 개최",
-   "MTN 머니투데이방송",
-   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PZHh0VlVMMGxEUUZrNk9OcUprV2RQc0xsUTB0SzVsclBvbEtPcmxnOUN6aUowcnQ4NzNuT19wR0Rsck1HVFd6TWZ2MnVtbndSV0dMakxRRVhUVi1KN1NZ?oc=5"
-  ],
-  [
-   "11/18 13:12",
-   "금리·환율",
-   "[환율 전망] 구조적 수요를 압도하는 공급",
-   "KB Think",
-   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VRnF4RGUxM0RYODFfNG5lTVNxbFd2MWNjeDktaHluYnlRZjVhMFo5TjdyeGZZUjVlOWw5S25tcGJxRzY0ZFlNYmVTblBxREhjQjVMQ2xQUlQ3dlB1aURsMw?oc=5"
-  ],
-  [
-   "11/18 13:05",
-   "금리·환율",
-   "국고채 금리 하락 반전…코스피 상승세 줄며 장중 5천선 하회",
-   "연합인포맥스",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE40UHFKU2F1eEpWR213SkVFdWJGNmpBWERaUm1HMklObG9SYU5GVDEzTFFzWDhkTGU1YndFTUh2akxmTDU5dHJpT2dtOVRoTThMeTZxYkpPV3JPMU1hSjRlVTRlcWRKXzVHYUx2ektQdHE?oc=5"
-  ],
-  [
-   "11/18 12:34",
-   "산업",
-   "국산 AI 반도체 육성 수혜주, 28% 주가 선반영",
-   "아시아경제",
-   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2eUdnMWZYZktIMFhEMUtPTGp2N1pBcFpoYmxRdTFRVWFTRk5hUFJsbmdIUTlQWDE1V0NvRHlrN0hSY1htbkNacktKVEFOd1JNTUJwamFUMTczQlNtY09MWA?oc=5"
-  ],
-  [
-   "11/18 12:10",
-   "산업",
-   "[CEONEWS 랭킹뉴스 43] 하반기 반도체 하락률 TOP 5",
-   "CEONEWS",
-   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRmkxUjc4YnBiS0JySTVjcTRkT0lnVzZGQTRRWEFramVSMS02VjhOVVEtRDZxRE1vTzFwNWtpTWgyTWFfaS12aS1kUG52emRyNU11bVdxVVpMMnA3cm1r?oc=5"
-  ],
-  [
-   "11/18 12:02",
-   "수급",
-   "엔비디아 '어닝 서프라이즈'에도 코스피 5,100선 반납…외국인 매수 속 개인 매도 확대",
-   "시사프리즘",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3TTJCR1NpcV8xLUFVZnhpS2RzcDB6d01NdDg5NzNPTFZidTJBczFrSTIxSEJVM3NEUjZRcWNpTkVzWURjbTRuem5RclBRcmFnWVhMSHVodVlzY3E4QzliVXRTZUxmSHlu?oc=5"
-  ],
-  [
-   "11/18 11:41",
-   "금리·환율",
-   "국고채 금리 대체로 하락…3년물 장중 연 3.722%",
+   "11/18 15:31",
+   "시황",
+   "[속보] 코스피, 2% 오른 5,067 마감…하루만에 '5천피' 탈환",
    "연합뉴스",
-   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCMDNMZnR2dzV4YWx6czU5Y253ZTZJX3BLRU9COXdOODV1aDhOQXd6VDlpVVF5OEd6ZWNsQlJVbTZaRnRHNC1Td1ZmX09RWHlfQVJwWTA4eHV4aEkxUEowaw?oc=5"
-  ],
-  [
-   "11/18 11:40",
-   "수급",
-   "\"엔비디아 호실적에도 안 돌아온 투심\" 코스피 5000 반납 - 머니투데이",
-   "머니투데이",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TOFRMY0trUUZRQTZWUXhzTjVENFk1bGVBUEZ0Z1RQS3Z4U2RkZk56RE01eThRc0lkLTg3OW96bERxYlAzcldPS0Y3UldRQkUxMjZybEF1RnFLNXItNXpPdHdoVUpRQXMw0gFuQVVfeXFMTVZKeUQ1c2laWVJZSUctM3ZFcktmS2pGQnBBNVR5eWNZMEE2WUZpTEhVZWtPUWZGM2s5SC1UemVSOFczQzdMNXk4QnNVeWQ1akc5cG41ZkowTDg3d1h6UGJVdWt2ZWlNLUFDSVh0VlE?oc=5"
-  ],
-  [
-   "11/18 11:03",
-   "전망",
-   "“내년 AI 성장세 전망”… 대신증권, 글로벌 증시 투자전략 제시",
-   "디지털데일리",
-   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENFctZWtsYk5FZXRGNHh5LWJPb2xBb2twNnlOUUszRkVWcGlQUnJEaTlxVllLY014RUZEQ3pYa0ZLc2hHLXAtMHc3Q25fUjlWQTZQdFZ3VERhY2hJM09qdzc3RGI?oc=5"
-  ],
-  [
-   "11/18 10:58",
-   "수급",
-   "외국인 매수에도 팔기 바쁜 개인…코스피, 5000선 아래로",
-   "Chosunbiz",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeEQ2ajZBUng0TFNMbmM3MjdPUlJkQ0EtUlBFNktRYmhTTjJNUW50RnRQMDFtdDhfeXFZUUhuZHF6NnZEaVNMTGg0MTN0VTFzTGlnT2N1ZTJ6VENTbVYyMnd0SFBYMHFpbTQtYlEwUHNJVVVqNk1jVW91dXMzbUw5WlNFa1NnMW130gGcAUFVX3lxTFA2d0tpU2JOZmNnRlZEUkVLeFV0S3hMak5Rd2tOTG50dlV4eE1qY2Z5ZTVMQWdnUXIzVVctYWpVWExyZE1QeVd2UVgybFBWOHRIUU5WVVpldkdPbTJRVC1MYVh0SmU1UjlKeHRuT3g3bVhkd09RT1RucHRnc3MzRWh5TlNVZlhJWm15UUxIZzVmR2tocklfR3d4a1YzZA?oc=5"
-  ],
-  [
-   "11/18 10:24",
-   "금리·환율",
-   "연말 채권 랠리에도 \"내 주담대 왜 이래\"…단기 크레디트만 약한 이유 3가지",
-   "KB Think",
-   "https://news.google.com/rss/articles/CBMickFVX3lxTE05a2xBZUNGUnZxN3I1YklBVzFMSVNQcVcyaXdNNEtoUFhxSlJ3cmlJQVZZbVFuTHhtNjRXdEFwVU9oZmN3bUZnZDF5dU9leTIzaXFVZURVQzVzcmVBOVpqbDZQU0U3VXY1bG82RV9WN1JxZw?oc=5"
-  ],
-  [
-   "11/18 09:58",
-   "수급",
-   "코스피, 엔비디아 호실적에 2%대 급등…외국인 매수에 5천피 탈환",
-   "산경투데이",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE91R0ZsMEhsOE54NFAxbk1DU1BXMGVrN19vZUt3OXpHRDdsOGhRaTcyZUlUZmJsZWNoRjlUYmxaSktRcFJscU1RSjJyTkRBRU1jSUItTnlFdElBdnRPSHBJQnRHc084UExOQTl1LTZCQ1XSAXRBVV95cUxOTklZMGdLbTk4Ykc4c3owTDE1MXQ5VFdPNGtsWlFkdEE4UENibHlYVFVRVWpLLVNDY0JYaHl2RWFWYlZmTVpuWDJaUTZPcFdsM0pUeVlPcHFzX1NaeDZuR2RKaTJ4U3lvTExxOXgxbkZhRHRBRQ?oc=5"
-  ],
-  [
-   "11/18 09:47",
-   "해외",
-   "[뉴욕 증시] 3대 지수 일제히 하락 마감…나스닥 4일째 ↓",
-   "한양경제",
-   "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQUpkOXUyTVctS2ZjMEpiU2ZrNUxCREk3YzJ3dlVRUlZNUFB4RVB6MlpkdUNTSDJnV1dMbHU1SURYdWY1Z2pQVUhFTzFlSkN5TUs0S1pPQWVuNTdpWDNQUTJEVVR3S3VYdVJtRWtfTjM4dw?oc=5"
-  ],
-  [
-   "11/18 09:45",
-   "전망",
-   "[게시판] 대신증권, 26일 '2027년 글로벌 증시전망' 세미나",
-   "연합뉴스",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jRllOXzhYRzJRdHpIX181U2MxenhQY09vakdmbkdEdEpHaWwtQ2U0MVcxdGJlUkpSQl9FSUZLQ1h0TnE1ak41UF9LVWR3bHI3YS1GWTJtUDlONmvSAWBBVV95cUxQUDI0YW5yOFMtUWJNR1NjTkhxNW9uWjVEcEkybmJ2TW9nanowVG1RMU1NbmNxUDdVelEycGpBN054Nmt1RkFQd3M5QjlqcGF4WDNWX1dBUldWZkwwNVkwaHU?oc=5"
-  ],
-  [
-   "11/18 09:43",
-   "종목",
-   "[특징주] 아리바이오랩, 치매약 임상 3상 재평가에 상한가",
-   "브릿지경제",
-   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SczRuVS1GTGdXdTlmZmhvOTU1cllwWkpwZzBfVVJwLUhpZFRnWFQ0eF9IVmU3ZVJZYjhiV0NGTGRRajN5UlR5NHhMMVVMOVJSMU1pbGdsTDhzZw?oc=5"
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZ1ZTMDJablJEMW5hNzVIU0FhTFF4LXlpTldkaFd4ZlBxZjlvRDljNHZ2R2FqVzlOazhLLWdmUE9VQ0trRXA1TXg3cnBJRUExMWk4OGJwd21qWDDSAWBBVV95cUxNNlA1ZDBGWUFhRzlISG9CRFVWY09LSDhKUDBBb2RvN2IzOTZHWjZ6cDEzU3F5X1pxdmhscDZtc2VnTmVJSXYyZmlnNllmR2R0dy1SQWhKMm9yeXd2dFFCWjk?oc=5"
   ],
   [
    "11/18 07:07",
@@ -1262,20 +1480,6 @@
    "[서치 e종목] 한솔케미칼, 과산화수소·2차전지 바인더 성장 기대…주가 반등?",
    "데일리인베스트",
    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtM0JvTjBSZV9FOGdxVWk3dnZCQll4Z0V5ejJVT1hZRmVlclBKUUpkaXVTbFNya0dWZmJDM2Z5bDdQUEctNzM0YUMwQ3BweE9sdWNHd0o5NUxXVHNNVld6a05RUkp2VWEwNHRZalYtd9IBb0FVX3lxTFAtM0JvTjBSZV9FOGdxVWk3dnZCQll4Z0V5ejJVT1hZRmVlclBKUUpkaXVTbFNya0dWZmJDM2Z5bDdQUEctNzM0YUMwQ3BweE9sdWNHd0o5NUxXVHNNVld6a05RUkp2VWEwNHRZalYtdw?oc=5"
-  ],
-  [
-   "11/18 06:23",
-   "해외",
-   "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저",
-   "연합뉴스",
-   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtS9IBYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtSw?oc=5"
-  ],
-  [
-   "11/18 06:14",
-   "해외",
-   "뉴욕증시, 엔비디아 실적 앞두고 일제히 하락 마감…다우 1.64%↓",
-   "뉴스핌",
-   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84bzI1Z2hYOFdCV0tFV3VqUk1VQWdXdk9SWnkzRWltNVQ5NEd2NEo3dE9JeW9XM3MyQkdtYTNZd19ueW5WdlhQeEp1QUMySXdsekVKLWliUHg4VG9N?oc=5"
   ],
   [
    "11/17 17:14",
@@ -1290,34 +1494,6 @@
    "전기차 캐즘에 엇갈린 2차전지 소재 부품주…특화 소재 기업은 '함박웃음'",
    "핀포인트뉴스",
    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIRHNlOGQ5ejJPMm5SWXRKVXhSYVNHMjhUMi1JSTVQclpqbzEtd3dUd3FXcU9HLVJCUFA0NkFuNkhIelZUVUtmZWY4RDNOb0dPeGZlc1M4alR3aXdyMGJJRFNURk9TOXY3aDF0eTZMOWNzMWPSAXdBVV95cUxPeXZ0WThEcVdYRXJHUTRmUUJBUVY0WjcwVDBCalBISHdtVkppeWF0cm5BZ0lhWmdueEYySE9QQjg5QVhCNXBvT0h1WGppdmQ0c2JDajd1RkxZVE5PdGdyR04wRGtvZFVLSThWbmNsOGNRVDVEZjlUYw?oc=5"
-  ],
-  [
-   "11/17 16:56",
-   "종목",
-   "코스피 5000 붕괴한 날 상한가·따블…계양전기·옵토닉스 ’역주행’의 두 얼굴",
-   "Investing.com 한국어",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqb2I4cXlkZWV4dlpCRTJiT0h1NTBMZmVzQl9BY3NtUDV1c09vZHRmeXg5d29ubWlidE1mSERFYUUyeTNVbUJDeUVqdEFGdEM2cURSUUdCVzAxYXpTMVJpSjFrellYY0lwSGIzbllzTWM?oc=5"
-  ],
-  [
-   "11/17 16:01",
-   "파생",
-   "지금, 퇴직연금에 국채를 담아야 하는 이유",
-   "그린포스트코리아",
-   "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMnRlZzV5V2R2WUVKNno4aU84X1l3ZC1qa29qdUx1SF9GamEzVU5HQWpRczg2YnlwMFBRVDhUZ2Z2ektibjJJemhVVkE1OGo0OF9mQU5UOWtNMUJxWkNZV3ZlY3hmVzQ4UHlLOVJtTTBCSG02ZkHSAXpBVV95cUxPT3JBTU9MWVI0bVFVN3htZGRma3RrZlF4NUdwNnZCaUZiUkROQ0ViWGhHeC1zMk0wXzFlUXN0ZG4yelROVEhHelpKOHRUWUhGNy0tdWl5LXA2Z2NUSmt3VmowVTZRVnJIT29XOHFhZXV0Mm9PRWhUalBKZw?oc=5"
-  ],
-  [
-   "11/17 12:05",
-   "산업",
-   "코스피 5000 급락에 삼성SDI 주가도 흔들...2차전지·전고체 배터리주 약세 : 일반",
-   "크리스천투데이",
-   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WeFBqbk42cWhual9BTjNCajVQNEo4MEVsaTJtWUJvTWx1ZFJrU0c5b0kydjlQYVRFTGEyeDk1c2REWnlmWlJCeVhyOXR6eTY2Y0FBUmxIUQ?oc=5"
-  ],
-  [
-   "11/16 17:38",
-   "산업",
-   "[주식잘파] 2차 전지의 미래를 샀는데…계좌의 미래가 사라졌다? | EP.1",
-   "뉴스1",
-   "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jNlpCejRqekhvNW91RWdWT0dicHlMMXp3YUpsd0dzSFN1c2Q0SG9qUEtKdUlfNldyWXpjU2VLSUlFWmtYRm9lQg?oc=5"
   ]
  ],
  "flows": {
@@ -1326,43 +1502,42 @@
   "blocks": [
    {
     "tab": "코스피 당일",
-    "sub": "2026-11-18 일간",
+    "sub": "2026-11-19 일간",
     "items": [
      {
       "n": "외국인",
-      "v": -3316
+      "v": -4374
      },
      {
       "n": "기관",
-      "v": 5050
+      "v": 34
      },
      {
       "n": "개인",
-      "v": -6338
+      "v": -163
      }
     ]
    },
    {
     "tab": "코스피 20일",
-    "sub": "10/22~11/18 누적",
+    "sub": "10/23~11/19 누적",
     "items": [
      {
       "n": "외국인",
-      "v": -142403
+      "v": -146476
      },
      {
       "n": "기관",
-      "v": 80425
+      "v": 84040
      },
      {
       "n": "개인",
-      "v": -5828
+      "v": -9455
      }
     ],
     "series": {
      "label": "코스피 최근 60거래일",
      "dates": [
-      "2026-08-21",
       "2026-08-24",
       "2026-08-25",
       "2026-08-26",
@@ -1421,11 +1596,11 @@
       "2026-11-13",
       "2026-11-16",
       "2026-11-17",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
      ],
      "data": {
       "외국인": [
-       -1760,
        -36691,
        -38140,
        -1148,
@@ -1484,10 +1659,10 @@
        -5419,
        -13300,
        -14190,
-       -3316
+       -2644,
+       -4374
       ],
       "기관": [
-       2481,
        -12901,
        11711,
        7615,
@@ -1546,10 +1721,10 @@
        -59,
        -4635,
        5134,
-       5050
+       4165,
+       34
       ],
       "개인": [
-       -11652,
        33217,
        10509,
        -22461,
@@ -1608,50 +1783,50 @@
        145,
        12990,
        4310,
-       -6338
+       -6169,
+       -163
       ]
      }
     }
    },
    {
     "tab": "코스닥 당일",
-    "sub": "2026-11-18 일간",
+    "sub": "2026-11-19 일간",
     "items": [
      {
       "n": "외국인",
-      "v": -457
+      "v": -1808
      },
      {
       "n": "기관",
-      "v": 1768
+      "v": 1326
      },
      {
       "n": "개인",
-      "v": -1231
+      "v": 504
      }
     ]
    },
    {
     "tab": "코스닥 20일",
-    "sub": "10/22~11/18 누적",
+    "sub": "10/23~11/19 누적",
     "items": [
      {
       "n": "외국인",
-      "v": -17595
+      "v": -18299
      },
      {
       "n": "기관",
-      "v": 7438
+      "v": 9747
      },
      {
       "n": "개인",
-      "v": 10115
+      "v": 8571
      }
     ],
     "series": {
      "label": "코스닥 최근 60거래일",
      "dates": [
-      "2026-08-21",
       "2026-08-24",
       "2026-08-25",
       "2026-08-26",
@@ -1710,11 +1885,11 @@
       "2026-11-13",
       "2026-11-16",
       "2026-11-17",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
      ],
      "data": {
       "외국인": [
-       -2837,
        2416,
        1327,
        -918,
@@ -1773,10 +1948,10 @@
        -833,
        -1986,
        -883,
-       -457
+       -477,
+       -1808
       ],
       "기관": [
-       -3462,
        249,
        156,
        -1054,
@@ -1835,10 +2010,10 @@
        1286,
        -1524,
        -263,
-       1768
+       1794,
+       1326
       ],
       "개인": [
-       6236,
        -2604,
        -1375,
        1931,
@@ -1897,7 +2072,8 @@
        -512,
        3643,
        1081,
-       -1231
+       -1198,
+       504
       ]
      }
     }
@@ -1911,18 +2087,18 @@
   "items": [
    {
     "n": "미 국채 10년",
-    "v": 5.1029997,
-    "chg": -1.8000126
+    "v": 5.066,
+    "chg": -510.29997
    },
    {
     "n": "미 국채 30년",
-    "v": 5.458,
-    "chg": -0.89998245
+    "v": 5.4119997,
+    "chg": -545.8000000000001
    },
    {
     "n": "일본 국채 10년",
-    "v": 2.925,
-    "chg": -0.2
+    "v": 2.916,
+    "chg": -0.9
    }
   ],
   "note": "국고채 금리는 무료로 자동 수집할 공식 출처가 없어 해설에서 다룹니다."
@@ -1932,18 +2108,18 @@
    {
     "sec": "반도체",
     "n": 65,
-    "mcap": 22543855.0,
-    "up": 24,
-    "dn": 35,
-    "breadth": -16.9,
-    "agg1w": 0.41,
-    "med1w": -1.3,
-    "med4w": -2.09
+    "mcap": 22861022.0,
+    "up": 23,
+    "dn": 36,
+    "breadth": -20.0,
+    "agg1w": 0.46,
+    "med1w": -1.72,
+    "med4w": -2.26
    },
    {
     "sec": "은행",
     "n": 10,
-    "mcap": 1919145.0,
+    "mcap": 1898945.0,
     "up": 2,
     "dn": 5,
     "breadth": -30.0,
@@ -1954,40 +2130,51 @@
    {
     "sec": "제약",
     "n": 28,
-    "mcap": 1581228.0,
-    "up": 14,
-    "dn": 12,
-    "breadth": 7.1,
-    "agg1w": 0.47,
-    "med1w": 0.65,
-    "med4w": -1.52
+    "mcap": 1596219.0,
+    "up": 13,
+    "dn": 13,
+    "breadth": 0.0,
+    "agg1w": 0.37,
+    "med1w": 0.0,
+    "med4w": -3.67
    },
    {
     "sec": "전기제품",
     "n": 19,
-    "mcap": 1295116.0,
+    "mcap": 1271256.0,
     "up": 5,
     "dn": 14,
     "breadth": -47.4,
-    "agg1w": -0.73,
+    "agg1w": -0.82,
     "med1w": -23.64,
     "med4w": -24.75
    },
    {
     "sec": "조선",
     "n": 13,
-    "mcap": 940768.0,
+    "mcap": 946376.0,
+    "up": 4,
+    "dn": 8,
+    "breadth": -30.8,
+    "agg1w": -3.37,
+    "med1w": -4.81,
+    "med4w": -9.4
+   },
+   {
+    "sec": "전자장비",
+    "n": 17,
+    "mcap": 922898.0,
     "up": 5,
-    "dn": 7,
-    "breadth": -15.4,
-    "agg1w": -3.33,
-    "med1w": -0.75,
-    "med4w": -4.3
+    "dn": 9,
+    "breadth": -23.5,
+    "agg1w": -0.69,
+    "med1w": -0.19,
+    "med4w": -9.85
    },
    {
     "sec": "자동차",
     "n": 3,
-    "mcap": 907353.0,
+    "mcap": 896839.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
@@ -1996,229 +2183,218 @@
     "med4w": -14.6
    },
    {
-    "sec": "전자장비",
-    "n": 17,
-    "mcap": 860944.0,
-    "up": 5,
-    "dn": 9,
-    "breadth": -23.5,
-    "agg1w": -0.7,
-    "med1w": -0.19,
-    "med4w": -9.85
-   },
-   {
     "sec": "지주·복합",
     "n": 10,
-    "mcap": 805354.0,
-    "up": 4,
-    "dn": 5,
-    "breadth": -10.0,
-    "agg1w": -1.33,
-    "med1w": -1.85,
-    "med4w": -0.08
+    "mcap": 810119.0,
+    "up": 3,
+    "dn": 6,
+    "breadth": -30.0,
+    "agg1w": -3.29,
+    "med1w": -4.63,
+    "med4w": -5.74
    },
    {
     "sec": "전기장비",
     "n": 14,
-    "mcap": 728568.0,
+    "mcap": 762588.0,
     "up": 6,
     "dn": 8,
     "breadth": -14.3,
-    "agg1w": -1.74,
+    "agg1w": -1.66,
     "med1w": -1.59,
     "med4w": -5.1
    },
    {
     "sec": "석유·가스",
     "n": 4,
-    "mcap": 727817.0,
+    "mcap": 709103.0,
     "up": 3,
     "dn": 1,
     "breadth": 50.0,
-    "agg1w": 1.94,
-    "med1w": 1.62,
-    "med4w": 12.02
+    "agg1w": 6.57,
+    "med1w": 5.09,
+    "med4w": 13.15
    },
    {
     "sec": "방산·우주",
     "n": 12,
-    "mcap": 689253.0,
+    "mcap": 688556.0,
     "up": 2,
-    "dn": 9,
-    "breadth": -58.3,
-    "agg1w": -5.83,
-    "med1w": -9.83,
-    "med4w": -13.54
+    "dn": 10,
+    "breadth": -66.7,
+    "agg1w": -5.07,
+    "med1w": -11.03,
+    "med4w": -15.16
    },
    {
     "sec": "화학",
-    "n": 27,
-    "mcap": 628734.0,
-    "up": 6,
-    "dn": 19,
-    "breadth": -48.1,
-    "agg1w": -16.3,
-    "med1w": -4.66,
-    "med4w": -6.8
+    "n": 28,
+    "mcap": 627861.0,
+    "up": 5,
+    "dn": 20,
+    "breadth": -53.6,
+    "agg1w": -18.22,
+    "med1w": -5.73,
+    "med4w": -9.96
    },
    {
     "sec": "증권",
     "n": 7,
-    "mcap": 600166.0,
-    "up": 2,
-    "dn": 5,
-    "breadth": -42.9,
-    "agg1w": -10.93,
-    "med1w": -9.51,
-    "med4w": -11.41
+    "mcap": 597638.0,
+    "up": 1,
+    "dn": 6,
+    "breadth": -71.4,
+    "agg1w": -12.02,
+    "med1w": -10.27,
+    "med4w": -11.49
    },
    {
     "sec": "자동차부품",
     "n": 20,
-    "mcap": 550115.0,
+    "mcap": 536635.0,
     "up": 5,
     "dn": 15,
     "breadth": -50.0,
-    "agg1w": -3.7,
+    "agg1w": -3.93,
     "med1w": -6.61,
-    "med4w": -11.88
+    "med4w": -14.43
    },
    {
     "sec": "기계",
     "n": 17,
-    "mcap": 495589.0,
-    "up": 7,
-    "dn": 8,
-    "breadth": -5.9,
-    "agg1w": 1.3,
-    "med1w": 0.0,
-    "med4w": -4.33
+    "mcap": 502279.0,
+    "up": 6,
+    "dn": 9,
+    "breadth": -17.6,
+    "agg1w": 1.46,
+    "med1w": -1.13,
+    "med4w": -4.46
    },
    {
     "sec": "IT서비스",
     "n": 19,
-    "mcap": 464037.0,
-    "up": 5,
-    "dn": 13,
-    "breadth": -42.1,
-    "agg1w": -1.95,
-    "med1w": -2.51,
-    "med4w": -4.39
+    "mcap": 450099.0,
+    "up": 6,
+    "dn": 11,
+    "breadth": -26.3,
+    "agg1w": -1.57,
+    "med1w": -2.21,
+    "med4w": -2.51
    },
    {
     "sec": "손해보험",
     "n": 6,
-    "mcap": 441644.0,
+    "mcap": 427790.0,
     "up": 3,
     "dn": 2,
     "breadth": 16.7,
-    "agg1w": -2.11,
+    "agg1w": -2.07,
     "med1w": 0.37,
     "med4w": -1.86
    },
    {
     "sec": "인터넷",
     "n": 4,
-    "mcap": 408837.0,
+    "mcap": 405668.0,
     "up": 0,
     "dn": 4,
     "breadth": -100.0,
-    "agg1w": -4.47,
+    "agg1w": -4.56,
     "med1w": -15.32,
     "med4w": -15.53
    },
    {
+    "sec": "건설",
+    "n": 13,
+    "mcap": 355875.0,
+    "up": 7,
+    "dn": 4,
+    "breadth": 23.1,
+    "agg1w": 1.42,
+    "med1w": 0.31,
+    "med4w": -0.29
+   },
+   {
     "sec": "통신",
     "n": 3,
-    "mcap": 368719.0,
+    "mcap": 355257.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
-    "agg1w": -3.48,
-    "med1w": -3.11,
-    "med4w": -2.49
-   },
-   {
-    "sec": "건설",
-    "n": 13,
-    "mcap": 352782.0,
-    "up": 7,
-    "dn": 6,
-    "breadth": 7.7,
-    "agg1w": -3.26,
-    "med1w": 0.12,
-    "med4w": 0.95
+    "agg1w": -1.83,
+    "med1w": -1.47,
+    "med4w": -1.6
    },
    {
     "sec": "화장품",
     "n": 13,
-    "mcap": 320692.0,
+    "mcap": 334881.0,
     "up": 3,
     "dn": 8,
     "breadth": -38.5,
-    "agg1w": -4.5,
+    "agg1w": -4.81,
     "med1w": -2.52,
     "med4w": -4.65
    },
    {
     "sec": "철강",
     "n": 10,
-    "mcap": 283618.0,
-    "up": 5,
-    "dn": 5,
-    "breadth": 0.0,
-    "agg1w": 7.73,
-    "med1w": 3.38,
-    "med4w": -16.07
-   },
-   {
-    "sec": "식품",
-    "n": 13,
-    "mcap": 245578.0,
-    "up": 2,
-    "dn": 9,
-    "breadth": -53.8,
-    "agg1w": -6.24,
-    "med1w": -1.16,
-    "med4w": -0.94
+    "mcap": 280270.0,
+    "up": 4,
+    "dn": 6,
+    "breadth": -20.0,
+    "agg1w": 6.58,
+    "med1w": -1.89,
+    "med4w": -20.13
    },
    {
     "sec": "해운",
     "n": 3,
-    "mcap": 243289.0,
+    "mcap": 246258.0,
     "up": 3,
     "dn": 0,
     "breadth": 100.0,
-    "agg1w": 44.96,
+    "agg1w": 45.09,
     "med1w": 10.08,
     "med4w": 12.34
    },
    {
+    "sec": "식품",
+    "n": 13,
+    "mcap": 244955.0,
+    "up": 2,
+    "dn": 9,
+    "breadth": -53.8,
+    "agg1w": -6.17,
+    "med1w": -1.16,
+    "med4w": -0.94
+   },
+   {
     "sec": "게임",
     "n": 12,
-    "mcap": 228286.0,
+    "mcap": 232860.0,
     "up": 1,
-    "dn": 10,
-    "breadth": -75.0,
-    "agg1w": -21.67,
+    "dn": 9,
+    "breadth": -66.7,
+    "agg1w": -21.56,
     "med1w": -12.77,
-    "med4w": -21.07
+    "med4w": -17.52
    },
    {
     "sec": "전력",
     "n": 3,
-    "mcap": 202845.0,
+    "mcap": 203891.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
-    "agg1w": -25.59,
+    "agg1w": -25.6,
     "med1w": -25.05,
     "med4w": -25.46
    },
    {
     "sec": "비철금속",
     "n": 4,
-    "mcap": 187864.0,
+    "mcap": 185006.0,
     "up": 1,
     "dn": 3,
     "breadth": -50.0,
@@ -2227,244 +2403,244 @@
     "med4w": -7.17
    },
    {
-    "sec": "물류",
-    "n": 3,
-    "mcap": 169763.0,
-    "up": 1,
-    "dn": 2,
-    "breadth": -33.3,
-    "agg1w": -1.31,
-    "med1w": -0.48,
-    "med4w": 5.11
-   },
-   {
     "sec": "바이오",
     "n": 5,
-    "mcap": 169324.0,
+    "mcap": 172428.0,
     "up": 3,
     "dn": 2,
     "breadth": 20.0,
-    "agg1w": -3.44,
+    "agg1w": -3.27,
     "med1w": 2.58,
     "med4w": -11.5
    },
    {
+    "sec": "물류",
+    "n": 3,
+    "mcap": 168456.0,
+    "up": 1,
+    "dn": 2,
+    "breadth": -33.3,
+    "agg1w": -1.32,
+    "med1w": -0.48,
+    "med4w": 5.11
+   },
+   {
     "sec": "엔터·방송",
     "n": 14,
-    "mcap": 150177.0,
-    "up": 2,
-    "dn": 11,
-    "breadth": -64.3,
-    "agg1w": -35.89,
+    "mcap": 167777.0,
+    "up": 3,
+    "dn": 10,
+    "breadth": -50.0,
+    "agg1w": -10.34,
     "med1w": -19.76,
-    "med4w": -21.97
+    "med4w": -25.11
    },
    {
     "sec": "백화점",
     "n": 7,
-    "mcap": 142681.0,
-    "up": 4,
+    "mcap": 147288.0,
+    "up": 3,
     "dn": 2,
-    "breadth": 28.6,
-    "agg1w": -0.28,
-    "med1w": 0.16,
+    "breadth": 14.3,
+    "agg1w": 0.19,
+    "med1w": 0.0,
     "med4w": -4.77
    },
    {
     "sec": "항공",
     "n": 4,
-    "mcap": 127974.0,
+    "mcap": 133142.0,
     "up": 3,
     "dn": 1,
     "breadth": 50.0,
-    "agg1w": 3.15,
-    "med1w": 61.07,
-    "med4w": 59.52
-   },
-   {
-    "sec": "상사",
-    "n": 5,
-    "mcap": 122531.0,
-    "up": 1,
-    "dn": 3,
-    "breadth": -40.0,
-    "agg1w": -0.92,
-    "med1w": -5.08,
-    "med4w": -5.08
+    "agg1w": 9.35,
+    "med1w": 64.17,
+    "med4w": 72.04
    },
    {
     "sec": "에너지장비",
     "n": 11,
-    "mcap": 121239.0,
-    "up": 3,
+    "mcap": 121003.0,
+    "up": 4,
     "dn": 6,
-    "breadth": -27.3,
-    "agg1w": -9.33,
+    "breadth": -18.2,
+    "agg1w": -9.03,
     "med1w": -2.06,
     "med4w": -5.57
    },
    {
+    "sec": "상사",
+    "n": 5,
+    "mcap": 117651.0,
+    "up": 1,
+    "dn": 3,
+    "breadth": -40.0,
+    "agg1w": -0.96,
+    "med1w": -5.08,
+    "med4w": -5.08
+   },
+   {
     "sec": "의료기기",
     "n": 22,
-    "mcap": 104073.0,
+    "mcap": 107606.0,
     "up": 2,
     "dn": 19,
     "breadth": -77.3,
-    "agg1w": -11.94,
-    "med1w": -14.32,
-    "med4w": -16.97
+    "agg1w": -12.3,
+    "med1w": -15.71,
+    "med4w": -18.63
    },
    {
     "sec": "의류·패션",
     "n": 13,
-    "mcap": 95588.0,
-    "up": 4,
-    "dn": 8,
-    "breadth": -30.8,
-    "agg1w": -7.85,
-    "med1w": -2.29,
-    "med4w": -3.89
+    "mcap": 97427.0,
+    "up": 3,
+    "dn": 9,
+    "breadth": -46.2,
+    "agg1w": -14.73,
+    "med1w": -5.48,
+    "med4w": -8.75
    },
    {
     "sec": "호텔·레저",
     "n": 8,
-    "mcap": 69879.0,
-    "up": 3,
-    "dn": 4,
-    "breadth": -12.5,
-    "agg1w": -12.41,
-    "med1w": -1.22,
-    "med4w": -0.84
+    "mcap": 73558.0,
+    "up": 2,
+    "dn": 5,
+    "breadth": -37.5,
+    "agg1w": -13.81,
+    "med1w": -3.24,
+    "med4w": -2.59
    },
    {
     "sec": "디스플레이",
     "n": 9,
-    "mcap": 62191.0,
+    "mcap": 62444.0,
     "up": 2,
-    "dn": 6,
-    "breadth": -44.4,
-    "agg1w": -17.21,
-    "med1w": -19.59,
-    "med4w": -19.59
+    "dn": 7,
+    "breadth": -55.6,
+    "agg1w": -21.07,
+    "med1w": -38.81,
+    "med4w": -38.81
    },
    {
     "sec": "부동산",
     "n": 11,
-    "mcap": 58952.0,
+    "mcap": 59853.0,
     "up": 5,
     "dn": 5,
     "breadth": 0.0,
-    "agg1w": 9.06,
+    "agg1w": 9.01,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "상업서비스",
     "n": 6,
-    "mcap": 55895.0,
+    "mcap": 57064.0,
     "up": 2,
     "dn": 4,
     "breadth": -33.3,
-    "agg1w": -2.12,
+    "agg1w": -2.09,
     "med1w": -1.9,
     "med4w": -1.9
    },
    {
     "sec": "통신장비",
     "n": 8,
-    "mcap": 50964.0,
+    "mcap": 51460.0,
     "up": 3,
     "dn": 5,
     "breadth": -25.0,
-    "agg1w": 7.16,
+    "agg1w": 7.19,
     "med1w": -14.87,
     "med4w": -16.85
    },
    {
     "sec": "건축자재",
     "n": 4,
-    "mcap": 47257.0,
+    "mcap": 47451.0,
     "up": 1,
     "dn": 3,
     "breadth": -50.0,
-    "agg1w": -6.15,
+    "agg1w": -6.21,
     "med1w": -22.56,
     "med4w": -23.18
    },
    {
     "sec": "바이오서비스",
     "n": 5,
-    "mcap": 35134.0,
+    "mcap": 36081.0,
     "up": 1,
     "dn": 2,
     "breadth": -20.0,
-    "agg1w": -14.48,
+    "agg1w": -14.47,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "휴대폰",
     "n": 11,
-    "mcap": 30915.0,
-    "up": 5,
-    "dn": 6,
-    "breadth": -9.1,
-    "agg1w": 22.61,
-    "med1w": -7.83,
-    "med4w": -15.57
+    "mcap": 31363.0,
+    "up": 4,
+    "dn": 7,
+    "breadth": -27.3,
+    "agg1w": 19.89,
+    "med1w": -15.57,
+    "med4w": -21.8
    },
    {
     "sec": "광고",
     "n": 3,
-    "mcap": 27164.0,
+    "mcap": 27401.0,
     "up": 2,
     "dn": 1,
     "breadth": 33.3,
-    "agg1w": -5.89,
+    "agg1w": -5.92,
     "med1w": 0.35,
     "med4w": -0.99
    },
    {
     "sec": "육운",
     "n": 3,
-    "mcap": 26889.0,
-    "up": 1,
-    "dn": 2,
-    "breadth": -33.3,
-    "agg1w": -9.44,
-    "med1w": -9.63,
-    "med4w": -9.99
+    "mcap": 26918.0,
+    "up": 0,
+    "dn": 3,
+    "breadth": -100.0,
+    "agg1w": -14.79,
+    "med1w": -15.6,
+    "med4w": -15.6
    },
    {
     "sec": "소프트웨어",
     "n": 6,
-    "mcap": 11283.0,
+    "mcap": 11420.0,
     "up": 1,
     "dn": 5,
     "breadth": -66.7,
-    "agg1w": -17.39,
-    "med1w": -23.39,
-    "med4w": -30.39
+    "agg1w": -18.45,
+    "med1w": -24.97,
+    "med4w": -31.96
    },
    {
     "sec": "가구",
     "n": 3,
-    "mcap": 10427.0,
+    "mcap": 10154.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
-    "agg1w": -11.67,
+    "agg1w": -11.83,
     "med1w": -73.94,
     "med4w": -73.94
    },
    {
     "sec": "교육",
     "n": 5,
-    "mcap": 9456.0,
+    "mcap": 9374.0,
     "up": 2,
     "dn": 3,
     "breadth": -20.0,
-    "agg1w": 7.67,
+    "agg1w": 3.18,
     "med1w": -1.09,
     "med4w": -1.09
    }
@@ -2473,18 +2649,18 @@
    {
     "sec": "반도체",
     "n": 63,
-    "mcap": 22543217.0,
-    "up": 31,
-    "dn": 28,
-    "breadth": 4.8,
-    "agg1w": 0.4,
-    "med1w": 0.01,
-    "med4w": 0.91
+    "mcap": 22860378.0,
+    "up": 30,
+    "dn": 29,
+    "breadth": 1.6,
+    "agg1w": 0.24,
+    "med1w": 0.0,
+    "med4w": 1.12
    },
    {
     "sec": "은행",
     "n": 10,
-    "mcap": 1919145.0,
+    "mcap": 1898945.0,
     "up": 2,
     "dn": 6,
     "breadth": -40.0,
@@ -2495,40 +2671,51 @@
    {
     "sec": "제약",
     "n": 28,
-    "mcap": 1581228.0,
+    "mcap": 1596219.0,
     "up": 12,
     "dn": 16,
     "breadth": -14.3,
-    "agg1w": 1.25,
-    "med1w": -1.02,
-    "med4w": -1.16
+    "agg1w": 1.28,
+    "med1w": -1.42,
+    "med4w": -0.55
    },
    {
     "sec": "전기제품",
     "n": 19,
-    "mcap": 1295116.0,
+    "mcap": 1271256.0,
     "up": 6,
     "dn": 11,
     "breadth": -26.3,
-    "agg1w": -3.32,
+    "agg1w": -3.33,
     "med1w": -3.14,
-    "med4w": -3.04
+    "med4w": -2.59
    },
    {
     "sec": "조선",
     "n": 13,
-    "mcap": 940768.0,
-    "up": 5,
-    "dn": 7,
-    "breadth": -15.4,
-    "agg1w": -1.65,
-    "med1w": -1.31,
-    "med4w": -3.71
+    "mcap": 946376.0,
+    "up": 4,
+    "dn": 8,
+    "breadth": -30.8,
+    "agg1w": -1.69,
+    "med1w": -2.84,
+    "med4w": -4.83
+   },
+   {
+    "sec": "전자장비",
+    "n": 17,
+    "mcap": 922898.0,
+    "up": 8,
+    "dn": 8,
+    "breadth": 0.0,
+    "agg1w": 1.8,
+    "med1w": 0.0,
+    "med4w": -4.03
    },
    {
     "sec": "자동차",
     "n": 3,
-    "mcap": 907353.0,
+    "mcap": 896839.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
@@ -2537,119 +2724,108 @@
     "med4w": -12.55
    },
    {
-    "sec": "전자장비",
-    "n": 17,
-    "mcap": 860944.0,
-    "up": 8,
-    "dn": 8,
-    "breadth": 0.0,
-    "agg1w": 1.88,
-    "med1w": 0.0,
-    "med4w": -4.03
-   },
-   {
     "sec": "지주·복합",
     "n": 10,
-    "mcap": 805354.0,
+    "mcap": 810119.0,
     "up": 4,
     "dn": 5,
     "breadth": -10.0,
-    "agg1w": 0.4,
+    "agg1w": 0.2,
     "med1w": -1.82,
-    "med4w": 7.08
+    "med4w": 5.17
    },
    {
     "sec": "전기장비",
     "n": 14,
-    "mcap": 728568.0,
-    "up": 8,
+    "mcap": 762588.0,
+    "up": 9,
     "dn": 4,
-    "breadth": 28.6,
-    "agg1w": 1.34,
-    "med1w": 2.36,
+    "breadth": 35.7,
+    "agg1w": 1.61,
+    "med1w": 3.08,
     "med4w": 2.18
    },
    {
     "sec": "석유·가스",
     "n": 4,
-    "mcap": 727817.0,
+    "mcap": 709103.0,
     "up": 3,
     "dn": 1,
     "breadth": 50.0,
-    "agg1w": 11.08,
+    "agg1w": 12.26,
     "med1w": 9.17,
     "med4w": 18.34
    },
    {
     "sec": "방산·우주",
     "n": 11,
-    "mcap": 688793.0,
+    "mcap": 688095.0,
     "up": 0,
     "dn": 10,
     "breadth": -90.9,
-    "agg1w": -4.84,
-    "med1w": -9.58,
+    "agg1w": -3.05,
+    "med1w": -7.2,
     "med4w": -8.42
    },
    {
     "sec": "화학",
-    "n": 27,
-    "mcap": 628734.0,
-    "up": 9,
-    "dn": 17,
-    "breadth": -29.6,
-    "agg1w": -0.41,
-    "med1w": -2.19,
-    "med4w": -3.51
+    "n": 28,
+    "mcap": 627861.0,
+    "up": 8,
+    "dn": 18,
+    "breadth": -35.7,
+    "agg1w": -1.69,
+    "med1w": -2.2,
+    "med4w": -4.4
    },
    {
     "sec": "증권",
     "n": 7,
-    "mcap": 600166.0,
+    "mcap": 597638.0,
     "up": 0,
     "dn": 7,
     "breadth": -100.0,
-    "agg1w": -6.16,
+    "agg1w": -6.24,
     "med1w": -6.79,
     "med4w": -9.4
    },
    {
     "sec": "자동차부품",
     "n": 19,
-    "mcap": 542889.0,
+    "mcap": 529334.0,
     "up": 4,
     "dn": 15,
     "breadth": -57.9,
-    "agg1w": -1.56,
-    "med1w": -2.22,
+    "agg1w": -1.7,
+    "med1w": -5.58,
     "med4w": -5.87
    },
    {
     "sec": "기계",
     "n": 16,
-    "mcap": 494520.0,
-    "up": 5,
-    "dn": 10,
-    "breadth": -31.2,
-    "agg1w": -3.12,
-    "med1w": -3.46,
-    "med4w": -6.94
+    "mcap": 501154.0,
+    "up": 6,
+    "dn": 9,
+    "breadth": -18.8,
+    "agg1w": -3.54,
+    "med1w": -1.23,
+    "med4w": -6.21
    },
    {
     "sec": "IT서비스",
     "n": 19,
-    "mcap": 465880.0,
+    "mcap": 451801.0,
     "up": 9,
-    "dn": 9,
-    "breadth": 0.0,
-    "agg1w": 0.37,
-    "med1w": 0.0,
-    "med4w": -0.36
+    "dn": 10,
+    "breadth": -5.3,
+    "agg1w": -0.06,
+    "med1w": -0.82,
+    "med4w": -0.82
    },
    {
     "sec": "손해보험",
     "n": 6,
-    "mcap": 441644.0,
+    "mcap": 427790.0,
     "up": 4,
     "dn": 2,
     "breadth": 33.3,
@@ -2660,293 +2836,293 @@
    {
     "sec": "인터넷",
     "n": 4,
-    "mcap": 408837.0,
+    "mcap": 405668.0,
     "up": 0,
     "dn": 4,
     "breadth": -100.0,
-    "agg1w": -4.95,
+    "agg1w": -4.94,
     "med1w": -4.72,
     "med4w": -7.24
    },
    {
-    "sec": "통신",
-    "n": 3,
-    "mcap": 368719.0,
-    "up": 1,
-    "dn": 2,
-    "breadth": -33.3,
-    "agg1w": 0.58,
-    "med1w": -0.81,
-    "med4w": -0.81
-   },
-   {
     "sec": "건설",
     "n": 13,
-    "mcap": 352782.0,
-    "up": 4,
-    "dn": 8,
-    "breadth": -30.8,
-    "agg1w": -1.61,
-    "med1w": -1.05,
-    "med4w": -0.05
+    "mcap": 355875.0,
+    "up": 7,
+    "dn": 5,
+    "breadth": 15.4,
+    "agg1w": 0.35,
+    "med1w": 0.14,
+    "med4w": 1.9
+   },
+   {
+    "sec": "통신",
+    "n": 3,
+    "mcap": 355257.0,
+    "up": 1,
+    "dn": 1,
+    "breadth": 0.0,
+    "agg1w": 1.13,
+    "med1w": 0.02,
+    "med4w": -0.81
    },
    {
     "sec": "화장품",
     "n": 13,
-    "mcap": 320692.0,
+    "mcap": 334881.0,
     "up": 6,
     "dn": 7,
     "breadth": -7.7,
-    "agg1w": 0.34,
+    "agg1w": 0.25,
     "med1w": -0.11,
     "med4w": -0.97
    },
    {
     "sec": "철강",
     "n": 10,
-    "mcap": 283618.0,
-    "up": 5,
-    "dn": 5,
-    "breadth": 0.0,
-    "agg1w": 0.58,
-    "med1w": 0.22,
-    "med4w": -7.96
-   },
-   {
-    "sec": "식품",
-    "n": 13,
-    "mcap": 245578.0,
+    "mcap": 280270.0,
     "up": 4,
-    "dn": 7,
-    "breadth": -23.1,
-    "agg1w": -1.08,
-    "med1w": -0.16,
-    "med4w": -1.14
+    "dn": 6,
+    "breadth": -20.0,
+    "agg1w": -0.77,
+    "med1w": -1.63,
+    "med4w": -11.32
    },
    {
     "sec": "해운",
     "n": 3,
-    "mcap": 243289.0,
+    "mcap": 246258.0,
     "up": 3,
     "dn": 0,
     "breadth": 100.0,
-    "agg1w": 14.32,
+    "agg1w": 14.35,
     "med1w": 5.93,
     "med4w": 8.91
    },
    {
+    "sec": "식품",
+    "n": 13,
+    "mcap": 244955.0,
+    "up": 4,
+    "dn": 7,
+    "breadth": -23.1,
+    "agg1w": -1.06,
+    "med1w": -0.16,
+    "med4w": -1.14
+   },
+   {
     "sec": "게임",
     "n": 12,
-    "mcap": 228286.0,
-    "up": 2,
+    "mcap": 232860.0,
+    "up": 1,
     "dn": 10,
-    "breadth": -66.7,
-    "agg1w": -3.19,
+    "breadth": -75.0,
+    "agg1w": -6.34,
     "med1w": -5.53,
     "med4w": -8.35
    },
    {
     "sec": "전력",
     "n": 3,
-    "mcap": 202845.0,
+    "mcap": 203891.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
-    "agg1w": -20.23,
+    "agg1w": -20.26,
     "med1w": -10.79,
     "med4w": -9.15
    },
    {
     "sec": "비철금속",
     "n": 4,
-    "mcap": 187864.0,
+    "mcap": 185006.0,
     "up": 0,
     "dn": 4,
     "breadth": -100.0,
-    "agg1w": -13.59,
+    "agg1w": -13.58,
     "med1w": -6.91,
     "med4w": -8.48
    },
    {
-    "sec": "물류",
-    "n": 3,
-    "mcap": 169763.0,
-    "up": 1,
-    "dn": 1,
-    "breadth": 0.0,
-    "agg1w": -0.28,
-    "med1w": -0.04,
-    "med4w": 0.33
-   },
-   {
     "sec": "바이오",
     "n": 6,
-    "mcap": 169668.0,
+    "mcap": 172773.0,
     "up": 3,
     "dn": 3,
     "breadth": 0.0,
-    "agg1w": -3.78,
+    "agg1w": -3.87,
     "med1w": -12.16,
     "med4w": -1.12
    },
    {
+    "sec": "물류",
+    "n": 3,
+    "mcap": 168456.0,
+    "up": 1,
+    "dn": 1,
+    "breadth": 0.0,
+    "agg1w": -0.29,
+    "med1w": -0.04,
+    "med4w": 0.33
+   },
+   {
     "sec": "엔터·방송",
     "n": 14,
-    "mcap": 150177.0,
-    "up": 3,
-    "dn": 11,
-    "breadth": -57.1,
-    "agg1w": -4.02,
-    "med1w": -3.29,
-    "med4w": -6.81
+    "mcap": 167777.0,
+    "up": 4,
+    "dn": 10,
+    "breadth": -42.9,
+    "agg1w": -2.13,
+    "med1w": -2.67,
+    "med4w": -6.09
    },
    {
     "sec": "백화점",
     "n": 7,
-    "mcap": 142681.0,
+    "mcap": 147288.0,
     "up": 0,
-    "dn": 6,
-    "breadth": -85.7,
-    "agg1w": -3.38,
-    "med1w": -1.62,
-    "med4w": -4.68
+    "dn": 5,
+    "breadth": -71.4,
+    "agg1w": -3.1,
+    "med1w": -1.57,
+    "med4w": -4.47
    },
    {
     "sec": "항공",
     "n": 4,
-    "mcap": 127974.0,
-    "up": 2,
-    "dn": 2,
-    "breadth": 0.0,
-    "agg1w": 0.37,
-    "med1w": -2.6,
-    "med4w": -0.99
-   },
-   {
-    "sec": "상사",
-    "n": 5,
-    "mcap": 122531.0,
-    "up": 0,
-    "dn": 4,
-    "breadth": -80.0,
-    "agg1w": -0.89,
-    "med1w": -1.26,
-    "med4w": -1.26
+    "mcap": 133142.0,
+    "up": 1,
+    "dn": 3,
+    "breadth": -50.0,
+    "agg1w": -2.88,
+    "med1w": -4.31,
+    "med4w": 1.97
    },
    {
     "sec": "에너지장비",
     "n": 11,
-    "mcap": 121239.0,
-    "up": 6,
+    "mcap": 121003.0,
+    "up": 7,
     "dn": 4,
-    "breadth": 18.2,
-    "agg1w": -1.48,
-    "med1w": 1.91,
+    "breadth": 27.3,
+    "agg1w": -1.17,
+    "med1w": 2.82,
     "med4w": 2.82
+   },
+   {
+    "sec": "상사",
+    "n": 5,
+    "mcap": 117651.0,
+    "up": 0,
+    "dn": 4,
+    "breadth": -80.0,
+    "agg1w": -0.92,
+    "med1w": -1.26,
+    "med4w": -1.26
    },
    {
     "sec": "의료기기",
     "n": 22,
-    "mcap": 104073.0,
-    "up": 3,
+    "mcap": 107606.0,
+    "up": 4,
     "dn": 16,
-    "breadth": -59.1,
-    "agg1w": -7.64,
+    "breadth": -54.5,
+    "agg1w": -5.92,
     "med1w": -7.28,
     "med4w": -9.97
    },
    {
     "sec": "의류·패션",
     "n": 12,
-    "mcap": 93492.0,
+    "mcap": 95311.0,
     "up": 4,
     "dn": 7,
     "breadth": -25.0,
-    "agg1w": -2.53,
-    "med1w": -0.95,
-    "med4w": -1.18
+    "agg1w": -3.7,
+    "med1w": -0.99,
+    "med4w": -1.94
    },
    {
     "sec": "호텔·레저",
     "n": 8,
-    "mcap": 69879.0,
+    "mcap": 73558.0,
     "up": 2,
     "dn": 5,
     "breadth": -37.5,
-    "agg1w": -1.08,
+    "agg1w": -2.1,
     "med1w": -1.69,
     "med4w": -2.98
    },
    {
     "sec": "디스플레이",
     "n": 9,
-    "mcap": 62191.0,
+    "mcap": 62444.0,
     "up": 2,
-    "dn": 5,
-    "breadth": -33.3,
-    "agg1w": -4.12,
+    "dn": 6,
+    "breadth": -44.4,
+    "agg1w": -4.22,
     "med1w": -6.04,
     "med4w": -13.69
    },
    {
     "sec": "부동산",
     "n": 11,
-    "mcap": 60105.0,
+    "mcap": 61057.0,
     "up": 2,
     "dn": 5,
     "breadth": -27.3,
-    "agg1w": -0.9,
+    "agg1w": -0.97,
     "med1w": 0.0,
     "med4w": 0.0
    },
    {
     "sec": "상업서비스",
     "n": 6,
-    "mcap": 55895.0,
+    "mcap": 57064.0,
     "up": 3,
     "dn": 3,
     "breadth": 0.0,
-    "agg1w": 4.95,
+    "agg1w": 5.01,
     "med1w": 0.05,
     "med4w": 0.05
    },
    {
     "sec": "통신장비",
     "n": 7,
-    "mcap": 49608.0,
+    "mcap": 50085.0,
     "up": 4,
     "dn": 3,
     "breadth": 14.3,
-    "agg1w": 10.14,
+    "agg1w": 10.21,
     "med1w": 0.72,
     "med4w": 2.8
    },
    {
     "sec": "건축자재",
     "n": 4,
-    "mcap": 47257.0,
+    "mcap": 47451.0,
     "up": 0,
     "dn": 4,
     "breadth": -100.0,
-    "agg1w": -9.71,
+    "agg1w": -9.73,
     "med1w": -14.53,
     "med4w": -14.7
    },
    {
     "sec": "바이오서비스",
     "n": 5,
-    "mcap": 35134.0,
+    "mcap": 36081.0,
     "up": 1,
     "dn": 3,
     "breadth": -40.0,
-    "agg1w": -6.5,
+    "agg1w": -6.52,
     "med1w": -8.84,
     "med4w": -8.84
    },
    {
     "sec": "광고",
     "n": 3,
-    "mcap": 27164.0,
+    "mcap": 27401.0,
     "up": 0,
     "dn": 3,
     "breadth": -100.0,
@@ -2955,57 +3131,57 @@
     "med4w": -1.95
    },
    {
-    "sec": "육운",
-    "n": 3,
-    "mcap": 26889.0,
-    "up": 1,
-    "dn": 2,
-    "breadth": -33.3,
-    "agg1w": -4.8,
-    "med1w": -1.33,
-    "med4w": -1.79
-   },
-   {
     "sec": "휴대폰",
     "n": 9,
-    "mcap": 26602.0,
+    "mcap": 27071.0,
     "up": 3,
     "dn": 5,
     "breadth": -22.2,
-    "agg1w": -6.44,
+    "agg1w": -6.72,
     "med1w": -3.44,
     "med4w": -4.93
    },
    {
+    "sec": "육운",
+    "n": 3,
+    "mcap": 26918.0,
+    "up": 0,
+    "dn": 3,
+    "breadth": -100.0,
+    "agg1w": -9.07,
+    "med1w": -20.09,
+    "med4w": -20.09
+   },
+   {
     "sec": "소프트웨어",
     "n": 6,
-    "mcap": 11283.0,
-    "up": 1,
-    "dn": 5,
-    "breadth": -66.7,
-    "agg1w": -7.99,
-    "med1w": -15.08,
-    "med4w": -15.08
+    "mcap": 11420.0,
+    "up": 2,
+    "dn": 4,
+    "breadth": -33.3,
+    "agg1w": -7.48,
+    "med1w": -12.03,
+    "med4w": -12.03
    },
    {
     "sec": "가구",
     "n": 3,
-    "mcap": 10427.0,
+    "mcap": 10154.0,
     "up": 1,
     "dn": 2,
     "breadth": -33.3,
-    "agg1w": -9.91,
+    "agg1w": -9.93,
     "med1w": -9.17,
     "med4w": -9.29
    },
    {
     "sec": "교육",
     "n": 5,
-    "mcap": 9456.0,
+    "mcap": 9374.0,
     "up": 2,
     "dn": 3,
     "breadth": -20.0,
-    "agg1w": 5.0,
+    "agg1w": 5.14,
     "med1w": -0.62,
     "med4w": -0.62
    }
@@ -3018,138 +3194,138 @@
    "kospi": [
     [
      "외국인",
-     181288.0,
+     -300661.0,
      0.0,
-     181288.0
+     -300661.0
     ],
     [
      "기관",
-     -45322.0,
-     -88702.0,
-     43379.0
+     -10263.0,
+     -15970.0,
+     5706.0
     ],
     [
      "개인",
-     -20165.0,
-     -18.0,
-     -20146.0
+     8394.0,
+     0.0,
+     8394.0
     ],
     [
      "금융투자",
-     -79386.0,
-     -79899.0,
-     513.0
+     3284.0,
+     7936.0,
+     -4652.0
     ],
     [
      "연기금",
-     46445.0,
-     -8803.0,
-     55249.0
+     -4495.0,
+     -23906.0,
+     19411.0
     ],
     [
      "투신",
-     953.0,
+     -15421.0,
      0.0,
-     953.0
+     -15421.0
     ]
    ],
    "kosdaq": [
     [
      "외국인",
-     -30903.0,
+     -165680.0,
      0.0,
-     -30903.0
+     -165680.0
     ],
     [
      "기관",
-     23326.0,
-     11487.0,
-     11838.0
+     25235.0,
+     6513.0,
+     18722.0
     ],
     [
      "개인",
-     4100.0,
+     6005.0,
      0.0,
-     4100.0
+     6005.0
     ],
     [
      "금융투자",
-     11973.0,
-     11487.0,
-     485.0
+     10239.0,
+     6513.0,
+     3726.0
     ],
     [
      "연기금",
-     -1920.0,
+     1788.0,
      0.0,
-     -1920.0
+     1788.0
     ],
     [
      "투신",
-     15858.0,
+     10958.0,
      0.0,
-     15858.0
+     10958.0
     ]
    ]
   },
-  "asof": "11/18 16:05",
+  "asof": "11/19 16:05",
   "flows": {
    "fut": {
     "label": "코스피200 선물",
     "foreign": {
-     "qty": -323.0,
-     "amt": -68127.0
+     "qty": 28.0,
+     "amt": 5781.0
     },
     "indiv": {
-     "qty": -292.0,
-     "amt": -59065.0
+     "qty": 66.0,
+     "amt": 13057.0
     },
     "inst": {
-     "qty": 630.0,
-     "amt": 129907.0
+     "qty": -193.0,
+     "amt": -38469.0
     },
     "fininv": {
-     "qty": -2422.0,
-     "amt": -471113.0
+     "qty": -923.0,
+     "amt": -182111.0
     },
     "trust": {
-     "qty": 2908.0,
-     "amt": 572086.0
+     "qty": 459.0,
+     "amt": 91071.0
     },
     "pension": {
-     "qty": 30.0,
-     "amt": 6585.0
+     "qty": 254.0,
+     "amt": 49387.0
     },
     "bank": {
-     "qty": 5.0,
-     "amt": 1048.0
+     "qty": -4.0,
+     "amt": -787.0
     },
     "insure": {
-     "qty": 117.0,
-     "amt": 22883.0
+     "qty": 21.0,
+     "amt": 3972.0
     }
    },
    "call": {
     "label": "코스피200 콜",
     "foreign": {
-     "qty": 1000.0,
-     "amt": 321.0
+     "qty": 972.0,
+     "amt": -393.0
     },
     "indiv": {
-     "qty": -1110.0,
-     "amt": -879.0
+     "qty": -2618.0,
+     "amt": -459.0
     },
     "inst": {
-     "qty": 502.0,
-     "amt": 604.0
+     "qty": 1239.0,
+     "amt": 855.0
     },
     "fininv": {
-     "qty": 502.0,
-     "amt": 604.0
+     "qty": 1246.0,
+     "amt": 878.0
     },
     "trust": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -7.0,
+     "amt": -24.0
     },
     "pension": {
      "qty": 0.0,
@@ -3167,24 +3343,24 @@
    "put": {
     "label": "코스피200 풋",
     "foreign": {
-     "qty": 2629.0,
-     "amt": -1044.0
+     "qty": -466.0,
+     "amt": -879.0
     },
     "indiv": {
-     "qty": -3114.0,
-     "amt": -1149.0
+     "qty": 464.0,
+     "amt": 615.0
     },
     "inst": {
-     "qty": 489.0,
-     "amt": 2206.0
+     "qty": 57.0,
+     "amt": 248.0
     },
     "fininv": {
-     "qty": 459.0,
-     "amt": 2196.0
+     "qty": 81.0,
+     "amt": 311.0
     },
     "trust": {
-     "qty": 30.0,
-     "amt": 10.0
+     "qty": -24.0,
+     "amt": -64.0
     },
     "pension": {
      "qty": 0.0,
@@ -3202,28 +3378,28 @@
    "wcall_thu": {
     "label": "위클리 콜(목)",
     "foreign": {
-     "qty": 1487.0,
-     "amt": 486.0
+     "qty": 1278.0,
+     "amt": 493.0
     },
     "indiv": {
-     "qty": 250.0,
-     "amt": -264.0
+     "qty": 10237.0,
+     "amt": -880.0
     },
     "inst": {
-     "qty": -1609.0,
-     "amt": -77.0
+     "qty": -12639.0,
+     "amt": 482.0
     },
     "fininv": {
-     "qty": -1609.0,
-     "amt": -77.0
+     "qty": -12539.0,
+     "amt": 757.0
     },
     "trust": {
      "qty": 0.0,
      "amt": 0.0
     },
     "pension": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -100.0,
+     "amt": -275.0
     },
     "bank": {
      "qty": 0.0,
@@ -3237,28 +3413,28 @@
    "wput_thu": {
     "label": "위클리 풋(목)",
     "foreign": {
-     "qty": 943.0,
-     "amt": -343.0
+     "qty": -4825.0,
+     "amt": -808.0
     },
     "indiv": {
-     "qty": -139.0,
-     "amt": 368.0
+     "qty": 14905.0,
+     "amt": 1272.0
     },
     "inst": {
-     "qty": -761.0,
-     "amt": 8.0
+     "qty": -10858.0,
+     "amt": -320.0
     },
     "fininv": {
-     "qty": -761.0,
-     "amt": 8.0
+     "qty": -10958.0,
+     "amt": -766.0
     },
     "trust": {
      "qty": 0.0,
      "amt": 0.0
     },
     "pension": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": 100.0,
+     "amt": 446.0
     },
     "bank": {
      "qty": 0.0,
@@ -3272,24 +3448,24 @@
    "wcall_mon": {
     "label": "위클리 콜(월)",
     "foreign": {
-     "qty": 16.0,
-     "amt": 52.0
+     "qty": -243.0,
+     "amt": -148.0
     },
     "indiv": {
-     "qty": -13.0,
-     "amt": -43.0
+     "qty": 602.0,
+     "amt": 337.0
     },
     "inst": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -239.0,
+     "amt": -134.0
     },
     "fininv": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -173.0,
+     "amt": 81.0
     },
     "trust": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -66.0,
+     "amt": -215.0
     },
     "pension": {
      "qty": 0.0,
@@ -3307,20 +3483,20 @@
    "wput_mon": {
     "label": "위클리 풋(월)",
     "foreign": {
-     "qty": -66.0,
-     "amt": 23.0
+     "qty": 515.0,
+     "amt": 38.0
     },
     "indiv": {
-     "qty": 63.0,
-     "amt": -15.0
+     "qty": -328.0,
+     "amt": 27.0
     },
     "inst": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -18.0,
+     "amt": -3.0
     },
     "fininv": {
-     "qty": 0.0,
-     "amt": 0.0
+     "qty": -18.0,
+     "amt": -3.0
     },
     "trust": {
      "qty": 0.0,
@@ -3342,24 +3518,24 @@
    "mfut": {
     "label": "미니 선물",
     "foreign": {
-     "qty": 748.0,
-     "amt": 28860.0
+     "qty": 1342.0,
+     "amt": 53108.0
     },
     "indiv": {
-     "qty": -86.0,
-     "amt": -3270.0
+     "qty": -1079.0,
+     "amt": -42686.0
     },
     "inst": {
-     "qty": -621.0,
-     "amt": -23964.0
+     "qty": -216.0,
+     "amt": -8586.0
     },
     "fininv": {
-     "qty": -435.0,
-     "amt": -16677.0
+     "qty": -369.0,
+     "amt": -14597.0
     },
     "trust": {
-     "qty": -233.0,
-     "amt": -9144.0
+     "qty": 153.0,
+     "amt": 6011.0
     },
     "pension": {
      "qty": 0.0,
@@ -3370,384 +3546,384 @@
      "amt": 0.0
     },
     "insure": {
-     "qty": 7.0,
-     "amt": 275.0
+     "qty": 0.0,
+     "amt": 0.0
     }
    },
    "kq_fut": {
     "label": "코스닥150 선물",
     "foreign": {
-     "qty": -10707.0,
-     "amt": -115556.0
+     "qty": -10868.0,
+     "amt": -117635.0
     },
     "indiv": {
-     "qty": -19.0,
-     "amt": 234.0
+     "qty": 3578.0,
+     "amt": 40533.0
     },
     "inst": {
-     "qty": 10734.0,
-     "amt": 115415.0
+     "qty": 7020.0,
+     "amt": 74049.0
     },
     "fininv": {
-     "qty": -8653.0,
-     "amt": -96018.0
+     "qty": 5561.0,
+     "amt": 57954.0
     },
     "trust": {
-     "qty": 18947.0,
-     "amt": 206642.0
+     "qty": 1461.0,
+     "amt": 16096.0
     },
     "pension": {
-     "qty": 290.0,
-     "amt": 3167.0
-    },
-    "bank": {
-     "qty": 150.0,
-     "amt": 1625.0
-    },
-    "insure": {
      "qty": 0.0,
      "amt": 0.0
+    },
+    "bank": {
+     "qty": 0.0,
+     "amt": 22.0
+    },
+    "insure": {
+     "qty": -2.0,
+     "amt": -22.0
     }
    },
    "spot_kospi": {
     "label": "코스피 현물",
     "foreign": {
-     "qty": -300.0,
-     "amt": -331759.0
+     "qty": -1870.0,
+     "amt": -438394.0
     },
     "indiv": {
-     "qty": -3995.0,
-     "amt": -633618.0
+     "qty": -2525.0,
+     "amt": -15279.0
     },
     "inst": {
-     "qty": 2084.0,
-     "amt": 505041.0
+     "qty": 2440.0,
+     "amt": 3294.0
     },
     "fininv": {
-     "qty": 2945.0,
-     "amt": 311927.0
+     "qty": 2331.0,
+     "amt": 94174.0
     },
     "trust": {
-     "qty": 13.0,
-     "amt": 221430.0
+     "qty": 87.0,
+     "amt": 16314.0
     },
     "pension": {
-     "qty": -216.0,
-     "amt": 66046.0
+     "qty": 124.0,
+     "amt": -53297.0
     },
     "bank": {
-     "qty": 128.0,
-     "amt": -4630.0
+     "qty": 22.0,
+     "amt": -116.0
     },
     "insure": {
-     "qty": -55.0,
-     "amt": -22317.0
+     "qty": 86.0,
+     "amt": 26527.0
     }
    },
    "spot_kosdaq": {
     "label": "코스닥 현물",
     "foreign": {
-     "qty": 8531.0,
-     "amt": -45639.0
+     "qty": -4035.0,
+     "amt": -182152.0
     },
     "indiv": {
-     "qty": -12493.0,
-     "amt": -123121.0
+     "qty": 468.0,
+     "amt": 43775.0
     },
     "inst": {
-     "qty": 4121.0,
-     "amt": 176806.0
+     "qty": 3046.0,
+     "amt": 141214.0
     },
     "fininv": {
-     "qty": 3341.0,
-     "amt": 90199.0
+     "qty": 1463.0,
+     "amt": 37508.0
     },
     "trust": {
-     "qty": 824.0,
-     "amt": 56726.0
+     "qty": 877.0,
+     "amt": 52910.0
     },
     "pension": {
-     "qty": 719.0,
-     "amt": 36080.0
+     "qty": 285.0,
+     "amt": 21236.0
     },
     "bank": {
-     "qty": -300.0,
-     "amt": -3647.0
+     "qty": -116.0,
+     "amt": -989.0
     },
     "insure": {
-     "qty": 121.0,
-     "amt": 4540.0
+     "qty": 113.0,
+     "amt": 8423.0
     }
    }
   },
   "fut": {
    "code": "A01612",
    "name": "F 202612",
-   "px": 786.45,
-   "chg": 2.51,
-   "theo": 789.29,
-   "oi": 165997.0,
-   "vol": 128156.0,
-   "dte": 23.0
+   "px": 793.85,
+   "chg": 0.94,
+   "theo": 797.27,
+   "oi": 167897.0,
+   "vol": 109813.0,
+   "dte": 22.0
   },
   "opt": {
    "month": "202612",
    "exp": "2026-12-10",
-   "dte": 22,
-   "iv": 0.507649,
-   "em": 12.5,
+   "dte": 21,
+   "iv": 0.456239,
+   "em": 10.9,
    "mxc": 800.0,
-   "mxp": 750.0,
-   "spot": 787.71,
-   "pcr_oi": 1.46,
+   "mxp": 800.0,
+   "spot": 795.88,
+   "pcr_oi": 1.06,
    "mp": 800.0,
    "cw": 800.0,
-   "pw": 750.0,
-   "gex": -219,
+   "pw": 775.0,
+   "gex": -29,
    "oi": [
-    [
-     745.0,
-     7.0,
-     304.0,
-     0,
-     7.0
-    ],
-    [
-     747.5,
-     2.0,
-     11.0,
-     0,
-     5.0
-    ],
-    [
-     750.0,
-     1137.0,
-     4798.0,
-     12.0,
-     4.0
-    ],
     [
      752.5,
      1.0,
-     20.0,
-     1.0,
-     0
+     22.0,
+     0,
+     2.0
     ],
     [
      755.0,
      4.0,
-     32.0,
-     1.0,
-     17.0
+     36.0,
+     0,
+     4.0
     ],
     [
      757.5,
      1.0,
-     13.0,
+     15.0,
      0,
-     0
+     2.0
     ],
     [
      760.0,
-     38.0,
-     646.0,
-     30.0,
-     12.0
+     85.0,
+     703.0,
+     47.0,
+     57.0
     ],
     [
      762.5,
      39.0,
-     13.0,
+     15.0,
      0,
-     0
+     2.0
     ],
     [
      765.0,
      5.0,
      50.0,
      0,
-     -5.0
+     0
     ],
     [
      767.5,
      2.0,
      23.0,
-     1.0,
+     0,
      0
     ],
     [
      770.0,
-     84.0,
-     590.0,
+     113.0,
+     615.0,
      29.0,
-     5.0
+     25.0
     ],
     [
      772.5,
-     7.0,
+     8.0,
      24.0,
-     4.0,
-     4.0
-    ],
-    [
-     775.0,
-     76.0,
-     1451.0,
-     9.0,
-     96.0
-    ],
-    [
-     777.5,
-     188.0,
-     111.0,
-     104.0,
-     42.0
-    ],
-    [
-     780.0,
-     881.0,
-     1277.0,
-     17.0,
-     86.0
-    ],
-    [
-     782.5,
-     189.0,
-     143.0,
-     72.0,
-     77.0
-    ],
-    [
-     785.0,
-     57.0,
-     297.0,
-     34.0,
-     195.0
-    ],
-    [
-     787.5,
-     129.0,
-     97.0,
-     35.0,
-     31.0
-    ],
-    [
-     790.0,
-     126.0,
-     198.0,
-     49.0,
-     29.0
-    ],
-    [
-     792.5,
-     665.0,
-     145.0,
-     68.0,
-     71.0
-    ],
-    [
-     795.0,
-     95.0,
-     201.0,
-     4.0,
-     1.0
-    ],
-    [
-     797.5,
-     118.0,
-     136.0,
-     0,
-     0
-    ],
-    [
-     800.0,
-     3437.0,
-     3453.0,
-     190.0,
-     17.0
-    ],
-    [
-     802.5,
-     56.0,
-     35.0,
-     0,
-     0
-    ],
-    [
-     805.0,
-     347.0,
-     259.0,
-     -3.0,
-     -1.0
-    ],
-    [
-     807.5,
-     145.0,
-     231.0,
-     0,
-     0
-    ],
-    [
-     810.0,
-     176.0,
-     177.0,
-     97.0,
-     18.0
-    ],
-    [
-     812.5,
-     55.0,
-     42.0,
-     13.0,
-     0
-    ],
-    [
-     815.0,
-     2038.0,
-     238.0,
      1.0,
      0
     ],
     [
-     817.5,
-     77.0,
-     55.0,
+     775.0,
+     78.0,
+     1448.0,
+     2.0,
+     -3.0
+    ],
+    [
+     777.5,
+     199.0,
+     116.0,
+     11.0,
+     5.0
+    ],
+    [
+     780.0,
+     927.0,
+     1284.0,
+     46.0,
+     7.0
+    ],
+    [
+     782.5,
+     195.0,
+     149.0,
+     6.0,
+     6.0
+    ],
+    [
+     785.0,
+     60.0,
+     300.0,
+     3.0,
+     3.0
+    ],
+    [
+     787.5,
+     134.0,
+     99.0,
+     5.0,
+     2.0
+    ],
+    [
+     790.0,
+     254.0,
+     245.0,
+     128.0,
+     47.0
+    ],
+    [
+     792.5,
+     746.0,
+     324.0,
+     81.0,
+     179.0
+    ],
+    [
+     795.0,
+     169.0,
+     268.0,
+     74.0,
+     67.0
+    ],
+    [
+     797.5,
+     159.0,
+     177.0,
+     41.0,
+     41.0
+    ],
+    [
+     800.0,
+     3627.0,
+     3479.0,
+     190.0,
+     26.0
+    ],
+    [
+     802.5,
+     62.0,
+     35.0,
      6.0,
      0
     ],
     [
+     805.0,
+     350.0,
+     259.0,
+     3.0,
+     0
+    ],
+    [
+     807.5,
+     146.0,
+     231.0,
+     1.0,
+     0
+    ],
+    [
+     810.0,
+     231.0,
+     185.0,
+     55.0,
+     8.0
+    ],
+    [
+     812.5,
+     62.0,
+     42.0,
+     7.0,
+     0
+    ],
+    [
+     815.0,
+     2042.0,
+     238.0,
+     4.0,
+     0
+    ],
+    [
+     817.5,
+     81.0,
+     55.0,
+     4.0,
+     0
+    ],
+    [
      820.0,
-     409.0,
-     532.0,
-     59.0,
-     35.0
+     441.0,
+     533.0,
+     32.0,
+     1.0
     ],
     [
      822.5,
-     47.0,
+     50.0,
      79.0,
-     -1.0,
+     3.0,
      0
     ],
     [
      825.0,
-     226.0,
-     186.0,
-     49.0,
-     2.0
+     230.0,
+     196.0,
+     4.0,
+     10.0
+    ],
+    [
+     827.5,
+     104.0,
+     70.0,
+     6.0,
+     0
+    ],
+    [
+     830.0,
+     328.0,
+     489.0,
+     99.0,
+     34.0
+    ],
+    [
+     832.5,
+     292.0,
+     146.0,
+     2.0,
+     0
     ]
    ]
   },
   "note": "출처: 한국투자증권 Open API. 금액은 백만원 단위 원자료를 억원으로 바꿔 표시합니다. 장중 값은 누적 잠정치이고, 15분마다 쌓은 값으로 흐름을 그립니다.",
   "read": [
-   "맥스페인(800.0)이 현재가보다 1.6% 위에 있습니다. 옵션 매수자 손실이 가장 커지는 가격이라, 만기가 가까울수록 이쪽으로 끌린다는 해석이 자주 쓰입니다(늘 맞지는 않습니다).",
-   "풋 미결제가 가장 많은 행사가 750.0(-4.8%)는 하방 방어선으로, 콜 미결제가 가장 많은 행사가 800.0(+1.6%)는 상방 목표·저항으로 자주 읽힙니다.",
-   "딜러 감마가 음수(-219억원)입니다. 오르면 딜러가 따라 사고 내리면 따라 파는 구조라, 움직임이 커지기 쉬운 구간입니다.",
-   "풋/콜 미결제 비율 1.46: 풋이 콜보다 훨씬 많습니다. 하락 대비(헤지) 수요가 크다는 뜻이고, 과하면 역발상(바닥) 신호로 보기도 합니다.",
-   "옵션 가격이 반영한 만기(22일 뒤)까지의 예상 변동폭은 약 ±12.5% (689.2 ~ 886.2, 1표준편차)입니다."
+   "맥스페인(800.0)이 현재가보다 0.5% 위에 있습니다. 옵션 매수자 손실이 가장 커지는 가격이라, 만기가 가까울수록 이쪽으로 끌린다는 해석이 자주 쓰입니다(늘 맞지는 않습니다).",
+   "풋 미결제가 가장 많은 행사가(800.0)가 현재가보다 위에 있습니다. 이미 내가격인 풋이 많다는 뜻으로, 현물 보유자의 헤지가 상당히 깔려 있는 상태로 읽힙니다.",
+   "딜러 감마가 음수(-29억원)입니다. 오르면 딜러가 따라 사고 내리면 따라 파는 구조라, 움직임이 커지기 쉬운 구간입니다.",
+   "풋/콜 미결제 비율 1.06: 콜과 풋이 비슷한 중립 수준입니다.",
+   "옵션 가격이 반영한 만기(21일 뒤)까지의 예상 변동폭은 약 ±10.9% (709.1 ~ 882.6, 1표준편차)입니다."
   ],
   "trend": {
-   "days": 2,
+   "days": 3,
    "flow_cols": [
     "오늘",
     "최근 5일",
@@ -3757,108 +3933,108 @@
    "flows": [
     [
      "외국인 선물",
-     -681,
-     2356,
-     2356,
-     2356
+     58,
+     2810,
+     2810,
+     2810
     ],
     [
      "개인 선물",
-     -591,
-     1721,
-     1721,
-     1721
+     131,
+     2068,
+     2068,
+     2068
     ],
     [
      "기관 선물",
-     1299,
-     -4161,
-     -4161,
-     -4161
+     -385,
+     -5173,
+     -5173,
+     -5173
     ],
     [
      "외국인 콜",
-     3,
-     -17,
-     -17,
-     -17
+     -4,
+     -21,
+     -21,
+     -21
     ],
     [
      "개인 콜",
-     -9,
-     0,
-     0,
-     0
+     -5,
+     -5,
+     -5,
+     -5
     ],
     [
      "기관 콜",
-     6,
-     18,
-     18,
-     18
+     9,
+     27,
+     27,
+     27
     ],
     [
      "외국인 풋",
-     -10,
-     -7,
-     -7,
-     -7
+     -9,
+     -16,
+     -16,
+     -16
     ],
     [
      "개인 풋",
-     -11,
-     -20,
-     -20,
-     -20
+     6,
+     -14,
+     -14,
+     -14
     ],
     [
      "기관 풋",
-     22,
-     28,
-     28,
-     28
+     2,
+     32,
+     32,
+     32
     ],
     [
      "외국인 미니 선물",
-     289,
-     557,
-     557,
-     557
+     531,
+     1083,
+     1083,
+     1083
     ],
     [
      "개인 미니 선물",
-     -33,
-     -29,
-     -29,
-     -29
+     -427,
+     -428,
+     -428,
+     -428
     ],
     [
      "기관 미니 선물",
-     -240,
-     -450,
-     -450,
-     -450
+     -86,
+     -554,
+     -554,
+     -554
     ],
     [
      "외국인 코스피 현물",
-     -3318,
-     -17790,
-     -17790,
-     -17790
+     -4384,
+     -21991,
+     -21991,
+     -21991
     ],
     [
      "개인 코스피 현물",
-     -6336,
-     -2022,
-     -2022,
-     -2022
+     -153,
+     -2457,
+     -2457,
+     -2457
     ],
     [
      "기관 코스피 현물",
-     5050,
-     10402,
-     10402,
-     10402
+     33,
+     10599,
+     10599,
+     10599
     ]
    ],
    "cols": [
@@ -3870,7 +4046,7 @@
     [
      "코스피200",
      2,
-     787.71,
+     795.88,
      null,
      null,
      null
@@ -3878,7 +4054,7 @@
     [
      "선물 미결제약정 (계약)",
      0,
-     165997.0,
+     167897.0,
      null,
      null,
      null
@@ -3886,7 +4062,7 @@
     [
      "베이시스 (선물−이론가)",
      2,
-     -2.839999999999918,
+     -3.419999999999959,
      null,
      null,
      null
@@ -3894,7 +4070,7 @@
     [
      "풋/콜 미결제",
      2,
-     1.46,
+     1.06,
      null,
      null,
      null
@@ -3918,7 +4094,7 @@
     [
      "풋 미결제 최대 행사가",
      1,
-     750.0,
+     800.0,
      null,
      null,
      null
@@ -3926,7 +4102,7 @@
     [
      "딜러 감마 (억원/1%)",
      0,
-     -219,
+     -29,
      null,
      null,
      null
@@ -3937,56 +4113,56 @@
    {
     "s": "^VIX9D",
     "n": "VIX 9일",
-    "px": 26.7,
-    "chg": 15.334779
+    "px": 23.95,
+    "chg": -10.299625
    },
    {
     "s": "^VIX",
     "n": "VIX 1개월",
-    "px": 25.46,
-    "chg": 11.130507
+    "px": 24.56,
+    "chg": -3.5349555
    },
    {
     "s": "^VIX3M",
     "n": "VIX 3개월",
-    "px": 24.98,
-    "chg": 8.514331
+    "px": 24.29,
+    "chg": -2.7622044
    },
    {
     "s": "^VIX6M",
     "n": "VIX 6개월",
-    "px": 25.37,
-    "chg": 6.6414456
+    "px": 24.75,
+    "chg": -2.4438345
    },
    {
     "s": "^VVIX",
     "n": "VVIX (VIX의 변동성)",
-    "px": 121.28,
-    "chg": 6.1717544
+    "px": 118.37,
+    "chg": -2.399403
    },
    {
     "s": "^SKEW",
     "n": "SKEW (꼬리 위험)",
-    "px": 145.11,
-    "chg": -0.8337328
+    "px": 142.84,
+    "chg": -1.5643334
    },
    {
     "s": "^VXN",
     "n": "VXN (나스닥100)",
-    "px": 34.44,
-    "chg": 4.680842
+    "px": 33.12,
+    "chg": -50.976906
    },
    {
     "s": "^OVX",
     "n": "OVX (원유)",
-    "px": 49.9,
-    "chg": 0.6251288
+    "px": 49.67,
+    "chg": -50.115498
    },
    {
     "s": "^MOVE",
     "n": "MOVE (미 국채)",
-    "px": 101.8774,
-    "chg": 0.58746755
+    "px": 98.1535,
+    "chg": -3.6552756
    }
   ]
  }
