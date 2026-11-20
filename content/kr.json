@@ -1,244 +1,263 @@
 {
- "asof": "11/19 (목) 장 마감",
+ "asof": "11/20 (금) 장 마감",
  "summary": [
-  "수능일로 오전 10시에 개장한 코스피는 46.55포인트(0.92%) 오른 5,113.99로 마감해 이틀 연속 5,000선 위에서 끝났습니다. 장 초반 기관·외국인 매도에 한때 5,000선 아래로 밀렸지만 곧 5,090선을 회복했고 오후 들어 5,100선 위로 올라섰습니다. 코스닥은 2.51% 오른 679.42로 코스피보다 강했고, 코스피200은 1.04% 오른 795.88입니다. 상승 1,569 · 하락 941로 오른 종목이 많았고 52주 신고가 13 · 신저가 193입니다.",
-  "가장 큰 재료는 한한령 해제 기대였습니다. 스튜디오드래곤(+29.96%)이 상한가를 기록했고 CJ ENM +28.11%, 하이브 +13.45%, 에스엠 +7.96%로 엔터주가 급등했습니다. 여행·레저·유통에서도 제주항공(+10.93%, 52주 신고가)·파라다이스(+10.6%)·신세계(+10.09%)·호텔신라(+9.73%)가 크게 올랐고, 화장품 업종은 달바글로벌(+12.62%)을 앞세워 4.69%(1주 +6.9%) 상승했습니다. 대한항공(+3.67%)도 신고가입니다.",
-  "반도체 업종은 1.66% 올랐습니다. SK하이닉스 +3.06%, SK스퀘어 +4.44%와 달리 삼성전자는 +0.46%, 삼성전자우는 -1.14%로 투톱의 흐름이 갈렸고, 장비·소재 중소형주가 크게 뛰었습니다(GST +17.32%, 하나머티리얼즈 +15.26%, 테스 +15.19%, 피에스케이 +11.2%, 프로텍 +11.2%, 브이엠 +10.84%, HPSP +10.83%). 전자장비(+6.53%)에서는 삼성전기가 8.77% 올라 이틀째 강했고 전기장비도 4.53% 올랐습니다. 다만 반도체 업종은 1주 기준 여전히 -6.0%입니다.",
-  "반대로 통신(-3.33%)·손해보험(-2.9%)·석유·가스(-2.43%)·IT서비스(-2.41%)·자동차부품(-1.81%)·은행(-1.1%)이 밀렸습니다. NHN -9.99%, 삼성에스디에스 -7.36%, 에스엘 -6.49%(1주 -18.9%), SK가스 -5.83%, SK이노베이션 -5.77%, S-Oil -5.42%, 현대해상 -5.01%, KT -4.65%, 현대모비스 -4.63%, 한미약품 -4.45%, 삼성화재 -4.24%입니다.",
-  "외국인은 코스피에서 4,374억원을 순매도해 5거래일 연속 팔았고(20거래일 누적 -14조 6,476억원), 기관은 +34억원, 개인은 -163억원이었습니다. 프로그램 비차익에서 외국인이 3,007억원을 팔아 전날 순매수(+1,813억원)에서 다시 매도로 돌아섰습니다. 원·달러 환율은 3.0원 내린 1,330.0원(15:30 기준)이고 국고 3년물 금리는 0.7bp 내렸습니다. 장 마감 후 뉴욕에서는 앤트로픽 상장 첫날 S&P500이 2.02%, 나스닥이 2.25% 내렸습니다."
+  "코스피는 267.93포인트(5.21%) 내린 4,869.96으로 마감해 5,000선과 4,900선을 한꺼번에 내줬습니다. 코스닥은 39.13포인트(5.71%) 내린 645.68, 코스피200은 5.53% 내린 755.34입니다. 오전에 코스피가 4.95%까지 밀리며 매도 사이드카가 발동됐고, 언론은 '또 검은 금요일'이라고 표현했습니다. 상승 296 · 하락 2,274로 거의 전 종목이 내렸고 52주 신고가 9 · 신저가 438입니다.",
+  "충격은 미국 AI·반도체에서 왔습니다. 전날 밤 앤트로픽 상장일에 필라델피아 반도체지수가 2.41% 내린 데 이어 아시아에서도 소프트뱅크G가 15%, TSMC가 5% 빠지는 등 반도체주가 동반 급락했습니다. 반도체 업종은 6.88%(1주 -10.6%) 내렸고 삼성전자 -6.91%, SK하이닉스 -6.0%, 삼성전자우 -8.44%, SK스퀘어 -7.85%, 한미반도체 -10.73%입니다. 소부장 중소형주는 더 크게 밀려 이수페타시스 -16.39%, 티에스이 -14.75%, 리노공업 -14.61%, 파두 -14.04%, 이오테크닉스 -14.03%, 원익IPS -13.95%, 피에스케이 -13.8%입니다.",
+  "전자장비(-10.72%)에서는 삼성전기가 12.2%, 대덕전자가 13.68% 내렸고 통신(-7.38%, SK텔레콤 -12.72%)·전기장비(-7.26%)·기계(-6.57%, HD건설기계 -13.25%)·생명보험(-6.34%)·건설(-6.14%)·석유·가스(-5.47%)·비철금속(-5.63%)도 크게 빠졌습니다. 두산은 14.05%, 한화비전은 12.05% 내렸습니다. 업종 30개 중 항공(+3.33%, 1주 +8.6%)만 올랐고, 은행(-0.13%)·게임(-0.17%)·제약(-0.99%)이 그나마 버텼습니다.",
+  "오른 종목은 소수였습니다. 한진칼이 9.26% 올라 52주 신고가를 기록했고 한미약품 +6.52%, 카카오게임즈 +4.06%, 크래프톤 +2.74%, 한국전력 +1.19%입니다. 한한령 완화 기대가 남은 스튜디오드래곤(+2.92%, 1주 +37.2%)·에스엠(+2.84%)·제주항공(+2.51%)·노랑풍선(+11.11%)도 하락장에서 올랐습니다.",
+  "외국인은 코스피에서 1조 1,341억원, 기관은 9,505억원을 순매도했고 개인이 1조 5,958억원을 사들였습니다. 외국인은 6거래일 연속 순매도로 20거래일 누적 -14조 7,740억원이고, 프로그램 비차익에서만 1조 1,424억원을 팔았습니다. 원·달러 환율은 6.2원 오른 1,336.2원(15:30 기준), 국고 3년물 금리는 4.9bp 내렸습니다. 장 마감 후 뉴욕에서는 나스닥이 5.28%, 필라델피아 반도체지수가 10.73% 폭락했고 역외 원·달러는 1,345.79원까지 올랐습니다(한국시간 11/21 06:34 기준)."
  ],
  "ideas": {
-  "asof": "2026-11-19 장 마감 기준 · 아이디어 6개",
+  "asof": "2026-11-20 장 마감 기준 · 아이디어 6개",
   "items": [
    {
     "kind": "hot",
-    "title": "한한령 해제 기대: 엔터·여행·면세·화장품 동반 급등",
+    "title": "AI 쇼크 '검은 금요일': 코스피 -5.2%, 매도 사이드카",
     "strength": 5,
-    "trend": "신규",
-    "thesis": "한중 관계 개선과 한한령 해제 기대에 중국 소비 관련주가 한꺼번에 올랐습니다. 스튜디오드래곤 상한가(+29.96%), CJ ENM +28.11%, 하이브 +13.45%(거래대금 7위), 에스엠 +7.96%로 엔터가 앞장섰고, 제주항공 +10.93%·파라다이스 +10.6%·신세계 +10.09%·호텔신라 +9.73%·달바글로벌 +12.62%가 뒤따랐습니다. 화장품 업종은 +4.69%, 1주 +6.9%입니다.",
-    "why": "근거: 상승률 상위 20개 중 엔터·여행·유통·화장품이 9개, 관련 특징주 기사 다수(스튜디오드래곤·노랑풍선 상한가, 하나투어 +18%). 약점: '기대' 단계의 재료이고 정책 발표 내용은 digest에서 확인되지 않습니다. 이익 추정치는 엔터·방송(올해 가중 -10.3%, 상향 3·하향 10)·화장품(상향 3·하향 8) 모두 하향 우위입니다.",
-    "codes": [
-     "253450",
-     "035760",
-     "352820",
-     "041510",
-     "089590",
-     "034230",
-     "004170",
-     "008770",
-     "483650"
-    ],
-    "evidence": [
-     {
-      "d": "11/19",
-      "t": "한한령 해제 기대감에…스튜디오드래곤 상한가",
-      "s": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56NW83YUhieHE2OF9HcEtuS0o0WTZiOWNoMkEyV1lKYXdmaWxzUTJGcEtVMUt5TjFwdTVtRFotZTdsVVdSLVNTSHI4Z2lxWGg2NlVVQ1dqcFY1N0tMS0RMaHJtbldrYm8?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "[특징주] 한한령 해제 기대에 여행주 급등…노랑풍선 ‘상한가’·하나투어 18%↑",
-      "s": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDJaYjhLMnZKT2loS1diQ1VBMzBITXNoZzFXYkExRDZXSTg5RVVxcERoczhTSnhJVjE2X0FjdWR3Y2FxVGNjM0hST1F1aDRJQ21oVjZlXzE4cDdEMXRTbFZ5OEpHNUprTmVUb1VKcUhlSGphN29mbW9zZ3VBLV9KSWd4SllCaXJz0gGcAUFVX3lxTFA5WmZpN0tYUm5RX2hlUHJhY20xZWxMTUNLVjRySm1iOVY4QmpJeEM3SWhPOG9BQnFUVVdVeXlkQ0lNdDBrQVRRMGZhajRlV3pzM0lDdWpIUGd0ZGJpbVo0Tm5UOU43ZEFSZ0x3aWttbUxuenNvUUNKdE9EOXAyZWZsaE5YamlXd0xqVnNPTzFtMm5kb3ZsUEhTMGpYTA?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "한중 관계 개선에 화장품주 '방긋'…한국화장품, 상한가 - 머니투데이",
-      "s": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oY3BSUlp0WURPWVEySThrUVF5Sk16TTl6MEpaQWRsY2FxS2NUSXJYY0VqTGlpWnB0RkpISFhKbVVsMG84dlcwTGNHN3hkY1dlUTdVZ1I5NElZaHVxalZ4LXlUckR3bkR1bG9IR0RUVkVhWkx6NFHSAXtBVV95cUxPQmdwT0htWVRRSFpIWVZTUDZndFktYUhNSm1XVUxfOGoyOC13Z0o4VzlMMTBBeXIxaTBDejlHODJPZlhCY3hGd1c4ekFLQ0cwRWtnR1A2S3ZmYjc2SktuUXA4WFhqZ0ozVjR2T3pWRjhTYTg0OGpmRlFCTGM?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "5천피 또 내줬는데 엔터·여행주는 상한가…’한한령 수혜주’ 적정주가로 따져보니",
-      "s": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0NXM5TEZTb3FGRkhpaGJCbTZqLVlHempzREtlcWM5Z0d4cllLc0t5cTJYWUZLaVhpSDdTRGQxVUdPQXdNbFlEWTBRQ2RMWjRWLTBGM2tPWm9IQ2JwOXh5bG01Y1RVY25pQVJNMC1SRzM?oc=5"
-     }
-    ],
-    "risks": [
-     "구체적 정책 발표 없이 기대가 식을 경우 급락 반전",
-     "단기 급등에 따른 차익 매물"
-    ],
-    "checks": [
-     "엔터·여행주 거래대금 유지 여부",
-     "한중 관계 관련 후속 발표"
-    ]
-   },
-   {
-    "kind": "hot",
-    "title": "반도체 장비 중소형주 급등, 대형주는 SK하이닉스만 강세",
-    "strength": 4,
-    "trend": "유지",
-    "thesis": "반도체 업종이 1.66% 오르는 동안 장비·소재주가 두 자릿수로 뛰었습니다(GST +17.32%, 하나머티리얼즈 +15.26%, 테스 +15.19%, 피에스케이 +11.2%, 프로텍 +11.2%, 브이엠 +10.84%, HPSP +10.83%). 대형주는 SK하이닉스 +3.06%(거래대금 1위)·SK스퀘어 +4.44%가 올랐지만 삼성전자 +0.46%, 삼성전자우 -1.14%로 '투톱 희비'가 갈렸습니다.",
-    "why": "근거: 상승률 상위 20개 중 반도체 7개, 수출 1조달러 달성 기사에서도 '웃는 건 반도체뿐'. 약점: 반도체 업종 1주 -6.0%, 올해 EPS 추정치는 상향 23·하향 36으로 하향 우위이고, 장 마감 후 필라델피아 반도체지수가 2.41% 내렸습니다.",
-    "codes": [
-     "083450",
-     "166090",
-     "095610",
-     "319660",
-     "053610",
-     "089970",
-     "403870",
-     "000660",
-     "402340",
-     "005930"
-    ],
-    "evidence": [
-     {
-      "d": "11/19",
-      "t": "수능날 반도체 투톱 '희비'…삼전은 주춤, 하닉은 꿋꿋",
-      "s": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQnFZZ2ZuX0NEbkszWkNKNWdrOTNTc0FWZjZ2YTNuMXlrUDN1OTlIdnd0c0xUTlB4VzAwYV83akRrYnFNcEw4SVNNdWo0bW1VM0NhNUMtUDJtQkNhNkdZMHhoZjJlbFVvMTRuajRRa28yZkdmYm5ZNtIBeEFVX3lxTE9PQnFZZ2ZuX0NEbkszWkNKNWdrOTNTc0FWZjZ2YTNuMXlrUDN1OTlIdnd0c0xUTlB4VzAwYV83akRrYnFNcEw4SVNNdWo0bW1VM0NhNUMtUDJtQkNhNkdZMHhoZjJlbFVvMTRuajRRa28yZkdmYm5ZNg?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "수출 1조달러 달성에도 웃는 건 반도체뿐…증시 온기 확산이 과제 - 머니투데이",
-      "s": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6WGtOWDJNeThBV1N5YVIxbWhLYnpiME1vYmJTc3U1ZHJRUm42enJ3MEYxeWJMQXZLeElEZEVzRDdZNnlfSnctM2JweFBMN01lSmVJeWVVRXVwMGlkd0psejhVVXIxTk440gFuQVVfeXFMT0xiNHd6WnFzOTI3dmFHWDlaWVQ2R1VyWkJUYkxUQ2NDcllyU09Cc3JWWHVXa3BEdzFONWczYzVTY3c0YnFpbTlVYmZuSG5UR1B1N25wd1dCTHlQdEpIT2UyVjFKcC13YzA1TUhNNHc?oc=5"
-     }
-    ],
-    "risks": [
-     "미국 AI 반도체 약세(AMD -7.7%, 엔비디아 -3.3%)가 20일 개장에 반영될 경우",
-     "중소형 장비주 급등 후 차익 매물"
-    ],
-    "checks": [
-     "SK하이닉스와 삼성전자 간 격차 지속 여부",
-     "장비주 거래대금 유지 여부"
-    ]
-   },
-   {
-    "kind": "hot",
-    "title": "외국인 5거래일 연속 순매도, 비차익도 다시 매도",
-    "strength": 4,
     "trend": "강화",
-    "thesis": "외국인은 코스피에서 4,374억원을 순매도해 5거래일 연속 팔았습니다. 전날 +1,813억원 순매수였던 프로그램 비차익이 -3,007억원으로 다시 매도로 바뀌어 바스켓 매도도 재개됐습니다. 20거래일 누적 순매도는 14조 6,476억원이고 코스닥에서도 1,808억원을 팔았습니다. 지수 상승은 외국인이 아니라 기관(+34억원)·기타 주체와 테마 수급이 받친 모양입니다.",
-    "why": "근거: 외국인 현물 -4,374억원 + 비차익 -3,007억원 + 코스닥150 선물 -10,868계약. 약점: 코스피200 선물은 +28계약(+58억원), 미니 선물은 +1,342계약(+531억원)으로 소폭 순매수라 선물 쪽 방향은 엇갈립니다.",
+    "thesis": "미국 AI·반도체 급락 충격에 코스피가 5.21% 내린 4,869.96, 코스닥이 5.71% 내린 645.68로 마감했습니다. 오전에 매도 사이드카가 발동됐고, 하락 종목 2,274개는 상승(296개)의 7.7배, 52주 신저가는 438개입니다. 업종 30개 중 29개가 내렸습니다.",
+    "why": "근거: 코스피·코스닥 5%대 동반 급락, '시장 참여자 매수 의지 약해져' 평가, 장 마감 후 나스닥 -5.28%·필라델피아 반도체 -10.73%. 약점: 자문사 CEO 3명 중 2명은 내년 코스피 7,000 이상을 전망하는 등 중기 전망은 아직 낙관 쪽이 많습니다.",
     "codes": [
      "005930",
-     "000660",
-     "005935",
-     "006400"
+     "000660"
     ],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "코스피 하루 만에 다시 5000선 아래로…외국인 5거래일 연속 순매도",
-      "s": "진일보 | 전남일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiQW1va29mWWV4eHRDX21CblgzWklMaFMwWlZaOHAxT1JOR01Rb0xUamRVa0Y0Zi1maWdQbk1ONllTNXNVa21iVVRrN3FhS25CeWR6TndiTkJfSGJZaWpabUp1aTdMR3MtNjlKTVQtTQ?oc=5"
+      "d": "11/20",
+      "t": "[속보] 또 ‘검은 금요일’…코스피·코스닥 5%대 급락 마감",
+      "s": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaVlZKWFBWZnVrbkgtLUdhd1pzM1ZHTGV1c2dwaXJMV0JJbWJvYV9ZSy04VVVBeDVxdzJJSkRnZ0hodUlmaXgxWVFZcUprTkJ1VThJeDVn?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "코스피, 기관‧외국인 매도에 장중 5000선 내줘",
+      "d": "11/20",
+      "t": "[오전시황] 코스피 4.95% 급락…매도 사이드카 발동, 상한가는 3종목",
+      "s": "중기이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0Z29nLVVhZnhjTGozdmVwdkRMUEhGd0FHMVFFU3NXemctcWY3QmFQU18xWnl1MGZPcnNPUWlXaTFkbFcxdko4S2JCVmFua1k1NUY4RnNCRnZqU1F4dlFueUtlOW0xT2trTnc?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "코스피·코스닥 5% 하락 마감…\"시장 참여자 매수 의지 약해져\"",
       "s": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1YTJrUGFDTFB0OVdiOGc5OS16a0JNaENldkFOMTRYNWZoMXBwUDU1TTRxSmE5YVhXZDFKak43X3BtR2VHTjdFeldZMHNvSXptLTdRQXpLeHZWeW1acVNvT1BR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OSkhHOHl1VUFramxZWmpaX2NzbUIwbFdmMXl0WDA3cGVSaUNzMGxvM0NVODRtdTc3YVVDaWpKZjdlb2x5Q29XajlBTUF5b3p4bkVOZXB0MDFYN3R2SDdoSEJB?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "코스피, 외국인 매수에 5090선 회복…코스닥도 상승 By EBN",
-      "s": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54QVJPcmhHT1hCTXpYMG5tTDRrZUlMbGNxblA1TV9fQ25rOEZZWlM2b0JXLUFnQi03M1ZJRkhnRW5iRTQxakllTk03WkVsYzZmRDRhVXdvbVNhVDBEMzBRSVpfbUYtbk9DSnBrSTBoUDc?oc=5"
+      "d": "11/20",
+      "t": "미국 AI·반도체 급락 충격과 코스피 5,000선 방어전",
+      "s": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RGFOZEFjSjdvMDVmTkxFNVRFaFIzbkl0eVRXRXh3d2xlRGRLYnZmY1pOSGxaQTNMUlpkbFQ5SzhMVm1PdGJhNXhseDl1U0pCaTFUS19Jal9Hdw?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "코스피 5,000선 무너졌는데…자문사 CEO 3명 중 2명 \"내년 7,000 이상\"",
+      "s": "뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00eHAwanRZTkZyR2ZUVWxNQmo4RlluUmxsYTFkSmVSZWlTTjluMWFNTjBSUTFKUzFGOGlmZGQtQmpscmpNMFBqby11bHpVQjFBRFlfeHRHWUNMaVBHcFE?oc=5"
      }
     ],
     "risks": [
-     "뉴욕 급락 후 외국인 매도가 1조원대로 다시 커질 경우"
+     "주말 사이 뉴욕 폭락(나스닥 -5.28%)이 다음 주 개장에 추가 반영",
+     "신용·반대매매 물량"
     ],
     "checks": [
-     "외국인 비차익 순매수 복귀 여부",
-     "외국인 코스피200 선물 누적 포지션"
+     "코스피 4,800선 지지 여부",
+     "사이드카 재발동 여부"
     ]
    },
    {
-    "kind": "watch",
-    "title": "삼성전기 이틀째 급등, 전자장비 업종 +6.5%",
-    "strength": 3,
-    "trend": "유지",
-    "thesis": "엔비디아 협력 확대 소식으로 전날 급등한 삼성전기가 이날도 8.77% 올라 거래대금 3위를 기록했고, 전자장비 업종은 6.53% 올라 시총 상위 업종 중 가장 강했습니다. 1주 기준으로도 -0.6%까지 회복해 지난주 낙폭을 대부분 되돌렸습니다.",
-    "why": "근거: 전자장비 +6.53%(전날 +5.48%), 삼성전기 거래대금 3위. 약점: 전자장비 올해 EPS 추정치는 상향 5·하향 9(4주 중앙값 -9.85%)로 아직 하향 우위입니다.",
+    "kind": "hot",
+    "title": "반도체 소부장 투매: 이수페타시스 -16%, 장비주 -12~15%",
+    "strength": 5,
+    "trend": "강화",
+    "thesis": "전날 두 자릿수로 뛰었던 반도체 장비·소재 중소형주가 하루 만에 급락으로 돌아섰습니다. 이수페타시스 -16.39%, 티에스이 -14.75%, 리노공업 -14.61%, 파두 -14.04%, 이오테크닉스 -14.03%, 원익IPS -13.95%, 피에스케이 -13.8%(전날 +11.2%), 테스 -12.83%(전날 +15.19%), 한미반도체 -10.73%이고 하락률 상위 20개 중 14개가 반도체입니다. 대형주도 삼성전자 -6.91%(1주 -11.0%), SK하이닉스 -6.0%, 삼성전기 -12.2%입니다.",
+    "why": "근거: 아시아 반도체주 동반 급락(소프트뱅크G -15%, TSMC -5%), 반도체 업종 1주 -10.6%. 약점: '4대 초대형 팹으로 소부장 황금기'라는 업황 기대 기사도 있고, 반도체 내년 EPS 추정치는 상향 30·하향 29로 균형(+1.6%)입니다.",
     "codes": [
+     "007660",
+     "131290",
+     "058470",
+     "440110",
+     "039030",
+     "240810",
+     "319660",
+     "095610",
+     "042700",
+     "005930",
+     "000660",
      "009150"
     ],
     "evidence": [
      {
-      "d": "11/18",
-      "t": "코스피, 기관 매수세에 5060선 상승 마감...엔비디아 협력 확대 삼성전기 ‘급등’",
-      "s": "한국증권신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55Q1N2NGxOWnpzSEFhZ3h2ODFubUZOQmIwaU1kNkg5bVNyelduS204RWQ0MFZ2VnRKZnFnTnBiNWtZWm5MbmpuV2x2T0hQcEJ4SnFNdkUxWWtSbEw1Skt0NXRfb1E0dWtiUjJJ?oc=5"
+      "d": "11/20",
+      "t": "亞 반도체주 급락…日 SBG 15%↓ 臺 TSMC 5%↓ |",
+      "s": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12NGhnanhNN3pLd0F5eDh0SjFSRjVSWnlMQzVfNElnUC11ZnRDVU9lWjdQRmtVOTh5TUh6aVR0bUhZUlZNQXkxbE5FbnQxMGY5Rk11bVZBMEU5TE1qTTNVZFlXUHFzaEZwZ1NnZUlxWEVOdEJa?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "\"29만전자 vs 69만전자\"…반도체株 목표주가 엇갈리는 이유",
+      "s": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zN0hEb0JnenRObUtaTzlKWEtTWkNVNUd0d1o4ZHl1REtNaXpYMTNOd3RsT2dOd1hlZEJ2X0UwTTBOeHhaT09lTk9FRmtFWW8wVmJLbzBrbHg2UQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "\"美 AI 주가에 흔들리지 마라\"…국내 반도체 소부장, 4대 초대형 팹으로 '황금기' 온다",
+      "s": "프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSWprRmRqZlJleVY4RjItb3d2ODYyYjJWc05iMlh4WUktd1ZsRFB2b2ZLZ01oQ3gteHhfakdSNHc3SlJDTm5nbGdQNjN1ZFhBdEhBZ3ZGa3JNM19jbjZSOA?oc=5"
      }
     ],
     "risks": [
-     "이틀 연속 급등 후 차익 실현",
-     "미국 AI 하드웨어주 약세 전이"
+     "미국 반도체 -10.7% 폭락분이 다음 거래일 반영",
+     "장비주 신용 물량"
     ],
     "checks": [
-     "삼성전기 1주 수익률 플러스 전환 여부",
-     "엔비디아 관련 후속 보도"
+     "SK하이닉스·삼성전자 외국인 매도 강도",
+     "소부장 거래대금 유지 여부"
     ]
    },
    {
-    "kind": "watch",
-    "title": "방어 업종 약세: 통신·보험·정유·IT서비스",
-    "strength": 3,
-    "trend": "신규",
-    "thesis": "하락장에서 방파제 역할을 했다는 평가를 받던 금융·방어 업종이 테마 장세에서 밀렸습니다. 통신 -3.33%(KT -4.65%), 손해보험 -2.9%(현대해상 -5.01%, 삼성화재 -4.24%), 석유·가스 -2.43%(SK이노베이션 -5.77%, S-Oil -5.42%), IT서비스 -2.41%(NHN -9.99%, 삼성에스디에스 -7.36%), 은행 -1.1%입니다.",
-    "why": "근거: 하락률 상위 20개 중 통신·보험·정유·IT서비스가 9개. 약점: 개별 하락 이유 기사는 digest에 없고, 석유·가스는 올해 EPS 추정치 가중 +6.57%·내년 +12.26%로 상향 폭이 가장 큰 업종입니다.",
+    "kind": "hot",
+    "title": "외국인 1.1조·기관 0.95조 매도, 개인 1.6조 받아",
+    "strength": 4,
+    "trend": "강화",
+    "thesis": "외국인은 코스피에서 1조 1,341억원을 팔아 6거래일 연속 순매도했고(20거래일 누적 -14조 7,740억원), 기관도 9,505억원을 팔았습니다. 개인이 1조 5,958억원을 순매수했습니다. 프로그램 비차익에서 외국인이 1조 1,424억원을 팔아 바스켓 매도가 현물 매도의 대부분을 차지했고, 투신도 비차익 -282억원입니다. 코스닥에서도 외국인 -1,711억원, 기관 -1,080억원입니다.",
+    "why": "근거: '외국인·기관 2조원대 매도' 보도, 외국인 10월 코스피 25조원 순매도에 이은 두 달째 매도. 약점: 외국인은 코스피200 선물 +504계약(+923억원)·미니 선물 +1,649계약, 코스닥150 선물 +16,252계약으로 선물은 순매수해 방향이 엇갈립니다.",
     "codes": [
-     "030200",
-     "001450",
-     "000810",
-     "096770",
-     "010950",
-     "181710",
-     "018260"
+     "005930",
+     "000660",
+     "005935",
+     "402340"
     ],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "반도체 반토막 났는데 금융주는 하락장 방파제 역할 '톡톡'",
-      "s": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZSDZYeHAwaEZOdWpPLXIzLW8xdGRwLW9sZlhwRnBXWWR6bVFYUkxjbzRpQmNwX3p2RllsSWNQdXU1NVgweTRMRmUtcDVhUkVmRjVGeF9DRGNYQkdkbnFrTVZzZks?oc=5"
+      "d": "11/20",
+      "t": "코스피, 외국인·기관 2조원대 매도에 급락…4900선 붕괴",
+      "s": "스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DVHFRZldqOV91bFU0b1c5SE95bzNoQ2NFdWJlNWh1MEtObXdQQ3ZWYVcwTVNaTVlBODVFZzNZemJyb2VXUWdsbTZSZlJqT3NWc1FuMzMyYnQtLThUS3dxY1FaanMtdFlRcDc4aERzM3RURVHSAXdBVV95cUxPMDM4MTlia2w1WEV1X1BuRGUyRGFlT0E3ZWxjeEhZOTcwdUw5OUlzdmwxQUw1V292aGFkRDZ0QlVWSko3SFgzWU5ZUXRoWFBOUWtGb0syc3RESWQ5RTdjeXpOVXZqeXJCTnB3emhGRDh0QVVwYXJNcw?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "[오전시황] 외국인·기관 1조원 넘게 팔았다…코스피 장중 4900선 하회",
+      "s": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEc3EwTW5VSEZXd2RfYU5YWXI0cnlzNDYtZXhjUlpLMHh1TmEyUGVQRmd0Ym44WDhUSlhsbXVkY2trdmpTNW9lNDNkbDl6Z1lkOW9DZU5XbHdqQQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "외국인, 10월 코스피서 '25조' 던졌다…두 달 연속 순매도",
+      "s": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jSTVsOW5mdWlLUWY0VjVZRTVYZmlYRTdGYUFZWlVsbUxkREFUd2FwQ0dST2J4Y3o2NnpvZDdnNGd3c1pNZi1pa0pwY2xhMEE4MVlldGZNcjNsTDVrR0NPcUQ2bTllaE5ob2ZWZWdNMNIBc0FVX3lxTE9fLUloeGE0WEFxeGtNdW1wR0toY084ZXl3Y1BFQW02R3dFLXg5a05EWEJTSnVsc0RKLTZ6ajI4R0tvRkZSRnlzZTAxRk1lUlZQZ2pORndudnVUQ1lkMjgwa3ZXV0Z1QldPeklIVG51V2VhVDQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "외국인, 10월 K주식 26조 더 팔았다…두 달째 순매도",
+      "s": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wYk0zd0g3aWcxMFZlVG5GaERWT3UxT2Q5ZDdmdnNRMFVnTXh6OWRnRVowUEx5b0F1RDNzNG5xQWxTcWJOTVd3Z2tFRFNMeEMtU3lZdmFTMEFadw?oc=5"
      }
     ],
     "risks": [
-     "테마 장세가 식으면 방어주로 다시 순환"
+     "MSCI·글로벌 펀드 위험 축소 매도 지속"
     ],
     "checks": [
-     "통신·보험 업종 1주 수익률",
-     "정유주 추정치 상향과 주가 괴리"
+     "외국인 비차익 매도 규모 변화",
+     "개인 순매수 지속 여부"
+    ]
+   },
+   {
+    "kind": "contra",
+    "title": "한한령 기대주·항공은 하락장에서도 상승",
+    "strength": 3,
+    "trend": "약화",
+    "thesis": "시장이 5% 넘게 빠진 날에도 중국 관련 기대주와 항공은 올랐습니다. 스튜디오드래곤 +2.92%(1주 +37.2%), 에스엠 +2.84%(1주 +25.7%), 제주항공 +2.51%(1주 +25.1%), 노랑풍선 +11.11%이고, 한진칼은 9.26% 올라 신고가를 썼습니다. 항공 업종은 +3.33%(1주 +8.6%)로 유일한 상승 업종입니다. 다만 전날 상한가 수준이던 상승폭은 크게 줄었습니다.",
+    "why": "근거: 한국화장품 상한가 이후 18%대 상승 등 '한한령 완화 기대' 특징주 기사가 이어짐. 약점: 정책 발표 내용은 digest에서 확인되지 않고, 엔터·방송 올해 EPS 추정치는 상향 3·하향 10, 1주 중앙값 -20.5%로 하향 우위입니다.",
+    "codes": [
+     "253450",
+     "041510",
+     "089590",
+     "104620",
+     "180640"
+    ],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "[특징주] 한국화장품, 상한가 이어 18%대 상승…한한령 완화 기대",
+      "s": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FTlc2a0U3QWJ2WFhYXzQwUDdWS0poLTk4Ym9sZWthcHhWWGVBMkdScHp4TVlkTzZDODkyZlhlUUxVRWwwbjBJM25nYjBNeHp4T3FDTg?oc=5"
+     },
+     {
+      "d": "11/19",
+      "t": "줄줄이 상한가 찍은 엔터주, 10년 만에 한한령 풀리나?",
+      "s": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LczcyalVOY3pDYUFVY2NFSnYzQWtHbzF5aE92MlJhRFBBRVh2azBkRjVMTkp2dEpIODZwSkpMaFJDSkFCQzdXejVaSFNGOWxNVUVDdkFxOW8?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "\"시진핑 덕에 웃었다\"…상한가 파티에 개미들 환호 [분석+]",
+      "s": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CZVJ2bTJmQWI0QzNOamFtRzNlemdkYm01Y2ZEbWhuUmg2QVFDSGVtZVlKSkF1VkJyM0QwYm1DVXZ3bkJwQXlvUXpzOHpIN0tBUXlVOXQtWDVRQQ?oc=5"
+     }
+    ],
+    "risks": [
+     "기대가 식을 경우 단기 급등분 반납"
+    ],
+    "checks": [
+     "엔터·여행주 거래대금",
+     "한중 관계 후속 발표"
     ]
    },
    {
     "kind": "watch",
-    "title": "원·달러 1,330원, 국고채 금리 하락 지속",
-    "strength": 2,
+    "title": "환율 1,336원·국고 3년 -4.9bp: 위험회피 강화",
+    "strength": 3,
     "trend": "유지",
-    "thesis": "원·달러 환율은 3.0원 내린 1,330.0원(15:30 기준)으로 이틀 연속 내렸습니다. 외국인이 국채선물을 순매수하며 국고 3년물 금리는 0.7bp 내렸고, 미국의 추가 인상 경고에도 10년물 금리가 내려 '엇갈린 신호'라는 평가가 나왔습니다.",
-    "why": "근거: 환율 1,333.0원 → 1,330.0원, 국고 3년 -0.7bp, 외국인 국채선물 순매수. 약점: 주식 현물에서는 외국인이 5일째 팔고 있어 원화 강세가 주식 매수로 이어지지 않았고, 장 마감 후 뉴욕 급락으로 위험회피가 커질 수 있습니다.",
+    "thesis": "원·달러 환율은 강달러와 주가 급락에 6.2원 오른 1,336.2원(15:30 기준)으로 마감했고, 장 마감 뒤 역외에서는 1,345.79원까지 올랐습니다. 국고 3년물 금리는 코스피 급락과 대외 금리 하락에 4.9bp 내렸습니다. 같은 날 밤 미국 10년물은 4.912%(-14.0bp)로 떨어졌습니다.",
+    "why": "근거: 환율 상승·금리 하락이 동시에 나타난 전형적인 위험회피 흐름. 약점: WGBI 편입 효과가 끝나고 외국인이 국채를 순매도로 돌아섰다는 보도가 있어 금리 하락이 이어질지는 불확실합니다.",
     "codes": [],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "[외환] 원/달러 환율 3.0원 내린 1,330.0원(15:30 기준가)",
-      "s": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93SlF1YzdNY1JUVDRMXzkwQ3hJcVpCSWZad1FsV1BjVUhLWks3NG5QQ1NfdzZ6YVF5MkpIb2tzdW9MQjF4OFp4RU5JVWdlSGVWaHc?oc=5"
+      "d": "11/20",
+      "t": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
+      "s": "연합뉴스 한민족센터",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aeUwzWUdKLUFTaHVjSFd0cmxibl9wSjlVaUMtQ1liWWZDTVFjS2xab1BPdmFXeWRMdUZqWHhBdDg3ZjloQm9GOXVPUVZsTW9SckUxTG4xZTZTU0VwYkwwWk14MkEyeC1wU3RTNTdiTm1QMlh3?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "外人 국채선물 순매수·코스피 하락에 강세…국고 3년 0.7bp↓",
+      "d": "11/20",
+      "t": "코스피 4%대 급락·대외금리 내림세…국고 3년 4.9bp↓",
+      "s": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnSjJCYkhRMXp0LXdFRE14N1hQSGx4Rl9SSFpPX2VUQTYyLWZnd3FDQjhtckZJSWQ5cnZwX1ZidzZUOHZYZkV4bVZzdkpRUVpnY2loMWhtZFpBVW9OejMtMWxuaFlYY3hSUjBidkxlUUI?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "WGBI 특수 끝난 국채시장 … 외국인 순매도 전환에 금리·환율 촉각",
+      "s": "뉴데일리 경제",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZSGp6LUZLT0oxVHJlSEJTZ3BoYjVzZ0NvSTdkT2ZfSGNVZmRZTGlZVUlhb2RmVXc1ZXpxeVQ5cEpfSzBqMml6Um9IUU4tNE9sckpIS0F5S21kVTFtQlFiZDZWZlZPOTlvSmN2by1WQ0NIbjUzVEFDSzRUONIBgAFBVV95cUxPUFdFa0FYZDFnUlhuV0lyYXFlOVM0ZWYxenZuY0NTS1VNeEwzRzVGZmZZSXdqSElIU0hrcDk1NFJnRkppdFF0TVRmS1NGMDgyRFRucXJvelpsMFkzWGpxLUdJV0xkelJKbmY2TmhuVEYtajJTSjdjYV9UZzVybFk4MQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "[환율 전망] 쟁여두기엔 너무 많은 달러",
       "s": "KB Think",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlZnJIMzU1bWREd1I2SHN1NWo2aE9zN2R1OTZXRkJqMk1vUF91NTZ1WmFzMDJieEVtNWlSeTFwaUhjQUhJZEpxRUJuTUItSFN3ZmdQMjQ3T0tTTUZ1NE15dkdZTUhNajZHUU4wRlgxVHNWZw?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "美 추가 인상 경고에도 10년물 금리는 하락…국고채 시장 엇갈린 신호 By EBN",
-      "s": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHVzVsMTRvV0lRa19qdXgzbFFKT0VUX05UdmFYS0hUcXZNNHdXc3JuWWZXelJLSFprYUw3RUpvakhzamM0LUV5VG80OEY0NlczTkd4OWY2b3h0RFNYQjRxakVrS1FoLXBZMVdjTE5QWk4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMlpLT1BTYkpZRU1hc004WTZsZUJZSVZkUmlCTHBlRXk1b3l1dGNqNDRtX3JOelFTQ0lnUkNMYkJfSEZLajhpOTFoMmZybm1LVXNiVGg0U3lFWEkzLUtFOQ?oc=5"
      }
     ],
     "risks": [
-     "뉴욕 급락 후 환율 반등"
+     "환율 1,350원 접근 시 외국인 현물 매도 압력"
     ],
     "checks": [
-     "환율 1,330원 유지 여부",
-     "외국인 국채선물·주식 매매 방향 일치 여부"
+     "다음 주 원·달러 개장가",
+     "국고 3년물 추가 하락 여부"
+    ]
+   },
+   {
+    "kind": "watch",
+    "title": "풋 미결제 급증(P/C 2.79), 딜러 감마 다시 음수 확대",
+    "strength": 3,
+    "trend": "신규",
+    "thesis": "코스피200 12월물 옵션의 풋/콜 미결제 비율이 2.79로 전날(1.06)보다 크게 뛰었고, 미결제가 가장 많은 행사가는 콜·풋 모두 750(현물 755.34 대비 -0.7%)으로 내려왔습니다. 딜러 감마는 -488억원/1%로 전날(-29억원)보다 음수 폭이 커졌고, 옵션 내재 예상 변동은 만기(12/10)까지 ±11.9%입니다.",
+    "why": "근거: 풋 750 미결제 4,616계약 등 하방 헤지 집중, 베이시스 -3.95p로 확대. 약점: 외국인은 선물을 순매수(+504계약)했고 맥스페인은 775로 현물보다 2.6% 위에 있어 되돌림 해석도 가능합니다.",
+    "codes": [],
+    "evidence": [],
+    "risks": [
+     "750 하향 이탈 시 감마 음수로 낙폭 확대"
+    ],
+    "checks": [
+     "풋/콜 미결제 비율 추이",
+     "베이시스 정상화 여부"
     ]
    }
   ]
@@ -247,95 +266,107 @@
   {
    "d": "12/10 (목)",
    "t": "코스피200 12월물 선물·옵션 만기",
-   "s": "옵션 맥스페인 800 · 콜·풋 최대 미결제 800 · 아래쪽 풋 775"
+   "s": "맥스페인 775 · 콜·풋 최대 미결제 750 · 위쪽 콜 780"
   }
  ],
  "reasons": {
-  "253450": [
+  "005930": [
    [
     "뉴스",
-    "한한령 해제 기대감에 상한가"
-   ]
-  ],
-  "035760": [
+    "미국 AI·반도체 급락 충격"
+   ],
    [
     "뉴스",
-    "한한령 해제 기대에 엔터주 급등"
-   ]
-  ],
-  "352820": [
-   [
-    "뉴스",
-    "한한령 해제 기대에 엔터주 급등"
-   ]
-  ],
-  "041510": [
-   [
-    "뉴스",
-    "한한령 해제 기대에 엔터주 급등"
-   ]
-  ],
-  "089590": [
-   [
-    "뉴스",
-    "한한령 해제 기대에 여행·항공주 급등, 52주 신고가"
-   ]
-  ],
-  "034230": [
-   [
-    "시황",
-    "한한령 수혜주로 꼽히며 강세"
-   ]
-  ],
-  "004170": [
-   [
-    "시황",
-    "한한령 수혜주로 꼽히며 강세"
-   ]
-  ],
-  "008770": [
-   [
-    "시황",
-    "한한령 수혜주로 꼽히며 강세"
-   ]
-  ],
-  "483650": [
-   [
-    "뉴스",
-    "한중 관계 개선 기대에 화장품주 강세"
+    "증권사별 목표주가 크게 엇갈려"
    ]
   ],
   "000660": [
    [
     "뉴스",
-    "수능날 반도체 투톱 중 '하닉은 꿋꿋'"
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
    ]
   ],
-  "005930": [
+  "005935": [
    [
     "뉴스",
-    "수능날 반도체 투톱 중 '삼전은 주춤'"
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
    ]
   ],
-  "009150": [
+  "402340": [
    [
     "뉴스",
-    "엔비디아 협력 확대 소식 후 이틀째 급등"
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "042700": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "007660": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "131290": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "058470": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "440110": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "039030": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "240810": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "319660": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "095610": [
+   [
+    "뉴스",
+    "미국 AI·반도체 급락 충격, 아시아 반도체 동반 약세"
+   ]
+  ],
+  "253450": [
+   [
+    "뉴스",
+    "한한령 완화 기대 지속"
+   ]
+  ],
+  "041510": [
+   [
+    "뉴스",
+    "한한령 완화 기대 지속"
    ]
   ]
  },
  "news_tr": {},
- "news_codes": {
-  "스튜디오드래곤": [
-   "253450"
-  ],
-  "삼성전기": [
-   "009150"
-  ],
-  "JYP": [
-   "035900"
-  ]
- },
- "est_note": "이번 주 국내 애널리스트 이익 추정치는 하향 우위가 이어졌습니다. 올해(y0) EPS 기준 상향 161건·하향 332건으로 순상향 비율이 -34.7%로 지난주(-30.9%)보다 나빠졌고, 내년(y1)은 상향 181건·하향 311건(-26.4%)으로 비슷했습니다. 반도체는 올해 기준 23건 상향·36건 하향(-20.0%)이지만 시총 가중 1주 변화는 +0.46%이고, 내년 기준으로는 30건 상향·29건 하향으로 균형(+1.6%)입니다. 상향 폭이 큰 곳은 해운(3종목 모두 상향, 올해 가중 +45.1%)·석유·가스(내년 가중 +12.3%, 올해 4주 중앙값 +13.2%)·항공(올해 가중 +9.4%, 상향 3·하향 1)입니다. 하향은 전력(3종목 모두 하향, -25.6%)·게임(-21.6%)·디스플레이(-21.1%)·소프트웨어(-18.5%)·화학(-18.2%, 상향 5·하향 20)이 컸고, 전기제품은 1주 중앙값 -23.6%, 방산·우주는 내년 기준 0건 상향·10건 하향입니다.",
- "deriv_note": "외국인 코스피200 선물 +28계약(+58억원), 미니 선물 +1,342계약(+531억원) 소폭 순매수. 현물은 -4,384억원 순매도.\n→ 선물은 거의 중립, 현물 매도 지속. 기관 선물 -193계약(-385억원) 중 금융투자 -923계약(-1,821억원), 투신 +459계약(+911억원), 연기금 +254계약(+494억원). 개인 +66계약(+131억원).\n옵션은 외국인 콜 +972계약(-4억원), 풋 -466계약(-9억원). 만기였던 위클리(목)는 외국인 콜 +1,278·풋 -4,825계약.\n프로그램: 외국인 비차익 -3,007억원(차익 0) → 전날 +1,813억원에서 다시 매도. 기관 -103억원(차익 -160억원, 비차익 +57억원), 연기금 비차익 +194억원, 투신 비차익 -154억원.\n베이시스 -3.42p (선물 793.85 vs 이론가 797.27), 전날 -2.84p에서 다시 확대. 미결제 167,897계약(전날 165,997).\n현물 795.88 기준 맥스페인 800(+0.5%), 콜·풋 최대 미결제 모두 800(콜 3,627 · 풋 3,479계약). 아래쪽 풋은 775(-2.6%, 1,448계약), 위쪽 콜은 815(+2.4%, 2,042계약).\n딜러 감마 -29억원/1% → 음수지만 전날(-219억원)보다 크게 줄어 0 근처.\n풋/콜 미결제 1.06(전날 1.46). 12월물 만기(12/10)까지 21일, 옵션 내재 예상 변동 ±10.9%.\n코스닥150 선물은 외국인 -10,868계약(-1,176억원) 순매도, 기관 +7,020계약 순매수. 코스닥 외국인 비차익도 -1,657억원."
+ "news_codes": {},
+ "est_note": "이번 주 국내 애널리스트 이익 추정치는 하향 우위가 이어졌습니다. 올해(y0) EPS 기준 상향 161건·하향 329건으로 순상향 비율이 -34.3%, 내년(y1)은 상향 177건·하향 314건(-27.9%)으로 전날 집계(-34.7%, -26.4%)와 비슷한 수준입니다. 반도체는 올해 기준 23건 상향·36건 하향(-20.0%, 시총 가중 +0.44%)이지만 내년 기준으로는 30건 상향·29건 하향으로 균형(+1.6%)입니다. 상향 쪽은 해운(3종목 모두 상향, 올해 가중 +45.1%)·항공(상향 3·하향 1, +9.4%)·석유·가스(올해 +6.5%, 내년 +13.9%)·철강(올해 가중 +6.6%)이 컸습니다. 하향은 전력(3종목 모두 하향, -25.6%)·디스플레이(-21.2%)·화학(상향 5·하향 20, -18.1%)·의류·패션(-14.7%)·증권(상향 1·하향 6, -11.9%)이 컸고, 의료기기는 상향 2·하향 19, 방산·우주는 내년 기준 0건 상향·10건 하향입니다.",
+ "deriv_note": "외국인 코스피200 선물 +504계약(+923억원), 미니 선물 +1,649계약(+628억원) 순매수. 현물은 -1조 1,343억원 순매도.\n→ 현물 대량 매도 속 선물은 소폭 매수. 기관 선물 -124계약(-184억원) 중 금융투자 +4,120계약(+7,807억원) vs 투신 -4,255계약(-8,011억원)로 내부에서 크게 엇갈림. 연기금 -192계약, 개인 -362계약(-705억원).\n옵션은 외국인 콜 -2,417계약, 풋 +3,271계약 → 콜 팔고 풋 사는 하방 대비. 위클리(월) 외국인 콜 -1,081 · 풋 +843계약.\n프로그램: 외국인 비차익 -1조 1,424억원(차익 0) → 전날 -3,007억원에서 매도 폭 4배 가까이 확대. 기관 +107억원(차익 +277억원, 비차익 -170억원), 연기금 +434억원, 투신 비차익 -282억원.\n베이시스 -3.95p (선물 752.75 vs 이론가 756.70), 전날 -3.42p에서 확대. 미결제 168,696계약(전날 167,897, +799).\n현물 755.34 기준 맥스페인 775(+2.6%), 콜·풋 최대 미결제 모두 750(-0.7%, 콜 1,239 · 풋 4,616계약). 위쪽 콜 780(+3.3%), 아래 풋 730(-3.4%, 1,923계약)·735(1,326계약).\n딜러 감마 -488억원/1% → 전날(-29억원) 0 근처에서 다시 음수 확대.\n풋/콜 미결제 2.79 (전날 1.06). 12월물 만기(12/10)까지 20일, 옵션 내재 예상 변동 ±11.9%, IV 50.7%.\n코스닥150 선물은 외국인 +16,252계약(+1,690억원) 순매수로 전날(-10,868계약)에서 반전, 투신 -32,537계약. 코스닥 외국인 비차익 -1,552억원.\n밤사이 미국 VIX 35.89(+26.2%), 나스닥 -5.28% → 다음 주 개장 부담."
 }

@@ -1,248 +1,252 @@
 {
- "asof": "11/19 (목) 장 마감",
+ "asof": "11/20 (금) 장 마감",
  "summary": [
-  "닛케이평균은 419.93엔(+0.71%) 오른 59,444.21엔으로 이틀 연속 올랐습니다. 오전에는 '방향을 못 잡는 장'이라는 평가 속에 116엔 오른 59,140엔으로 마쳤고, 앤트로픽 IPO를 앞두고 반도체에 매수가 들어오며 오후에 상승폭을 키웠습니다. 다만 TOPIX(1306 ETF)는 +0.07%, JPX400은 +0.29%에 그쳤고 그로스250은 -0.33%였습니다. 상승 1,230 · 하락 2,197, 52주 신고가 51 · 신저가 338로 이번에도 내린 종목이 더 많았습니다.",
-  "소프트뱅크G(+4.55%), 키옥시아(+3.07%, 거래대금 1위), 도쿄일렉트론(+2.77%), 레이저텍(+2.24%), 다이요유덴(+4.6%), 메이코(+6.76%)가 올라 전기기기 업종이 1.25% 상승했고, 어드반테스트는 -0.55%였습니다. 트렌드마이크로(+5.72%, 1주 +12.7%)·인터넷이니셔티브(+4.06%)·노무라종합연구소(+3.24%) 등 IT 서비스와 코나미(+3.85%)·닌텐도(+3.38%)·캡콤(+3.08%) 등 게임주가 강해 정보·통신(+1.68%)·기타제품(+1.74%)이 업종 상위였습니다. 시마즈(+4.48%)·스즈키(+4.12%)·다이킨(+3.91%)도 올랐습니다.",
-  "반면 비철금속(-2.82%, 1주 -15.4%)이 또 약했습니다. JX금속 -6.2%(1주 -21.1%), 스미토모금속광산 -5.24%, 미쓰비시머티리얼 -4.6%, 미쓰이금속 -4.58%, DOWA -3.3%이고, 상사(도요타통상 -3.92%, 마루베니 -3.58%, 미쓰이물산 -3.44%)와 해운 3사(-3.15~-3.41%), 고마쓰(-3.14%)도 밀렸습니다. 업종별로는 해운(-3.06%)·광업(-2.87%)·비철금속·보험(-2.17%)·상사(-2.02%)·석유·석탄(-1.97%)·은행(-1.16%)이 하위였습니다.",
-  "우에다 일본은행 총재는 금리 인상이 진행됐지만 금융환경은 여전히 완화적이라며, 시기와 속도를 보면서 계속 금리를 올리겠다고 말해 추가 인상을 시사했습니다. 그래도 은행주는 미즈호 -2.13%, 미쓰비시UFJ -1.66%, 미쓰이스미토모 -0.77%로 약했습니다. 달러·엔은 159.59엔으로 소폭 올랐고, 국채 금리는 10년물 2.916%(-0.9bp), 30년물 4.082%(+1.3bp, 11/18 기준)입니다.",
-  "장 마감 후 MS&AD는 이번 회계연도 최종이익 전망을 15% 올리고 자사주 매입을 결정했고, SOMPO HD도 자사주 매입·소각을 발표했습니다. JT는 러시아 자회사의 연결 제외에 따른 손실 계상과 실적·배당 전망 수정을 공시했습니다. 주간 투자주체별 통계(11/9~11/13)에서는 해외투자자가 3,125억엔, 개인이 3,615억엔을 순매도했고 신탁은행(+3,934억엔)·사업법인(+3,070억엔)이 샀습니다. 같은 날 밤 뉴욕 급락 뒤 CME 닛케이 선물은 57,730엔(-1.88%)까지 내렸습니다."
+  "닛케이평균은 3,007.56엔(-5.06%) 내린 56,436.65엔으로 마감해 4월 이후 가장 낮은 종가를 기록했습니다. 미국 기술주 급락 여파로 1.5% 내린 채 출발해 오전에만 2,669엔 빠진 56,775엔으로 마쳤고, 오후에도 반등 없이 낙폭을 더 키웠습니다. TOPIX(1306 ETF)는 -3.98%, JPX400은 -3.55%, 그로스250은 -5.29%입니다. 상승 248 · 하락 3,333으로 '거의 전면 하락'이었고 52주 신고가 30 · 신저가 658입니다.",
+  "매도는 반도체·AI 관련주에 집중됐습니다. 소프트뱅크G -14.48%, 키옥시아 -11.66%(거래대금 1위), 이비덴 -11.18%, 고쿠사이 -11.0%, 어드반테스트 -10.32%, SUMCO -10.12%, 레이저텍 -9.21%, SCREEN -9.02%, 무라타 -8.93%, 다이요유덴 -8.41%, 디스코 -8.31%, 도쿄일렉트론 -7.06%이고 파나소닉도 10.88% 내려 전기기기 업종이 5.9% 하락했습니다. 일본 언론은 'AI를 둘러싼 혼란', 'AI 우려로 거의 전면 하락'으로 정리했습니다.",
+  "비철금속(-9.77%, 1주 -21.3%)은 또다시 업종 최하위였습니다. 미쓰이금속 -13.31%, 후루카와전기 -12.67%, 후지쿠라 -12.19%, 스미토모금속광산 -11.35%, JX금속 -9.54%입니다. 은행(-4.95%, 1주 -10.8%)도 미쓰비시UFJ -5.41%, 미쓰이스미토모 -4.58%, 미즈호 -4.5%, 라쿠텐은행 -11.65%로 크게 밀렸고, 전날 러시아 자회사 관련 손실 계상을 공시한 JT는 10.11% 내렸습니다. 유리·토석(-5.13%)·기계(-4.94%)·증권(-4.62%)·식료품(-4.35%)도 약했습니다.",
+  "보험(+0.56%)과 항공(+0.33%)만 올랐습니다. 도쿄해상 +2.03%, SOMPO +2.01%, MS&AD +0.4%로 손보주가 상승률 상위에 올랐고, MS&AD는 27년 3월기 순이익 상향과 추가 자사주 매입으로 장중 3% 오르기도 했습니다. 오츠카HD(+1.93%)·야마자키제빵(+1.77%)·닛산(+1.41%)·트렌드마이크로(+1.03%)도 올랐고, 신고가는 아스텔라스·에자이·아사히인텍·라이온·하우스식품 등 방어주가 대부분이었습니다.",
+  "주가 급락에 엔 매수가 나오며 달러·엔은 159.22엔(-0.24%)으로 내렸고, 뉴욕 마감 무렵에는 158.62엔까지 밀렸습니다. 일본은행의 12월 금리 인상은 거의 확실시된다는 보도가 나왔습니다. 국채 금리는 10년물 2.87%(-4.6bp), 30년물 4.03%(-5.2bp, 11/19 기준)로 내렸습니다. 장 마감 후 엠스리는 자사주 공개매수를 공시했습니다. 같은 날 밤 뉴욕 나스닥이 5.28% 폭락하면서 CME 닛케이 선물은 54,760엔(-5.42%)까지 떨어졌습니다."
  ],
  "ideas": {
-  "asof": "2026-11-19 장 마감 기준 · 아이디어 6개",
+  "asof": "2026-11-20 장 마감 기준 · 아이디어 6개",
   "items": [
    {
     "kind": "hot",
-    "title": "앤트로픽 IPO 기대에 AI·반도체 매수, 닛케이 이틀 연속 상승",
-    "strength": 4,
-    "trend": "유지",
-    "thesis": "앤트로픽 상장을 앞두고 반도체·AI 관련주에 매수가 들어왔습니다. 소프트뱅크G +4.55%, 메이코 +6.76%, 다이요유덴 +4.6%, 키옥시아 +3.07%(거래대금 1위), 도쿄일렉트론 +2.77%, 레이저텍 +2.24%, 무라타 +2.2%로 전기기기 업종이 1.25% 올랐고 닛케이평균은 59,444엔으로 마감했습니다.",
-    "why": "근거: 거래대금 상위 1~6위 중 5개가 반도체·전자부품, 마감 기사의 '앤트로픽 IPO 흥행 기대'. 약점: 어드반테스트(-0.55%)·이비덴(-0.72%, 1주 -17.1%)·고쿠사이(-1.82%)는 내렸고, 밤사이 뉴욕 필라델피아 반도체지수가 2.41% 빠져 CME 닛케이 선물은 57,730엔입니다.",
+    "title": "AI 우려에 닛케이 3,007엔 폭락, 4월 이후 최저 종가",
+    "strength": 5,
+    "trend": "강화",
+    "thesis": "전날 앤트로픽 IPO 기대로 올랐던 반도체·AI주가 하루 만에 급락으로 돌아서며 닛케이평균이 5.06% 내린 56,436.65엔으로 마감했습니다. 소프트뱅크G -14.48%, 키옥시아 -11.66%, 어드반테스트 -10.32%, 도쿄일렉트론 -7.06%, 레이저텍 -9.21%, 이비덴 -11.18%, 고쿠사이 -11.0%로 거래대금 상위 5개가 모두 반도체였습니다. 하락 종목은 3,333개로 상승(248개)의 13배입니다.",
+    "why": "근거: '반도체 관련주 중심 매도', 'AI 우려로 거의 전면 하락' 보도, 전기기기 업종 -5.9%(1주 -9.3%). 약점: 전기기기 내년 EPS 추정치는 상향 73·하향 33(+30.1%)으로 상향 우위가 유지되고 있어, 이익보다는 수급·심리 충격에 가깝습니다.",
     "codes": [
      "9984",
-     "6787",
-     "6976",
      "285A",
+     "6857",
      "8035",
      "6920",
-     "6981",
-     "6857",
-     "4062"
+     "4062",
+     "6525",
+     "3436",
+     "7735"
     ],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "[도쿄증시-마감] 닛케이, 앤트로픽 IPO 흥행 기대에 상승",
+      "d": "11/20",
+      "t": "[도쿄증시-마감] 닛케이, 앤트로픽발 기술주 매도에 4월 이후 종가 최저치",
       "s": "KB Think",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jbHZGUUkweXM3Vm01TUdla1VUZ3BwdF9IckNfLVRPWUt5SDhYbGVmUW0yS01yS0U0cnEyby10bjFkc0Etenh4QzVNSVQ4LUdnMWlFOC1rV1FYMm1kZjlRaG1mUU5jSkhvS2VGRkFmTE82Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNanBYNkw1SEpFOV9uMURqdnkyVWRDalI0VU82SjVVTlJFSU1FUVpxR1VJRWdhY001Q3BYd2RmNXhzNE9mbExneGlzWjladFg2MXJacG5tQjJhYVBlTXZiZ2tvQW95Y1RnWUl6OTF1NDRxZw?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "東証前場は116円高で引け、アンソロピックIPO控え半導体に買い",
-      "s": "BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVb0RUdnBlenZUaW5hdWJEOHJlb2hwWGdURmJqZVBnSms0WDVXQkw0dExiWVBVQkxSTmMxNkJFNlRnM0VFX3pvalFoUmh4YXd3ZTBRMTcxVUZLdnE0UkFOZzRUVnBlTGxaYTlCdDlOVnJuekFt?oc=5"
+      "d": "11/20",
+      "t": "東証大幅反落、３００７円安 半導体関連株中心に売り",
+      "s": "宮崎日日新聞",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic2hmMWRHZEFxaWtSNU8wZDBtbHN2UDhYd1EyLWkyWldJNkxKWlNiZEVlNGZIajJzaFNjY1ZuRVhzM0RodkhRd2ZrV2FYZ0kyVVpXNXBvV29zMnFzTmgzeDJNSjRaOE5qbXlEQjFJMUplSGU5?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "日経平均株価、終値419円93銭高の5万9444円21銭 - TOKYO CLOSING BELL 大引け解説",
-      "s": "日経CNBC online",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QMFVDVndJbE1DS1NVdzdMOHFXSDlkaUZkWWtOV18xT1daS0pEV2VvNFNqblZiV09xUnVjbll4WXFlYXhDMnRsVlpqWjlPcjFwZnM5cg?oc=5"
+      "d": "11/20",
+      "t": "【速報】日経平均終値は3007円安 AI懸念でほぼ全面安",
+      "s": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sakVoWjNJZ3RKdkRGSXFUU29aOXYwbVJISkJTV0FjZDRIZ1o3QUdSSGs5RmJKR2hIaEJuQXNmckpwTkFoVFBMOUVTd1ZaR0M1TWdBNEtidU5PNFMyc1hMZ01wNjl4ZWlZMXNWYWxHaVNtdw?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "日経平均午前116円高 気迷い相場、アンソロピックIPOで打破なるか",
-      "s": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5"
-     }
-    ],
-    "risks": [
-     "앤트로픽 상장 뒤 뉴욕 AI 반도체 급락(AMD -7.7%, 엔비디아 -3.3%)이 20일 개장에 반영될 경우"
-    ],
-    "checks": [
-     "20일 소프트뱅크G·키옥시아 시가",
-     "닛케이 59,000엔 유지 여부"
-    ]
-   },
-   {
-    "kind": "watch",
-    "title": "닛케이만 오르는 좁은 장세 이틀째",
-    "strength": 3,
-    "trend": "유지",
-    "thesis": "닛케이평균은 0.71% 올랐지만 TOPIX(1306 ETF)는 +0.07%, 그로스250은 -0.33%였습니다. 상승 1,230 · 하락 2,197로 내린 종목이 1.8배였고, 52주 신저가 338개가 신고가 51개를 크게 웃돌았습니다. 오전 장에 대해서도 '방향감 없는 움직임', '기미요이(망설임) 장세'라는 평가가 나왔습니다.",
-    "why": "근거: 지수 간 상승률 차이 + 하락 종목 우위(전날 1,053 대 2,373에서 다소 개선). 약점: 업종 30개 중 14개는 올라 전날보다 확산은 나아졌고, 신고가 종목 수도 32개에서 51개로 늘었습니다.",
-    "codes": [],
-    "evidence": [
-     {
-      "d": "11/19",
-      "t": "日経平均、午前の終値は１１６円高の５万９１４０円…方向感のない値動き（読売新聞オンライン）",
+      "d": "11/20",
+      "t": "日経平均終値3007円安 AI巡り混乱",
       "s": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eTVZOUJTVC1lYUh6SEVsZVdwM0dLeXFKeC15Y2k3bS1VdVd5ZmxjT2lleWlwOUNqc1g1UmZ2UFZNUG1MVUhqZkxSWi1lWEQ0aUpIc3ZucUxDcV9GRDJOUkwtcXAzUV9iZG5sTkNHUzVPbWdud3hIWE1HU25nVjQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hTTRHWnBwSVNKUkt3WkxTS1NlWmVkYUdtZGxKcmRhSFRPTmY4S0JxeFdDZ0ZNcHpveE8yMmJSdmhhTUxwWkJiSTNvTDlBZnJw?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "日経平均午前116円高 気迷い相場、アンソロピックIPOで打破なるか",
+      "d": "11/20",
+      "t": "日経平均株価、反落 午前終値は2669円安の5万6775円",
       "s": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "日経平均株価は続伸 午前終値は116円高の5万9140円",
-      "s": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXbkMwWlBsdXk5Z18xa1ZNUFd6MW5FVlFueFNEanJxdWRhdlpzRGVzUUNZLXMzZVhOdG9pTVNGeGVtNkVOV1VVT1RudEdzVjc3Q3N0ZGhZRWMwd1dVMjJjMlEtR3pPQkUxUlRaSg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5"
      }
     ],
     "risks": [
-     "반도체 대형주가 꺾이면 지수 하락폭이 커질 수 있음"
+     "밤사이 필라델피아 반도체 -10.7%가 다음 주 개장에 추가 반영(CME 선물 54,760엔)"
     ],
     "checks": [
-     "TOPIX와 닛케이 상승률 차이",
-     "신저가 종목 수 감소 여부"
+     "소프트뱅크G·키옥시아 다음 주 시가",
+     "닛케이 55,000엔 지지 여부"
     ]
    },
    {
     "kind": "hot",
-    "title": "게임·엔터·방어주 신고가 행진",
-    "strength": 3,
+    "title": "비철·전선 투매 지속: 후루카와·후지쿠라·미쓰이금속 -12~13%",
+    "strength": 4,
     "trend": "강화",
-    "thesis": "52주 신고가 51개 중 게임·엔터·내수 방어주가 많았습니다. 코나미(+3.85%)·캡콤(+3.08%)·스퀘어에닉스(+2.95%)·반다이남코(+1.76%)·도에이애니메이션(+2.94%)·도호(+1.56%)·세가사미(+2.54%) 등 콘텐츠주와 오리엔탈랜드, 세콤, 젠쇼(+3.16%), 니토리(+2.06%), 시세이도(+2.33%), 일본맥도날드, 아스텔라스·에자이가 신고가를 기록했습니다. 닌텐도도 3.38%(1주 +8.7%) 올랐습니다.",
-    "why": "근거: 신고가 종목 수 32개 → 51개, 정보·통신·기타제품 업종 상위. 약점: 개별 상승 이유 기사는 digest에 없고, 반도체 반등 국면에서 자금이 빠질 수 있습니다.",
+    "thesis": "비철금속 업종이 9.77% 내려 1주 -21.3%가 됐습니다. 미쓰이금속 -13.31%(1주 -27.2%), 후루카와전기 -12.67%(1주 -25.3%), 후지쿠라 -12.19%(1주 -22.5%), 스미토모금속광산 -11.35%, JX금속 -9.54%(1주 -26.7%)입니다. 반도체·AI주 매도와 함께 전선·소재주의 하락이 이어졌습니다.",
+    "why": "근거: 업종 1주 -21.3%로 30개 업종 중 최하위, 구리 가격 -3.06%(뉴욕 기준). 약점: 비철금속 올해 EPS 추정치는 상향 8·하향 6(+12.5%), 시총 가중 +1.92%로 추정치는 오히려 올라가고 있습니다.",
     "codes": [
-     "9766",
-     "9697",
-     "9684",
-     "7832",
-     "4816",
-     "9602",
-     "6460",
-     "4661",
-     "9735",
-     "7550",
-     "9843",
-     "4911",
-     "7974"
+     "5706",
+     "5801",
+     "5803",
+     "5713",
+     "5016"
     ],
-    "evidence": [],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "東証大幅反落、３００７円安 半導体関連株中心に売り",
+      "s": "宮崎日日新聞",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic2hmMWRHZEFxaWtSNU8wZDBtbHN2UDhYd1EyLWkyWldJNkxKWlNiZEVlNGZIajJzaFNjY1ZuRVhzM0RodkhRd2ZrV2FYZ0kyVVpXNXBvV29zMnFzTmgzeDJNSjRaOE5qbXlEQjFJMUplSGU5?oc=5"
+     }
+    ],
     "risks": [
-     "반도체 반등 시 방어주 차익 실현",
-     "밸류에이션 부담"
+     "AI 인프라 투자 우려 장기화"
     ],
     "checks": [
-     "신고가 종목 수 유지 여부",
-     "게임주 1주 수익률 추이"
+     "비철 업종 1주 낙폭 둔화 여부",
+     "후지쿠라 거래대금"
     ]
    },
    {
     "kind": "contra",
-    "title": "은행주, 우에다 추가 인상 시사에도 약세",
+    "title": "은행주 급락: 12월 인상 '거의 확실'에도 1주 -10.8%",
     "strength": 3,
-    "trend": "유지",
-    "thesis": "우에다 총재가 금융환경이 여전히 완화적이라며 계속 금리를 올리겠다고 말했지만 은행 업종은 1.16% 내려 1주 -6.5%가 됐습니다. 미즈호 -2.13%, 미쓰비시UFJ -1.66%, 미쓰이스미토모 -0.77%, 햐쿠고은행 -3.09%입니다.",
-    "why": "근거: 금리 인상 기조 + 은행 이익 추정치 올해 상향 23·하향 5(+58.1%), 내년 +45.2%로 업종 중 상향이 가장 넓은 편. 약점: 10년물 국채 금리는 2.916%로 소폭 내렸고, 주가는 추정치와 반대로 1주째 밀리고 있습니다.",
+    "trend": "강화",
+    "thesis": "일본은행의 12월 금리 인상이 거의 확실시된다는 보도에도 은행 업종은 4.95% 내려 1주 -10.8%가 됐습니다. 미쓰비시UFJ -5.41%(1주 -13.0%), 미쓰이스미토모 -4.58%, 미즈호 -4.5%, 라쿠텐은행 -11.65%(1주 -27.9%)입니다. 국채 10년물 금리는 2.87%(-4.6bp)로 내려 금리 측면 지지도 약했습니다.",
+    "why": "근거: 금리 인상 기조 + 은행 이익 추정치 올해 상향 23·하향 5(+58.1%), 내년 +45.2%로 업종 중 가장 넓은 상향. 약점: 위험자산 전반 급락 속 대형 은행주가 매도 재원으로 쓰이고 있고, 최종 도달 금리에 대한 시각이 갈린다는 보도도 있습니다.",
     "codes": [
      "8306",
-     "8411",
      "8316",
-     "8368"
+     "8411",
+     "5838"
     ],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "利上げ進展も金融環境緩和的で経済活動サポート、消費は底堅い＝植田日銀総裁",
-      "s": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWdCN3J3ZjE4b2xLaFdiQkVwWDNWb1FQWnE5YmNWQVlHcFRMZjRmVFRvb0tpdHg1R0dkd0N2clJLa2V1ZVMzVFQ1NDlacUdWRzFSMkRoZ2dkNXJiV1prZXIwbDFOeE1TcEs5Y2hHT2xYYVVzTUFKeGpQLXN1V3liWHQ5SXZmMzM1VENRUWVpaGM?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "植田総裁、時期やペースをみながら引き続き利上げ－物価2%定着重視",
-      "s": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41bW90UXh4YUpUNUtCam0wVGMtR3NTVHhpX2RqRFg1WVFGUUlkUl9uNXlFYkwySF9DSFRRakpULTRUVTMxdmdJcURlODl3WmZrQ2Nlb3VxWFdqTk9aR2N1SzRBWUEzTktoQUl1WTdOcVRmZm4tQ3dz?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "日銀・植田総裁、追加利上げを示唆 日本の金融環境はなお緩和的と発言",
+      "d": "11/20",
+      "t": "日銀の12月利上げはほぼ確実視 最終到達金利の見方割れで円売り圧力再燃の恐れ",
       "s": "BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lT3drVzhZSFRMZ3lfejZSLV9TMXVLZWdMS3NENVR5RGhmR2NMWlFzVkRROHBQaVlMV21jYm83bHZFdVNOYjFEdlhQU3NqYWQtNHYtNXZaSHdkcTJJcFZRU01KSWpwYTh4N043Vk9TQkJwdjBV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYa2dZeUMtVW5jTlZPRGhjbU1QOW9sQ1dYekFZYkpmVDdvaW5kaGFERjdDckpVLUgxd1lKcUVaSlM4cnJPN3lYT1JOYWZVZ3lGckI4OENjakpkRUhmbUZONnZldHJVZFl5YmFEMmRrQTd1cUQy?oc=5"
      },
      {
       "d": "11/19",
-      "t": "日銀は利上げ路線維持、物価指標が焦点【今日の市場はどう動いた？】",
-      "s": "Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vVV9pLTc4MXBNY0x4WHN3dE5fcU9EVGJaRjF1MFhzZ21iX2FZYWtmUjVRSmpaeWVEX2RQam1kMV9ZWDBVQUhkczd3ZEpDZkUxVmpTc05qTi1pN1lOQnN5N0RWNzk?oc=5"
+      "t": "日銀・植田総裁、個人消費「先行きは回復」 利上げ路線は継続",
+      "s": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxV0F3R3V1ZkVrSWpwVS03aFZfaEtuNjFWV3h2d0hJSmhWOHFJUlhUV3NlUmNlbVllYlE0WngyZlpOd2QzWkFMaEt3RFFKSEljcmxHUndhaFJmYjVabWVLbDlvVXBMNnBOSk9WeA?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "12月利上げで政策金利1.5％に上昇なら住宅ローン変動金利はどうなる？ 主要12銀行の2027年5月までの利上げ反映時期を予測！（ダイヤモンド不動産研究所）",
+      "s": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYjUwRjRSNXA3WnpfbVBkbzlWMjhwd1ZLRWVrbUVfRF9KLW9RY3FFUDhsenpHbmdHUTRUZGdORkhkQUpYMm53ZVJKcERzR3MtcWV1b0FzWVJqTlVFT0pmTUlTMHdaSGhXVkV2RzB5VnJXbl8wVmRELXduaTB6Sjg?oc=5"
      }
     ],
     "risks": [
-     "장기금리 하락 지속 시 은행주 약세 연장"
+     "장기 금리 추가 하락 시 이익 기대 약화"
     ],
     "checks": [
-     "은행 업종 1주 수익률 반전 여부",
-     "물가 지표 발표"
+     "12월 회의 전 은행주 반등 여부",
+     "10년물 금리 2.8%대 유지 여부"
+    ]
+   },
+   {
+    "kind": "contra",
+    "title": "손보·방어주만 버텨: 도쿄해상·SOMPO·MS&AD 상승",
+    "strength": 3,
+    "trend": "유지",
+    "thesis": "보험 업종이 0.56% 올라 30개 업종 중 가장 강했습니다. 도쿄해상 +2.03%, SOMPO +2.01%, MS&AD +0.4%이고, MS&AD는 27년 3월기 순이익 상향과 추가 자사주 매입 소식에 장중 3% 오르기도 했습니다. 오츠카HD(+1.93%)·야마자키제빵(+1.77%)이 오르고 아스텔라스·에자이·라이온·하우스식품이 신고가를 기록하는 등 제약·식품 방어주도 버텼습니다.",
+    "why": "근거: 상승률 상위 1~3위 손보주, 신고가 7개 중 대부분이 제약·식품·생활용품. 약점: 보험 내년 EPS 추정치는 상향 1·하향 7(-60.0%)로 하향이 넓고, 업종 1주 수익률은 -4.0%입니다.",
+    "codes": [
+     "8766",
+     "8630",
+     "8725",
+     "4578",
+     "4503",
+     "4523",
+     "2212",
+     "2810"
+    ],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "MS&AD株価一時3%高 27年3月期純利益上方修正と追加の自社株買い",
+      "s": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TUFzbFJZY1BJT3l2NV9udm9zUUtxSEU3dmhXcHVqdjBuOF9RUm5KNDBGcm9USHJ1bUU4MjYycjBuOXp4aXV0Mk1jcWExdkwwRDFCSUpfbnlOSlMwRUxPSklzbzV3eTBJSHZmWQ?oc=5"
+     }
+    ],
+    "risks": [
+     "반도체 반등 시 방어주 차익 실현"
+    ],
+    "checks": [
+     "손보 3사 자사주 매입 진행",
+     "신고가 종목 수 변화"
     ]
    },
    {
     "kind": "watch",
-    "title": "비철·상사·해운 약세 지속: JX금속 1주 -21%",
-    "strength": 3,
-    "trend": "강화",
-    "thesis": "JX금속 -6.2%(1주 -21.1%), 스미토모금속광산 -5.24%(1주 -17.8%), 미쓰비시머티리얼 -4.6%, 미쓰이금속 -4.58%(1주 -20.1%), DOWA -3.3%로 비철금속 업종이 1주 -15.4%까지 밀렸습니다. 도요타통상 -3.92%, 마루베니 -3.58%, 미쓰이물산 -3.44% 등 상사와 일본유선·상선미쓰이·가와사키기선(-3.15~-3.41%)도 동반 하락했습니다.",
-    "why": "근거: 하락률 상위 20개 중 비철 5개·상사 3개·해운 3개. 약점: 하락 이유 기사는 digest에 없고, 비철금속 올해 EPS 추정치는 상향 8·하향 6(가중 +1.99%), 해운은 내년 4종목 모두 상향입니다.",
-    "codes": [
-     "5016",
-     "5713",
-     "5711",
-     "5706",
-     "5714",
-     "8015",
-     "8002",
-     "8031",
-     "9101",
-     "9104",
-     "9107"
-    ],
-    "evidence": [],
-    "risks": [
-     "원자재 가격 하락 지속(뉴욕장 금 -2.6%, 구리 -1.4%)"
-    ],
-    "checks": [
-     "비철금속 1주 낙폭 축소 여부",
-     "상사주 저가 매수 유입 여부"
-    ]
-   },
-   {
-    "kind": "new",
-    "title": "손보 결산: MS&AD 최종이익 15% 상향·자사주, SOMPO 자사주 소각",
+    "title": "주가 급락에 엔 매수: 달러·엔 159엔 → 158.6엔",
     "strength": 3,
     "trend": "신규",
-    "thesis": "장 마감 뒤 MS&AD가 2분기(중간) 결산과 함께 이번 회계연도 최종이익 전망을 15% 올리고 자사주 매입을 결정했습니다. SOMPO HD도 자사주 매입과 소각을 발표했습니다. 이날 보험 업종은 -2.17%(1주 -4.5%)로 약했던 만큼 20일 반응이 관심입니다.",
-    "why": "근거: MS&AD 이익 전망 15% 상향 + 두 회사 자사주 매입 공시. 약점: 보험 업종의 내년 EPS 추정치는 상향 1·하향 7(-60.0%)로 업종 중 가장 나쁘고, 밤사이 뉴욕 급락으로 시장 전체 분위기가 나빠졌습니다.",
-    "codes": [
-     "8725",
-     "8630"
-    ],
+    "thesis": "세계 증시 급락으로 엔 매수가 이어지며 달러·엔은 도쿄 장중 159.22엔(-0.24%), 뉴욕 마감 무렵 158.62엔(-0.62%)까지 내렸습니다. 일본은행의 12월 인상이 거의 확실시된다는 보도도 엔 강세 쪽 재료입니다.",
+    "why": "근거: '세계 주식 약세로 엔 매수 지속', '주가 급락으로 달러·엔 반락' 보도. 약점: '일본은행 인상 기대에도 엔 강세는 제한적'이라는 전망과 최종 도달 금리 시각차로 엔 매도 압력이 다시 커질 수 있다는 분석이 함께 나왔습니다.",
+    "codes": [],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "【決算速報】ＭＳ＆ＡＤ、今期最終を15％上方修正(株探ニュース)",
-      "s": "Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVAxU0owM0dnRjNhNzJkaGxEWUxqVnNDZG9vbDJEdFpfa3hPVkFaejdTRW5DOXJGRmtIRlRuV25fTU81S3hQdk9xWERUekJDc0lnanNYYnE4T012c1lFS2FESVJJdnFEQU5GMDBpU0xuaWFvc0JsODRWREdjWHBhMlhYWl9KRkU?oc=5"
+      "d": "11/20",
+      "t": "東京為替：ドル・円は安値圏、世界株安で円買い継続",
+      "s": "株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43eHZCcXdQbU8wVmN6V0dubEdfZTdWMV84aFZJcS1UYTNXaTVtMGdfSXMzZVozZm13QlRCdlNPWUdnYkZobVZVOTl1bFdYRW1tVnhaTjBhcFlkWmhUcncySw?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "MS&AD: 自己株式取得に係る事項の決定に関するお知らせ",
-      "s": "TDnet",
-      "url": "https://www.release.tdnet.info/inbs/140120261119583086.pdf"
+      "d": "11/20",
+      "t": "株安を受けた円買いもあり、ドル円は売りが優勢＝東京為替概況",
+      "s": "みんかぶ FX/為替",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jaGdZZXJpbzRKaEk5N0hRaG82TE9nZnBJZUoxS09DYWpiZTNpYkRCYUxfZFdlVWtzc1BCc0JVR2p4c2NpdDZCRA?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "SOMPOHD: 自己株式取得に係る事項の決定および自己株式の消却に関するお知らせ",
-      "s": "TDnet",
-      "url": "https://www.release.tdnet.info/inbs/140120261118582843.pdf"
+      "d": "11/20",
+      "t": "【FX】11/20 株価急落でドル円反落！円高は進む？ ｜為替市場ニュースの振り返り、今日の見通し",
+      "s": "外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Nb3ZadXRRajNOU0R5ckRTQVF4dVRTdVNETmJmdUZGTXVlQklvZnRqNEhjUFFXcjA4X1dFV3U0Tl9PX01oVmk2dXJEV3Y5RkxZemxXN2s0OTBBcC04ZUVXMDFYTQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "FX/為替「ドル/円今日の見通し｜日銀利上げ期待でも円高は限定的か」 外為どっとコム トゥデイ 2026年11月20日号",
+      "s": "外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYVNSSHZ1b2h3OUlDbk5kNVFUZzhCbm10S0FRTm42WWlKOWR0ZTZLYjlMTWZTdVpZWGN5NS02NU9uWC1wQlZvRExtUm1NbUxyYXlvMXAzTXc4dzd0X2ZNM212QQ?oc=5"
      }
     ],
     "risks": [
-     "시장 전체 위험회피로 공시 효과 희석"
+     "엔 강세가 수출주 이익 기대를 낮출 가능성"
     ],
     "checks": [
-     "20일 MS&AD·SOMPO 주가 반응",
-     "도쿄해상 등 동종 결산·환원책"
+     "달러·엔 158엔대 유지 여부"
+    ]
+   },
+   {
+    "kind": "watch",
+    "title": "다음 주 '하값 모색·거친 장' 전망, CME 선물 54,760엔",
+    "strength": 3,
+    "trend": "신규",
+    "thesis": "지지통신은 다음 주 증시를 'AI 규제를 둘러싼 불확실성이 이어지며 하값을 모색하는 거친 움직임'으로 전망했습니다. 장 마감 뒤 뉴욕 나스닥이 5.28% 폭락하면서 CME 닛케이 선물은 54,760엔(-5.42%)으로 이날 종가보다 1,600엔 넘게 낮습니다. 그로스250(-5.29%)도 대형주만큼 빠져 중소형 피난처도 없었습니다.",
+    "why": "근거: 다음 주 전망 기사, CME 선물 급락. 약점: 미국 증시에 대해 '하락이 둔화되며 자율 반발 매수가 기대된다'는 전망도 있습니다.",
+    "codes": [],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "〔来週の株式相場見通し〕下値模索し、荒い動き＝AI規制巡る不透明感続く(時事通信)",
+      "s": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcF9GM3hIeXgzY3FBZDJBLWwwQUhUTTdqUDdtaEY4cXlLczJVbmhxLUltU1NKdTNuVmZRRXJYaUVpRTFxcFBwVVVna0dqZm1oTDRaOXNJVmxkdDl1bV9kclhDM24xVWF0S3g0bzZSV3YwU0xhdmkxOU1BeHpWeDNMbUNsUzI0Unc?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "米国株見通し：下げ渋りか、自律反発狙いの買いに期待も",
+      "s": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEJ1NnNmRjdSSktWRkNFS1dyTE9GRVJGeWVqeU5oaTBldXFFY1U3YXpTaDZ3aE45OG40b0dnYVhoVktXU0gtUDNMVWFsY210OHQtbzhsUW5XTk8zSjV0RlJza04xOFRYbHdHVXBBRV9PN3pFZk03a3JSR2JWcEx5T2R0MUN0dktMclA5ZXRvbXZad3FqX000VXN0RUdJYW5SVlZwMzZDOVZ1U1I1VVB5VW5ybExleWNUaWF4dUFxdEliTU1aeWkyVjNiT21rMERCdTNCOGFCaE5xYWct0gGMAUFVX3lxTE42OUJSQl9renVrR3l4YTg1aWg4d1Y2a3l3cTFBc3ZuRzY0YnI4WDYyQWFnSzVCWW55OTRERlJWekYzTHhDV0FyUmJZY3k1ZUZrSGF2b0psT0RrVmN5eGF5WkhJRGl4X1FVT0kxaEw2Yml1MzFmaGJZRlkzMzNVT2hRNGJIY3RKM3I1NU54?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "〔株式・今日の見通し〕反落＝AI投資への懸念くすぶり（20日）(時事通信)",
+      "s": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM19RekFpVnZxZ3JLczB0Q056NWxaUmpnMUNYNGNzaEpQR1hBNU8zZnBmMVhvTTBNSWNHSVhYWkhGMTVQQ0s4dEZ0YUtnc2ttM1AzQlZBSlJZb211V2JKQTgwdHp0bGpMdXdFUVV5NnFfSmlJdEJSTURud05vNmUyd0hmSWlvY28?oc=5"
+     }
+    ],
+    "risks": [
+     "주말 사이 추가 악재"
+    ],
+    "checks": [
+     "다음 주 시가와 CME 선물 괴리",
+     "신저가 종목 수(658) 추이"
     ]
    }
   ]
@@ -251,167 +255,191 @@
  "reasons": {
   "9984": [
    [
-    "시황",
-    "앤트로픽 IPO 앞두고 AI 관련주 매수"
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
    ]
   ],
   "285A": [
    [
-    "시황",
-    "앤트로픽 IPO 앞두고 반도체 매수"
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
+   ]
+  ],
+  "6857": [
+   [
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
    ]
   ],
   "8035": [
    [
-    "시황",
-    "앤트로픽 IPO 앞두고 반도체 매수"
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
    ]
   ],
   "6920": [
    [
-    "시황",
-    "앤트로픽 IPO 앞두고 반도체 매수"
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
+   ]
+  ],
+  "4062": [
+   [
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
+   ]
+  ],
+  "6525": [
+   [
+    "뉴스",
+    "AI 우려 속 반도체 관련주 중심 매도"
+   ]
+  ],
+  "8725": [
+   [
+    "공시",
+    "27년 3월기 순이익 상향·추가 자사주 매입"
    ]
   ]
  },
  "news_tr": {
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVAxU0owM0dnRjNhNzJkaGxEWUxqVnNDZG9vbDJEdFpfa3hPVkFaejdTRW5DOXJGRmtIRlRuV25fTU81S3hQdk9xWERUekJDc0lnanNYYnE4T012c1lFS2FESVJJdnFEQU5GMDBpU0xuaWFvc0JsODRWREdjWHBhMlhYWl9KRkU?oc=5": [
-   "【실적 속보】MS&AD, 이번 회계연도 최종이익 15% 상향 수정",
-   "종목"
-  ],
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzTGtxazVxZkFhY1QwdGExZ2x4RVNYUlZaSDJvUDl5VmY0UDE2OWdOaTRRMkRZem9LXzdFYzM0ejRIVzlRSFVOTENoMmFVdUZIdlE?oc=5": [
-   "11월 19일 상한가·하한가 종목 메모",
-   "종목"
-  ],
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTY5TFJ5RU1tNmluLTlYV1VoVTU2R3NfNnpQTHI3NXo3N0xrNVc0cTh6OFJIcHVhbTJnOXFKT1JMT0xvOXhHWkJjcVpNV0o5bkxFNnk5Z3A4U2VYWVVMRE56SjhpV2FVNUNkbWN2MTA5NWx2WG5jcDB3MzJRSU1teXo3TVI4QTA?oc=5": [
-   "오늘의 상한가/하한가(종가): 상한가 7종목, 하한가 3종목 (11월 19일)",
-   "종목"
-  ],
-  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DQm1KRVZBRnRvWkh6SHZ0d0tIeDlhZEtjUnhIV1lrOWo2SHM1X2xzLWJpZnBkVDU3YVB2cUIzckJDdUZVdzBoQw?oc=5": [
-   "달러·엔은 159엔대에서 움직임 — 도쿄 외환 개황",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QMFVDVndJbE1DS1NVdzdMOHFXSDlkaUZkWWtOV18xT1daS0pEV2VvNFNqblZiV09xUnVjbll4WXFlYXhDMnRsVlpqWjlPcjFwZnM5cg?oc=5": [
-   "닛케이평균 종가 419엔 93전 오른 5만 9,444엔 21전 — 도쿄 마감 해설",
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hTTRHWnBwSVNKUkt3WkxTS1NlWmVkYUdtZGxKcmRhSFRPTmY4S0JxeFdDZ0ZNcHpveE8yMmJSdmhhTUxwWkJiSTNvTDlBZnJw?oc=5": [
+   "닛케이평균 종가 3,007엔 하락, AI 둘러싸고 혼란",
    "시황"
   ],
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMktqQW01NHFYNTF4R1VCTUc5TUs2N2p3dndTTVQ5cmRaMmVielNUNFZvSTZHbWNHM1lWX2tqQ3NZSGVKU2RONWdMWUxXNzd2enc?oc=5": [
-   "상장 인덱스펀드 닛케이반도체주(213A) 주가 정보",
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic2hmMWRHZEFxaWtSNU8wZDBtbHN2UDhYd1EyLWkyWldJNkxKWlNiZEVlNGZIajJzaFNjY1ZuRVhzM0RodkhRd2ZrV2FYZ0kyVVpXNXBvV29zMnFzTmgzeDJNSjRaOE5qbXlEQjFJMUplSGU5?oc=5": [
+   "도쿄증시 큰 폭 반락, 3,007엔 하락… 반도체 관련주 중심 매도",
    "산업"
   ],
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSUl5WkQ0eHV4WURRREozQVloLUxPTlEzNGdVTlR4VnBrSm1GNmw0c3lsZGNiOFBWenEySGR2bUhrWHB5VTBMTnJkOTVoazNzMGlVTXo1Y3R6b3M?oc=5": [
-   "하루 만에 10% 넘게 갭 상승! DOWA홀딩스는 왜 급등했나? 경상이익 25% 상향·배당 77엔 증액·자사주 매입 160억엔, 진짜 주인공은 'AI 서버×연료전지'",
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE9sakVoWjNJZ3RKdkRGSXFUU29aOXYwbVJISkJTV0FjZDRIZ1o3QUdSSGs5RmJKR2hIaEJuQXNmckpwTkFoVFBMOUVTd1ZaR0M1TWdBNEtidU5PNFMyc1hMZ01wNjl4ZWlZMXNWYWxHaVNtdw?oc=5": [
+   "[속보] 닛케이평균 종가 3,007엔 하락, AI 우려로 거의 전면 하락",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEp1dS11Uzd0SldhZXJfSjU4OTJxaldEeF8yUWJiazRNYUZodDQ0d2tqQ0w1d19yYi1FdncyUk5QWllLdnRNYnNyaENKcDFibmF4X25yUjRpbnliN1pmZDBoVmI2a3RuRGRDMGZtSFktdXBOWFJWekowOHhXeWQxU242aHU0MGM?oc=5": [
+   "도쿄 그로스(마감) — 하락 우세, CANBAS 한때 상한가",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcGtOTnFaRlNGNjR5cnZ5VzBDa05LSWw1ZEFidGEyVkJHeGRBN3BaMFYwOFM0OVVYME4xS2RBU1BKR2pjQWZaX1gzNHIxRXg5Vk5zdmNlV2VWM05TdWhWd3dMVmg0VFZYRGN0MU92LXR0OFJ1TmtPV1ZCU1BrTHRaQWpWZmdIc0k?oc=5": [
+   "도쿄 스탠더드(마감) — 하락 우세, 픽스타·메드렉스 상한가",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUExQ1RQLU45cU9maFF4dUhZWVBLbFJ2bTh0NVczdnR4OUY5ZFJlWGN2MnJhNXA3ai1MamtzRG5UNDBESk5OVllzbllPaG8xWHZqVTFjY19sUTJFekQ0X29Tb2xOcTZTaUxuTE15akhqN2tsc2ZMbFUtak1aQmhBZ0tZeUcwekE?oc=5": [
+   "[실적 속보] 트라이아이즈, 올해 경상이익 전망 9% 상향",
    "종목"
   ],
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE52SERHcXZLbURSSExjVlp5NXZGaUFSZllUSnhNajFCQmZ2d2djQU5FRUFLeDF6ckM0OFROdFIxVHVsV1BMdjc2cjRjZVdiOGZVUVFiQV8tZHBYRDdYLS1INkdsbnFXaEdGXzZ4MzF4eHlGYVZG?oc=5": [
-   "한중 FTA 후속 협상 타결에 여행·항공주 급등…노랑풍선 상한가",
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTWdFenNxSUx4bmlGUkdBa1FaVlRUZjQzWFBLU1NDRk5wQVBLT0NYelllVm9YUmVvM3pCaUkydjRuWDFtbGI3NEJiX1NmZmR0ZGc?oc=5": [
+   "트라이아이즈, 올해 경상이익 전망 9% 상향",
    "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jaGdZZXJpbzRKaEk5N0hRaG82TE9nZnBJZUoxS09DYWpiZTNpYkRCYUxfZFdlVWtzc1BCc0JVR2p4c2NpdDZCRA?oc=5": [
+   "주가 하락에 엔 매수도 나와 달러·엔은 매도 우세 — 도쿄 외환 개황",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcF9GM3hIeXgzY3FBZDJBLWwwQUhUTTdqUDdtaEY4cXlLczJVbmhxLUltU1NKdTNuVmZRRXJYaUVpRTFxcFBwVVVna0dqZm1oTDRaOXNJVmxkdDl1bV9kclhDM24xVWF0S3g0bzZSV3YwU0xhdmkxOU1BeHpWeDNMbUNsUzI0Unc?oc=5": [
+   "[다음 주 증시 전망] 하값 모색하며 거친 움직임 — AI 규제 둘러싼 불확실성 지속",
+   "전망"
   ],
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QdDNtZ2U2X3c4VW9lMVBvRlg2UkljLWl6UER4cWVGYTU5S1piOWhTNEVwakp6bHlLZlZQQjhkZjEyUHNPQjVLX3dWNUtfdmhQTUE?oc=5": [
-   "GX 반도체 관련-일본주식(2644) 주가 정보",
+   "GX 반도체 관련 일본주식 ETF(2644) 시세",
    "산업"
   ],
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VS2pDdHZPSTQtaE56MUxrRUxzVENvU2QwdTlpclBITmt5aGhlWnRKaGNNNk9YT0dsRUtTT0ZHUmxLNEY0elMwTmJIN2NNY0ltOGc?oc=5": [
-   "(NEXT FUNDS) 닛케이반도체주지수 연동형 ETF(200A) 주가 정보",
+   "NEXT FUNDS 닛케이 반도체주지수 연동 ETF(200A) 시세",
    "산업"
   ],
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05OFVuTURyMlFlNEM3WUpGTUFMWE92YU5yYjBSNm9Pc3NkeHplX0diaU9mVm5IRFIteUN6dzJOU1lFRXByX1BfVFhUdVh0YUdlbExySm5B?oc=5": [
-   "호주달러/엔 환율 실시간 시세",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43eHZCcXdQbU8wVmN6V0dubEdfZTdWMV84aFZJcS1UYTNXaTVtMGdfSXMzZVozZm13QlRCdlNPWUdnYkZobVZVOTl1bFdYRW1tVnhaTjBhcFlkWmhUcncySw?oc=5": [
+   "도쿄 외환: 달러·엔 저점권, 세계 주가 하락에 엔 매수 지속",
    "금리·환율"
   ],
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5N2FOSkpzTTdxSE9LWmVMNF9jcEpYSFBpNGN3Q1g0dVlIYm0xV1JlNk9pbHNWc296cGctSk0zODgtNjNVdTcxdmRzdThBOXRjQ1l2Qk5Kd0p5VXIxeWM1UzQ4ekRldEFxbjlOZF9PZGQxTmd3?oc=5": [
-   "대만 ABF 기판·CCL주 40% 급락, BofA는 '과도한 매도'라고 반박 — 이익 전망은 상향, 목표주가는 하향",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TUFzbFJZY1BJT3l2NV9udm9zUUtxSEU3dmhXcHVqdjBuOF9RUm5KNDBGcm9USHJ1bUU4MjYycjBuOXp4aXV0Mk1jcWExdkwwRDFCSUpfbnlOSlMwRUxPSklzbzV3eTBJSHZmWQ?oc=5": [
+   "MS&AD 주가 한때 3% 상승, 27년 3월기 순이익 상향·추가 자사주 매입",
    "종목"
   ],
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVb0RUdnBlenZUaW5hdWJEOHJlb2hwWGdURmJqZVBnSms0WDVXQkw0dExiWVBVQkxSTmMxNkJFNlRnM0VFX3pvalFoUmh4YXd3ZTBRMTcxVUZLdnE0UkFOZzRUVnBlTGxaYTlCdDlOVnJuekFt?oc=5": [
-   "도쿄 증시 오전장 116엔 상승 마감, 앤트로픽 IPO 앞두고 반도체 매수",
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEJ1NnNmRjdSSktWRkNFS1dyTE9GRVJGeWVqeU5oaTBldXFFY1U3YXpTaDZ3aE45OG40b0dnYVhoVktXU0gtUDNMVWFsY210OHQtbzhsUW5XTk8zSjV0RlJza04xOFRYbHdHVXBBRV9PN3pFZk03a3JSR2JWcEx5T2R0MUN0dktMclA5ZXRvbXZad3FqX000VXN0RUdJYW5SVlZwMzZDOVZ1U1I1VVB5VW5ybExleWNUaWF4dUFxdEliTU1aeWkyVjNiT21rMERCdTNCOGFCaE5xYWct0gGMAUFVX3lxTE42OUJSQl9renVrR3l4YTg1aWg4d1Y2a3l3cTFBc3ZuRzY0YnI4WDYyQWFnSzVCWW55OTRERlJWekYzTHhDV0FyUmJZY3k1ZUZrSGF2b0psT0RrVmN5eGF5WkhJRGl4X1FVT0kxaEw2Yml1MzFmaGJZRlkzMzNVT2hRNGJIY3RKM3I1NU54?oc=5": [
+   "미국 주식 전망: 하락 둔화되나, 자율 반발 매수 기대도",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYa2dZeUMtVW5jTlZPRGhjbU1QOW9sQ1dYekFZYkpmVDdvaW5kaGFERjdDckpVLUgxd1lKcUVaSlM4cnJPN3lYT1JOYWZVZ3lGckI4OENjakpkRUhmbUZONnZldHJVZFl5YmFEMmRrQTd1cUQy?oc=5": [
+   "일본은행 12월 인상 거의 확실시… 최종 도달 금리 시각 갈려 엔 매도 압력 재연 우려",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ldkc4enZySXFnQnJUVFd1Vmx4azM3bGpQOUpLUnNqVzFWQ1JDVDBCdW1LUmJWZ1JUSnNRd0NaQUVaU3dzc1ZoQ2VNU0UyTFZNb2RDSy1qM0JnLVZFMHNTVzF4MFpPdjZHQWtSZ3p1azZzQWU1?oc=5": [
+   "중국 성젠커지, 4연속 상한가 실패… 전자화학 사업에 포토레지스트 없다고 해명",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMktqQW01NHFYNTF4R1VCTUc5TUs2N2p3dndTTVQ5cmRaMmVielNUNFZvSTZHbWNHM1lWX2tqQ3NZSGVKU2RONWdMWUxXNzd2enc?oc=5": [
+   "상장 인덱스펀드 닛케이 반도체주(213A) 시세",
    "산업"
   ],
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vVV9pLTc4MXBNY0x4WHN3dE5fcU9EVGJaRjF1MFhzZ21iX2FZYWtmUjVRSmpaeWVEX2RQam1kMV9ZWDBVQUhkczd3ZEpDZkUxVmpTc05qTi1pN1lOQnN5N0RWNzk?oc=5": [
-   "일본은행은 금리 인상 노선 유지, 물가 지표가 초점 — 오늘의 시장",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5": [
-   "닛케이평균 오전 116엔 상승, 망설이는 장세 — 앤트로픽 IPO로 돌파할까",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TWTBBeHowYTRRTmh2TGdhZGpuS2FLbnphZGJ2N2x5azRBWi1UdkxVMnhPTVpPTklFX0xxRE90LWgzX0VEVFNlMXRpOVlPa21ubzZVOV9nUktWU0lnRGVJYw?oc=5": [
+   "도쿄 주식(오후 개장) — 닛케이평균, 오전 종가 대비 보합권",
    "시황"
   ],
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eTVZOUJTVC1lYUh6SEVsZVdwM0dLeXFKeC15Y2k3bS1VdVd5ZmxjT2lleWlwOUNqc1g1UmZ2UFZNUG1MVUhqZkxSWi1lWEQ0aUpIc3ZucUxDcV9GRDJOUkwtcXAzUV9iZG5sTkNHUzVPbWdud3hIWE1HU25nVjQ?oc=5": [
-   "닛케이평균 오전 종가 116엔 오른 5만 9,140엔…방향감 없는 움직임",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SSERWNTFkN3c0blhtTklJQm9Mc1hIVGMxSDZEVm9ROXFOemQ3UjA3bFNKSk40M0FEdjZZSVd2aWJFZkk0Mmw4d1BabjdCWUpFa1E?oc=5": [
-   "오늘의 상한가/하한가(오전장): 상한가 4종목, 하한가 2종목 (11월 19일)",
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM2pjLTUzRmIyR01zZ1ZNYXRQcXRUc24tSmE5NUZmRWlGdURQbjB6Ukp2ajVYX2VrUHR5TXR0WEhIYmhvU2ZGaGRfRURVaW9UR1VTbTRzVmo5dFliV01xVDhVSkdXby14ZlFEcEluZGFCT20xemF2ZmMxNW1XMHkxX0RpTGRGSm8?oc=5": [
+   "오늘의 상한가·하한가: 오전장 상한가 2종목, 하한가 4종목(11/20)",
    "종목"
   ],
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lT3drVzhZSFRMZ3lfejZSLV9TMXVLZWdMS3NENVR5RGhmR2NMWlFzVkRROHBQaVlMV21jYm83bHZFdVNOYjFEdlhQU3NqYWQtNHYtNXZaSHdkcTJJcFZRU01KSWpwYTh4N043Vk9TQkJwdjBV?oc=5": [
-   "우에다 일본은행 총재, 추가 금리 인상 시사 — 일본 금융환경은 여전히 완화적",
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Nb3ZadXRRajNOU0R5ckRTQVF4dVRTdVNETmJmdUZGTXVlQklvZnRqNEhjUFFXcjA4X1dFV3U0Tl9PX01oVmk2dXJEV3Y5RkxZemxXN2s0OTBBcC04ZUVXMDFYTQ?oc=5": [
+   "[FX] 11/20 주가 급락에 달러·엔 반락! 엔고 진행될까 — 외환시장 정리와 전망",
    "금리·환율"
   ],
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWdCN3J3ZjE4b2xLaFdiQkVwWDNWb1FQWnE5YmNWQVlHcFRMZjRmVFRvb0tpdHg1R0dkd0N2clJLa2V1ZVMzVFQ1NDlacUdWRzFSMkRoZ2dkNXJiV1prZXIwbDFOeE1TcEs5Y2hHT2xYYVVzTUFKeGpQLXN1V3liWHQ5SXZmMzM1VENRUWVpaGM?oc=5": [
-   "금리 인상 진전에도 금융환경은 완화적이며 경제 활동 지원, 소비는 견조 — 우에다 총재",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWlp2dGpCTE8wSkhnaHp1YTJSdFZvWTJfYjhNNGphalFGNmRvSW5KYUZLVGRPMVpKbEE5WDM4WHZyQi01T3pGemNCdHVQYzNWaUJ4TVFIU0F3Ymw0cEJFZldzX01GUkU?oc=5": [
+   "'엔의 가치' 30년 전의 3분의 1로… 엔 매도의 지각변동은 왜 일어났나",
    "금리·환율"
   ],
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE41bW90UXh4YUpUNUtCam0wVGMtR3NTVHhpX2RqRFg1WVFGUUlkUl9uNXlFYkwySF9DSFRRakpULTRUVTMxdmdJcURlODl3WmZrQ2Nlb3VxWFdqTk9aR2N1SzRBWUEzTktoQUl1WTdOcVRmZm4tQ3dz?oc=5": [
-   "우에다 총재 \"시기·속도 보며 계속 금리 인상\" — 물가 2% 정착 중시",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tanRhMHNqeTdJdU4wS2dQSTIxbk92QUw4Z2hma0VzbmRDQmtXX2ticnBMRFFwdnVBRERaMFVuTnAxS2pVbWY5dllIM192eHlfNHc?oc=5": [
-   "도쿄 외환: 달러·엔 소폭 연속 상승, 유로 강세",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXbkMwWlBsdXk5Z18xa1ZNUFd6MW5FVlFueFNEanJxdWRhdlpzRGVzUUNZLXMzZVhOdG9pTVNGeGVtNkVOV1VVT1RudEdzVjc3Q3N0ZGhZRWMwd1dVMjJjMlEtR3pPQkUxUlRaSg?oc=5": [
-   "닛케이평균 연일 상승, 오전 종가 116엔 오른 5만 9,140엔",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vcmhVTWptY0VKWWJNaUdRaEVwaUJacGJYQlhYMTVKRDhJLThUY0dmOV9idmdqd0tOZjIzSHNmYndwd0ZXMVhQak9yNjhJWEw2WW5qREJfYzY1QkplbUlJa3JNOA?oc=5": [
-   "달러/엔 오늘의 전망: 금리 인상 기대에 달러 견조, 엔은 주가 동향이 관건",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTDdxc0dCTGRETkZ4VDBHUTFSMXFKbmo5T3h3Y3h6VzdBOFNoNkE5cWpwYjJzQjJaSFpzUkVUUnFUM09WSUxQeE9lSTVZRDVVNkRuMUE0WWFZNEtnUlUtSFZQd0ZWaHhwRThZVTJIdzE1R2ZDWGtldEtveEd6STFKUTJ3X1RuUXM?oc=5": [
-   "〔주식 오늘의 전망〕보합권 등락 — 앤트로픽 상장 앞두고 관망(19일)",
-   "전망"
-  ],
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRC1PY09TajlHN0REV1k1WVdaNElqQU9RamNZZDVWNDRyM0x1c3hTSjd2cEgzM0RKRU5VRGI4UXNwOWttNTNQdlAwdlhnR2VIUUE?oc=5": [
-   "베르그어스, 전기 경상이익 2.4배로 상향 수정",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iaHdmUkhISTFFbWZWc2xhbkc2aWh0azF3X1RsVmQ0VVVSWnZRaHA3aC1aN0llVlFOTGZYdUNPTVBEUWdBOVZGWXZ4bXJxdktkVjRvbUIzbExRRWxsd0hsdw?oc=5": [
+   "픽스타 상한가, 대형 수주 발표로 실적 영향 의식",
    "종목"
   ],
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HbUxCSXNNeTdYcUhnR0NwNHdWTzU4Q1U2S2tBTWMzeGtqWkwzVEhjdHJObDQ0dlhJS1MwUGpXS3EyVVQtV1NURDl0a3N3QW9PQWFybmxmNzZjQQ?oc=5": [
-   "도쿄 증시 반등, 163엔 상승 — 장 마감 무렵 매수 우위",
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zdmxoU3dPQnpSSmswSUJoZkZZYWlJdC10NEJyZnpmM0NocHBZX0d6akx3eTN6aWZMa3FzakV6ellzYnEtOGVRQjU4TGFla2hfT2RVajhiaw?oc=5": [
+   "캔버스 연일 상한가, 유럽 당국 3상 임상 개시 승인",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5": [
+   "닛케이평균 반락, 오전 종가 2,669엔 하락한 56,775엔",
    "시황"
   ],
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fQkE2UDhhY2ZHV2JLRUNUY014cy04QS1TWDdsZ2lkLXFWQUtQRmhNMmdrYkd4blN5T01HUzZVNFVrN2JQTUdfMkVHei1JbzNpM2tzdQ?oc=5": [
-   "도쿄 증시 반등, 163엔 상승 — 장 마감 무렵 매수 우위",
-   "시황"
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYVNSSHZ1b2h3OUlDbk5kNVFUZzhCbm10S0FRTm42WWlKOWR0ZTZLYjlMTWZTdVpZWGN5NS02NU9uWC1wQlZvRExtUm1NbUxyYXlvMXAzTXc4dzd0X2ZNM212QQ?oc=5": [
+   "달러·엔 오늘의 전망: 일본은행 인상 기대에도 엔고는 제한적인가 (11/20)",
+   "금리·환율"
   ],
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWxxOENBR1FuV2Z5cG5oTmFWR01FUmZqcTA0UGtmdVpWZFRKN1B6ZjRsNmpHMFM5d3pqQ0ZubnBmc3prQTQzSS1jd1VLX0ZDLU9CRWRvN0pxYk40TTlHV2V6cDJac3JOWUx1akRyTkprdjZwQlVYTkF0ZURaU1pGN1hkRXRXSXM?oc=5": [
-   "도쿄 그로스(종가): 하락 우세, VNX·리베이스 상한가",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHFJT0FCS0dzU3ZoSDFKNVBXS0xJSmlfZzVXUWtBSVNNUUxnOFE3SGd4TnN0UURKZEpZX25rNDRWbVk1ZDdWcS1CMngxNW1haVMzT1FpN3FDYzRiUDFPVVFVQ1lwNDJxM1Q4YkJnb1dyQnVXakx2Y2FzSktFSXVtUlNoME1vQkk?oc=5": [
-   "도쿄 스탠더드(종가): 하락 우세, 세큐어베·쇼케이스 상한가",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGJYVmRvRHdwQmV5blprRGJUT1lHZzBQa0pvZ0JhX29PNHJyRUxjNU9SOFlidE4tNU0zLTE4TEFkb1E5SUR6bHpsNU05NzdJVEFoTWpxY0hidUMxSGZJQjEzVFQwQzNNcjViZG9hX3NxMDlVMnRudHdvYkRUMnBZemREMkNYMXViM1hnUGFyelk?oc=5": [
-   "오늘의 주식 전망: 강보합 — 엔비디아 호실적에 안도감, 이벤트 이어져 상단 제한",
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzhTR3ZDODl3aVdtamY4TkdtR0pHdFAtX3JpOFpXWXh5TnlTcHdhTWtMWWhBZy1rNnlIYkhFTEF5SEJXb05QWWVHWl9LR1R0S0JLbjdfR3hINGdjRzNDRzR2ZUxIXzFqd2w5TENVeVFGNXFHcDJubUZXT3VRVGw2U1JvMHptWlZic2E0MWptYUM?oc=5": [
+   "오늘의 주식 전망 — 반락, 앤트로픽 상장 후 미국 AI주 약세 반영",
    "전망"
   ],
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBabUY5NGF3XzBiRTByMWtLeFJvR1pabXJkZkdmZ2g3d3FZN1p5T1RGZ1doV3RLb3FFNzlMSmNSWl9nUDIxNUhhZDBiWkdPRWxoUEhmRlFKX0dzVU1YTVhWcg?oc=5": [
-   "【주가 전망】조정장에서 보이기 시작한 '쏠림의 수정'",
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM19RekFpVnZxZ3JLczB0Q056NWxaUmpnMUNYNGNzaEpQR1hBNU8zZnBmMVhvTTBNSWNHSVhYWkhGMTVQQ0s4dEZ0YUtnc2ttM1AzQlZBSlJZb211V2JKQTgwdHp0bGpMdXdFUVV5NnFfSmlJdEJSTURud05vNmUyd0hmSWlvY28?oc=5": [
+   "[오늘의 주식 전망] 반락 — AI 투자 우려 여전(20일)",
    "전망"
   ],
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ESklCUGxkM251djNiMHJ1c0dJMURKQllLVFNsZDlNWGI4VmQ1N2VvWkpFaE4yRjJibUxxaHQ2ZjZTTm1kVktRS0loQVBtcmFRcmhnbHBBc1NuUQ?oc=5": [
-   "AI 장세의 향방과 일본 주식 전망은? 전문가 3인의 시각",
-   "전망"
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYjUwRjRSNXA3WnpfbVBkbzlWMjhwd1ZLRWVrbUVfRF9KLW9RY3FFUDhsenpHbmdHUTRUZGdORkhkQUpYMm53ZVJKcERzR3MtcWV1b0FzWVJqTlVFT0pmTUlTMHdaSGhXVkV2RzB5VnJXbl8wVmRELXduaTB6Sjg?oc=5": [
+   "12월 인상으로 정책금리 1.5% 되면 주택담보 변동금리는? 주요 12개 은행 반영 시기 예측",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84aG90TmRFTFlmNzd5N1RvTmY1STNVLUhuVFNEZDhZdDhhM0tKNzJKTHgtSW5VeVhybnZDZnVjcmZMYzlvM2VJUjZuWGNyZGR0N196RkNjWQ?oc=5": [
+   "보수적? 중간 결산 호조에도 연간 전망 '유지'한 3종목",
+   "종목"
+  ],
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxV0F3R3V1ZkVrSWpwVS03aFZfaEtuNjFWV3h2d0hJSmhWOHFJUlhUV3NlUmNlbVllYlE0WngyZlpOd2QzWkFMaEt3RFFKSEljcmxHUndhaFJmYjVabWVLbDlvVXBMNnBOSk9WeA?oc=5": [
+   "일본은행 우에다 총재 '개인소비 앞으로 회복', 금리 인상 노선 유지",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4WnQwS1NqaDlROWhPS0doeTJEOU9sbHg1dHZQR1lacGNWeV8yWUoxaXZ4VWQ5VHh3Wll1LW9aQUNlMWxFOVR1eXNkVVZXcjA4aTBVQ1E3bXoteXNpWnBRUw?oc=5": [
+   "도쿄 그로스(마감) — 하락 우세, 웨리타스·VNX 상한가",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lbVNMOTNoaXRabTUtbkZNVXJDbjYzd2NuVG9JMjV3dEo3VU1kRDFuaU4tVDZTUlN3RzBVUS1USDUwUnBXUExSaVVxenVqNlNBc0EtY2k4eDJzX1NxWnBKelVTaGdSNTJHaFJ2VjZTU0NQTG12cjRZM0JybW0?oc=5": [
+   "도쿄증시 소폭 반등, 종가 128엔 상승… 장 막판 차익 확정 매수",
+   "시황"
   ]
  },
  "news_codes": {
-  "ＭＳ＆ＡＤ": [
+  "MS&AD": [
    "8725"
   ],
-  "DOWAホールディングス": [
-   "5714"
+  "トライアイズ": [
+   "4840"
   ]
  },
- "est_note": "일본은 이번 주에도 올해·내년 모두 이익 추정치 상향이 우세합니다. 올해(y0) EPS 상향 624건·하향 458건(순상향 +15.3%), 내년(y1)은 상향 597건·하향 391건(+20.9%)으로 지난주(+15.5%, +21.1%)와 비슷합니다. 올해 기준으로는 은행(23건 상향·5건 하향, +58.1%, 1주 중앙값 +1.58%)·육운(+32.4%)·기계(+32.0%, 가중 +1.60%)·상사(+31.9%)가 넓게 올라갔고, 철강은 가중 +6.04%로 폭이 가장 컸습니다. 내년 기준으로는 해운(4종목 모두 상향)·철강(+54.5%)·은행(+45.2%)·기계(+38.2%)·전기기기(73건 상향·32건 하향, +30.6%, 가중 +1.13%)가 강합니다. 하향 쪽은 보험(내년 상향 1·하향 7, -60.0%)·섬유(-30.0%)가 넓었고, 정보·통신은 내년 가중 -7.67%, 전기·가스는 올해 가중 -5.16%, 정밀기기는 올해 가중 -4.15%로 하향 폭이 컸습니다.",
+ "est_note": "일본은 이번 주에도 올해·내년 모두 이익 추정치 상향이 우세합니다. 올해(y0) EPS 상향 633건·하향 460건(순상향 +15.8%), 내년(y1)은 상향 598건·하향 404건(+19.4%)으로 전날 집계(+15.3%, +20.9%)와 큰 차이가 없습니다. 올해 기준으로는 은행(상향 23·하향 5, +58.1%, 1주 중앙값 +1.58%)·기계(+35.0%, 가중 +1.69%)·육운(+29.7%)·상사(+29.2%)가 넓게 올라갔고, 해운은 4종목 모두 상향(4주 중앙값 +15.4%), 철강은 가중 +5.53%로 폭이 컸습니다. 내년 기준으로는 은행(+45.2%)·철강(+36.4%)·기계(+34.3%)·정밀기기(+31.2%)·전기기기(상향 73·하향 33, +30.1%, 가중 +1.08%)가 강합니다. 하향 쪽은 보험(내년 상향 1·하향 7, -60.0%)·섬유(내년 -30.0%)·기타금융(올해 -18.2%)이 넓었고, 정보·통신은 내년 가중 -8.67%, 정밀기기는 올해 가중 -4.17%, 식료품은 올해 가중 -3.41%로 하향 폭이 컸습니다.",
  "deriv_note": ""
 }

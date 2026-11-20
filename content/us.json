@@ -1,471 +1,500 @@
 {
- "asof": "11/19 (목) 종가",
+ "asof": "11/20 (금) 종가",
  "summary": [
-  "11/19(목) 뉴욕 증시는 앤트로픽 상장 첫날 일제히 급락했습니다. S&P500은 147.80포인트(2.02%) 내린 7,175.83으로 6거래일 연속 하락했고, 다우는 1,101.11포인트(2.19%) 내린 49,097.06으로 50,000선을 내줬습니다. 나스닥은 2.25% 내린 23,879.20, 러셀2000은 2.18% 내린 2,655.11, 필라델피아 반도체지수는 2.41% 내린 9,419.72입니다. 상승 979 · 하락 4,561, 52주 신고가 63 · 신저가 837로 하락이 시장 전체로 퍼졌습니다.",
-  "앤트로픽(ANT)은 기록적인 IPO 뒤 첫 거래일에 17.07% 올라 시가총액 약 1조 2,716억달러로 마감했습니다(장중 한때 +27%). 상장 기대에 장 초반에는 엔비디아·AMD·마이크론이 반도체 강세를 이끌며 지수도 올랐지만, 오전 중 상승분을 반납했고 유가와 금리가 오르자 다우와 S&P500이 하락으로 돌아섰습니다. 국내외 보도는 '성공적인 IPO 뒤 왜 시장이 빠졌나', '앤트로픽 상장은 매도 신호였나'에 초점을 맞췄습니다.",
-  "AI 반도체가 낙폭을 키웠습니다. AMD -7.72%(1주 -16.4%), ASE -6.24%, 마벨 -4.86%, 엔비디아 -3.3%(1주 -12.2%), TSMC -2.9%, 마이크론 -2.1%, 브로드컴 -2.09%이고 버티브(-4.88%)도 밀렸습니다. 빅테크도 아마존 -3.87%, 알파벳 -3.46%, 메타 -3.27%, 마이크로소프트 -1.78%, 애플 -0.92%로 약했습니다. 반면 팔로알토(+6.42%, 1주 +12.1%)·옥타(+5.75%)·크라우드스트라이크(+2.71%) 등 보안주와 PDD(+11.04%)·웨스턴디지털(+2.98%)·인텔(+1.92%)은 올랐습니다.",
-  "업종별로는 커뮤니케이션(-3.01%)·경기소비재(-2.68%)·산업재(-2.28%)·소재(-2.26%)·기술(-2.07%) 순으로 약했고 에너지(-0.97%)가 가장 덜 내렸습니다. 넷이즈(-11.39%), 테바(-8.74%), 블록(-6.05%), 도어대시(-5.8%), 유나이티드헬스(-5.55%, 1주 -18.4%), 로열캐리비안(-5.46%), 나이키(-5.45%), 쇼피파이(-5.34%)의 낙폭이 컸습니다. 인튜이트는 실적이 예상을 웃돌았지만 주가를 끌어올리지 못했다는 평가를 받았고, 알리바바는 AI 클라우드 고성장에도 엇갈린 실적에 내렸습니다.",
-  "VIX는 15.8% 뛴 28.44로 마감했고 9일물(29.26)이 1개월물 위로 올라섰습니다. 국채 금리는 10년물 5.052%(-1.4bp), 30년물 5.401%(-1.1bp)로 소폭 내렸고 13주물은 4.147%(+0.2bp)입니다. WTI는 83.2달러(+1.08%)로 오른 반면 금은 2.61% 내린 3,644.3달러, 구리는 1.4%, 비트코인은 1.27% 내렸습니다(한국시간 06:25~06:35 기준). 금요일(11/20)은 11월 월물 옵션 만기입니다."
+  "11/20(금) 뉴욕 증시는 AI 관련주 투매로 폭락했습니다. S&P500은 265.44포인트(3.70%) 내린 6,910.39로 7거래일 연속 하락했고, 나스닥은 1,261.47포인트(5.28%) 내린 22,617.73, 다우는 949.73포인트(1.93%) 내린 48,147.33입니다. 러셀2000은 2.76%, 필라델피아 반도체지수는 10.73% 빠진 8,408.59입니다. 로이터는 S&P500과 다우가 조정 국면(고점 대비 -10%)에 들어섰다고 전했고, 블룸버그는 2020년 이후 가장 긴 연속 하락이라고 짚었습니다. 상승 918 · 하락 4,625, 52주 신고가 64 · 신저가 1,273입니다.",
+  "하락의 중심은 AI 반도체였습니다. 엔비디아 -14.01%(1주 -22.9%), 마이크론 -13.89%, AMD -13.25%, 브로드컴 -12.19%, 마벨 -11.69%, TSMC -9.48%, 인텔 -7.97%이고 샌디스크(-16.05%)·Arm(-14.09%)·루멘텀(-13.94%)·ASE(-13.84%)·SK하이닉스(SKHY, -13.11%)·시게이트(-12.35%)·웨스턴디지털(-12.02%)이 줄줄이 두 자릿수로 밀렸습니다. 아리스타(-11.59%)·델(-11.04%)·코닝(-10.94%) 등 AI 인프라와 블룸에너지(-15.3%)도 급락했습니다. 벤징가는 반도체주가 2001년 이후 최악의 두 달을 보내고 있다고 정리했고, IBD는 '엔비디아 혼란'과 '블루 쓰나미'가 투자자를 흔들었다고 썼습니다.",
+  "상장 이틀째인 앤트로픽(ANT)은 8.5% 내렸고 BBC는 '대형 IPO 하루 만에 하락'이라고 보도했습니다. 빅테크는 메타 -5.93%, 아마존 -4.1%, 마이크로소프트 -2.77%, 알파벳 -2.7%, 애플 -1.9%로 반도체보다는 덜 빠졌고, 테슬라 -7.64%, 스페이스X(SPCX) -7.69%, 팔란티어 -6.63%입니다. 인튜이트는 실적 호조에도 12.77% 급락했습니다.",
+  "업종별로는 기술(-7.02%, 1주 -11.8%)이 압도적으로 약했고 산업재(-4.07%)·소재(-3.45%)·경기소비재(-3.33%)·커뮤니케이션(-2.86%)이 뒤를 이었습니다. 필수소비재만 0.46% 올랐고 헬스케어(-0.55%)·유틸리티(-0.72%)·에너지(-0.88%)는 낙폭이 작았습니다. HCA(+3.31%)·유나이티드헬스(+2.84%)·휴매나(+2.63%), AT&T(+2.11%)·T모바일(+1.89%)·버라이즌(+1.62%), 콜게이트(+1.89%)·월마트(+1.52%)·존슨앤드존슨(+1.25%) 등 방어주가 상승률 상위를 채웠습니다.",
+  "안전자산 선호로 국채 금리는 크게 내렸습니다. 10년물 4.912%(-14.0bp), 5년물 4.701%(-16.5bp), 30년물 5.303%(-9.8bp), 13주물 4.122%(-2.5bp)입니다. VIX는 26.2% 뛴 35.89로 3월 이후 처음 30을 넘었습니다. 금(-4.46%, 3,521.1달러)·구리(-3.06%)·비트코인(-4.59%, 58,649달러)도 함께 밀렸고 WTI는 83.8달러(+1.65%)입니다(한국시간 06:20~06:34 기준). CME 닛케이 선물은 54,760엔(-5.42%)으로 다음 거래일 일본 증시에도 부담이 남았습니다."
  ],
  "ideas": {
-  "asof": "2026-11-19 (현지) 종가 기준 · 아이디어 6개",
+  "asof": "2026-11-20 (현지) 종가 기준 · 아이디어 6개",
   "items": [
    {
     "kind": "hot",
-    "title": "앤트로픽 상장 첫날 +17%, 시장은 '셀 더 뉴스'",
+    "title": "AI 반도체 붕괴: 필라델피아 반도체 -10.7%, 엔비디아 -14%",
     "strength": 5,
-    "trend": "신규",
-    "thesis": "앤트로픽(ANT)은 기록적 규모의 IPO 뒤 나스닥 첫 거래일에 17.07% 올라 시가총액 약 1조 2,716억달러로 마감했습니다. 장중 +27%까지 갔고 상승률·신고가·거래대금 모두 1위였습니다. 그러나 같은 날 S&P500은 2.02% 내려 6거래일 연속 하락했고 하락 종목이 4,561개로 상승(979개)의 4.7배였습니다. 업종별 자금 쏠림 추정치에서 앤트로픽이 속한 '기타'만 +$82.3bn이고 나머지 11개 업종이 모두 마이너스였습니다.",
-    "why": "근거: ANT +17.07%(시총 $1.27조) vs S&P -2.02%·나스닥 -2.25%, 기술 업종 자금 쏠림 추정치 -$223.8bn. 약점: 상장 하루만으로 '자금 흡수' 효과를 단정하기 어렵고, 장중 +27%에서 상승폭이 10%p가량 줄었습니다. 하락에는 유가·금리 상승도 함께 거론됐습니다.",
+    "trend": "강화",
+    "thesis": "전날 장 초반 반등을 반납했던 AI 반도체가 하루 만에 두 자릿수 급락으로 번졌습니다. 필라델피아 반도체지수 -10.73%, 엔비디아 -14.01%(1주 -22.9%), 마이크론 -13.89%(1주 -23.6%), AMD -13.25%(1주 -20.5%), 브로드컴 -12.19%, Arm -14.09%, 샌디스크 -16.05%(1주 -28.4%)입니다. 하락률 상위 20개 중 19개가 기술 업종이고, 업종별 자금 쏠림 추정치에서 기술은 -$421.6bn으로 나머지 10개 업종 합계보다 컸습니다.",
+    "why": "근거: 반도체주 '2001년 이후 최악의 두 달'(벤징가), 'AI 트레이드 붕괴'(야후) 보도, 기술 업종 1주 -11.8%. 약점: 기술 업종 이익 추정치는 올해 상향 213·하향 93(+26.9%), 내년 +25.5%로 여전히 상향 우위이고, '저가 매수 후보' 스크린에 마이크론·엔비디아가 오르는 등 반등 기대도 나옵니다.",
+    "codes": [
+     "NVDA",
+     "MU",
+     "AMD",
+     "AVGO",
+     "ARM",
+     "SNDK",
+     "MRVL",
+     "TSM",
+     "ASX",
+     "SKHY",
+     "LITE"
+    ],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "[뉴욕증시] AI 쇼크에 '검은 금요일'...엔비디아 14% '털썩'",
+      "s": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUo1QS0zMjJRbS1kWVVVNVcyTHVfbXN2eGtnMEhkaGlvNUpxY2xQTWVTcDlaOVhNTy1mTjlJcGp5eVcxZ0xzVkVvU2VvUHF2a0dVd3pGUGNPdWNLRTJabndnekpCbTMtNXlkeHVjZmpxZDh2cjZzdVRqdmsySUNkRmdYd3FHZG0y?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
+      "s": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "Chip Stocks' Worst Two Months Since 2001: This Week On Wall Street - NVIDIA (NASDAQ:NVDA)",
+      "s": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjVQNkUwT1ljUzdNeTFEdHhLenN4WUUzT2tYbHplVG5abDRUWmJEbGVKRXc1TG1yVlJuZUptVTUxT0xSeTdnSFZmRGhTSzNvUzZaLS0yT0h4c2ozR2V0bkFZZ21mTF9MQ09FakY1N094RXFPOUlIbUFBM3VmZlpqdTQtUzlHQ1NocU82XzE3T0JmYVU1Z1hKQlltaE91eFR2b2Fid1l6eXJOS1Q0QmtRZ3Jra2ZxSUF4OElyMVJ1VG41enlNaTFoZTU5NFpEc1FKMWltcEtxZnA2TnRSQ2hnVQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors",
+      "s": "Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU291OEFTamphSmg2LXZBUzlrbzJzelRKUnZ0bEd6cTE1dFBWd1V4Xzk0RE1lOVBzTUprLUpDODVHb1J5RWNoT2FzODVnR2Fzd2tpb0NjckNxZlhMWXMzSGdjc2tadFFxREd3eFF6TDktOHRXZnNTMmJ6UEUxemNwdWNoMXNYWE5GY1piNlJxT0ZGaWRjR3pLSjNEekUxR251elAwWWdn?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "Chip stocks to consider on the dip: Micron and Nvidia lead the screen",
+      "s": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHgySjFqSk9GYVo4Xzd3eTBBdkoxU1Y4VnNreTZhU3lWV0tabFVCSmp2Z0puUDZiLVB4bDdaY085NlhSeHZXTDRuQ3BGV3EyQjQ2X3U2dTZDNV9VUGdCWkpZMmdxdllueTBuQ0U0cFpYUHIwdU5SRl9DR3lON2ZxZXUxODYxYUlLb1V3OC1FeGxVa0tCX0lGYklkX2drSzBMTlBkT0ZDNE5WQXF5aXhwbnZFdW9lWHhIUnNpVWNOWFR4cnlseG42bk5B?oc=5"
+     }
+    ],
+    "risks": [
+     "딜러 감마 음수 구간에서 추가 투매",
+     "엔비디아 실적 발표를 앞둔 변동성 확대"
+    ],
+    "checks": [
+     "필라델피아 반도체지수 8,400선 유지 여부",
+     "엔비디아·마이크론 거래대금 변화"
+    ]
+   },
+   {
+    "kind": "hot",
+    "title": "나스닥 -5.3%, S&P500·다우 조정 국면 진입",
+    "strength": 5,
+    "trend": "강화",
+    "thesis": "S&P500은 3.70% 내린 6,910.39로 7거래일 연속 하락했고 나스닥은 5.28% 급락했습니다. 로이터는 S&P500과 다우가 조정 국면에 들어섰다고 했고, 모틀리풀은 나스닥이 올해 세 번째 조정에 들어갔다고 썼습니다. 하락 종목 4,625개는 상승(918개)의 5배, 52주 신저가는 1,273개로 전날(837개)보다 더 늘었습니다.",
+    "why": "근거: 지수 3종 동반 급락, 신저가 1,273개, 블룸버그 '2020년 이후 최장 연속 하락'. 약점: 다우(-1.93%)·러셀2000(-2.76%)은 나스닥보다 덜 빠졌고, 필수소비재(+0.46%)는 상승해 하락이 기술 중심입니다.",
+    "codes": [],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+      "s": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap",
+      "s": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "The Nasdaq Is In Its Third Correction of 2026. Here’s the Lesson Most Investors Are Missing.",
+      "s": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGRyR3VpLUJxdEdqekgxRm9PaGltZXBJZDdjRm53c2RyZnRLZ205VXMyUXloN3BuV25xTWo5WWVoejhnZXhwUnpOYXhLRFlvRUppNkxJdl8xckloSkdNWnNCXzZ3X3ktRlYxUmNPLWRfY2lsX3RuTmZOUUp0Z1drYUZxVFdaT1oxMVdDOUVvTl84TURXcWZQaGNYSjdKekhzcFRTMnZUcVlLX0lJZU12T2U4U29LR09DRUhld0dtYk80dlV6eF85bUp4R0k2QQ?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "6 reasons stocks are falling, and what you should do about it",
+      "s": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQ0QxcUZmN2EzM2oyLTlDX2lUeUVoazlHb2dDa3FlRlJueDJhMm5UV0pENHhuTXlBY29PU3d0RGFGcTVIaDB0TTI2eTk5Nkd4dDB4d0JDUDhNWXQzREtMcmloaHpURDlVdWZsM0FB?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "New York Stocks Close Lower; Nasdaq Slides 5.28%",
+      "s": "bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzRFdoeGN3Smwwd1l4QXBtZExvdFNlSlFvd2d2WkhOYnRtbGxteC1NeE9TdkNkWmNObHkzZ1dFN3ZMUlRmQ3F1Vzdrd2psclZKcXRHbw?oc=5"
+     }
+    ],
+    "risks": [
+     "연속 하락 기록 연장",
+     "신저가 종목 수 추가 확대"
+    ],
+    "checks": [
+     "S&P500 7거래일 연속 하락 이후 첫 반등 시점",
+     "신저가·신고가 비율"
+    ]
+   },
+   {
+    "kind": "hot",
+    "title": "VIX 35.9, 3월 이후 처음 30 돌파·기간구조 역전 심화",
+    "strength": 4,
+    "trend": "강화",
+    "thesis": "VIX는 26.2% 뛴 35.89로 3월 이후 처음 30을 넘었습니다. 9일물 40.72 > 1개월 35.89 > 3개월 30.94 > 6개월 29.54로 전 구간 역전이 깊어졌고 VIX/VIX3M은 1.16(1주 전 0.94)입니다. 나스닥100 변동성 VXN은 45.25, 국채 변동성 MOVE도 106.3(+10.7%)으로 뛰었습니다.",
+    "why": "근거: 단기 변동성 급등, SPY·QQQ·IWM 딜러 감마 모두 음수. 약점: SKEW는 140.86으로 1주 전(150.16)보다 낮아 꼬리 위험 헤지는 오히려 줄었고, 'VIX 급등이 바닥 신호일 수 있다'는 분석도 있습니다.",
+    "codes": [],
+    "evidence": [
+     {
+      "d": "11/20",
+      "t": "Why is the VIX up today? Wall Street's fear gauge tops 30 for the first time since March",
+      "s": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzVycUdXaU9mdXE1NlhER0h0NGYyRGZoN2FyUzIyQVpyVXhIV0xsaTZTMklINm9BXzhnbzFnNnh2NkE4WDc2Wm1IMVZGZVVOeHF5TG1uNkV4VnliSkFyY2FaYl8yOVJqeXpaM1hIQ09Qd1JGVTY4S08xWUlOQXVQNFBxeVdiNE9HMDRDYnI1SFRnTHp5M1Y1NWw0QjZ4TWdBZU1OZWVuUG5xMnlHNFlzag?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "Cboe Volatility Index (VIX) forecast: US stock market fear signals a possible bottom",
+      "s": "Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2VsN2tRUFVVV2tNRktWbThwcGtMUExwNGpWbXZLN3dnLXpmT0JWNHVRUlNaV05wLTBBSC1rYWJxSDVla1pIcEp3cnFMR2lmMzNZZEdza3Rrd292SHYzR1R6d1NkSWhYOXdKV01nTjZnVmtqaUhQMFhBWTg3VU5xTkxqTUdhQnFoWUN4ZGZ2dDI1d2hVRjBhT084VDZsc2RMbVRVZVpqaXFOMjha?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "Volatility Surging - What Smart Options, Futures, And Stock Traders Are Doing Now",
+      "s": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBMVjA0VTBaMHRYOE1qbXZFXzZjbWM0UzNGaU4xOFFEdFk1YjFLRkF3ZVBqLXBUcnNLZHVQYnN1SDFxblpoZ3JuWXMteXpkTTZDUzNNWnQ5TjU1S21QcDNxdE5SbFNUc3gtbzQwUWN6R2V3QmZ4SDdMLWFIRmF3YlNIejMtcmtja09jUm5QSDZMZ3pCc3RrZlY3T3BUWDJQaG02blBBcjg1Y0tRZl9JX3BjbjE?oc=5"
+     }
+    ],
+    "risks": [
+     "VIX 40 이상으로 추가 급등",
+     "감마 음수로 하루 변동폭 확대"
+    ],
+    "checks": [
+     "VIX/VIX3M 1 아래 복귀 여부",
+     "VVIX(138) 진정 여부"
+    ]
+   },
+   {
+    "kind": "watch",
+    "title": "앤트로픽 상장 이틀째 -8.5%, '상장 이후' 매도 확산",
+    "strength": 4,
+    "trend": "약화",
+    "thesis": "상장 첫날 17% 올랐던 앤트로픽(ANT)은 둘째 날 8.5% 내렸고 거래대금은 엔비디아에 이어 2위였습니다. 국내외 보도는 앤트로픽 상장을 계기로 AI 매도가 커졌다는 쪽에 초점을 맞췄습니다('앤스로픽 급락에 붕괴', 'AI selloff after Anthropic IPO').",
+    "why": "근거: ANT -8.5%, 거래대금 2위, 상장 직후 AI 대형주 동반 급락. 약점: 상장 이틀만으로 수급 흡수 효과를 단정하기 어렵고, 하락에는 엔비디아 관련 이슈와 금리·정치 변수도 함께 거론됐습니다.",
     "codes": [
      "ANT"
     ],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "Anthropic shares gain 17% on first day of trading after record IPO",
-      "s": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zaXRWT25VRVcyM1NtbmRta1dHZWJZcHlKS1NPWUNmemJLZGxPd3lPRVlxc1ZfY0VuZXNuRm14Y015Vl9IMWNfc2Nsb0gxckNXR2UwcGRPN1RtTXZYWklKeWNIWEhtbUV5SUxpelJFYzc0eWZh?oc=5"
+      "d": "11/20",
+      "t": "Anthropic shares fall a day after blockbuster IPO",
+      "s": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
-      "s": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFDQjFuLWxNV1h6NTZldmRBOVVFVm1Kc0VvdUxjZzZtYkhHcjFEMG9SWVJXS0RnVmJhd3lReGp4OHhtM1pQOUFxQklCMmlOWlRzaWlEUXBmT1JyQy0zUk5Ya2Vscnp6VGlod1BEUThjWkdJaUlGNl8zWUlhcmZ1bGd6Yw?oc=5"
+      "d": "11/20",
+      "t": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO",
+      "s": "Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "[뉴욕증시-1보] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감",
-      "s": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1saFlwR2swOTJ3SE1QdFgzMmtjbEtsU0dZc3NVbHdIUmI2R0p0WjI3dktsSTNfQXJVYWhXaF9wQUZLMnowcGdteWVHVFFBNEsteExwblRlRHNtanBabmhjSlI0b25WSTNoM1RBLUZGLWnSAXRBVV95cUxNTUxmYWJrX3M1c0ctT0MzUzhEalRQN01WbTRMczdYbndMYXFUelBqdXZEQ0hMVXhBLVFzemZnRXV5VVNnVUlSRXc4UnZwNHV3VzJ5OXd6aE15WG5KV2JiX3dvUWlPMDlYSUVOUV84YVJMaF9oRw?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Anthropic Jumps 27% in Record Debut, S&P 500 Eyes Sixth Straight Loss: Stock Market Today",
-      "s": "Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmYyQzZBTmhFNWNXSFNjZ0Z2OHRrakdQOWhPeGFKcWVkaHdJdGFuSjJpWFZZalNwUmYwaHFmcTl4WjJPMzVKVVFveUJQZlJveTRnVGRLNXZidTllMVRuOXJWbHZESkxFdUVXUWwyMGc3Z1h1cnV3NU5RTkdnY0M0OUkzbHFaZlY5YV9wOGVpTDVRdTFPVjBwWUk2UkttR2lUZ1VGRFRodUZMbnJncmhFRm9USnk4aEFCaUtNeEE5WmVER3c?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Anthropic IPO Live Updates: Shares Close Up 17%",
-      "s": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY05tbXdPVUlQLUxjRkhYSmRXV1AxY1BGS1dELVJKOFd0ZklWcXpmdXBtNG5lX0JTZlRaZGNrYi1ZM0Utc3ctU3Fvc1F1SmJSbG5oUHRrZU9FclZDaUROd21lckNlVUE4ZVVEbGpwY0gtYnBJNV9yZng3ZmMxM3I0OGJtYmp5TkstQUV2RnlKcUZoSjAyVVdIUHV4RUszS3ZSX3c5eGlCLXBMREdUTUE?oc=5"
+      "d": "11/20",
+      "t": "[속보][뉴욕증시] 앤스로픽 급락에 붕괴…나스닥, 5.3% 폭락",
+      "s": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUWJRUUtEcFFRLVA0anhITDlLck93a1h0RHYwd2I3WTVXanp3d21QYUZOQ2IzYnFYZDNoaHNBS1UwdkRqbXhuNHpESXA4cEJHNUtiNzlILWxZZw?oc=5"
      }
     ],
     "risks": [
-     "상장 초기 차익 매물로 ANT 변동성 확대",
-     "AI 대형주에서 신규 상장주로 수급 이동 지속"
+     "상장 초기 물량 출회로 변동성 지속"
     ],
     "checks": [
-     "ANT 상장 2~3일째 흐름",
-     "나스닥 대형 기술주 거래대금 변화"
-    ]
-   },
-   {
-    "kind": "hot",
-    "title": "AI 반도체 재하락: AMD -7.7%, 엔비디아 1주 -12%",
-    "strength": 4,
-    "trend": "강화",
-    "thesis": "장 초반 앤트로픽 상장 기대에 반도체 강세를 이끌던 엔비디아·AMD·마이크론·브로드컴이 상승분을 모두 반납했습니다. AMD -7.72%(1주 -16.4%), ASE -6.24%, 마벨 -4.86%, 엔비디아 -3.3%(1주 -12.2%), TSMC -2.9%, 마이크론 -2.1%, 브로드컴 -2.09%이고 필라델피아 반도체지수는 2.41% 내렸습니다. 전날 엔비디아만 빠지고 AMD(+5.31%)·브로드컴(+3.64%)이 올랐던 '차별화'가 하루 만에 동반 하락으로 바뀌었습니다.",
-    "why": "근거: 거래대금 상위 20개 중 반도체 8개 가운데 인텔만 상승, '반도체주가 대장주와 갈라섰다'는 보도. 약점: 기술 업종 이익 추정치는 올해 상향 222·하향 90(+29.5%), 내년 +24.9%로 여전히 상향이 넓게 퍼져 있습니다.",
-    "codes": [
-     "NVDA",
-     "AMD",
-     "MU",
-     "AVGO",
-     "MRVL",
-     "TSM",
-     "ASX",
-     "VRT"
-    ],
-    "evidence": [
-     {
-      "d": "11/19",
-      "t": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
-      "s": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS0JTcFBmVWY5WDhjaTczbFpTdVhFU2tyM0V2Rl9mUXgzOC1YeHptMlBmZHFtZW5CbVhjMktQcTE2ZkFodjg0cl9nMTRPcEp3U0tlZlRaX3BGNU5MRjFhd2ZuM3ROODJEQkVMWVY5TVluY19uMzFGZFUxazNNaVktalAwNjV4Qi1oUEhhTDFVOWJGT1ZmYURhNzY4RWZpZXNXam5TcG1kdl9oUlJHSmhudnIxNTQzQkVqb3ZnWFFGR0tmZ1MxMjRPTEM4d1M3Qklj?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public",
-      "s": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Chip Stocks Split From Their Bellwether as Leadership Questions Linger",
-      "s": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3BkU2RFSG85bVZtNm52VmNNcVJ0OG9laEdMcEdXQmpNQy1ieFFFRW5jeS1lYUJDQnR3THBnV3FocFJET0JhNnBjdl9oOENiUy1FNXVkcUdRalBEZUtlek53REVFYnhLRVRyUmc5WTVkOTRLaG1HNG1tWXFiRzNkeTgzVFVOQmxTRngtNmNOQVhiekNDM2lKOE14Q1JreHNSdFdNYVJ1VjJ0NWRFcURuZFJtbW5zWGVILWJYSmk3LUs4VFRrQ0x2cXBUWQ?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Nvidia’s Crisis Has Boosted Competing Stocks",
-      "s": "Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnEybGlNblFXb0RWMWF5alZlRjllSEpWOGFPa3NpZGltdjNpVmVMMWZxOVVzSTRYdGVNM3U4NjM3N0tJOWJmZC1MWkRYWmllNHFxT0UxLXkzbHR0S1ZFbklhTjBDYXRDdURsSWRLV3ZLOWViUjRDb2pZNkI1ZGk4dzNQMjRxTEl6VUE1bHRBcmM?oc=5"
-     }
-    ],
-    "risks": [
-     "엔비디아 풋 최대 미결제 150 아래(현재 145.98)에서 추가 하락",
-     "AI 투자 불안의 한국·대만 반도체 전이(대만 가권 -4.40%)"
-    ],
-    "checks": [
-     "엔비디아 140(풋 벽) 지지 여부",
-     "AMD·브로드컴의 전날 상대 강세 복원 여부"
-    ]
-   },
-   {
-    "kind": "hot",
-    "title": "S&P500 6일 연속 하락, VIX 28 돌파·기간구조 역전 확대",
-    "strength": 4,
-    "trend": "강화",
-    "thesis": "S&P500이 6거래일 연속 내리면서 VIX는 15.8% 뛴 28.44로 마감했습니다. 9일물 29.26 > 1개월 28.44 > 3개월 27.03 > 6개월 26.85로 전 구간이 역전됐고 VIX/VIX3M은 1.05(전날 1.01, 1주 전 0.93)입니다. 52주 신저가는 837개로 신고가(63개)의 13배이고, SPY 딜러 감마는 -$18.7bn/1%로 음수가 이어졌습니다.",
-    "why": "근거: 지수 3종(SPY·QQQ·IWM) 딜러 감마 모두 음수, 단기 변동성 우위의 역전 구조. 약점: VIX는 이번 달에도 하루 만에 16.61에서 28.18로 뛰었다가 되돌아온 적이 있고, 노무라 매켈리고트는 '기계적 반등'이 나올 수 있다고 봤습니다(다만 실패 가능성도 지적).",
-    "codes": [],
-    "evidence": [
-     {
-      "d": "11/19",
-      "t": "Anthropic Jumps 27% in Record Debut, S&P 500 Eyes Sixth Straight Loss: Stock Market Today",
-      "s": "Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmYyQzZBTmhFNWNXSFNjZ0Z2OHRrakdQOWhPeGFKcWVkaHdJdGFuSjJpWFZZalNwUmYwaHFmcTl4WjJPMzVKVVFveUJQZlJveTRnVGRLNXZidTllMVRuOXJWbHZESkxFdUVXUWwyMGc3Z1h1cnV3NU5RTkdnY0M0OUkzbHFaZlY5YV9wOGVpTDVRdTFPVjBwWUk2UkttR2lUZ1VGRFRodUZMbnJncmhFRm9USnk4aEFCaUtNeEE5WmVER3c?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Wall Street’s Fear Gauge Went From 16.61 to 28.18 in a Single Day in November. Why It Keeps Snapping Back",
-      "s": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHNSaGdsc05KVE90bC1tY3RuenRkb0M4YlJTSE15X1dVaDA4bmtOYno5dk1WZFBYNDhVUVRCbVEteXRXRDh4WDVva1pHMmJhUE00TEhzSVFNNXBwMUZNeGlPVGdBX1NGMXdMMk16T1BkWlZLVG95ZzJTV0l3WWpaWWFuMjJ2Zm1qYlJhcGtheXNGVUpoOFE2Rw?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Mechanical relief rally could be set up for failure because it ‘makes too much sense’ – Nomura’s McElligott",
-      "s": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYWtha3hkN1pzRVNRM2FNc1BGcjVidTh5bUc2M2M4OUhpR0hNQUNrNWdBQUhUTlJWMTA1YnpiNE1ZOGhWTXhBRzhFWmNJOEFIUWxQSENZeWdteVEtZmQ5c1JaVXFKcDdTLVVNaTd5QW9EcHpCT09melpJYzFOX0pQVWhPdUFGYWZoOTVRYmkxY0syM19PTTR4dC13V2FPaFVsc291UXJqcnNIVnFmV0llNzhyNGowS2NFcjI0RHFhZ3dfZW5ZSXBDTEhCUHA0LU1MYnBoQ25jYm45RVRUWHFibm1GcGpxU0p3ck1jLU1aekhyMGtUMi01Umh3?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next",
-      "s": "The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM2JySDhOZnRaczVybVhLdzJrLTlGZEhrMU9KYXVrNmRTWWNpdGxIWnlZTk0wcHg4Z1BFc2xXVmFMRFNaWnhCSmQ2aEQ4X1Bwc0tabmVGaDF4al9oZDB1SVJva1ZuT3Z6RlNEbWNRbUtneHZhem81bXNQOXprbUpldzRvM0VQRy1PdG5USFNrdnNFQkFxcGpqZzYxNkx1WUNDLWFjV0I4bUNwTGxDcE1WbjZ2Mk5xZ3laLXVCRGxUZUdWc2dBaFpqT2x2dHJTQWlSN2MyS0xlTGlHcmttN3lFTGNTOU5PQ2lxVWtfSDRzMnV6bEVtam41NklsQzJHd3UzTWNQR3d4dDd3UQ?oc=5"
-     }
-    ],
-    "risks": [
-     "11/20 월물 만기 전후 감마 음수로 변동 확대",
-     "다우 50,000선 이탈 후 기술적 매도"
-    ],
-    "checks": [
-     "VIX/VIX3M 1 아래 복귀 여부",
-     "만기 후 SPY 감마 음수 축소 여부"
-    ]
-   },
-   {
-    "kind": "new",
-    "title": "보안 소프트웨어 역주행: 팔로알토·옥타·크라우드스트라이크",
-    "strength": 3,
-    "trend": "신규",
-    "thesis": "시장 전체가 2% 넘게 빠진 날에도 팔로알토(+6.42%, 1주 +12.1%), 옥타(+5.75%, 1주 +13.3%), 크라우드스트라이크(+2.71%, 1주 +5.9%), 클라우드플레어(+0.92%)가 올랐습니다. 팔로알토는 11/18 장 마감 후 실적(8-K)을 낸 뒤 이틀째 상승률 상위입니다.",
-    "why": "근거: 상승률 상위 20개 중 보안주 4개, 팔로알토 거래대금 상위 16위. 약점: 옥타·크라우드스트라이크의 상승 이유를 설명하는 기사는 digest에 없고, 팔로알토 옵션의 11/20 맥스페인은 330(현재 361.73)입니다.",
-    "codes": [
-     "PANW",
-     "OKTA",
-     "CRWD",
-     "NET"
-    ],
-    "evidence": [
-     {
-      "d": "11/18",
-      "t": "Palo Alto Networks Inc 8-K: 실적 발표 · 비등록 증권 발행 · 공정공시(Reg FD) · 기타 중요 사항",
-      "s": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/0001327567-26-000030-index.htm"
-     }
-    ],
-    "risks": [
-     "하락장 피난처 수요가 끝나면 되돌림"
-    ],
-    "checks": [
-     "보안주 1주 상승 지속 여부",
-     "팔로알토 실적 후 추정치 변화"
+     "ANT 첫날 종가(97.17달러) 회복 여부",
+     "AI 대형주와의 동조화"
     ]
    },
    {
     "kind": "contra",
-    "title": "유가 상승에 에너지만 버텨: 다이아몬드백·코노코필립스",
+    "title": "방어주로 피신: 헬스케어·통신·필수소비재 상승",
     "strength": 3,
     "trend": "신규",
-    "thesis": "유조선 운송 차질과 공급 우려로 유가가 올라 WTI 83.2달러(+1.08%), 브렌트 90.17달러(+1.12%)를 기록했습니다. 에너지 업종은 -0.97%로 11개 업종 중 가장 덜 내렸고 다이아몬드백(+1.41%)·코노코필립스(+0.44%)는 올랐습니다. 장중 유가·금리 상승이 지수 하락 전환의 이유로도 꼽혔습니다.",
-    "why": "근거: 에너지 업종 상대 강세 + 에너지 올해 EPS 4주 중앙값 +4.46%로 꾸준한 상향. 약점: WSJ는 원유 선물이 변동성 끝에 보합 근처로 마감했다고 전했고, 에너지 업종은 1주 기준 -5.9%입니다. 공급 과잉 전망도 여전합니다.",
+    "thesis": "폭락장에서 상승률 상위는 방어주였습니다. HCA +3.31%, 유나이티드헬스 +2.84%, 휴매나 +2.63%, AT&T +2.11%, T모바일 +1.89%, 버라이즌 +1.62%, 콜게이트 +1.89%, 월마트 +1.52%, 존슨앤드존슨 +1.25%입니다. 필수소비재 업종은 +0.46%로 유일하게 올랐고 자금 쏠림 추정치도 +$17.3bn으로 유일한 플러스였습니다.",
+    "why": "근거: 상승률 상위 20개 대부분이 헬스케어·통신·필수소비재, '투자자들이 안전자산으로 피신' 보도. 약점: 유나이티드헬스(1주 -16.6%)·휴매나(1주 -13.3%)는 1주 기준 여전히 큰 폭 하락이고, 필수소비재 내년 EPS 추정치는 상향 34·하향 61(-21.8%)로 하향 우위입니다.",
     "codes": [
-     "FANG",
-     "COP"
+     "UNH",
+     "HUM",
+     "HCA",
+     "T",
+     "TMUS",
+     "VZ",
+     "WMT",
+     "CL",
+     "JNJ"
     ],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "Oil prices rise as tanker disruptions offset surplus supply outlook",
-      "s": "Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGRYc1NKMTN5cXk5V01oVHViVXUtc3FvWnhuNWY3aFFCWldUc29wMjBUUk5kd0FsTUtoay1iT3NQc0FqQkZTVXlOMmIzcGNGdUFZVThPU0hscmNSTERXTTBuWXNtZW5uME5IVWNNZzdIRXRhQ1UzUjhpMGQtZWdWN3ZydkRtN0NHM0lj?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Occidental Oil Prices Jump as Supply Concerns Lift Crude",
-      "s": "EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxHSUxsOFEybW94UVozellhWmZqeVFkT0dnbXJfSHRNY1JoYnpCd0lfNkNQRUxtNjZKTEh4U1kwZjNRak8xS1JjT1l1MV9fRjRWQ1dBVGU3d1hvcGt6SDk2TFZkZXpNV01EaHM2SGpzeXhkV3huOGRweHNoYjdNamJra3ppWmFUcUUyRUNYTnI?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "Oil Futures End Volatile Session Near Flat",
-      "s": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUlHaVFFSnlSWkY0ako5NjJsMTNsVjQ4eGhKc05oZGFWMDN4c3RQR0NyODVNUzNUenFRNS01Y1QyZi03Vm45eTNkbXF3bVBlTUhkWGVHeXIteUlPNFY2aEh3bnh4VXFaVzRMWk1fOV84SXQ4RlRMb2p4QWZ1b2NMb0JJQWZpdURHb2VLLVZVT20yQk5nWTBPUl9hUUxvcllXM0p1dFdxZjd2WWFlaEtVUGFoUzNHNG1IYWQyTkZfLUtOQQ?oc=5"
-     },
-     {
-      "d": "11/19",
-      "t": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환",
-      "s": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5"
+      "d": "11/20",
+      "t": "Treasury yields are sharply lower as investors flee to safe havens",
+      "s": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cmNjcGpHN0dNOXd4NmdpWVJ2Z1R6NUhmRDlXUExPNnVTcU12MnNlSUF4c2FFWmcyRkh3a0k1b0lsZWpIbTM0NzhfOHhpMkhNaWVnSGJ3eTlpVElJNWxzei15VFAycmFfdjVtTTROSDNsUi1aNGtZ0gF8QVVfeXFMTVB4bFI5cDFDUEJCM1RXQnU0UUpxZmh3cHN2ZVY5Rkx6X3dwTjltTy1tR1puQm5kOGF0bzdxMUNqUXd2ZVRQc1VJbkNsVURINk1LXzY4VGQyZmJFSjZuVldEVDlWZlpkZ2RpZGJ5ZE5QUzY5Sm0yeXRBNWNMOQ?oc=5"
      }
     ],
     "risks": [
-     "공급 과잉 전망 재부각 시 유가 반락"
+     "기술주 반등 시 방어주 차익 실현"
     ],
     "checks": [
-     "WTI 80달러대 유지 여부",
-     "에너지 업종 1주 수익률 회복 여부"
+     "필수소비재·헬스케어 자금 유입 지속 여부"
     ]
    },
    {
     "kind": "watch",
-    "title": "소비·여행주 급락: 도어대시·로열캐리비안·나이키",
+    "title": "국채 금리 급락: 10년물 4.91%(-14bp), 5년물 -16.5bp",
     "strength": 3,
     "trend": "신규",
-    "thesis": "전날 업종 1위였던 경기소비재가 -2.68%로 돌아섰습니다. 도어대시 -5.8%, 로열캐리비안 -5.46%, 나이키 -5.45%, 바이킹 -5.35%, 카바나 -5.27%, 카니발 -4.83%, 메르카도리브레 -4.75%, 우버 -4.6%, 아마존 -3.87%입니다. 월마트는 이날 개장 전 실적(8-K)을 냈고, 다음 데이터 일정으로는 소비자심리 지표가 꼽혔습니다.",
-    "why": "근거: 하락률 상위 20개 중 소비·여행 관련 8개, 경기소비재 자금 쏠림 추정치 -$60.9bn. 약점: 개별 하락 이유 기사는 digest에 없고, 타깃(+0.92%)은 실적 후 상승을 이어갔습니다.",
-    "codes": [
-     "DASH",
-     "RCL",
-     "NKE",
-     "VIK",
-     "CVNA",
-     "CCL",
-     "MELI",
-     "UBER",
-     "AMZN"
-    ],
+    "thesis": "위험자산 급락에 국채로 돈이 몰리며 10년물은 4.912%(-14.0bp), 5년물 4.701%(-16.5bp), 30년물 5.303%(-9.8bp)로 내렸습니다. 인베스팅닷컴은 채권시장이 연준 발언보다 위험자산 흐름을 따라갔다고 평가했습니다. 그러나 MOVE 지수는 106.3(+10.7%)으로 국채 변동성도 커졌습니다.",
+    "why": "근거: 중장기 금리 동반 급락, '안전자산 도피' 보도. 약점: 금리 인상 베팅으로 단기 국채 금리가 2022년 이후 가장 빠르게 올랐다는 보도도 있고(13주물은 -2.5bp에 그침), 금은 4.46% 내려 안전자산 선호가 고르지 않았습니다.",
+    "codes": [],
     "evidence": [
      {
-      "d": "11/19",
-      "t": "Consumer Sentiment on Tap -- Data Week Ahead",
-      "s": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWdaeWtCdXdXcldjN2I3T2gyZ3FlOVBsZmV4Z2Y1NWZCWGZzT3NuX1hoNEREZEItTU5odDFPRG9NS3dSRW1hOVI2bnU0QU1TVElPMmdabmd6T21GSlpRbVhIdUp0ak1Keno5dTJXckdDdkxjMXAwR3JabGJiQ3E3OWVCYlVTNURjVy1FQ0Y5QUFhSVJZUkhBb1lR?oc=5"
+      "d": "11/20",
+      "t": "Treasury yields are sharply lower as investors flee to safe havens",
+      "s": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cmNjcGpHN0dNOXd4NmdpWVJ2Z1R6NUhmRDlXUExPNnVTcU12MnNlSUF4c2FFWmcyRkh3a0k1b0lsZWpIbTM0NzhfOHhpMkhNaWVnSGJ3eTlpVElJNWxzei15VFAycmFfdjVtTTROSDNsUi1aNGtZ0gF8QVVfeXFMTVB4bFI5cDFDUEJCM1RXQnU0UUpxZmh3cHN2ZVY5Rkx6X3dwTjltTy1tR1puQm5kOGF0bzdxMUNqUXd2ZVRQc1VJbkNsVURINk1LXzY4VGQyZmJFSjZuVldEVDlWZlpkZ2RpZGJ5ZE5QUzY5Sm0yeXRBNWNMOQ?oc=5"
      },
      {
-      "d": "11/19",
-      "t": "Walmart Inc. 8-K: 실적 발표",
-      "s": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/0000104169-26-000168-index.htm"
+      "d": "11/20",
+      "t": "Treasury yields fall as bond market tracks risk assets, not Fed rhetoric",
+      "s": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUpKeF8zb19rZHE2eWtNTmxTd0lYb05RcURFLWRVRk12SklHb0JCUGNsS3ZRcVQxSVFsZXBkR3FrcTNpWEU4V1dSVlR4T1BNeGRVNWlpUlExZldkUlB4T0hpdlhPZXN5NnJNY3Q2THZyMHZuWS1KQnhNSkNDRVlEN3N0ckR1MTNpdnd0dDhiRTYxdmY0TkdDalFpQ0pfOExZU1hWRlkteDBCNVNURXFuTEJoR0t3TDVTMVo2STh6UTBmNnp2Nl9Ibkxab295dw?oc=5"
+     },
+     {
+      "d": "11/20",
+      "t": "Four-day rally! Short-term U.S. Treasury yields post fastest gains since 2022 as market bets on Fed rate hikes",
+      "s": "富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEhEZTBxUFMyWERaT1VqWkRvWThRZ3VNQkFuMmtVTVNJbTFLU3EybWw0S3VPRnhhY3ZvMnZleFd0XzVPYi1ndkVBMUFCVVdfaTZDemhhUm5jc1BxTDJ1V3NNZ2NpU2I3LXppTWZiZExpQ1dvWDl2SUxLanBjQUJPOFA3ajdaTC1IbElJVE15NDZyTk9fMmJrMkh1S1V0cUwtV2c?oc=5"
      }
     ],
     "risks": [
-     "소비자심리 지표 부진 시 낙폭 확대"
+     "주가 반등 시 금리 되돌림",
+     "연준 금리 인상 기대 재부각"
     ],
     "checks": [
-     "소비자심리 지표 결과",
-     "여행주(크루즈) 반등 여부"
+     "10년물 4.9% 유지 여부",
+     "다음 주 근원 PCE 결과"
     ]
    }
   ]
  },
  "events": [
   {
-   "d": "11/20 (금)",
-   "t": "11월 월물 옵션 만기",
-   "s": "SPY 맥스페인 745 · 콜 최대 800 · 풋 최대 630"
+   "d": "11/23~11/27",
+   "t": "PMI 속보치, 근원 PCE·GDP 발표 주간",
+   "s": "WSJ·Stockopedia 주간 일정 기사 기준"
+  },
+  {
+   "d": "11/27 (금)",
+   "t": "블랙프라이데이 — 소비 지출 주목",
+   "s": "로이터 'Wall St Week Ahead'"
+  },
+  {
+   "d": "12/18 (금)",
+   "t": "12월 월물 옵션 만기",
+   "s": "SPY 맥스페인 740 · 풋/콜 미결제 1.84 · 감마 -$2.0bn 집중"
   }
  ],
  "reasons": {
-  "ANT": [
-   [
-    "시황",
-    "기록적 IPO 뒤 나스닥 상장 첫날 +17% 마감"
-   ]
-  ],
   "NVDA": [
    [
     "뉴스",
-    "앤트로픽 상장일 장 초반 상승분 반납"
+    "AI 매도세에 급락, 실적 발표 앞두고 '혼란' 보도"
    ]
   ],
   "AVGO": [
    [
     "뉴스",
-    "앤트로픽 상장일 장 초반 상승분 반납"
-   ]
-  ],
-  "MU": [
-   [
-    "뉴스",
-    "앤트로픽 상장일 장 초반 상승분 반납"
+    "AI 트레이드 붕괴 속 하락 연장"
    ]
   ],
   "AMD": [
    [
     "뉴스",
-    "장 초반 반도체 강세 주도 뒤 급락 반전"
+    "AI 트레이드 붕괴 속 하락 연장"
    ]
   ],
-  "PANW": [
+  "MU": [
+   [
+    "뉴스",
+    "반도체주 2001년 이후 최악의 두 달, 동반 급락"
+   ]
+  ],
+  "ARM": [
+   [
+    "뉴스",
+    "AI 트레이드 급락 속 반도체 동반 투매"
+   ]
+  ],
+  "SNDK": [
+   [
+    "뉴스",
+    "AI 트레이드 급락 속 반도체 동반 투매"
+   ]
+  ],
+  "MRVL": [
+   [
+    "뉴스",
+    "AI 트레이드 급락 속 반도체 동반 투매"
+   ]
+  ],
+  "ASX": [
+   [
+    "뉴스",
+    "AI 트레이드 급락 속 반도체 동반 투매"
+   ]
+  ],
+  "SKHY": [
+   [
+    "뉴스",
+    "AI 트레이드 급락 속 반도체 동반 투매"
+   ]
+  ],
+  "MPWR": [
+   [
+    "뉴스",
+    "AI 트레이드 급락 속 반도체 동반 투매"
+   ]
+  ],
+  "ANT": [
+   [
+    "시황",
+    "대형 IPO 이튿날 하락"
+   ]
+  ],
+  "INTU": [
    [
     "실적",
-    "11/18 실적 발표(8-K) 뒤 강세 이어가"
-   ]
-  ],
-  "TGT": [
-   [
-    "실적",
-    "11/18 실적 발표 뒤 상승 이어가"
-   ]
-  ],
-  "FANG": [
-   [
-    "원자재",
-    "공급 우려에 유가 상승"
-   ]
-  ],
-  "COP": [
-   [
-    "원자재",
-    "공급 우려에 유가 상승"
+    "실적 예상 상회에도 주가 부진"
    ]
   ]
  },
  "news_tr": {
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zaXRWT25VRVcyM1NtbmRta1dHZWJZcHlKS1NPWUNmemJLZGxPd3lPRVlxc1ZfY0VuZXNuRm14Y015Vl9IMWNfc2Nsb0gxckNXR2UwcGRPN1RtTXZYWklKeWNIWEhtbUV5SUxpelJFYzc0eWZh?oc=5": [
-   "앤트로픽, 사상 최대 IPO 후 상장 첫날 17% 상승",
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTJGaWFtVVRKdkwzZDJ2aXpBaHNsSnNhbzdWcEgwZWtUaG0xeFNBcE9aSi1BN3A5LUVudlZlb2h3QmQ5Si1XaHJxMk1JOXgzR1FjYU5zSmJNMnE2a3RvSlc2ZnpWZlVyZ3BJUFlqeER5cC1mNmhHemh1RzlMSjhVVnFmbWNuY18tT3libFdJbllEZTFIalNHbm9wVU5ISzdoWXphNWk0eWlmMkJjVFBzUFNGc3dHTGthcUhz?oc=5": [
+   "트럼프의 '그들이 중간선거 뒤로 휘발유값 인하를 미뤘다'는 잘못된 주장",
+   "원자재"
+  ],
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzRFdoeGN3Smwwd1l4QXBtZExvdFNlSlFvd2d2WkhOYnRtbGxteC1NeE9TdkNkWmNObHkzZ1dFN3ZMUlRmQ3F1Vzdrd2psclZKcXRHbw?oc=5": [
+   "뉴욕 증시 하락 마감, 나스닥 5.28% 급락",
    "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5": [
+   "월가, AI 매도세에 급락 마감… S&P500·다우 조정 국면 진입",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjVQNkUwT1ljUzdNeTFEdHhLenN4WUUzT2tYbHplVG5abDRUWmJEbGVKRXc1TG1yVlJuZUptVTUxT0xSeTdnSFZmRGhTSzNvUzZaLS0yT0h4c2ozR2V0bkFZZ21mTF9MQ09FakY1N094RXFPOUlIbUFBM3VmZlpqdTQtUzlHQ1NocU82XzE3T0JmYVU1Z1hKQlltaE91eFR2b2Fid1l6eXJOS1Q0QmtRZ3Jra2ZxSUF4OElyMVJ1VG41enlNaTFoZTU5NFpEc1FKMWltcEtxZnA2TnRSQ2hnVQ?oc=5": [
+   "반도체주, 2001년 이후 최악의 두 달: 이번 주 월가",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5": [
+   "S&P500, 2020년 이후 최장 연속 하락 앞둬: 마켓 랩",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHgySjFqSk9GYVo4Xzd3eTBBdkoxU1Y4VnNreTZhU3lWV0tabFVCSmp2Z0puUDZiLVB4bDdaY085NlhSeHZXTDRuQ3BGV3EyQjQ2X3U2dTZDNV9VUGdCWkpZMmdxdllueTBuQ0U0cFpYUHIwdU5SRl9DR3lON2ZxZXUxODYxYUlLb1V3OC1FeGxVa0tCX0lGYklkX2drSzBMTlBkT0ZDNE5WQXF5aXhwbnZFdW9lWHhIUnNpVWNOWFR4cnlseG42bk5B?oc=5": [
+   "저가 매수 고려할 반도체주: 마이크론·엔비디아가 스크린 상위",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5": [
+   "엔비디아 12% 급락, 브로드컴·AMD도 하락 연장… AI 트레이드 붕괴",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5": [
+   "앤트로픽 주가, 대형 IPO 하루 만에 하락",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5": [
+   "오늘의 미국 증시: 앤트로픽 IPO 이후 AI 매도세에 다우·S&P500·나스닥100 급락",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMingJBVV95cUxQdnQtN2Q4aVA4eEFfSDExYmhHamFjWDQ3Y3B2allfVmdxeVFIZzRCRnVPSmRfNURhcHk3SlA0UHUxWDBNTG8xbmJjMFZYM2FDVERmZkowTl9hX2JvTXZXMGRmT1AwU0VxZ25PZldwY05pVkNrVDF5aEpGZkJTUkZuaklCeFVQcjBGUTlhSVBWLTlmODhQUnBEd3RBU0FuU0F6Ym5MdkFZUXUySkN6YVVnYlRDaE82Mm4yVVRoc1lhMWtSWmlOa3F4RFdHUHI2cm9VR3g0SElia2VYdDY3YUpCVUtwR281UG1pdThrTWdZUXktNmVPeWxBQXljem1iZm5oMEhOWGhsSHByN1hwRGtkcTV5aktfMDFka2EyRzZB?oc=5": [
+   "CBOE 변동성지수(VIX) 시세와 뉴스",
+   "파생"
+  ],
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2VsN2tRUFVVV2tNRktWbThwcGtMUExwNGpWbXZLN3dnLXpmT0JWNHVRUlNaV05wLTBBSC1rYWJxSDVla1pIcEp3cnFMR2lmMzNZZEdza3Rrd292SHYzR1R6d1NkSWhYOXdKV01nTjZnVmtqaUhQMFhBWTg3VU5xTkxqTUdhQnFoWUN4ZGZ2dDI1d2hVRjBhT084VDZsc2RMbVRVZVpqaXFOMjha?oc=5": [
+   "VIX 전망: 미국 증시 공포 신호가 바닥 가능성을 시사",
+   "파생"
+  ],
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RaW9kTFNib01VY0FKTllRYWk1dnJXQkNfVlZfTkNxdkZvQi14bGZ0X2cySnU2WndFdzhiZ2JmSjVwSjRuN1laajNGZw?oc=5": [
+   "스캔들 이후 첫 엔비디아 실적 발표 앞두고 증시 하락",
+   "실적"
+  ],
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBMVjA0VTBaMHRYOE1qbXZFXzZjbWM0UzNGaU4xOFFEdFk1YjFLRkF3ZVBqLXBUcnNLZHVQYnN1SDFxblpoZ3JuWXMteXpkTTZDUzNNWnQ5TjU1S21QcDNxdE5SbFNUc3gtbzQwUWN6R2V3QmZ4SDdMLWFIRmF3YlNIejMtcmtja09jUm5QSDZMZ3pCc3RrZlY3T3BUWDJQaG02blBBcjg1Y0tRZl9JX3BjbjE?oc=5": [
+   "변동성 급등 — 옵션·선물·주식 트레이더들의 대응",
+   "파생"
+  ],
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5": [
+   "글로벌 공급 과잉 전망 반영하며 유가 하락",
+   "원자재"
+  ],
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEhEZTBxUFMyWERaT1VqWkRvWThRZ3VNQkFuMmtVTVNJbTFLU3EybWw0S3VPRnhhY3ZvMnZleFd0XzVPYi1ndkVBMUFCVVdfaTZDemhhUm5jc1BxTDJ1V3NNZ2NpU2I3LXppTWZiZExpQ1dvWDl2SUxLanBjQUJPOFA3ajdaTC1IbElJVE15NDZyTk9fMmJrMkh1S1V0cUwtV2c?oc=5": [
+   "4일 연속 상승! 연준 인상 베팅에 단기 국채 금리 2022년 이후 최고 속도로 상승",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU291OEFTamphSmg2LXZBUzlrbzJzelRKUnZ0bEd6cTE1dFBWd1V4Xzk0RE1lOVBzTUprLUpDODVHb1J5RWNoT2FzODVnR2Fzd2tpb0NjckNxZlhMWXMzSGdjc2tadFFxREd3eFF6TDktOHRXZnNTMmJ6UEUxemNwdWNoMXNYWE5GY1piNlJxT0ZGaWRjR3pLSjNEekUxR251elAwWWdn?oc=5": [
+   "엔비디아 혼란·'블루 쓰나미'에 AI주 롤러코스터 더 거칠어져",
+   "산업"
+  ],
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQ0QxcUZmN2EzM2oyLTlDX2lUeUVoazlHb2dDa3FlRlJueDJhMm5UV0pENHhuTXlBY29PU3d0RGFGcTVIaDB0TTI2eTk5Nkd4dDB4d0JDUDhNWXQzREtMcmloaHpURDlVdWZsM0FB?oc=5": [
+   "주가가 떨어지는 6가지 이유와 대응법",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUpKeF8zb19rZHE2eWtNTmxTd0lYb05RcURFLWRVRk12SklHb0JCUGNsS3ZRcVQxSVFsZXBkR3FrcTNpWEU4V1dSVlR4T1BNeGRVNWlpUlExZldkUlB4T0hpdlhPZXN5NnJNY3Q2THZyMHZuWS1KQnhNSkNDRVlEN3N0ckR1MTNpdnd0dDhiRTYxdmY0TkdDalFpQ0pfOExZU1hWRlkteDBCNVNURXFuTEJoR0t3TDVTMVo2STh6UTBmNnp2Nl9Ibkxab295dw?oc=5": [
+   "국채 금리 하락, 채권시장은 연준 발언보다 위험자산 흐름 추종",
+   "금리·환율"
+  ],
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnJTTEgwMWM4Vk84UnZaMERQbnYzQkxBS2xZYUxYbWQxQXY4OWZRSWM1ZFBlR0wtaWVLamozNXhJNDFuU01PM2ppMjBwaWNhTWV0VEtVZGZjekhub05HNnhwRVlyZTJhdmlwMmNaSDNIa1ZSX1pNRFZLdFlObjFndkJSMFBFMmpl?oc=5": [
+   "컴퍼스그룹·텔레콤플러스: 다음 주(11/23~27) 증시 일정",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGRyR3VpLUJxdEdqekgxRm9PaGltZXBJZDdjRm53c2RyZnRLZ205VXMyUXloN3BuV25xTWo5WWVoejhnZXhwUnpOYXhLRFlvRUppNkxJdl8xckloSkdNWnNCXzZ3X3ktRlYxUmNPLWRfY2lsX3RuTmZOUUp0Z1drYUZxVFdaT1oxMVdDOUVvTl84TURXcWZQaGNYSjdKekhzcFRTMnZUcVlLX0lJZU12T2U4U29LR09DRUhld0dtYk80dlV6eF85bUp4R0k2QQ?oc=5": [
+   "나스닥, 2026년 세 번째 조정 — 많은 투자자가 놓치는 교훈",
+   "시황"
+  ],
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzVycUdXaU9mdXE1NlhER0h0NGYyRGZoN2FyUzIyQVpyVXhIV0xsaTZTMklINm9BXzhnbzFnNnh2NkE4WDc2Wm1IMVZGZVVOeHF5TG1uNkV4VnliSkFyY2FaYl8yOVJqeXpaM1hIQ09Qd1JGVTY4S08xWUlOQXVQNFBxeVdiNE9HMDRDYnI1SFRnTHp5M1Y1NWw0QjZ4TWdBZU1OZWVuUG5xMnlHNFlzag?oc=5": [
+   "VIX는 왜 올랐나? 월가 공포지수 3월 이후 처음 30 돌파",
+   "파생"
+  ],
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzU4dGk1NmpKWnRzQldrai1hNlptcUNsVGw1OXNXVkhuanVmdXZwWGRGY0dsM0ZiRUtkNUY5WC1UTm9JUVFuV2FDQVZFZ0FtMndCdGFjRTB5YlJwdUtFckxEajZUenlETGNoYzZ0WFZVREVpWVg5SWpLcGE1QldKa2s1cmh6eVE0U3A1UUFKa09zUQ?oc=5": [
+   "필립모리스, 지난 실적 발표 이후 7.6% 하락: 반등할 수 있을까",
+   "실적"
+  ],
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGRKVlM2NDJTdnJ2MW1LcHA4Z29OVTA3eEo0NFlsblNRRnBvcGVGZkVneWN1X1VWWVRWY1FTSm1jWHE0aV9IQzR5Sk9uWHpmdGdSb0VIR3hhal9YckR6QTVTeXhEWVRSTkQ2U2szTEdvQUtSYWVQSXU0LU1Pb3lzNmx6MHdNUmd4NTFHM2thTmpaN2xDclJSa1l1ZzQzRThSdnBPY0tKNC14WlNZRXNpeg?oc=5": [
+   "다음 주 외환·채권: PMI 속보치로 경기 가늠",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3Z1R3J5SWEtcnJqMGdDUDRNa1pFMG5rajNmMmo1a2hYNEtSWGc3ejlzc2FWaF9JYlI1ZC1QMURXY3g5aUxyd1VhdVJSZ2RiTzQ4aFFQekthN1pZTDdjdWE5MGtzNENpa3pNWUFvTDN0ZmxnemVsTTlyZUljeW1UZk9fZjZyRVlvdHpjRnZuaTlMWC1RbC1fRXJxa9IBoAFBVV95cUxPRjBNS2w5blRaN0NMdTJTLUF4WVQtdmZRanl5cHFIcXpiS3lsUnprWUpHZFhVSDh4QWoxclhIcW92NjJCSjYyZ016R2JJMEo0NzQ1NElGSThZSmplWXZGR1lLYnlGUkhTb2hmUGh4cFM4ME5XLWpQTHdVOVZRb29Ha0xGWXRtaTd2dEdVaFN4bzd3ZnQ0ZE1VRXJGakdvaU94?oc=5": [
+   "전문가들 '중간선거 전 휘발유 갤런당 4달러 아래로 내려가긴 어려워'",
+   "원자재"
+  ],
+  "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbFhiM2RwWjJpRUtXNFNMTmYtN1lUeW41Q1BINF9sREZ4MlEwMURkUHhLM285dk81MFA1Sldnd1ZFcnMtNWtNcW4yVWZ4N0ZGdFhsenAyVlhNdlVjY084RDdRX0VQQVQ2eGswM0JfLTAyM1gyYnBtaGpHR2RiX2ZvZ29SZEE5anlMLXNuUVA5dEcxV0lwMDF0eF80NWNqd2EySy1XVEVKOGVVVERZTXFWeGNFQXJ5M2JGVDFFMmZHcjRUYUxVZlFtc2RuV3pNbTN3d0Yxd0E0S1pZd2ZibndHT1I4ZzNVV2I0akFHa3h6aXFMMV9W?oc=5": [
+   "다음 주(11/23~27): 매도세, PMI, 미국 근원 PCE·GDP, 영란은행 금융안정, 미국 AI 하드웨어·소프트웨어",
+   "전망"
+  ],
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjNWZ0ZCRDBMSDJxQ3RiOU1aMFdhSTdhcVNzeXJlN1BmSGFTTlpDZmdxNDBKb1J2R3E5R1B6OTNDSGQwNUQ2VVBiNXRDMmRVcFhBWEc2d0lvTUZYSk5MU29qNm9EUkRLQUduQzhxQnZWUVczUm94VW9kRTdoeHhUWXVsbERDZlowLUd5ZGxOUlNoSjgwSWxENk5pMGZfLTJu?oc=5": [
+   "전망: 마이크론, 12월 실적 발표 뒤 급등할 것",
+   "실적"
+  ],
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTIxbElDQVJDWHlhZ1FpYkZUYnVoNGxvNGZFU3BKTXpoR1Bfck1icUV2OHdGVW5aSEp6ak15Um5GSGgzbFF3ZEdZS2JudHJsZVZ5VnJMSDVnMVdBOTZKRUtJX1ZXQmotWjhqeHFuSV83U01LLUtWcHB5dEZHSEFza0tlSVc2ZlBKclJyWV9NS1pSaWJoRHN0c19SWlBpV2F0aFA5YVZRQ1oxeGxkTDNJZG5UeThHRTR1WUl5U2djSQ?oc=5": [
+   "월가 다음 주: AI에 흔들린 시장, '블랙프라이데이' 소비 지출에 주목",
+   "전망"
   ],
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdVlFRGdFQUNhZ3BZVEVLejJSeEhCS1JJX1dZQUlzREZ1SmFibEZqZ1Q3QlhRV0JSMng4NHdEWHhfd0FKNlB2dVB3U0laTWlEVEZqRTJYeGdBWG5XQWItMi04UkZObTVkMnJmemRaNzRnWHVJbm9NSg?oc=5": [
    "인튜이트, 실적 예상 상회에도 주가 부양엔 역부족",
    "실적"
   ],
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY05tbXdPVUlQLUxjRkhYSmRXV1AxY1BGS1dELVJKOFd0ZklWcXpmdXBtNG5lX0JTZlRaZGNrYi1ZM0Utc3ctU3Fvc1F1SmJSbG5oUHRrZU9FclZDaUROd21lckNlVUE4ZVVEbGpwY0gtYnBJNV9yZng3ZmMxM3I0OGJtYmp5TkstQUV2RnlKcUZoSjAyVVdIUHV4RUszS3ZSX3c5eGlCLXBMREdUTUE?oc=5": [
-   "앤트로픽 IPO 실시간: 주가 17% 상승 마감",
-   "시황"
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cmNjcGpHN0dNOXd4NmdpWVJ2Z1R6NUhmRDlXUExPNnVTcU12MnNlSUF4c2FFWmcyRkh3a0k1b0lsZWpIbTM0NzhfOHhpMkhNaWVnSGJ3eTlpVElJNWxzei15VFAycmFfdjVtTTROSDNsUi1aNGtZ0gF8QVVfeXFMTVB4bFI5cDFDUEJCM1RXQnU0UUpxZmh3cHN2ZVY5Rkx6X3dwTjltTy1tR1puQm5kOGF0bzdxMUNqUXd2ZVRQc1VJbkNsVURINk1LXzY4VGQyZmJFSjZuVldEVDlWZlpkZ2RpZGJ5ZE5QUzY5Sm0yeXRBNWNMOQ?oc=5": [
+   "투자자 안전자산 도피에 국채 금리 급락",
+   "금리·환율"
   ],
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUlHaVFFSnlSWkY0ako5NjJsMTNsVjQ4eGhKc05oZGFWMDN4c3RQR0NyODVNUzNUenFRNS01Y1QyZi03Vm45eTNkbXF3bVBlTUhkWGVHeXIteUlPNFY2aEh3bnh4VXFaVzRMWk1fOV84SXQ4RlRMb2p4QWZ1b2NMb0JJQWZpdURHb2VLLVZVT20yQk5nWTBPUl9hUUxvcllXM0p1dFdxZjd2WWFlaEtVUGFoUzNHNG1IYWQyTkZfLUtOQQ?oc=5": [
-   "원유 선물, 변동성 큰 장 끝에 보합권 마감",
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SV3VLcC1fUXZ3eUN2ckZpSzd3akdsSE55cFRrUEZFNDZtVUFxcDRCWng5dHB3XzBDaUliLUowaGdqdDVkaW5va25nUkx5OVc4UXZoVU9qem1NdWFUNndPWldTeXFhVnVo0gFuQVVfeXFMTXRDbE5XQlFpNEF3ZVBycUpzZXFqQXJOdmVWTWVlX2NWLTNPc2w2TEk5TVdEb3FSZTV3c1JpSEJpUTlaX1g3cVhfY0o1cnFZd2xLZm03ZkJWTjRCelpOU2V5bl9pYlk0RkJsZnQtS1E?oc=5": [
+   "중동 수출 흐름에 유가 3주 연속 주간 하락 전망",
    "원자재"
-  ],
-  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3NlZmlxcjdiNGxiaDl6VC1NMTBsWlg3d3FfcDVJU19kZ0VFbW1CZFNLYmllcXYxOTFGbGpfTXY4emdkNUEwUDNpbmgtam9YbnJkQ21idS10eUtyYzYxVDkwNXFFTUlnb1VrdnFtTEZfVzZyQWJ5ZElINGFJSnZaYmo5MHhsVDBUclBIYVJUS1ZHR19iWjk4YVVCMmZ4dGZfajYwLVhWWC1xM3pnanBWelJxdkVDVGQ5ekhiZ24ybW9jN3N0WldLWFdTR3VodHdpdFhTRDJLTQ?oc=5": [
-   "2026년 11월 19일 증시: 앤트로픽 데뷔 후 다우 1,084포인트 급락, 나스닥 2.2% 하락",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFDQjFuLWxNV1h6NTZldmRBOVVFVm1Kc0VvdUxjZzZtYkhHcjFEMG9SWVJXS0RnVmJhd3lReGp4OHhtM1pQOUFxQklCMmlOWlRzaWlEUXBmT1JyQy0zUk5Ya2Vscnp6VGlod1BEUThjWkdJaUlGNl8zWUlhcmZ1bGd6Yw?oc=5": [
-   "앤트로픽 IPO 성공에도 증시는 왜 하락했나",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxHSUxsOFEybW94UVozellhWmZqeVFkT0dnbXJfSHRNY1JoYnpCd0lfNkNQRUxtNjZKTEh4U1kwZjNRak8xS1JjT1l1MV9fRjRWQ1dBVGU3d1hvcGt6SDk2TFZkZXpNV01EaHM2SGpzeXhkV3huOGRweHNoYjdNamJra3ppWmFUcUUyRUNYTnI?oc=5": [
-   "공급 우려에 원유 가격 급등",
-   "원자재"
-  ],
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdm9QMW51Rld1U1g5VnlqRFlGb0pkcThvTW9xWG1XblpMQ3hIdFE4SEkzTDhnOFVQNzZ2Ym1GenR4SHpSTGxWQVdfUTVDYkdvRlBxYVNHMFBsSVJSN2d4V2NjNjNQNFB3cmdYRnRqNlUtbVI2OHdHMXpNam9sYW84cWcwTkhyUE91Q2pvOHNsbUlPSFlNVGNTUjRxdHFEanVYTUlRRDlpdDF2RVcyNWc?oc=5": [
-   "앤트로픽 순조로운 출발, 증시는 하락…다음 주 전망",
-   "전망"
-  ],
-  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYWtha3hkN1pzRVNRM2FNc1BGcjVidTh5bUc2M2M4OUhpR0hNQUNrNWdBQUhUTlJWMTA1YnpiNE1ZOGhWTXhBRzhFWmNJOEFIUWxQSENZeWdteVEtZmQ5c1JaVXFKcDdTLVVNaTd5QW9EcHpCT09melpJYzFOX0pQVWhPdUFGYWZoOTVRYmkxY0syM19PTTR4dC13V2FPaFVsc291UXJqcnNIVnFmV0llNzhyNGowS2NFcjI0RHFhZ3dfZW5ZSXBDTEhCUHA0LU1MYnBoQ25jYm45RVRUWHFibm1GcGpxU0p3ck1jLU1aekhyMGtUMi01Umh3?oc=5": [
-   "노무라 매켈리고트 \"기계적 반등은 '너무 그럴듯해서' 실패할 수도\"",
-   "파생"
-  ],
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2tBbkVxSjI5Z1puUmpGRW1GSmRoMVpEYm9rSFVZVVlWRTM0Tk5mOVJGbnQ3NkJLbk1hUXVqSkdqT2RTSUZZUHBwaHdlQ0hzdXU5YXpxUmJBVEVMT3JRQ0ZDMm1UWTBnZ2tCWWJhX3BYUzdCM09XWDZzVUwtb1FOTmpRU0oxYUsxeFpKVG05MFhMTTRud292T0c0ZF9HQmdIeng5Q00tUEtoZVJKSTBlVGtZRXpiMHJ3RWFNRA?oc=5": [
-   "에너진, 유가 상승에 9개월 이익 54% 급증",
-   "원자재"
-  ],
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmYyQzZBTmhFNWNXSFNjZ0Z2OHRrakdQOWhPeGFKcWVkaHdJdGFuSjJpWFZZalNwUmYwaHFmcTl4WjJPMzVKVVFveUJQZlJveTRnVGRLNXZidTllMVRuOXJWbHZESkxFdUVXUWwyMGc3Z1h1cnV3NU5RTkdnY0M0OUkzbHFaZlY5YV9wOGVpTDVRdTFPVjBwWUk2UkttR2lUZ1VGRFRodUZMbnJncmhFRm9USnk4aEFCaUtNeEE5WmVER3c?oc=5": [
-   "앤트로픽 사상 최대 데뷔서 27% 급등, S&P500은 6일 연속 하락 위기",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGRYc1NKMTN5cXk5V01oVHViVXUtc3FvWnhuNWY3aFFCWldUc29wMjBUUk5kd0FsTUtoay1iT3NQc0FqQkZTVXlOMmIzcGNGdUFZVThPU0hscmNSTERXTTBuWXNtZW5uME5IVWNNZzdIRXRhQ1UzUjhpMGQtZWdWN3ZydkRtN0NHM0lj?oc=5": [
-   "유조선 운송 차질이 공급 과잉 전망 상쇄하며 유가 상승",
-   "원자재"
-  ],
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5": [
-   "앤트로픽 상장에 엔비디아·브로드컴·마이크론 상승분 반납",
-   "산업"
-  ],
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHNSaGdsc05KVE90bC1tY3RuenRkb0M4YlJTSE15X1dVaDA4bmtOYno5dk1WZFBYNDhVUVRCbVEteXRXRDh4WDVva1pHMmJhUE00TEhzSVFNNXBwMUZNeGlPVGdBX1NGMXdMMk16T1BkWlZLVG95ZzJTV0l3WWpaWWFuMjJ2Zm1qYlJhcGtheXNGVUpoOFE2Rw?oc=5": [
-   "월가 공포지수, 11월 하루 만에 16.61→28.18…계속 되튀는 이유",
-   "파생"
-  ],
-  "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM2JySDhOZnRaczVybVhLdzJrLTlGZEhrMU9KYXVrNmRTWWNpdGxIWnlZTk0wcHg4Z1BFc2xXVmFMRFNaWnhCSmQ2aEQ4X1Bwc0tabmVGaDF4al9oZDB1SVJva1ZuT3Z6RlNEbWNRbUtneHZhem81bXNQOXprbUpldzRvM0VQRy1PdG5USFNrdnNFQkFxcGpqZzYxNkx1WUNDLWFjV0I4bUNwTGxDcE1WbjZ2Mk5xZ3laLXVCRGxUZUdWc2dBaFpqT2x2dHJTQWlSN2MyS0xlTGlHcmttN3lFTGNTOU5PQ2lxVWtfSDRzMnV6bEVtam41NklsQzJHd3UzTWNQR3d4dDd3UQ?oc=5": [
-   "156년 동안 6번째 나타난 증시 경고 신호…역사가 말하는 다음 방향",
-   "시황"
   ],
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQV9KX1I2NEFoSl94OVJKMUNRRHV2T0VCa0JNUkE4a2FjdGlLMkxZcVEwY0RHVWYzaGpjSEJKVG16SFItdHlHUHVBS2VKZTdzSVFQNUVINXJ4TllPQ0ktUlhLWmJFYkg3c18wOTNXN2FfeXFqNlpMQXljUk9jQ3hUYlBPUG1KOFJqMGc?oc=5": [
-   "앤트로픽, 나스닥 개장 벨 타종",
+   "앤트로픽, 나스닥 개장 벨 울려",
    "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19oYzA2b2VoZk1ORDJHYml6RC1VZHBkSXp2QWs3cUNKMHpyZlJPZ2FzaUlHVG4tV1kwV3g4dDBfQXAwZTF4N0pmSWpOdzZpZVZGMzdHNmp4SXg3SDFlQUtkV2U4ajZtVHl6dEs0emdaYW1aRkpUVjNoeW9TZUYzZE4xdzRfakE3dnZvYjJWYWZvWnJSLU9wTTNPSTJyd1E4VjUxbG1wcXBtNm9nbVE?oc=5": [
-   "앤트로픽, 증시 데뷔 앞두고 나스닥 개장 벨 타종",
-   "시황"
-  ],
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbU5oczE2MWNtNGtIY3Z3Snpya25DOThuVHYyNFBtNWQ1TUZlLU5ERGx4OHJTR2VpSktOWWFZWFEtZFRKaXBoQXlOSXVOR09HUHVwbGdCZU1YU2RNNmxfSi1ncUVwYjR6Tm5GU2xmd2JwelRUbHZlV1dTeEZxMmJwUW44T081MDBMQmFNcElzUEdaUEhUb0Q0U0ZHSQ?oc=5": [
-   "인튜이티브서지컬, 지난 실적 발표 후 1.7% 하락…반등할까",
-   "실적"
-  ],
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGRsbFVwS09RVFlCMUJUVGZyc3VWX3FfRG5LaDlEME15bzdWeVg3VnFER0tqUlR6d1RLRldWdXFmRDNFS09vajlaTUlZUFFvNWplSkJoWlc4Zm1KcGxCekRDVDJZSjdzWUw4SVZGTDFrd0FmcEJvZlExRThTQU1TSXU2WENqOWJHenZvTUFLQQ?oc=5": [
-   "에퀴팩스, 지난 실적 발표 후 2.3% 상승…이어갈까",
-   "실적"
-  ],
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWdaeWtCdXdXcldjN2I3T2gyZ3FlOVBsZmV4Z2Y1NWZCWGZzT3NuX1hoNEREZEItTU5odDFPRG9NS3dSRW1hOVI2bnU0QU1TVElPMmdabmd6T21GSlpRbVhIdUp0ak1Keno5dTJXckdDdkxjMXAwR3JabGJiQ3E3OWVCYlVTNURjVy1FQ0Y5QUFhSVJZUkhBb1lR?oc=5": [
-   "소비자심리 지표 대기 — 다음 주 데이터 일정",
-   "전망"
-  ],
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEpna2x5YUdaekFwWnZqZGw1TDZIYndxYW40SGt4MDliSkMzQm9TZFhCTG5oZ2ktN1JWTmxsX0NWS0wzZlplM25fbzZ3eDJxY3l2am5tcFY1b29wWWVrQWJSNTAyWjlBLUFocHNBdEFkY0pmVkstZUhzbEZtLTFCUEdOel9XYjR1REpwNEQyNHFjUm9kc3FpeXZrc0xsb1VQY2RSU09Pd052YXBHY0dKVUliWnhSZmZv?oc=5": [
-   "오늘의 증시: 앤트로픽 IPO가 AI 랠리 되살렸지만 공포도 커져",
-   "파생"
-  ],
-  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3BkU2RFSG85bVZtNm52VmNNcVJ0OG9laEdMcEdXQmpNQy1ieFFFRW5jeS1lYUJDQnR3THBnV3FocFJET0JhNnBjdl9oOENiUy1FNXVkcUdRalBEZUtlek53REVFYnhLRVRyUmc5WTVkOTRLaG1HNG1tWXFiRzNkeTgzVFVOQmxTRngtNmNOQVhiekNDM2lKOE14Q1JreHNSdFdNYVJ1VjJ0NWRFcURuZFJtbW5zWGVILWJYSmk3LUs4VFRrQ0x2cXBUWQ?oc=5": [
-   "반도체주, 대장주와 갈라서…주도권 의문 지속",
-   "산업"
-  ],
-  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS0JTcFBmVWY5WDhjaTczbFpTdVhFU2tyM0V2Rl9mUXgzOC1YeHptMlBmZHFtZW5CbVhjMktQcTE2ZkFodjg0cl9nMTRPcEp3U0tlZlRaX3BGNU5MRjFhd2ZuM3ROODJEQkVMWVY5TVluY19uMzFGZFUxazNNaVktalAwNjV4Qi1oUEhhTDFVOWJGT1ZmYURhNzY4RWZpZXNXam5TcG1kdl9oUlJHSmhudnIxNTQzQkVqb3ZnWFFGR0tmZ1MxMjRPTEM4d1M3Qklj?oc=5": [
-   "앤트로픽 IPO 기대 속 엔비디아·AMD·마이크론이 반도체 강세 주도",
-   "산업"
-  ],
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHpYdjlHSWQyNUVCY3ZIRkhxbUU2YWhxY0JXa2wtajRNajdzeVRpS2NYYTVzZDFyTERCNjZWc3dzX0lhLUtscHpMaERaY0VxX3JEUjVwUlVBdWlWcURKem9yMG5OOGo5QmsyejJVV0JQbmxYSjQ2VXdxTkFtVzFhQXVvNkpTYlotcnQxbGFlaHN2Y2Zj?oc=5": [
-   "알리바바, AI 클라우드 고성장에도 엇갈린 실적에 주가 하락",
-   "실적"
   ],
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQV9wWWU2VTJHZ3c4UlZ6aFU4anRHdFhYZzEwWFJTSlU4Nl9vbnBvRWFOUVlxX05QVXpXNnBVaHFwcE5ONXpnaDQ0Nk16cGg5MXFTVmlXTjJPQmZIdGJpaHRFWEx3SnkxTjJyVEcxeExaVDFKQXhlRlM5NFB0aTYtSE10WU8zQnpkdEI1ZXFJbTFIWXpIajhUa0FB?oc=5": [
-   "미국 페드워치 금리 전망(2027)",
+   "미국 FedWatch 금리 전망(2027)",
    "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkZZT1lIeU1WR19KR0NSTzF2YzA4dnQwalkwYTZKRUpJOW9DWldwNHdfZ1d1eXFmcHU0WHNlTXVocTNaQks3Tm9UalRQUFFGOXp3VkNNdDRHV1Y5czJQZ29fblFmcENfSnZUQWJsU3FjeWNfVTFVM1kxZzlUUWhuOTBB0gGHAUFVX3lxTE0ydXg2dUZCNEs4WnNRc2ZhUmFxR19LRkRzREFLOFc0aWxWSDJFTFJXaEQxdTJtQkg5Smo4azh3bXdRc1VveW9aYk5Rbzc0bGRxZng5dVhQWXhCV0syX09tVHRxclg1b2hiMnJjSzZjSm9LUWh1azA2bjZVbkNkY3cwRmpYT2ZiSQ?oc=5": [
-   "미 경제 상황 저울질에 국채 금리 소폭 하락",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5": [
-   "미국·유로존 국채 금리 소폭 상승",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82T2dMejBGcEIzYXlSS2dScGZGcjFVdldYaWxFMnRFemRkMTdqZ1c2ejR2NUdzRkNnMUpueUJaczUzYmRDNlBLUklmTGFEUFBVZWdWVmpOUQ?oc=5": [
-   "서울 증시, 앤트로픽 상장 앞두고 상승 마감",
-   "전망"
-  ],
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnEybGlNblFXb0RWMWF5alZlRjllSEpWOGFPa3NpZGltdjNpVmVMMWZxOVVzSTRYdGVNM3U4NjM3N0tJOWJmZC1MWkRYWmllNHFxT0UxLXkzbHR0S1ZFbklhTjBDYXRDdURsSWRLV3ZLOWViUjRDb2pZNkI1ZGk4dzNQMjRxTEl6VUE1bHRBcmM?oc=5": [
-   "엔비디아의 위기가 경쟁주 끌어올려",
-   "산업"
-  ],
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5": [
-   "미 국채 금리 하락, 독일 국채 금리는 소폭 상승",
-   "금리·환율"
-  ],
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5": [
-   "이번 주 주목할 경제 지표(11월 16~20일)",
-   "전망"
-  ],
-  "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNNVc0VVJOa0NWeTRITjFlTEdaNGtlYjZQYVRmdUt0SGF1WHpsWU13QWVhX1lCYUFfRGRkcGNXSFQyWVhUbWx0bUJYeWhLNXpTVDJZVFV5cTd3YU9RWEFtdjNzQXdxTjNEOHJhdjZ5SFp1YnJRZkpwWTBjWU1qcXdKNVNvajlzeldsaXZHZ2x1N0Y3SldCcHI0TG43MmVjdkxvdUwxNHQzQXh6ZlhncVlqYTlEbVVlVHlHa2JQMWFsRWtINS1BWUxaeWlTcTQ3czJnZ09YM1JqOF9Ia3hHRTdXRGlwMGc1T2JwclpzYy1IT0Z0N1pLZXpWV01iMWxfNzdIMjJGTlcxVzVmSW9IWTYtNHVHV2hpS0VpYm1DTWpiSzY5VU5GOXR4OUR0dVhQRnkzY203RWN6X18?oc=5": [
-   "CBOE 변동성지수(VIX) 종목 토론방",
-   "파생"
   ]
  },
  "news_codes": {
+  "Nvidia": [
+   "NVDA"
+  ],
+  "엔비디아": [
+   "NVDA"
+  ],
   "Anthropic": [
    "ANT"
   ],
@@ -475,17 +504,11 @@
   "앤스로픽": [
    "ANT"
   ],
-  "Nvidia": [
-   "NVDA"
-  ],
-  "엔비디아": [
-   "NVDA"
+  "Broadcom": [
+   "AVGO"
   ],
   "AMD": [
    "AMD"
-  ],
-  "Broadcom": [
-   "AVGO"
   ],
   "Micron": [
    "MU"
@@ -494,6 +517,6 @@
    "INTU"
   ]
  },
- "est_note": "이번 주 미국 애널리스트 이익 추정치는 올해(y0) 기준 상향 우위, 내년(y1)은 균형입니다. 올해 EPS 상향 1,348건·하향 1,032건(순상향 +13.3%), 내년은 상향 1,242건·하향 1,228건(+0.6%)으로 지난주(+13.7%, +1.3%)보다 상향 우위가 조금 더 줄었습니다. 기술은 올해 222건 상향·90건 하향(+29.5%, 시총 가중 +1.09%), 내년 +24.9%(가중 +1.29%)로 상향이 가장 넓게 퍼져 있습니다. 시총 가중 1주 변화는 산업재가 올해 기준 +5.41%로 가장 컸고, 에너지는 올해 4주 중앙값 +4.46%로 꾸준히 올라가고 있습니다. 내년 기준 하향이 넓은 곳은 소재(-36.2%)·필수소비재(-24.8%)·유틸리티(-16.9%)·커뮤니케이션(-16.8%)·경기소비재(-12.6%)이고, 부동산은 가중 -1.5%로 하향 폭이 가장 컸습니다.",
- "deriv_note": "VIX 28.44 (+15.8%), S&P500 6일 연속 하락 속 급등.\nVIX9D 29.26 > VIX 28.44 > VIX3M 27.03 > VIX6M 26.85 → 전 구간 역전. VIX/VIX3M 1.05 (전날 1.01, 1주 전 0.93, 2주 전 1.10, 1달 전 0.91).\nVVIX 127.1, VXN 36.5, OVX 50.7, MOVE 96.0(국채 변동성은 오히려 하락).\nSKEW 142.8 — 1주 전 149.1, 1달 전 161.9에서 계속 낮아짐. 꼬리 헤지보다 단기 변동성에 수요가 몰린 그림.\nSPY 715.87: 딜러 감마 -$18.7bn/1% (전날 -$18.8bn, 음수 유지), 풋/콜 미결제 2.00.\n  11/20 월물: 맥스페인 745(+4.1%), 콜 최대 800(+11.8%), 풋 최대 630(-12.0%), 예상 변동 ±1.3%, 스큐 11.1%p(전날 8.4%p). 감마 음수 중 -$9.5bn이 이 만기에 몰림.\nQQQ 645.04: 감마 -$5.87bn (전날 -$3.38bn, 음수 확대), 맥스페인 680(+5.4%) = 풋 최대 미결제 680(현재가 위 → 내가격 풋 헤지 많음), 콜 최대 720, ±2.0%.\nIWM 264.22: 감마 -$7.4bn (전날 -$5.54bn), 맥스페인 276, 콜 285, 풋 최대 265(현재가 바로 위), 풋/콜 미결제 2.23.\nNVDA 145.98: 감마 -$0.26bn, 맥스페인 170, 콜 최대 160 · 풋 최대 150(이미 아래로 이탈), 풋 벽 140, ±3.1%.\nAMD(-$0.08bn)·TSLA(-$0.06bn)는 전날 양수에서 음수로 전환. 양수는 AAPL(+$0.15bn)·WMT(+$0.14bn)·PANW(+$0.05bn) 정도.\n지수 3종 모두 감마 음수 + 맥스페인이 현재가보다 4~5% 위 → 금요일 만기까지 변동이 커지기 쉬운 구간."
+ "est_note": "이번 주 미국 애널리스트 이익 추정치는 올해(y0) 기준 상향 우위, 내년(y1)은 균형입니다. 올해 EPS 상향 1,313건·하향 1,018건(순상향 +12.7%), 내년은 상향 1,227건·하향 1,216건(+0.5%)으로 전날 집계(+13.3%, +0.6%)보다 상향 우위가 조금 더 줄었습니다. 기술은 올해 213건 상향·93건 하향(+26.9%), 내년 226건 상향·113건 하향(+25.5%, 시총 가중 +1.19%)으로 여전히 가장 넓게 올라가지만, 올해 기준 시총 가중 1주 변화는 -1.09%로 대형주 쪽 하향이 나타났습니다. 올해 기준 산업재(+18.8%)·에너지(+17.5%, 4주 중앙값 +4.41%)·헬스케어(+11.8%)·유틸리티(+11.9%)도 상향 우위입니다. 내년 기준 하향이 넓은 곳은 소재(상향 41·하향 106, -37.6%)·필수소비재(-21.8%)·커뮤니케이션(-17.4%)·유틸리티(-16.9%)·경기소비재(-13.7%)·부동산(-13.1%, 가중 -1.49%)입니다.",
+ "deriv_note": "VIX 35.89 (+26.2%), 3월 이후 처음 30 돌파. 전날 28.44.\nVIX9D 40.72 > VIX 35.89 > VIX3M 30.94 > VIX6M 29.54 → 전 구간 역전 심화. VIX/VIX3M 1.16 (1주 전 0.94, 2주 전 1.04, 1달 전 0.89).\nVVIX 138.0, VXN 45.3, OVX 54.1, MOVE 106.3(+10.7%) → 주식·국채 변동성 동반 상승.\nSKEW 140.9 — 1주 전 150.2, 1달 전 160.4에서 계속 낮아짐. 꼬리 헤지보다 단기 변동성 매수가 몰린 그림.\nSPY 689.81: 딜러 감마 -$6.81bn/1% (전날 -$18.7bn) → 11월 월물 만기로 음수 폭은 줄었지만 여전히 음수. 풋/콜 미결제 1.82.\n  12/18 월물: 맥스페인 740(+7.3%), 풋/콜 미결제 1.84, ATM IV 33.5%, 이 만기에 감마 -$2.0bn. 만기된 11월물 콜 최대 750 · 풋 최대 620.\n  다음 주 만기도 감마 음수(11/27 -$0.81bn, 11/30 -$1.62bn).\nQQQ 608.45: 감마 -$2.68bn (전날 -$5.87bn), 12/18 맥스페인 680(+11.8%), ATM IV 45.3%. 만기된 11월물 풋 최대 600(-1.4%) 바로 위.\nIWM 256.61: 감마 -$1.99bn, 풋/콜 미결제 2.15, 12/18 맥스페인 275(+7.2%).\nNVDA 125.53: 감마 -$0.21bn, 12/18 맥스페인 167, ATM IV 81%. 11월물 풋 최대 120에 근접.\n양수 감마는 WMT(+$0.06bn)·AMZN(+$0.07bn) 정도. MU·META·AAPL·TSLA·MSFT 모두 음수.\n지수 3종 감마 음수 + 맥스페인이 현재가보다 7~12% 위 → 만기 후에도 변동이 커지기 쉬운 구간."
 }
