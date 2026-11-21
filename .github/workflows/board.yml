@@ -22,12 +22,12 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: board
-  cancel-in-progress: false
-
 jobs:
   update:
+    # only the data job is serialized; the 'next' job below sleeps and must not hold this lock
+    concurrency:
+      group: board
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 55
     outputs:
@@ -96,7 +96,7 @@ jobs:
   # GitHub's own schedule fires irregularly on new repositories, so each run queues the next one itself.
   next:
     needs: [update, deploy]
-    if: always()
+    if: always() && needs.update.result != 'cancelled'
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
@@ -111,5 +111,5 @@ jobs:
           WAIT=$(cd pipeline && python3 next_wait.py "$START")
           echo "next run in $WAIT s"
           sleep "$WAIT"
-          OTHERS=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/board.yml/runs?per_page=10" --jq "[.workflow_runs[]|select(.id != $GITHUB_RUN_ID and (.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\"))]|length")
+          OTHERS=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/board.yml/runs?per_page=10" --jq "[.workflow_runs[]|select(.id != $GITHUB_RUN_ID and (.status==\"queued\" or .status==\"pending\" or .status==\"waiting\"))]|length")
           if [ "$OTHERS" = "0" ]; then gh workflow run board.yml --ref main; else echo "another run is already queued"; fi

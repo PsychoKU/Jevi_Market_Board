@@ -6,7 +6,7 @@ full   : once per trading day after the close -> also universe + sectors, 2-year
          valuations, local names, analyst estimates.
 Usage  : python pipeline/run.py [--force kr,jp,us] [--full]
 """
-import sys, time, argparse, traceback, datetime as dt
+import os, sys, time, argparse, traceback, datetime as dt
 from common import CONTENT, load, save, log, in_window, after_close, market_date, local_now, r2
 from yahoo import Yahoo, trend
 import korea, japan, us, news, build
@@ -251,7 +251,21 @@ def main():
     pending = [m for m in ('us', 'kr', 'jp') if load(f'{m}_est_prog.json', {}).get('date') == market_date(m)
                and not in_window(m) and m not in [p[0] for p in plan] and not (load(f'{m}_est.json') or {}).get('asof', '').startswith(market_date(m) + '')]
     log.info('plan %s pending-est %s', plan, pending)
+    # commentary or page changes (pushed by the daily Claude task) must reach the site even when no market is open
+    import hashlib, glob
+    h = hashlib.sha1(b''.join(open(f, 'rb').read() for f in sorted(glob.glob(os.path.join(CONTENT, '*.json'))))).hexdigest()
+    content_changed = load('content_hash.json', {}).get('h') != h
     if not plan and not pending:
+        if content_changed:
+            log.info('content changed: rebuilding pages only')
+            for m in ('us', 'kr', 'jp'):
+                if load(f'{m}_raw.json'):
+                    try: build.build(m, in_window(m))
+                    except Exception: log.error('build %s failed\n%s', m, traceback.format_exc())
+            save('content_hash.json', {'h': h})
+            if os.environ.get('GITHUB_OUTPUT'):
+                with open(os.environ['GITHUB_OUTPUT'], 'a') as f: f.write('built=1\n')
+            return
         log.info('nothing to do')
         if not a.force: return
     y = Yahoo()
@@ -272,7 +286,7 @@ def main():
             D = build.build(m, in_window(m))
             if D and (m in [p[0] for p in plan if p[1]] or not load(f'{m}.json', base=build.DIGEST)): build.digest(m, D)
         except Exception: log.error('build %s failed\n%s', m, traceback.format_exc())
-    import os
+    save('content_hash.json', {'h': h})
     if os.environ.get('GITHUB_OUTPUT'):
         with open(os.environ['GITHUB_OUTPUT'], 'a') as f: f.write('built=1\n')
     log.info('run finished in %.0fs', time.time() - T0)
